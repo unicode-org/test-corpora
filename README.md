@@ -1,5 +1,6 @@
-# template-repo
-Template Repository for Unicode projects
+# Unicode Test Corpora
+
+Corpora in many languages for testing, evaluating, benchmarking, and training Unicode algorithms
 
 # LICENSE
 
