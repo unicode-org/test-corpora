@@ -1,0 +1,570 @@
+The Project Gutenberg eBook of The Raven, vum Edgar Allan Poe.
+
+The Project Gutenberg eBook of The Raven
+
+Dëst eBook ass fir de Gebrauch vu jidderengem iwwerall an den USA an déi meescht aner Deeler vun der Welt ouni Käschten a bal keng Restriktiounen iwwerhaapt. Dir kënnt et kopéieren, ofginn oder weiderbenotzen ënner de Konditioune vun der Project Gutenberg Lizenz abegraff mat dësem Ebook oder online op www.gutenberg.org . Wann Dir net an den USA sidd, musst Dir d'Gesetzer vum Land kontrolléieren wou Dir sidd ier Dir dëst eBook benotzt.
+
+Titel : Der Raven
+
+Auteur : Edgar Allan Poe
+
+Kommentator : Edmund Clarence Stedman
+
+Illustrator : Gustave Doré
+
+Verëffentlechungsdatum : 30. November 2005 [eBook #17192] Lescht aktualiséiert: Dezember 13, 2020
+
+Sprooch : Englesch
+
+Credits : Produzéiert vum Jason Isbell, Melissa Er-Raqabi an den Online Verdeelt Korrekturteam op https://www.pgdp.net.
+
+*** START VUM PROJECT GUTENBERG EBOOK THE RAVEN ***
+
+Réck Cover
+
+DE RAVEN
+
+Vun
+
+EDGAR ALLAN POE
+
+ILLUSTRÉIERT Vum GUSTAVE DORÉ
+
+Titelbild
+
+MAT KOMMENTAR VUN EDMUND C. STEDMAN
+
+NEW YORK
+
+HARPER & BROTHERS, Verëffentleche, FRANKLIN SQUARE
+
+1884
+
+Agefouert no Act of Congress, am Joer 1883, vum
+
+HARPER & BROTHERS,
+
+Am Büro vum Librarian of Congress, zu Washington.
+
+All Rechter reservéiert.
+
+Transcriber's Notes
+
+An der Lëscht vun Illustratiounen hunn ech e vermësst eenzegt Zitat nom Lenore restauréiert! wéi ënnendrënner gewisen:
+
+"'Wretch", hunn ech geruff, 'däi Gott huet dech geléint - duerch dës Engelen huet hien dech geschéckt Entspanung - Entspanung an nepenthe aus Dengen Erënnerungen un Lenore!'"
+
+D'Lëscht vun den Illustratiounen benotzt 'Visiteur' wou d'Gedicht an déi aktuell Illustratioun 'Visiteur' benotzen.
+
+LËSCHT VUN ILLUSTRATIOUNEN
+
+Nimm, déi mat Graveuren goen
+
+Titelsäit, entworf vum Elihu Vedder.
+
+Frederick Jongling.
+
+"Ni méi."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claudius.
+
+"Eemol op enger Mëtternuecht dréchen, während ech geduecht hunn, schwaach a midd, Iwwer vill schéi a virwëtzeg Volumen vu vergiessene Lore.
+
+RA Muller.
+
+"Ah, ech erënnere mech kloer, et war am däischteren Dezember, An all getrennte stierwende Glühwäin huet säi Geescht op de Buedem gemaach."
+
+RG Tietze.
+
+"Ech wollt de Muergen gär hunn; vergeblech hat ech probéiert ze léinen Aus menge Bicher ass d'Surcee vu Trauer - Trauer fir déi verluere Lenore."
+
+H. Claudius.
+
+"Trauer fir de verluerene Lenore."
+
+W. Zimmermann.
+
+"Fir déi selten a stralende Jongfra, déi d'Engelen Lenore nennen - Nummlos hei fir ëmmer."
+
+Frederick Jongling.
+
+"''T ass e Besucher, deen d'Entrée bei menger Chamberdier freet - E puer spéite Besucher freet d'Entrée bei menger Chamberdier."
+
+W. Zimmermann.
+
+"Hei hunn ech d'Dier breet opgemaach; - Däischtert do, an näischt méi."
+
+H. Claudius.
+
+"Zweifelen, dreemen Dreem, déi kee stierfleche jeemools getraut huet ze dreemen."
+
+FS Kinnek.
+
+„Sécher“, sot ech, „dat ass sécher eppes bei menger Fënstergitter; Loosst mech kucken, wat et ass, an dëst Geheimnis entdecken."
+
+Frederick Jongling.
+
+"Opmaache hei hunn ech de Schal geschloen."
+
+T. Johnson.
+
+- "Ee statesche Raven vun den hellege Deeg vu fréier. Net déi mannst Gedanke huet hien gemaach; keng Minutt huet hien gestoppt oder bliwwen."
+
+R. Staudenbaur.
+
+"Saat op engem Büste vu Pallas just iwwer menger Chamberdier - Staang, a souz, an näischt méi."
+
+RG Tietze.
+
+"Van der Nightly Ufer wandern."
+
+Frederick Jongling.
+
+"Bis ech kaum méi wéi gemummt hunn, 'Aner Frënn si virdru geflunn - De Muer verléisst hien mech, well meng Hoffnungen virdru geflunn sinn.'"
+
+Frank Franséisch.
+
+"Duerno, wéi de Samt ënnerzegoen, hunn ech mech getraff fir ze verbannen Fantasi zu Fancy."
+
+R. Schelling.
+
+"Awer deem säi Samt violett Fuedem mat der Luuchte gleeft Si wäert drécken, ah, ni méi!"
+
+Georg Krull.
+
+"'Wretch", hunn ech geruff, 'däi Gott huet dech geléint - duerch dës Engelen huet hien dech geschéckt Entspanung - Entspanung an nepenthe aus Dengen Erënnerungen un Lenore!'"
+
+Victor Bernstrom.
+
+"Op dësem Heem vum Horror verfollegt."
+
+R. Staudenbaur.
+
+"'Sot mir wierklech, ech bieden - Gëtt et - gëtt et Balsam am Gilead? - sot mir - sot mir, ech bieden!"
+
+W. Zimmermann.
+
+"" Sot dës Séil mat Trauer belaascht wann, an der wäiter Aidenn, Et soll eng hellege Jongfra schloen, déi d'Engelen Lenore nennen."
+
+FS Kinnek.
+
+"'Sief dat Wuert eis Zeeche vun Trennung, Vugel oder Fiend!" Ech hunn gejaut, opgereegt."
+
+W. Zimmermann.
+
+"'Gitt dech zréck an den Stuerm an de Plutonesche Ufer vun der Nuecht!"
+
+Robert Hoskin.
+
+"A meng Séil aus deem Schiet, deen um Buedem schwëmmt Sollt opgehuewe ginn - ni méi!"
+
+RG Tietze.
+
+D'Geheimnis vun der Sphinx.
+
+R. Staudenbaur.
+
+KOMMENTAR DER GEDICH.
+
+D'Geheimnis vun engem Gedicht, net manner wéi de Wuelstand vun engem Geck, läit am Ouer vun deem deen et héiert. Zréck op seng Zauber, akzeptéiert dem Dichter seng Stëmmung: dat ass jo och d'Wäiss äntweren, wann een hinnen no hire Wäert freet. Och wann den Dichter selwer, a senger anerer Stëmmung, Iech seet, datt seng Konscht nëmme Schläif ass, säi Liewensmëttel verzauberen Iessen, a bitt Iech den Trick dervun ze weisen, - gleeft him net. Waart op seng profetesch Stonn; da gitt Iech seng Leidenschaft, seng Freed oder Péng. "Mir sinn haut an der Léift!" séngt de Gautier, a Swinburne senger flotter Paraphrase, - a vu moies bis Sonnenënnergang gi mir op d'gewalttäteg Mier gewéckelt: et gëtt nëmmen eng Léift, ee Mee, ee bloem Strang. D'Léift ass éiweg, alles anescht onreal an op d'Säit gesat. D'Visioun huet en Enn, d'Szen ännert sech; awer mir hunn eppes gewonnen, d'Erënnerung un e Charme. Wéi vill Dichter, sou vill Charme. Et gëtt de Charme vun der Evanescence, dat wat zu héchster Schéinheet a Gnod eng Aureole vu Pathos leet. Deelt Landor seng eng "Nuecht vun Erënnerungen a vun Séilen" fir Rose Aylmer, an Dir hutt dëst zu voll.
+
+An huelt elo d'Hand vun engem neie Weltminstrel, vun engem richtege Liewensraum an dat ruppeg an dissonant Amerika gestreet, dat, wéi de Baudelaire gesinn huet, "fir de Poe nëmmen e grousse Prisong war, duerch deen hien gelaf ass, hei an dohinner, mat der fieberlecher Agitatioun vun engem Wiesen erstallt fir eng purer Welt ze otmen", a wou "säi banneschten Liewen, geeschteg, geeschteg als Dichter war. den Afloss vun dëser antipathescher Atmosphär." Klap déi sensibel Hand vun engem onrouege Sänger, deen domat seng komesch dreemt, an deelt mat him de Klima an deem hien fonnt huet, - ni am ganzen Dag, ëmmer an der Nuecht, - wann net den Atlantis, vun deem hien wandert, op d'mannst eng Plaz vu Refugiéen aus de Grenzen, an där hien am Dag verstoppt gouf.
+
+Nëmmen zu engem Land huet hien Kraaft fir Iech ze féieren, a fir nëmmen eng Nuecht kënnt Dir säin Dram deelen. En Trakt vu weder Äerd nach Himmel: "Keemansland", aus dem Raum, aus der Zäit. Hei sinn déi gestéiert, duerch deenen hir Aen, wéi déi vun de Cenci, d'Séil fënnt Fënsteren, obwuel de Geescht verstoppt ass; hei Séilen, déi no de Wee sichen, deen op d'Éiwegkeet féiert, ginn gestoppt a verspéit. Et ass de Limbo vun "planetaresche Séilen", an deem all Moundliicht Onsécherheeten sinn, all verluere Léift an Illusiounen. Hei sinn e puer an Trance fixéiert, déi eenzeg Erhuelung erreechbar; anerer
+
+"beweegt fantastesch
+
+Zu enger diskordanter Melodie:"
+
+iwwerdeems iwwerall sinn
+
+"Blatt Erënnerungen vun der Vergaangenheet -
+
+Gehackte Formen déi ufänken a saachen
+
+Wéi si laanscht de Wanderer passéieren."
+
+Sou ass d'Land, a fir eng Nuecht gi mir et an, - eng Nuecht vun astrale Phasen a widderhuelend Klang. Seng Monodien sinn zwielef Gedichter, deenen hir Musek probéiert ze änneren awer ëmmer déiselwecht ass. Een nom aneren kléngen se, wéi d'Klang vun der brazen an ebony Auer, an "The Masque of the Red Death", wat d'Walzer mat "Onbekanntheet an Zidderheet a Meditatioun" gemaach huet, sou dacks wéi d'Stonn ronderëm koum.
+
+Vun all dëse mystesch Kadenzen huet d'Plainte vum The Raven , déi duerch de Portal vibréiert, haaptsächlech d'äusser Welt beandrockt. Wéi eng Saache gi fir d'Make vun engem Gedicht, - a wéi wouer an dësem, wéi an de meeschten aneren, där Rass, déi seng Barden "d'Maker" genannt huet? E Wierk gëtt aus dem Void geruff. Wou näischt war, bleift et, - eng nei Schafung, Deel vum Schatz vun der Mënschheet. An e puer aussergewéinlech Texter, méi wéi anerer, déi gläich kreativ sinn, zwéngen eis nei ze denken, wéi dapper dem Dichter säi Pen Saachen onbekannt mécht
+
+"zu Formen, a gëtt näischt Loft
+
+Eng lokal Wunneng, an en Numm."
+
+Jidderee schéngt ouni Prototyp ze sinn, awer all faszinéieren eis mat Elementer, déi aus dem Schied vum Supernatural gewéckelt sinn. Elo ass déi héchst Fantasi besuergt iwwer d'Séil vun de Saachen; et kann oder vläicht net d'Fantasie inspiréiere datt d'Vëlker mat Biller déi interlunar vague sinn. Wéi och ëmmer, ee vun dësen Texter, op seng méi kleng Manéier, beaflosst eis mat engem Sënn vun Eenzegaartegkeet, sou sécher wéi déi sublimer Wierker vun engem iwwernatierleche Besetzung, - dem Marlowe säi "Faustus", de "Faust" vum Goethe, "Manfred", oder souguer déi etheresch Meeschterstécker, "The Tempest" an "A Midsummer Night's Dream". Méi wéi een, wärend soss eenzegaarteg, huet e puer  Belaaschtung oder Refrain, déi d'Erënnerung späichert, - eemol héieren, ni vergiess, wéi den Toun vun engem selten benotzten, awer markanten Uergelstopp. Bemierkenswäert ënnert hinnen ass dem Bürger seng "Lenore", déi geeschteg a resonant Ballad, d'Attraktioun an d'Folie vun den Iwwersetzer. Puer wäerten verleegnen datt dem Coleridge säi wonnerbare "Rime of the Ancient Mariner" un hirem ganze Kapp steet. "Le Juif-Errant" hätt Fuerderungen, wann Beranger e gréisseren Dichter gewiescht wier; an, mee fir hir remoteness aus populär Sympathien, "The Lady of Shalott" an "The Blessed Damozel" kéint op d'Lëscht dobäi ginn. Et gouf dem Edgar Allan Poe ginn fir zwee Texter ze produzéieren, "The Bells" an The Raven , jidderee vun deenen, obwuel vläicht manner Schéinheet wéi déi vun Tennyson a Rossetti, eng eenzegaarteg ass. "Ulalume", obwuel gläich komesch a imaginativ, huet net déi universell Qualitéit déi en Deel vun eisem Test ass.
+
+De Raven a pure poetesch Bestanddeeler fällt ënner sou Stécker wéi "The Haunted Palace", "The City in the Sea", "The Sleeper" an "Israfel". Dat Ganzt géif austauscht ginn, ech verdächtegt, vu Lieser vun engem schaarfe Besetzung, fir sou Passagen wéi dës:
+
+"Ronn, duerch opgehuewe Wand vergiess,
+
+Resignéiert ënner dem Himmel
+
+Déi melancholesch Waasser leien.
+
+Kee Strahlen aus dem hellege Himmel kommen erof
+
+Op der laanger Nuetszäit vun där Stad;
+
+Awer d'Liicht aus dem schreckleche Mier
+
+Streamt d'Türmer roueg erop -
+
+· · · · · ·
+
+Up vill a vill e wonnerschéine Schräin
+
+Wien seng gekräizte Frise sech matenee verbannen
+
+D'Viol, d'Violett an d'Rebe.
+
+· · · · · ·
+
+Keng Schwellungen erzielen datt Wand kann sinn
+
+Op e wäit ewech glécklecht Mier -
+
+Keen Heaving Hiweiser datt Wand gewiescht wier
+
+Op Mier manner schrecklech roueg."
+
+Et feelt d'Loftmelodie vum Dichter deem seng Häerzsträicher eng Lut sinn:
+
+"A si soen (de Stäre Chouer
+
+An déi aner lauschteren Saachen)
+
+Datt dem Israfeli säi Feier
+
+Ass wéinst deem Lyre
+
+Mat deem hie sëtzt a séngt -
+
+D'zidderen Liewen Drot
+
+Vun deenen ongewéinleche Saiten."
+
+Mee The Raven , wéi "The Bells" an "Annabel Lee", lueft sech un déi vill an déi puer. Ech hunn soss anzwousch gesot, datt dem Poe seng méi rar Produktiounen mir schéngen "déi, an deenen et op d'mannst d'Spontaneitéit erschéngt, - an där hien sech fir seng Gefiller nozeginn, wärend de Stierwen fällt a kadenzen am meeschte musikalesch, meeschtens melancholesch, vun him kommen onbewosst." Dëst ass nach ëmmer mäi Glawen; an awer, no enger neier Etude vun dësem Gedicht, et beandrockt mech méi wéi zu all Moment zanter menger Kandheet. Enk Bekannten erzielt zugonschte vun all richteg Konschtwierk. Induce de Mann, dee weder d'Konscht kennt, nach ëm si këmmert, e Gedicht oder Molerei z'ënnersichen, a wéi séier seng Kraaft him hëlt! Tatsächlech wäert hien de relativen Wäert vun der éischter gutt Aarbecht iwwerschätzen, duerch déi seng Opmierksamkeet zimlech gefaang ass. De Raven huet och konsequent Qualitéiten déi och en Expert muss bewonneren. A kengem anere vu sengem Auteur seng Gedichter ass d'Motiv méi palpabel definéiert. "The Haunted Palace" ass grad esou definitiv fir de gewielte Lieser, awer de Poe hätt kaum dës subtile Allegorie fir eng kal Analyse geholl. De Kueb ass ganz beschäftegt mat dem typeschen Thema vum Auteur - den irretrievable Verloscht vun enger idoliséierter a schéiner Fra; mä op anere Grënn, och, den ëffentlechen Instinkt ass richteg an denken et säi representativ Gedicht.
+
+E Mann vu Genie gewënnt normalerweis Fouss mat den Erfolleg vun engem Effort, an dëst ass net ëmmer säi gréisste. Unerkennung ass de méi Moment fir ausgestallt ze ginn. Hie kritt et net, wéi e Miser säi Verméigen, Mënz no Mënz, awer "guer net oder am Ganzen." An domat och mat aneren Ambitiounen: den Hoffnungsmann, den Zaldot, den Schauspiller, - egal wéi hir Deeler, - jidderee zielt säin Triumph vun engem Glécksschlag. Dem Poe säi Raven, trotz Auger, war fir hien "de Vugel, deen d'Loft gemaach huet." Den Dichter huet sech am Wanter vun 1844-'45 zu New-York néiergelooss, an huet Aarbecht um Willis sengem Pabeier "The Evening Mirror" fonnt an huet säin Akommes duerch Bäiträg soss anzwousch erausginn. Fir sechs Joer war hien en aktiven Schrëftsteller, a genéisst e professionelle Ruff; gouf souwuel a Respekt a Mësszweifel gehal, a war ouni Verloscht fir säin Deel vum krank bezuelte Journalismus vun deem Dag. Hien huet och vill vu senge beschte Wierker gemaach, sou Geschichten wéi "Ligeia" an "The Fall of the House of Usher", (déi lescht enthält dee mysteschen Géigepartei, am Vers, vum Elihu Vedder sengem "A Lost Mind") esou analytesch Feats wéi "The Gold Bug" an "The Mystery of Marie Roget". Hien hat am Ausland Proselyte gemaach an huet en dauerhafte Grëff op de franséische Geescht kritt. Hien hat seng eege Kraaft a Schwäch geléiert, a war op sengem Héichpunkt, an net ouni gewësse Ruff. Mä hien hat näischt geschriwwen, wat op der Zong vu jidderengem war. Fir selten an delikat Wierk muss e populäre Touch bäigefüügt ginn fir den allgemenge Publikum vun der eegener Zäit z'erreechen.
+
+Duerch d'Industrie vun de successive Biografen vum Poe ass den Hit vum The Raven eng dacks erzielt Geschicht ginn. Dem Dichter seng jonk Fra, Virginia, war viru sengen Ae verschwannen, awer huet e weidert Joer am Doudesschatt gedauert. Déi laang, niddereg Chamber am Haus bei der Bloomingdale Road ass wéi  bekannt als de Raum wou Rouget de l'Isle d'Marseillaise komponéiert huet. All hunn héieren, datt d'Gedicht, ënnerschriwwen "Quarles," am "American Review," mat engem pseudo-redaktionnellen Commentaire op seng Form wossten; datt de Poe zéng Dollar dofir krut; datt Willis, déi léifsten an mannst neidesch vun moudebewosste Arbiter, huet et mat engem Eulogy nei gedréckt datt et direkt Stad-Diskussioun gemaach. All Zweifel vu senger Autoritéit gouf entlooss wéi de Poe et selwer op enger literarescher Versammlung recitéiert huet, a fir eng Zäit war hien de markéiertsten vun den amerikaneschen Autoren. Den Hit huet hien stimuléiert an encouragéiert. Wéi en aneren an houfrege Satiriker, huet hien och "eppes vum Summer" och "am Brumm vun Insekten" fonnt. Traureg genuch, awer dräi Joer sinn vergaangen, - eng Period vun Afloss, Stolz, Angscht, awer ëmmer vun imaginativen oder kriteschen Aarbechten, - virun der definitiver Néierlag, ier de Rido op e Liewen gefall ass, dat fir hien a Wierklechkeet eng Tragedie war, an hien huet sech dem "Conqueror Worm" zouginn.
+
+"The American Review: A Whig Journal" war e kreditable Magazin fir déi Zäit, duebel-columnéiert, op guddem Pabeier mat kloren Typ gedréckt, an illustréiert vu Mezzotint Portraiten. Am Zesummenhang mat vill Matière ënner dem haitege Standard, enthält et e puer, déi all Editeur frou wier ze kréien. Den initialen Volume, fir 1845, huet Artikele vum Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman a Whipple. Dem Ralph Hoyt säi pittoreske Gedicht, "Old", erschéngt an dësem Volume. An hei sinn dräi Texter vum Poe: "The City in the Sea", "The Valley of Unrest" an The Raven . Zwee dovunner goufen opgebaut, - sou war säi Wee, - aus fréiere Studien, mä déi lescht sinn erauskomm wéi frësch komponéiert, a bal wéi mir et elo hunn. D'Ausso datt et net duerno iwwerschafft gouf ass falsch. Eelef kleng Ännerungen aus dem Magazin-Text erschéngen am The Raven and Other Poems , 1845, e Buch dat den Dichter kuerzfristeg encouragéiert gefillt huet de Public ze bidden. Dëst si meeschtens Ännerunge vu Punktuatioun, oder vun eenzel Wierder, déi lescht Aart gemaach fir den Effekt vun der Alliteratioun ze erhéijen. Am Här Lang senger schéiner Editioun vum Poe säi Vers, an der "Parchment Library" erausbruecht, huet hien den Instinkt vun engem Geléiert gewisen, an huet et verstänneg gemaach, fir zréck op den Text am just ernimmte Volumen zréckzegoen, wéi an der Londoner Emissioun vun 1846. D'"Standard" Griswold Sammlung vun de Wierker vum Dichter gëtt vill Feeler. Dës goufe vu spéider Redaktoren widderholl, déi och selwer Feeler gemaach hunn. Awer den Text vum The Raven , wéinst den Ufroen, déi dem Auteur fir Manuskriptkopien gemaach goufen, gouf vun him nach méi iwwerschafft; tatsächlech, hien gedréckt et zu Richmond, just viru sengem Doud, mat der poetesch Ersatz vun "Seraphim hir Fouss-Falls" fir "Engelen deenen hir liichtschwaache Fouss-Falls", am véierzéngten stanza. Eisen aktuellen Text ass also, och wann e wesentlech dee vun 1845, e bësse geännert duerch déi spéider Liesung vum Dichter, an ass, mengen ech, déi korrekt an effektiv Versioun vun dësem eenzege Gedicht. Déi radikalste Ännerung vun der fréierster Versioun koum awer am Joer 1845 am Volume op; Déi eeleft Strof huet ursprénglech dës Zeilen enthalen, fehlerhaft am Reim an soss e Feeler am Gedicht:
+
+"Gefaang vun engem ongléckleche Meeschter, deen onbarmhäerzlech Katastroph
+
+Gefollegt séier a méi séier gefollegt - also, wann Hoffnung hie géif beschwéieren,
+
+De Stern Despair ass zréckkomm, amplaz vun der séisser Hoffnung huet hien sech getraut ze beschwéieren -
+
+Déi traureg Äntwert: "Ni méi!"
+
+Et wier gutt, wann aner, a berühmt, Dichter sou sécher kéinte sinn, hir Ännerungen ëmmer ze verbesseren. De Poe huet seng knapps Show vu Verse dauernd iwwerholl, an huet et normalerweis besser gemaach. De Raven war déi éischt vun de wéinege Gedichter, déi hie bal fäerdeg bruecht huet virum Drock. Et kann sinn, datt déi, déi sech ëm Poesie këmmeren, wéineg duerch säin Doud verluer hunn. Fléissend an der Prosa, huet hien ni Verse geschriwwen fir e Gedicht ze maachen. Wann e Refrain vum Bild him verfollegt huet, war d'Lyrik, déi entstanen ass, d'Inspiratioun, wéi hie selwer gesot huet, vun enger Passioun, net vun engem Zweck. Dëst war an Intervalle sou rar wéi bal d'Fairfield Theorie ze justifizéieren datt jidderee d'Produkt vun enger nervöser Kris war.
+
+Wat huet dann dem Dichter säin Hiweis op The Raven ginn? Vu wéi engem niwwelegen Fundament ass et lues eropgaang zu enger Musek déi lues otemt? Wéi gewinnt ass méi wéi eng Saach fir de Bau vun engem sou bemierkenswäerte Gedicht gaang. Wann ee bedenkt, datt déi méi laang Priedegten dacks a kuerzen a manner suggestiven Texter gepriedegt ginn, hoffen ech net fir dës Diskussioun vun enger eenzeger Lyrik ze blaméieren, - virun allem eng, déi e Kënschtler wéi den Doré zum Thema vun der verschwonnener Illustratioun gemaach huet. Bis viru kuerzem hat ech ugeholl datt dëst Stéck, an e puer, déi säin Auteur no senger Erscheinung komponéiert huet, aussergewéinlech waren, datt se a sengem jongleche Vers net aus Keimen gewuess sinn. Awer den Här Fearing Gill huet mir e puer net publizéiert Strofe vum Poe gewisen, a sengem uechtzéngten Joer geschriwwen, a mam Titel "The Demon of the Fire". D'Manuskript schéngt an der fréierer Handschrëft vum Dichter ze sinn, a seng Echtlechkeet gëtt vun der Famill verséchert, an där et en halleft Joerhonnert bliwwen ass. Nieft de plainste Keimen vun "The Bells" an "The Haunted Palace" enthält et e puer Zeilen, déi e bësse suggestiv fir d'Ouverture an d'Zoumaache vum The Raven . Wat de Rhythmus vun eisem Gedicht ugeet, weist e Verglach vun Datumen datt dëst vum Rhythmus vum "Lady Geraldine's Courtship" beaflosst gouf. De Poe war ee vun deenen éischten, déi dem Miss Barrett säi Genie geéiert hunn; hien ageschriwwen seng gesammelt Gedichter hir als "déi nobelst vun hirem Geschlecht," a war an  Sympathie mat hirer lyrescher Method. D'Linnen aus hirem Léift-Gedicht,
+
+"Mat engem murmurous Rühr onsécher, an der Loft, de purpurroude Rido
+
+Schwellt eran a schwëllt ronderëm hir onbeweeglech blass Stréim eraus,"
+
+en Echo an dësen fonnt:
+
+"An déi seid traureg onsécher Rüstelen vun all purpurroude Rido
+
+Begeeschtert mech - huet mech mat fantastesche Schrecken gefüllt, déi ni virdru gefillt hunn."
+
+Hei huet de Poe e Privileg ugeholl, fir deen hien de Longfellow ongeféier zensuréiert huet, an dee kee jeemools op sengen eegene Raimlechkeeten gesicht huet ouni séier Erkennung a Chastizéierung. An der Melodie an der stanzaescher Form, wäerte mir gesinn datt déi zwee Gedichter net anescht sinn, awer am Motiv sinn se total ënnerscheed. Déi generéis Dichterin huet näischt gefillt wéi déi richteg Originalitéit vum Dichter. "Dëst liewege Schreiwen!" huet si geruff: "dës Kraaft, déi gefillt gëtt!... Eise groussen Dichter, den Här Browning, Auteur vun 'Paracelsus', etc., ass begeeschtert a senger Bewonnerung vum Rhythmus." Den Här Ingram, nodeems hien op "Lady Geraldine" bezeechent huet, weist clever op eng aner Quell aus, aus där de Poe en Impuls gefaangen hätt. Am Joer 1843 huet den Albert Pike, den hallef griicheschen, hallef Grenzgänger, Dichter vun Arkansas, am "The New Mirror", fir deen de Poe deemools geschriwwen huet, e puer Verse gedréckt mam Titel "Isadore", awer zënter dem Auteur iwwerschafft an "The Widowed Heart" genannt. Ech wielt aus dem Här Pike senger Revisioun déi folgend Strof, vun deenen d'Haaptmerkmale mat der Originalversioun entspriechen:
+
+"Onroueg sinn ech eis einsam Zëmmer, ech spillen eis Lidder net méi,
+
+D'garish Sonn schéngt flauntingly op der unswept Buedem;
+
+De Spottvugel sëtzt nach ëmmer a séngt, O melancholesche Stamm!
+
+Fir mäin Häerz ass wéi eng Hierschtwollek, déi mam Reen iwwerfléisst;
+
+Du bass mir fir ëmmer verluer, Isadore!"
+
+Hei hu mir eng länger Moossnam, eng Ähnlechkeet vum Refrain, an d'Aféierung vun engem Vugel, deem säi Lidd d'Leed verbessert. Et ginn aner Trëppelweeër déi virwëtzeg verfollege kënnen; notamment e Passage deen den Här Ingram aus dem Poe senger leschter Iwwerpréiwung vun "Barnaby Rudge" auswielt:
+
+"De Kueb och, * * * kéint gemaach ginn, méi wéi mir et elo gesinn, en Deel vun der Konzeptioun vum fantastesche Barnaby. * * * Seng Charakter hätt vläicht, wat dee vum Idiot ugeet, vill deeselwechten Deel gemaach wéi an der Musek, d'Begleedung a Respekt fir d'Loft.
+
+Trotzdem, nodeems Dir dës Keimen an Ähnlechkeeten erausgesicht huet, ass de Wäert vun dësem Gedicht nach ëmmer a senger Originalitéit fonnt. Déi progressiv Musek, de scenic Detail a kontrastéiert Liicht a Schiet, - virun allem déi spirituell Leidenschaft vun der Nocturn, maachen et d'Aarbecht vun engem informéierende Genie. Wat de grujelege Vugel ugeet, ass hien am Géigesaz zu all deenen anere Kuebe vu sengem Clan, vun den "Twa Corbies" an "Dräi Kueben" vun de Balladisten bis zum Barnaby sengem gekrumpelten "Grip". Hei ass keng Scheedung vum Kabbelen Rook, deen d'Virgängerturm verfollegt an d'Feld vun der Heraldik trëppelt; kee boding Fantom vun deem den Tickell dat gesongen huet, wann,
+
+"dräimol op hir Fënster gejaut,
+
+De Kueb huet säi Flillek geklappt,
+
+Ze gutt wosst d'Léift-Lorn Maiden
+
+De feierleche Boding Sound."
+
+Dem Poe säi Kueb ass eng kloer Konzeptioun; d'Inkarnatioun vun engem Trauer an d'Hoffnungslosegkeet; e Sabel verkierpert Memory, de bestännege Chroniker vum Doom, eng Zort vun der Irreparabel. Entkomm iwwer de Styx, vum "Plutonesche Ufer vun der Nuecht", schéngt hien d'Séil vum Fragesteller selwer ze bilden, - vun deem, deen net kann, wäert net, d'Aart Nepenthe qualifizéieren, well d'Erënnerung un de Lenore alles ass wat him hannerlooss ass, a mat der Surcease vu sengem Trauer och dat géif op d'Säit gesat ginn.
+
+De Raven kann och als e representativt Gedicht vu sengem Auteur geholl ginn, fir seng Beispiller vun all seng Notioune vu wat e Gedicht soll sinn. Dës sinn a sengen Essayen iwwer "The Poetic Principle", "The Rationale of Verse" an "The Philosophy of Composition" fonnt. Poe deklaréiert datt "an der Musek, vläicht, d'Séil am meeschte bal de groussen Enn erreecht fir deen, wann inspiréiert vum Poetic Sentiment, et kämpft - d'Schafung vun der iwwerflächlecher Schéinheet ... Verse kann net besser designéiert ginn wéi eng mannerwäerteg oder manner kapabel Musek"; awer nach eng Kéier, Vers, wat wierklech d'"Poesie vun de Wierder" ass "D'rhythmesch Schafung vun der Schéinheet", - dëst an näischt méi. Den Toun vun der héchster Schéinheet ass ee vun der Trauregkeet. Déi melancholeschst vun Themen ass den Doud. Dëst muss mat der Schéinheet verbonne sinn. "Den Doud, also, vun enger schéiner Fra ass, ouni Zweifel, dat poeteschst Thema vun der Welt, an och ass et iwwer Zweiwel, datt d'Lippen déi am Beschten fir sou en Thema passend sinn, déi vun engem berouegend Liebhaber." Dës lescht Ausdréck ginn aus dem Poe senger witzeger Analyse vun dësem Gedicht zitéiert, awer si weisen genee d'allgemeng Gamme vu sengem Vers un. Den Héichpunkt vun "The Bells" ass de muffled Monoton vu Ghoulen, déi herrlech sinn am mënschleche Häerz ze weien. "Lenore", The Raven , "The Sleeper", "To One in Paradise" an "Ulalume" bilden eng tenebrose Symphonie, - an "Annabel Lee", déi lescht geschriwwen ass, weist datt een Thema hien bis zum Schluss besat huet. Erëm, dës sinn alles näischt wann net musikalesch, an e puer si mat där Qualitéit vum Fantastic beréiert, deen de Sënn vun der Awe erwächt, an eng nei Angscht un d'Angscht selwer bäidréit. Duerch alles ass däischter duergestallt, ënner engem schwaache Pall, dem Dichter seng ideal Léift, - sou dacks anzwousch anzwousch hallef duergestallt, - déi begruewe Fra vun Usher, der Lady Ligeia, an  Wourecht de Géigespiller vu senger eegener Natur. Ech huelen un datt d'Léift vun engem Kënschtler fir een "an der Form" ni seng Engagement zu engem Ideal kann rivaliséieren. D'Fra bei him muss hir Zauber ausüben, alles duerch Wendungen an näischt laang sinn, charme him mat onendlecher Varietéit, oder zefridden sinn en Deel vu senger Loyalitéit opzeginn. Hie muss vum Unattainable gelackelt ginn, an dëst ass ëmmer just iwwer him a senger Passioun fir kreativ Konscht.
+
+De Poe, wéi den Hawthorne, ass mam Ënnergang vun der romantescher Schoul erakomm, a kee war méi frou wéi hien iwwer seng Katastroph ze laachen. Awer säin Häerz war mat de Romancer an hiren orientaleschen oder goteschen Effekter. Seng Erfindung, sou räich an de Prosageschichten, schéngt him ze verloossen wann hien Verse geschriwwen huet; a säi Uerteel huet him gesot datt laang romantesch Gedichter méi op Tëschefall ofhänken wéi vun Inspiratioun, - an datt, fir d'Poesie vun der Romantik auszedrécken, Texter duergoen. Dofir seng Theorie, kloer op seng eegen Aschränkungen ugepasst, datt "e 'laang Gedicht' eng flaach Widdersproch ass." D'Komponente vum The Raven sinn wéineg an einfach: e Mann, e Vugel, an déi phantasmal Erënnerung un eng Fra. Awer d'Stéck bitt eng fein Affichage vu romantesche Material. Wat hu mir? Mëtternuecht; d'Schattkammer mat sengen Tomes vu vergiessene Lore; de Schüler, - e modernen Hieronymus; dem Kueb seng Krunn op de Këscht; d'winternuecht a stierwen Feier; déi Seidewiever Wand-geschloen Hänge; d'Dreem a vague Mësstrauen vun der echoende Däischtert; de schwaarzen, onheemleche Vugel op de bleche Büste; d'Accessoiren vu violett Samt an der gloating Luucht. All dës Bühneneffekt vu Situatioun, Liicht, Faarf, Klang ass reng romantesch, a souguer melodramatesch, awer vun enger poetescher Qualitéit, déi d'Melodrama selten ausstellt, a grëndlech reflektéiert dem Dichter seng "éiweg Leidenschaft, éiweg Péng".
+
+Déi rhythmesch Struktur vum The Raven huet sécher en Androck gemaach. Reim, Alliteratioun, d'Belaaschtung, d'stanzaesch Form, goufe mat eenzegaarteger Geschécklechkeet ausgeschafft. Zweifelhaft gouf den Dichter mat der aptness vun der Miss Barrett senger musikalescher Trochaics geschloen, an "Aacht", a besonnesch duerch d'Arrangement ugeholl no bei der Schluss vun "Lady Geraldine":
+
+""Aen," sot hien, "elo throbbing duerch mech! Sidd Dir Aen, déi mech unzegesin?
+
+Glänzend Aen, wéi antik Bijouen, déi am Parian Statue-Steen gesat ginn!
+
+Ënnert där roueger wäisser Stiermer brennt Dir jeemools haart
+
+O'er déi desolate Sand-Wüst vu mengem Häerz a Liewen undoen?'"
+
+Seng kënschtleresch Aféierung vun engem drëtte Reim souwuel an der zweeter wéi och véierter Zeil, an d'Zousätzlech vun enger fënnefter Zeil an engem leschte Refrain, huet d'Strof vum The Raven gemaach. Déi persistent Alliteratioun schéngt ouni Effort ze kommen, an dacks sinn d'Reim bannent Zeilen verführeresch; während de Refrain oder d'Belaaschtung déi ganz Aarbecht dominéiert. Och hei hat hie profitéiert vun der Miss Barrett senger Etude vu Balladen a Romaunts an hir eegen an aner Sproochen. E "Refrain" ass d'Attraktioun, mat deem en Dichter oder e Museker dat wandert Ouer hält, - dat widderhuelend Verlaangen vun der Natur no den initialen Belaaschtung. Ech hunn ëmmer déi schéi Refrainen vun der englescher Sängerin bewonnert, - "The Nightingales, the Nightingales", "Margret, Margret," "My Heart and I", "Toll slowly," "The River floweth on," "Pan, Pan is dout," etc.
+
+"O glécklech Liewewiesen! keng Zong
+
+Hir Schéinheet kéint deklaréieren:
+
+E Fréijoer vu Léift ass aus mengem Häerz gefall,
+
+An ech geseent hinnen onbewosst:
+
+Sécher meng léif Hellegen huet schued iwwer mech,
+
+An ech hunn se net bewosst geseent."
+
+De Poe huet déi fënneft Zeil vu senger Strof erstallt fir d'Magie vum Repetend. Hien huet op et an e puer spéider Gedichter op d'Ausgrenzung vertraut, - "Lenore," "Annabel Lee," "Ulalume," an "Fir Annie." Et krut eng wilde a melancholesch Musek, hunn ech geduecht, vun de "séiss Aflëss", vun den afrikanesche Belaaschtungen a Widderhuelungen, déi him an der Kandheet gesongen goufen, a mat hirer Heemechtsmelodie d'Stëmm vun eisem südlechen Dichter ofstëmmen.
+
+"D'Philosophie vun der Zesummesetzung", seng Analyse vum The Raven , ass eng technesch Dissektioun vu senger Method a Struktur. Weder seng Erklärung vu kale bluddege Kënschtler, nach seng spéider Erklärung u Frënn datt eng Belaaschtung vun dëser Kënschtler nëmmen eng aner vu sengen intellektuellen Hoaxen war, musse ganz kreditéiert ginn. Wann hien dat ganzt Wierk am Viraus entworf hätt, hätt hien kaum esou e schaarfen Optakt vu Rabbel-Pan-Reim zu der leckerer Melodie vun der zweeter Strof gemaach - och net op senger Theorie vum Fantastesche. Natierlech gesäit e Kënschtler, deen e Wierk perfektionéiert huet,, wéi den éischte Kënschtler, datt et gutt ass, a gesäit firwat et gutt ass. Eng spéider Analyse, gekoppelt mat enger Oflehnung vun all helleg Feier, kann einfach genuch gemaach ginn. Meng Iwwerzeegung ass datt déi éischt Konzeptioun a rau Entworf vun dësem Gedicht als Inspiratioun ëmmer komm ass; datt säin Auteur dunn gesinn huet wéi et perfektionnéiert ka ginn, an et déi lescht Touch gëtt, déi a sengem Kapitel iwwer Zesummesetzung beschriwwe gëtt, an datt déi lescht also weder ganz falsch nach ganz richteg ass. De Schued vun esou enger Analyse ass datt et en Ufänger verlaangt fir sech virzestellen datt kënschtlech Prozesser d'Imaginatioun ersetzen. Den Impuls vum Genie ass d'Geheimnisser vu senger kreativer Stonn ze bewaachen. Ablécke vun der Ustrengung, déi verréckt Experimenter, déi virun engem Triumph, wéi an der Skizzaarbecht vum Hawthorne viru kuerzem an d'Liicht bruecht goufen, leeschten onerwaart Instruktiounen an Encouragement fir den oprechte Kënschtler. Awer een  dee fräiwëlleg seng Muse dem Bléck vun allen Komeroden aussetzt, soll d'Schicksal vum Kinnek Candaules erënneren.
+
+D'Welt denkt nach ëmmer un de Poe als "Glécklos Mann vu Genie." Ech héieren him viru kuerzem ernimmt als "een, deen jidderee schéngen charteréiert ze falsch representéieren, entschëllegen oder ze verleumden." Mä et schéngt mir, datt säi Pech mat sengem traureg Doud opgehalen huet, an datt zënterhier seng Verteidegung persistent war, a säi Ruhm vu sou stännege Wuesstum wéi e leidenden an talentéierten Auteur a senger hoffnungsvoller Stonn biede konnt. Dem Griswold seng Decrial a Verleumdung huet de Stroum zu sengem Gonschten ëmgedréit. Kritiker a Biografe si mat successive Refutatiounen no vir, mat Hommage fir säi Charakter, mat neien Editiounen vu senge Wierker. Seng eege Bréiwer an déi Minutt Tëschefäll vu senger Carrière sinn virun eis; de Rekord, gutt a schlecht, ass wäit bekannt. Keen Appellor huet méi zaart a verzeiend Uerteel kritt. Seng Mëssglécker am Liewen hunn zu senger Regioun a senger Period gehéiert, méiglecherweis nach méi zu senger eegener Wëllenkrankheet. Zweifelhaft war seng Ëmwelt net eent fir eng feinkorneg, schlecht ausgeglach Natur vu Geforen ouni a bannen ze schützen. Säi stäerkste Wëllen, fir den Här vu sech selwer ze sinn, huet him "dee Patrimoine vu Woe" gewonnen. Hien huet sech dem Vugel säin ongléckleche Meeschter zouginn, de getraffene Leed vun dësem Gedicht. Awer säi war e vollen Deel vun deem dramateschen Temperament, deen sech an der Presage vu sengem eegenen Doom freet. Et gëtt eng Freed fir engem seng héich Roll ze spillen: mir sinn all Gladiatoren, kräischen Ave Imperator! Fir dem Burke seng Tatsaach ze zitéieren: "An der Trauer ass d'Vergnügung nach ëmmer iewescht, an d'Leed, déi mir leiden, huet keng Ähnlechkeet mat absolute Péng, deen ëmmer odious ass, an dee mir beméien sech sou séier wéi méiglech ze rächen." De Poe ass méi wäit gaangen, a war e Kënschtler souguer an der Tragedie vu senger Carrière. Wann, no sengem eegene Glawen, Trauregkeet an d'Verschwannen vun der Schéinheet déi héchste poetesch Themen sinn, an d'poetesch Gefill déi schaarfste ierdesch Freed, da waren d'Leed an d'Däischtert vu sengem gebrochene Liewen net ouni hir dacks Entschiedegung.
+
+Op de folgende Säiten hu mir e frëscht Beispill vum Genie vun engem Kënschtler, deen seng Interpretatioun vun engem berühmten Gedicht charakteriséiert. De Gustave Doré, dat lescht Wierk vun deem säi Bläistëft virun eis ass, war net de Moler, oder souguer den Zeechner, fir Realisten, déi d'Wourecht vum Toun, Figur a Perfektioun verlaangen. Esou Saache betrëfft him manner wéi d'Form an d'Distanz, d'Liicht an d'Schatt ze maachen, säin Zweck ze hëllefen, - dat war d'Séil, d'Fantasie, vum Looker ze begeeschteren. Dëst huet hien gemaach andeems hien eise Sënn vun Awe erwächt huet, duerch wonnerbar an dacks sublim Konzepter vu Saachen, déi oniwwersiichtlech sinn a voller Däischtert oder Herrlechkeet. Et gëtt gutt gesot datt wann seng Wierker keng grouss Biller wieren, si si wierklech super. Als "literäre Kënschtler", an esou war hien, war seng Kraaft am direkte Verhältnis mat der dramatescher Erfindung vu sengem Auteur, mat de couragéierten Audacitéite vum Geescht, deen säin eegenen entsteet. Dofir säi Succès mam Rabelais, mat "Le Juif-Errant", "Les Contes Drolatiques" an "Don Quixote", an dofir, ëmgedréint, säi Versoen d'Schéinheet vun Tennyson's Idyls auszedrécken, vun "Il Paradiso", vun den Hebräesch Pastorale, an aner Texter, déi Erhiewung, oder Séissegkeet a Rou erfuerderen. Hie war e gebuerene Meeschter vun der Grotesque, a konnt duerch e speziellen Abléck d'Spectere vun engem gespaant Gehir portraitéieren. Mir gesinn Objete wéi seng Perséinlechkeeten se gesinn hunn, a mat den Ae vum Wandering Judd, dem verwinnten Don, oder dem Goldschmid senger Duechter, där hir Phantasie de Kinnek am Buttek um Pont-au-Change sou vergréissert. Et war an der Natur vun de Saachen datt hien un all Meeschterstéck vu Verse oder Prosa ugezunn sollt ginn, déi ech als eenzegaarteg bezeechent hunn. Déi ënnescht Kinnekräicher goufen a säin Déngscht geruff; seng Fielsen, Beem a Bierger, den Himmel selwer, sinn animéiert mat Motiv an diablerie. Hätt hie gelieft fir de Shakespeare ze illustréieren, hätte mir eng bemierkenswäert Behandlung vu Caliban gesinn, d'Hexen, de Stuerm am "Lear"; awer ouni Zweifel sollten seng Idealer vum Imogen oder Miranda a Fro stellen. Schéinheet pur an einfach, an déi perfekt Exzellenz dovun, huet hien selten geschéngt ze begräifen.
+
+Awer et ass Schéinheet a sengen Designen fir den "Ancient Mariner", onreal wéi se sinn, an eng Konsekutivitéit rar an enger Serie vum Doré. De Rime huet him eng verlängert Geschicht geliwwert, mat ville Verrécklunge vun der Szen. Am The Raven behalen Klang a Faarf hire Monoton a mir hu keng Plaz oder Occasioun geännert. Wat ass d'Resultat? Doré bitt eng Serie vu Variatiounen iwwer d'Thema wéi hien et konzipéiert huet, "d'Rätsel vum Doud an d'Halluzinatioun vun enger onbestänneger Séil." An e puer vun dësen Zeechnungen sinn seng Feeler evident; anerer verroden seng mächteg Originalitéit, an déi bescht Qualitéiten an deenen hien als Zeechner eleng stoung. Et war kloer eppes gemeinsam tëscht den Aarbechtsstëmmunge vu Poe an Doré. Dëst géif méi kloer erschéngen, wann dee leschte seng Hand op d'"Tales of the Grotesque and Arabesque" probéiert huet. Béid hunn dacks op d'Elf-Land vu Fantasie a Romantik zréckgezunn. A melodramatesche Feeën hu si allebéid, duerch hire Kommando vum Iwwernatierlechen, d'Geforelinn tëscht Ideal an Absurd vermeit. Poe war de richtege Verehrer vum Schéinen; seng Léift dofir war eng konsekréierend Leidenschaft, an hei trennt hien sech mat sengem Illustrator. Dichter oder Kënschtler, den Doud verännert endlech alles: am Schied vu sengem Sable-Harbinger, dem Vedder säi symbolesche Kreat stellt se adequat Gesiicht zu Gesiicht, awer ëmfaasst se mam Mantel vun onstierwlecher Wäisheet a Kraaft. Eng amerikanesch Fra huet d'Bild vun engem Star-eyed Genius mat der leschter Fackel gemaach, déi exquisite Scheinung vun engem deem seng Visioun d'Geheimnisser vun engem Land iwwer "d'Dier vun engem legendäre Graf gesäit, awer hir Lippen net ausdrécken".
+
+Edmund C. Stedman.
+
+D'Gedicht.
+
+Illustratioun 1
+
+DE RAVEN.
+
+Eemol op enger Mëtternuecht traureg, wärend ech geduecht hunn, schwaach a midd,
+
+Iwwer vill schéi a virwëtzeg Volumen vu vergiessene Lore,
+
+Wärend ech geknuppt hunn, bal schlofen, plötzlëch koum et tappen,
+
+Wéi vun engem sanft rappt, rappt bei menger Chamberdier.
+
+"Et ass e Besucher," hunn ech gemëmmert, "tippt op menger Chamberdier -
+
+Nëmmen dëst, an näischt méi."
+
+Ah, däitlech erënnere mech datt et am däischteren Dezember war,
+
+An all getrennten stierwende Glühwäin huet säi Geescht op de Buedem bruecht.
+
+Ech wollt muer eifreg: - vergeblech hat ech gesicht ze léinen
+
+Vu menge Bicher Iwwerliewe vu Trauer - Trauer fir déi verluere Lenore -
+
+Fir déi selten a stralende Jongfra, déi d'Engelen Lenore nennen -
+
+Nummlos hei fir ëmmer.
+
+An de Seid traureg onsécher Rüstelen vun all purpurroude Rido
+
+Begeeschtert mech - gefëllt mech mat fantastesch Terror ni virdrun gefillt;
+
+Also datt ech elo, fir de Schlag vu mengem Häerz nach ëmmer ze widderhuelen, stoungen
+
+"'T ass e Besucher deen d'Entrée bei menger Chamberdier freet
+
+E puer spéit Besucher freet d'Entrée bei menger Chamberdier; -
+
+Dëst ass et, an näischt méi."
+
+Momentan ass meng Séil méi staark ginn; zéckt dann net méi,
+
+"Här," sot ech, "oder Madame, wierklech Är Verzeiung bieden ech;
+
+Awer de Fakt ass datt ech geschlof hunn, a sou sanft sidd Dir rappt komm,
+
+An esou schwaach kommt Dir tippen, tippt op meng Kammerdier,
+
+Dat ech kaum sécher war, datt ech dech héieren hunn" - hei hunn ech d'Dier breet opgemaach; -
+
+Däischtert do, an näischt méi.
+
+Déif an där Däischtert kucken, laang stoungen ech do gewonnert, Angscht,
+
+Zweifelen, dreemen Dreem keen stierfleche jeemools getraut ze dreemen;
+
+Awer d'Stille war ongebrach, an d'Däischtert huet keen Token ginn,
+
+An dat eenzegt Wuert do geschwat war dat geflüstert Wuert: "Lenore!"
+
+Dëst hunn ech geflüstert, an en Echo huet d'Wuert zréckgezunn: "Lenore!"
+
+Nëmmen dëst an näischt méi.
+
+Zréck an d'Kammer dréit, meng ganz Séil a mir brennt,
+
+Geschwënn hunn ech erëm en Tapping héieren, e bësse méi haart wéi virdrun.
+
+„Sécher,“ sot ech, „dat ass sécher eppes bei menger Fënstergitter;
+
+Loosst mech kucken, wat et ass, an dëst Geheimnis entdecken -
+
+Loosst mäi Häerz nach e Moment sinn an dëst Geheimnis entdeckt;-
+
+"T ass de Wand an näischt méi!"
+
+Hei opmaachen, hunn ech de Shutter geschloen, wann, mat villen Flirt a Fladder,
+
+Do ass e statesche Raven vun den hellegen Deeg vu fréier eragaang.
+
+Net déi mannst Obisance huet hien gemaach; net eng Minutt gestoppt oder bliwwen hien;
+
+Awer, mat Mien vum Här oder der Dame, iwwer menger Chamberdier gesat -
+
+Staang op engem Büste vu Pallas just iwwer menger Chamberdier -
+
+Perched, a souz, an näischt méi.
+
+Dann huet dësen ebony Vugel meng traureg Fantasi begeeschtert fir ze laachen,
+
+Duerch d'Graf a streng Dekorum vum Gesiicht huet et gedroen,
+
+"Obwuel däi Kamm geschnidden a raséiert ass, du," sot ech, "bis sécher kee Craven,
+
+Schrecklech grimmeg an antike Raven wandern vum Nightly Ufer, -
+
+Sot mir, wéi Ären Hären Numm op der Nuecht Plutonesche Ufer ass!"
+
+Quoth de Raven, "Nevermore."
+
+Vill hunn ech dëst onheemlech Vugel iwwerrascht fir Diskurs sou kloer ze héieren,
+
+Obwuel seng Äntwert wéineg Bedeitung-kleng Relevanz gebuert;
+
+Well mir kënnen net hëllefen, averstanen, datt kee liewege Mënsch
+
+Ëmmer nach geseent mam Vugel iwwer seng Kammerdier ze gesinn -
+
+Vugel oder Béischt op der skulpturéierter Büste iwwer seng Kammerdier,
+
+Mat sou engem Numm wéi "Nevermore."
+
+Awer de Raven, souz einsam op der roueger Büst, huet nëmme geschwat
+
+Dat ee Wuert, wéi wann seng Séil an deem ee Wuert, deen hien ausgaang ass.
+
+Näischt méi wéi hien huet gesot - keng Fieder dann huet hien geflattert -
+
+Bis ech kaum méi wéi gemummt hunn: "Aner Frënn si virdru geflunn -
+
+De Muer verléisst hien mech, well meng Hoffnungen scho geflunn sinn."
+
+Da sot de Vugel: "Ni méi."
+
+Erschreckt vun der Stillheet gebrach vun der Äntwert sou adequat geschwat,
+
+"Zweifel," sot ech, "wat et seet ass seng eenzeg Lager a Buttek,
+
+Gefangen vun engem ongléckleche Meeschter, deen onbarmhäerzlech Katastroph
+
+Gefollegt séier a méi séier gefollegt bis seng Lidder eng Laascht gedroen huet -
+
+Bis d'Dirges vu senger Hoffnung déi melancholesch Belaaschtung gedroen huet
+
+Vun 'Ni - ni méi.'
+
+Awer de Raven begeeschtert ëmmer meng traureg Séil fir ze laachen,
+
+Riichtaus ech wheeled engem Polstersëtz virun Vugel a Bust an Dier;
+
+Dunn, wéi de Samt ënnerzegoen, hunn ech mech op de Verknëppung geholl
+
+Loscht op d'Fantasie, denken wat dësen ominéise Vugel vu fréier -
+
+Wat dëse grimmegen, onheemlechen, schrecklechen, knaschtege an onheelbare Vugel vu fréier
+
+Bedeit fir "Nevermore" ze kräischen.
+
+Dëst souz ech engagéiert ze roden, awer keng Silb auszedrécken
+
+Dem Vugel, deem seng flammend Aen elo an de Kär vu mengem Broscht gebrannt hunn;
+
+Dëst a méi souz ech divining, mat mengem Kapp op Liichtegkeet reclining
+
+Op der Samtfërderung vum Këssen, deen d'Lampeliicht gleeft,
+
+Awer deem säi Samt violett Fuedem mat dem Lampelicht, deen iwwergräift
+
+Si wäert drécken, ah, ni méi!
+
+Dunn, geduecht, ass d'Loft méi dichter ginn, parfüméierter vun engem onsichtbaren Brenner
+
+Geschwängt vu Serafen, deenen hir Foussfäll op den tufted Buedem klingelen.
+
+"Schlecht," hunn ech geruff, "däi Gott huet dech geléint - duerch dës Engelen huet hien dech geschéckt
+
+Entspanung - Entspanung an nepenthe aus Dengen Erënnerungen un Lenore!
+
+Quaff, oh quaff dës Aart Nepenthe, a vergiess dës verluerene Lenore!"
+
+Quoth de Raven, "Nevermore."
+
+"Prophéit!" sot ech: "Saach vum Béisen! - Prophet nach ëmmer, wann Vugel oder Däiwel! -
+
+Ob Tempter geschéckt, oder ob Stuerm dech hei un d'Land geheit huet,
+
+Desoléiert awer alles onverännert, op dësem Wüstland verzaubert -
+
+Op dësem Heem vum Horror haunted - sot mir wierklech, ech bieden -
+
+Gëtt et - gëtt et Balsam am Gilead? - sot mir - sot mir, ech bieden!"
+
+Quoth de Raven, "Nevermore."
+
+"Prophéit!" sot ech, "Saach vum Béisen - Prophet nach ëmmer, wann Vugel oder Däiwel!
+
+Duerch deen Himmel, dee sech uewen biegt, eis - duerch dee Gott, dee mir allebéid bewonneren -
+
+Sot dëser Séil mat Trauer belaascht wann, bannent der wäiter Aidenn,
+
+Et wäert eng hellege Jongfra schloen, déi d'Engelen Lenore nennen -
+
+Clasp eng selten a stralende Jongfra, déi d'Engelen Lenore nennen."
+
+Quoth de Raven, "Nevermore."
+
+"Sief dat Wuert eis Zeeche vun Trennung, Vugel oder Fiend!" Ech hunn gejaut, opgereegt -
+
+"Gitt dech zréck an den Stuerm an de Plutonesche Ufer vun der Nuecht!
+
+Loosst kee schwaarze Plum als Zeeche vun där Ligen, déi deng Séil geschwat huet!
+
+Loosst meng Einsamkeet ongebrach! - loosst de Bust iwwer meng Dier!
+
+Huelt dein Schnéifel aus mengem Häerz, an huelt deng Form vu menger Dier!"
+
+Quoth de Raven, "Nevermore."
+
+An de Kueb, ni flitt, sëtzt nach ëmmer, sëtzt nach ëmmer
+
+Op der pallid Büste vu Pallas just iwwer meng Kammerdier;
+
+A seng Aen hunn all d'Schéngen vun engem Dämon deen dreemt,
+
+An d'Lampeliicht iwwer him streamend werft säi Schied op de Buedem;
+
+A meng Séil aus deem Schied, deen um Buedem läit schwammen
+
+Sollt opgehuewe ginn - ni méi!
+

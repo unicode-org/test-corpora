@@ -1,0 +1,104 @@
+Sách điện tử Project Gutenberg của The Raven, của Edgar Allan Poe.
+
+*** KẾT THÚC DỰ ÁN GUTENBERG EBOOK THE RAVEN ***
+
+Các phiên bản cập nhật sẽ thay thế phiên bản trước—các phiên bản cũ sẽ được đổi tên.
+
+Tạo tác phẩm từ các ấn bản in không được luật bản quyền Hoa Kỳ bảo vệ có nghĩa là không ai sở hữu bản quyền của Hoa Kỳ đối với các tác phẩm này, vì vậy Tổ chức (và bạn!) có thể sao chép và phân phối nó ở Hoa Kỳ mà không cần xin phép và không phải trả tiền bản quyền. Các quy tắc đặc biệt, được nêu trong phần Điều khoản sử dụng chung của giấy phép này, áp dụng cho việc sao chép và phân phối các tác phẩm điện tử của Project Gutenberg™ để bảo vệ khái niệm và nhãn hiệu của PROJECT GUTENBERG™. Project Gutenberg là nhãn hiệu đã đăng ký và không được sử dụng nếu bạn tính phí cho Sách điện tử, ngoại trừ việc tuân theo các điều khoản của giấy phép nhãn hiệu, bao gồm cả việc trả tiền bản quyền để sử dụng nhãn hiệu Project Gutenberg. Nếu bạn không tính bất kỳ khoản phí nào cho các bản sao của Sách điện tử này thì việc tuân thủ giấy phép nhãn hiệu là rất dễ dàng. Bạn có thể sử dụng Sách điện tử này cho hầu hết mọi mục đích như tạo tác phẩm phái sinh, báo cáo, biểu diễn và nghiên cứu. Sách điện tử của Project Gutenberg có thể được sửa đổi, in và tặng—bạn có thể thực hiện BẤT CỨ ĐIỀU GÌ ở Hoa Kỳ với sách điện tử không được luật bản quyền Hoa Kỳ bảo vệ. Việc phân phối lại phải tuân theo giấy phép nhãn hiệu, đặc biệt là phân phối lại thương mại.
+
+BẮT ĐẦU: GIẤY PHÉP ĐẦY ĐỦ
+
+GIẤY PHÉP GUTENBERG DỰ ÁN ĐẦY ĐỦ
+
+VUI LÒNG ĐỌC ĐIỀU NÀY TRƯỚC KHI BẠN PHÂN PHỐI HOẶC SỬ DỤNG TÁC PHẨM NÀY
+
+Để bảo vệ sứ mệnh của Project Gutenberg™ là thúc đẩy việc phân phối miễn phí các tác phẩm điện tử, bằng cách sử dụng hoặc phân phối tác phẩm này (hoặc bất kỳ tác phẩm nào khác có liên quan đến cụm từ “Project Gutenberg”) theo bất kỳ cách nào, bạn đồng ý tuân thủ tất cả các điều khoản của Giấy phép Full Project Gutenberg™ có sẵn trong tệp này hoặc trực tuyến tại www.gutenberg.org/license.
+
+Phần 1. Điều khoản sử dụng chung và phân phối lại các tác phẩm điện tử của Project Gutenberg™
+
+1.A. Bằng cách đọc hoặc sử dụng bất kỳ phần nào của tác phẩm điện tử Project Gutenberg™ này, bạn cho biết rằng bạn đã đọc, hiểu, đồng ý và chấp nhận tất cả các điều khoản của giấy phép này và thỏa thuận sở hữu trí tuệ (thương hiệu/bản quyền). Nếu bạn không đồng ý tuân theo tất cả các điều khoản của thỏa thuận này, bạn phải ngừng sử dụng và trả lại hoặc tiêu hủy tất cả các bản sao của tác phẩm điện tử Project Gutenberg™ mà bạn sở hữu. Nếu bạn đã trả phí để có được bản sao hoặc quyền truy cập vào tác phẩm điện tử Project Gutenberg™ và bạn không đồng ý bị ràng buộc bởi các điều khoản của thỏa thuận này thì bạn có thể nhận được tiền hoàn lại từ cá nhân hoặc tổ chức mà bạn đã trả phí như quy định trong đoạn 1.E.8.
+
+1.B. “Dự án Gutenberg” là nhãn hiệu đã đăng ký. Nó chỉ có thể được sử dụng hoặc liên kết theo bất kỳ cách nào với tác phẩm điện tử bởi những người đồng ý bị ràng buộc bởi các điều khoản của thỏa thuận này. Có một số điều bạn có thể thực hiện với hầu hết các tác phẩm điện tử của Project Gutenberg™ ngay cả khi không tuân thủ đầy đủ các điều khoản của thỏa thuận này. Xem đoạn 1.C dưới đây. Có rất nhiều điều bạn có thể làm với các tác phẩm điện tử của Project Gutenberg™ nếu bạn tuân thủ các điều khoản của thỏa thuận này và giúp duy trì quyền truy cập miễn phí trong tương lai vào các tác phẩm điện tử của Project Gutenberg™. Xem đoạn 1.E bên dưới.
+
+1.C. Quỹ lưu trữ văn học Project Gutenberg (“Quỹ” hoặc PGLAF), sở hữu bản quyền biên soạn trong bộ sưu tập các tác phẩm điện tử Project Gutenberg™. Gần như tất cả các tác phẩm riêng lẻ trong bộ sưu tập đều thuộc phạm vi công cộng ở Hoa Kỳ. Nếu một tác phẩm riêng lẻ không được bảo vệ bởi luật bản quyền ở Hoa Kỳ và bạn sống ở Hoa Kỳ, chúng tôi không yêu cầu quyền ngăn bạn sao chép, phân phối, biểu diễn, hiển thị hoặc tạo tác phẩm phái sinh dựa trên tác phẩm đó miễn là tất cả các tham chiếu đến Project Gutenberg đều bị xóa. Tất nhiên, chúng tôi hy vọng rằng bạn sẽ ủng hộ sứ ​​mệnh của Project Gutenberg™ là thúc đẩy quyền truy cập miễn phí vào các tác phẩm điện tử bằng cách chia sẻ tự do các tác phẩm của Project Gutenberg™ tuân thủ các điều khoản của thỏa thuận này để giữ tên Project Gutenberg™ gắn liền với tác phẩm. Bạn có thể dễ dàng tuân thủ các điều khoản của thỏa thuận này bằng cách giữ nguyên định dạng của tác phẩm này với Giấy phép Project Gutenberg™ đầy đủ đính kèm khi bạn chia sẻ nó miễn phí với người khác.
+
+1.D. Luật bản quyền của nơi bạn sống cũng chi phối những gì bạn có thể làm với tác phẩm này. Luật bản quyền ở hầu hết các quốc gia luôn trong tình trạng thay đổi. Nếu bạn ở bên ngoài Hoa Kỳ, hãy kiểm tra luật pháp của quốc gia bạn ngoài các điều khoản của thỏa thuận này trước khi tải xuống, sao chép, hiển thị, thực hiện, phân phối hoặc tạo tác phẩm phái sinh dựa trên tác phẩm này hoặc bất kỳ tác phẩm nào khác của Project Gutenberg™. Tổ chức không đưa ra bất kỳ tuyên bố nào liên quan đến tình trạng bản quyền của bất kỳ tác phẩm nào ở bất kỳ quốc gia nào ngoài Hoa Kỳ.
+
+1.E. Trừ khi bạn đã xóa tất cả các tham chiếu đến Project Gutenberg:
+
+1.E.1. Câu sau đây, với các liên kết hoạt động hoặc quyền truy cập ngay lập tức vào, Giấy phép Project Gutenberg™ đầy đủ phải xuất hiện nổi bật bất cứ khi nào có bất kỳ bản sao nào của Project Gutenberg™ hoạt động (bất kỳ tác phẩm nào có cụm từ “Project Gutenberg” xuất hiện hoặc có liên quan đến cụm từ “Project Gutenberg”) được truy cập, hiển thị, thực hiện, xem, sao chép hoặc phân phối:
+
+Sách điện tử này dành cho bất kỳ ai ở Hoa Kỳ và hầu hết các nơi khác trên thế giới sử dụng miễn phí và hầu như không có bất kỳ hạn chế nào. Bạn có thể sao chép, tặng hoặc sử dụng lại theo các điều khoản của Giấy phép Project Gutenberg đi kèm với Sách điện tử này hoặc trực tuyến tại www.gutenberg.org . Nếu bạn không sống ở Hoa Kỳ, bạn sẽ phải kiểm tra luật pháp của quốc gia nơi bạn sống trước khi sử dụng Sách điện tử này.
+
+1.E.2. Nếu một tác phẩm điện tử Project Gutenberg™ riêng lẻ có nguồn gốc từ các văn bản không được luật bản quyền Hoa Kỳ bảo vệ (không chứa thông báo cho biết rằng tác phẩm đó được đăng với sự cho phép của người giữ bản quyền), thì tác phẩm đó có thể được sao chép và phân phối cho bất kỳ ai ở Hoa Kỳ mà không phải trả bất kỳ khoản phí hoặc lệ phí nào. Nếu bạn đang phân phối lại hoặc cung cấp quyền truy cập vào tác phẩm có cụm từ “Project Gutenberg” được liên kết hoặc xuất hiện trên tác phẩm, bạn phải tuân thủ các yêu cầu của đoạn 1.E.1 đến 1.E.7 hoặc xin phép sử dụng tác phẩm và nhãn hiệu Project Gutenberg™ như được nêu trong đoạn 1.E.8 hoặc 1.E.9.
+
+1.E.3. Nếu một tác phẩm điện tử Project Gutenberg™ riêng lẻ được đăng với sự cho phép của chủ sở hữu bản quyền thì việc sử dụng và phân phối của bạn phải tuân thủ cả các đoạn 1.E.1 đến 1.E.7 và mọi điều khoản bổ sung do chủ bản quyền áp đặt. Các điều khoản bổ sung sẽ được liên kết với Giấy phép Project Gutenberg™ cho tất cả các tác phẩm được đăng với sự cho phép của chủ sở hữu bản quyền ở phần đầu tác phẩm này.
+
+1.E.4. Không hủy liên kết, tách rời hay xóa toàn bộ điều khoản Cấp phép của Project Gutenberg™ khỏi tác phẩm này hoặc bất kỳ tệp nào chứa một phần của tác phẩm này hoặc bất kỳ tác phẩm nào khác liên quan đến Project Gutenberg™.
+
+1.E.5. Không sao chép, hiển thị, thực hiện, phân phối hoặc phân phối lại tác phẩm điện tử này hoặc bất kỳ phần nào của tác phẩm điện tử này mà không hiển thị nổi bật câu được nêu trong đoạn 1.E.1 với các liên kết hoạt động hoặc truy cập ngay vào các điều khoản đầy đủ của Giấy phép Project Gutenberg™.
+
+1.E.6. Bạn có thể chuyển đổi và phân phối tác phẩm này ở bất kỳ dạng nhị phân, nén, đánh dấu, không độc quyền hoặc độc quyền nào, bao gồm mọi dạng xử lý văn bản hoặc siêu văn bản. Tuy nhiên, nếu bạn cung cấp quyền truy cập hoặc phân phối các bản sao của tác phẩm Project Gutenberg™ ở định dạng khác với “Plain Vanilla ASCII” hoặc định dạng khác được sử dụng trong phiên bản chính thức được đăng trên trang web chính thức của Project Gutenberg™ (www.gutenberg.org), thì bạn phải cung cấp một bản sao, phương tiện xuất bản sao hoặc phương tiện để lấy bản sao theo yêu cầu của tác phẩm ở dạng “Plain Vanilla ASCII” gốc hoặc dạng khác mà không phải trả thêm phí, lệ phí hoặc phí tổn nào cho người dùng. Mọi định dạng thay thế đều phải bao gồm Giấy phép Project Gutenberg™ đầy đủ như được chỉ định trong đoạn 1.E.1.
+
+1.E.7. Không tính phí truy cập, xem, hiển thị, trình diễn, sao chép hoặc phân phối bất kỳ tác phẩm nào của Project Gutenberg™ trừ khi bạn tuân thủ đoạn 1.E.8 hoặc 1.E.9.
+
+1.E.8. Bạn có thể tính một khoản phí hợp lý cho các bản sao hoặc cung cấp quyền truy cập hoặc phân phối các tác phẩm điện tử của Project Gutenberg™ với điều kiện là:
+
+• Bạn trả phí bản quyền bằng 20% ​​tổng lợi nhuận mà bạn thu được từ việc sử dụng các công trình của Project Gutenberg™ được tính bằng phương pháp bạn đã sử dụng để tính các khoản thuế hiện hành của mình. Chủ sở hữu nhãn hiệu Project Gutenberg™ phải trả khoản phí này nhưng ông ấy đã đồng ý tặng tiền bản quyền theo đoạn này cho Quỹ Lưu trữ Văn học Project Gutenberg. Các khoản thanh toán tiền bản quyền phải được thanh toán trong vòng 60 ngày sau mỗi ngày bạn chuẩn bị (hoặc được pháp luật yêu cầu phải chuẩn bị) tờ khai thuế định kỳ của mình. Các khoản thanh toán tiền bản quyền phải được đánh dấu rõ ràng như vậy và gửi đến Quỹ Lưu trữ Văn học Dự án Gutenberg theo địa chỉ được chỉ định trong Phần 4, “Thông tin về các khoản quyên góp cho Quỹ Lưu trữ Văn học Dự án Gutenberg”.
+
+• Bạn hoàn lại toàn bộ số tiền mà người dùng đã trả khi thông báo cho bạn bằng văn bản (hoặc qua e-mail) trong vòng 30 ngày kể từ ngày nhận được rằng họ không đồng ý với các điều khoản của Giấy phép Project Gutenberg™ đầy đủ. Bạn phải yêu cầu người dùng đó trả lại hoặc hủy tất cả bản sao của tác phẩm được sở hữu trong phương tiện vật lý và ngừng mọi quyền sử dụng cũng như quyền truy cập vào các bản sao khác của tác phẩm Project Gutenberg™.
+
+• Theo đoạn 1.F.3, bạn hoàn lại toàn bộ số tiền đã trả cho một tác phẩm hoặc một bản sao thay thế nếu phát hiện sai sót trong tác phẩm điện tử và báo cáo cho bạn trong vòng 90 ngày kể từ ngày nhận tác phẩm.
+
+• Bạn tuân thủ tất cả các điều khoản khác của thỏa thuận này để phân phối miễn phí các tác phẩm của Project Gutenberg™.
+
+1.E.9. Nếu bạn muốn tính phí hoặc phân phối một tác phẩm hoặc nhóm tác phẩm điện tử của Project Gutenberg™ theo các điều khoản khác với những điều khoản được quy định trong thỏa thuận này, thì bạn phải xin phép bằng văn bản từ Tổ chức Lưu trữ Văn học Project Gutenberg™, người quản lý nhãn hiệu Project Gutenberg™. Liên hệ với Quỹ như được nêu trong Phần 3 bên dưới.
+
+1.F.
+
+1.F.1. Các tình nguyện viên và nhân viên của Project Gutenberg dành nhiều nỗ lực để xác định, thực hiện nghiên cứu bản quyền, chép lại và hiệu đính các tác phẩm không được luật bản quyền Hoa Kỳ bảo vệ khi tạo ra bộ sưu tập Project Gutenberg™. Bất chấp những nỗ lực này, các tác phẩm điện tử của Project Gutenberg™ và phương tiện lưu trữ chúng có thể chứa “Khiếm khuyết”, chẳng hạn như nhưng không giới hạn ở dữ liệu không đầy đủ, không chính xác hoặc bị hỏng, lỗi sao chép, vi phạm bản quyền hoặc quyền sở hữu trí tuệ khác, đĩa hoặc phương tiện khác bị lỗi hoặc bị hỏng, vi-rút máy tính hoặc mã máy tính làm thiết bị của bạn bị hỏng hoặc không thể đọc được.
+
+1.F.2. BẢO HÀNH CÓ GIỚI HẠN, TỪ CHỐI TỪ CHỐI THIỆT HẠI - Ngoại trừ “Quyền thay thế hoặc hoàn tiền” được mô tả trong đoạn 1.F.3, Quỹ lưu trữ văn học Project Gutenberg, chủ sở hữu nhãn hiệu Project Gutenberg™ và bất kỳ bên nào khác phân phối tác phẩm điện tử Project Gutenberg™ theo thỏa thuận này, từ chối mọi trách nhiệm pháp lý đối với bạn về những thiệt hại, chi phí và phí tổn, bao gồm cả phí pháp lý. BẠN ĐỒNG Ý RẰNG BẠN KHÔNG CÓ BIỆN PHÁP ĐỐI VỚI SỰ CẨN THẬN, TRÁCH NHIỆM NGHIÊM TÚC, VI PHẠM BẢO HÀNH HOẶC VI PHẠM HỢP ĐỒNG NGOẠI TRỪ NHỮNG ĐIỀU ĐƯỢC QUY ĐỊNH TRONG KHOẢN 1.F.3. BẠN ĐỒNG Ý RẰNG NỀN TẢNG, CHỦ SỞ HỮU THƯƠNG HIỆU VÀ BẤT KỲ NHÀ PHÂN PHỐI NÀO THEO THỎA THUẬN NÀY SẼ KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI BẠN VỀ CÁC THIỆT HẠI THỰC TẾ, TRỰC TIẾP, GIÁN TIẾP, DO HẬU QUẢ, HÌNH PHẠT HOẶC NGẪU NHIÊN NGAY CẢ KHI BẠN ĐƯA RA THÔNG BÁO VỀ KHẢ NĂNG VỀ THIỆT HẠI ĐÓ.
+
+1.F.3. QUYỀN THAY THẾ HOẶC HOÀN TIỀN CÓ GIỚI HẠN - Nếu bạn phát hiện ra khiếm khuyết trong tác phẩm điện tử này trong vòng 90 ngày kể từ ngày nhận được nó, bạn có thể được hoàn lại số tiền (nếu có) mà bạn đã thanh toán bằng cách gửi văn bản giải thích cho người mà bạn đã nhận tác phẩm. Nếu bạn nhận được tác phẩm trên phương tiện vật lý, bạn phải trả lại phương tiện đó kèm theo lời giải thích bằng văn bản. Cá nhân hoặc tổ chức đã cung cấp cho bạn tác phẩm bị lỗi có thể chọn cung cấp bản sao thay thế thay cho việc hoàn lại tiền. Nếu bạn nhận được tác phẩm bằng điện tử, người hoặc tổ chức cung cấp tác phẩm đó cho bạn có thể chọn cho bạn cơ hội thứ hai để nhận tác phẩm bằng điện tử thay vì hoàn lại tiền. Nếu bản sao thứ hai cũng bị lỗi, bạn có thể yêu cầu hoàn lại tiền bằng văn bản mà không có thêm cơ hội để khắc phục vấn đề.
+
+1.F.4. Ngoại trừ quyền thay thế hoặc hoàn lại tiền có giới hạn được nêu trong đoạn 1.F.3, tác phẩm này được cung cấp cho bạn 'NGUYÊN TRẠNG', KHÔNG CÓ BẢO ĐẢM NÀO KHÁC DƯỚI BẤT KỲ HÌNH THỨC NÀO, RÕ RÀNG HAY NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐẢM BẢO VỀ KHẢ NĂNG BÁN HOẶC SỰ PHÙ HỢP CHO BẤT KỲ MỤC ĐÍCH NÀO.
+
+1.F.5. Một số tiểu bang không cho phép tuyên bố từ chối trách nhiệm đối với một số bảo đảm ngụ ý nhất định hoặc loại trừ hoặc giới hạn một số loại thiệt hại nhất định. Nếu bất kỳ tuyên bố từ chối trách nhiệm hoặc giới hạn nào được nêu trong thỏa thuận này vi phạm luật pháp của tiểu bang áp dụng cho thỏa thuận này, thì thỏa thuận đó sẽ được giải thích để đưa ra tuyên bố từ chối trách nhiệm hoặc giới hạn tối đa được luật pháp hiện hành của tiểu bang cho phép. Sự vô hiệu hoặc không thể thực thi của bất kỳ điều khoản nào trong thỏa thuận này sẽ không làm mất hiệu lực của các điều khoản còn lại.
+
+1.F.6. BỒI THƯỜNG - Bạn đồng ý bồi thường và giữ cho Tổ chức, chủ sở hữu nhãn hiệu, bất kỳ đại lý hoặc nhân viên nào của Tổ chức, bất kỳ ai cung cấp bản sao của tác phẩm điện tử Project Gutenberg™ theo thỏa thuận này và bất kỳ tình nguyện viên nào liên quan đến việc sản xuất, quảng bá và phân phối tác phẩm điện tử của Project Gutenberg™, không phải chịu mọi trách nhiệm pháp lý, chi phí và phí tổn, bao gồm cả phí pháp lý, phát sinh trực tiếp hoặc gián tiếp từ bất kỳ hành động nào sau đây mà bạn thực hiện hoặc khiến xảy ra: (a) phân phối tác phẩm này hoặc bất kỳ tác phẩm nào của Project Gutenberg™, (b) thay đổi, sửa đổi hoặc bổ sung hoặc xóa bất kỳ tác phẩm nào của Project Gutenberg™ và (c) bất kỳ Khiếm khuyết nào mà bạn gây ra.
+
+Phần 2. Thông tin về Sứ mệnh của Dự án Gutenberg™
+
+Project Gutenberg™ đồng nghĩa với việc phân phối miễn phí các tác phẩm điện tử ở định dạng có thể đọc được bằng nhiều loại máy tính nhất bao gồm máy tính lỗi thời, cũ, trung niên và mới. Nó tồn tại nhờ nỗ lực của hàng trăm tình nguyện viên và sự quyên góp từ mọi người ở mọi tầng lớp xã hội.
+
+Tình nguyện viên và hỗ trợ tài chính để cung cấp cho tình nguyện viên sự hỗ trợ mà họ cần là rất quan trọng để đạt được mục tiêu của Project Gutenberg™ và đảm bảo rằng bộ sưu tập Project Gutenberg™ sẽ vẫn được cung cấp miễn phí cho các thế hệ mai sau. Năm 2001, Quỹ Lưu trữ Văn học Project Gutenberg được thành lập để mang lại một tương lai an toàn và lâu dài cho Project Gutenberg™ và các thế hệ tương lai. Để tìm hiểu thêm về Quỹ Lưu trữ Văn học Dự án Gutenberg cũng như những nỗ lực và đóng góp của bạn có thể giúp ích như thế nào, hãy xem Phần 3 và 4 cũng như trang thông tin của Quỹ tại www.gutenberg.org.
+
+Phần 3. Thông tin về Quỹ Lưu trữ Văn học Dự án Gutenberg
+
+Quỹ Lưu trữ Văn học Dự án Gutenberg là một tổ chức giáo dục phi lợi nhuận 501(c)(3) được tổ chức theo luật của bang Mississippi và được Sở Thuế vụ cấp quy chế miễn thuế. Mã EIN hoặc mã số thuế liên bang của Quỹ là 64-6221541. Các khoản đóng góp cho Quỹ Lưu trữ Văn học Dự án Gutenberg được khấu trừ thuế trong phạm vi tối đa được luật pháp liên bang Hoa Kỳ và luật pháp tiểu bang của bạn cho phép.
+
+Văn phòng kinh doanh của Quỹ tọa lạc tại 809 North 1500 West, Thành phố Salt Lake, UT 84116, (801) 596-1887. Bạn có thể tìm thấy các liên kết liên hệ qua email và thông tin liên hệ cập nhật tại trang web và trang chính thức của Quỹ tại www.gutenberg.org/contact
+
+Phần 4. Thông tin về các khoản quyên góp cho Quỹ lưu trữ văn học dự án Gutenberg
+
+Dự án Gutenberg™ phụ thuộc và không thể tồn tại nếu không có sự hỗ trợ và quyên góp rộng rãi của công chúng để thực hiện sứ mệnh tăng số lượng phạm vi công cộng và các tác phẩm được cấp phép có thể được phân phối tự do ở dạng máy có thể đọc được bằng nhiều loại thiết bị nhất, bao gồm cả thiết bị lỗi thời. Nhiều khoản quyên góp nhỏ ($1 đến $5.000) đặc biệt quan trọng để duy trì tình trạng miễn thuế với IRS.
+
+Quỹ cam kết tuân thủ các luật quy định về tổ chức từ thiện và quyên góp từ thiện ở tất cả 50 tiểu bang của Hoa Kỳ. Các yêu cầu tuân thủ không đồng nhất và cần phải nỗ lực đáng kể, nhiều thủ tục giấy tờ và nhiều khoản phí để đáp ứng và theo kịp các yêu cầu này. Chúng tôi không kêu gọi quyên góp ở những địa điểm mà chúng tôi chưa nhận được xác nhận tuân thủ bằng văn bản. Để GỬI QUYÊN GÓP hoặc xác định trạng thái tuân thủ cho bất kỳ tiểu bang cụ thể nào, hãy truy cập www.gutenberg.org/donate .
+
+Mặc dù chúng tôi không thể và không thu hút sự đóng góp từ các tiểu bang nơi chúng tôi chưa đáp ứng các yêu cầu kêu gọi, nhưng chúng tôi biết không có lệnh cấm nhận các khoản quyên góp không được yêu cầu từ các nhà tài trợ ở những tiểu bang tiếp cận chúng tôi với lời đề nghị quyên góp.
+
+Các khoản quyên góp quốc tế được chấp nhận một cách biết ơn, nhưng chúng tôi không thể đưa ra bất kỳ tuyên bố nào liên quan đến việc xử lý thuế đối với các khoản quyên góp nhận được từ bên ngoài Hoa Kỳ. Chỉ riêng luật pháp Hoa Kỳ đã tràn ngập đội ngũ nhân viên nhỏ bé của chúng tôi.
+
+Vui lòng kiểm tra các trang web của Project Gutenberg để biết các phương thức và địa chỉ quyên góp hiện tại. Các khoản quyên góp được chấp nhận theo một số cách khác bao gồm séc, thanh toán trực tuyến và quyên góp bằng thẻ tín dụng. Để quyên góp, vui lòng truy cập: www.gutenberg.org/donate.
+
+Phần 5. Thông tin chung về các tác phẩm điện tử của Project Gutenberg™
+
+Giáo sư Michael S. Hart là người khởi xướng khái niệm Project Gutenberg™ về một thư viện các tác phẩm điện tử có thể được chia sẻ miễn phí với bất kỳ ai. Trong bốn mươi năm, ông đã sản xuất và phân phối Sách điện tử Project Gutenberg™ chỉ với một mạng lưới hỗ trợ tình nguyện lỏng lẻo.
+
+Sách điện tử Project Gutenberg™ thường được tạo từ nhiều ấn bản in, tất cả đều được xác nhận là không được bảo vệ bản quyền ở Hoa Kỳ trừ khi có thông báo bản quyền đi kèm. Vì vậy, chúng tôi không nhất thiết phải giữ sách điện tử tuân thủ bất kỳ ấn bản giấy cụ thể nào.
+
+Hầu hết mọi người bắt đầu tại trang web của chúng tôi, nơi có công cụ tìm kiếm PG chính: www.gutenberg.org .
+
+Trang web này bao gồm thông tin về Project Gutenberg™, bao gồm cách quyên góp cho Quỹ lưu trữ văn học Project Gutenberg, cách giúp sản xuất Sách điện tử mới của chúng tôi và cách đăng ký nhận bản tin email của chúng tôi để biết về Sách điện tử mới.
+

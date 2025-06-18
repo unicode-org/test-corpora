@@ -1,0 +1,570 @@
+The Project Gutenberg eBook of The Raven, by Edgar Allan Poe.
+
+Project Gutenberg eBook of The Raven
+
+Hic liber usus est nullibi in Civitatibus Foederatis Americae ac plerisque aliis mundi partibus nullo pretio et nullis fere restrictionibus. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License inclusa cum hoc ebook or online at www.gutenberg.org . Si in Iunctus Civitas non sitis, leges regionis ubi ante hoc eBook uteris, retenta erit.
+
+Title :
+
+Author : Edgar Allan Poe
+
+Commentator : Edmundus Clarence Stedman
+
+Illustrator : Gustave Doré
+
+Release date : November 30, 2005 [eBook #17192] Nuper recentissima renovatio: December 13, 2020
+
+Lingua : English
+
+Credits : Produci ab Jasone Isbello, Melissa Er-Raqabi et Online Proofreading Team distribuit in https://www.pgdp.net.
+
+*** INCIPIT PROPOSITI GUTENBERG EBOOK THE RAVEN ***
+
+Back Cover
+
+RAVEN'
+
+By
+
+EDGAR ALLAN POE
+
+ILLUSTRATUS GUSTAVE DORÉ
+
+Titulus Imago
+
+CUM EDMUND C. STEDMAN
+
+NEW EBORACUM
+
+LYRA & FRATRES, PUBLISHERS, FRANKLIN QUADRATUM
+
+1884
+
+Inscriptus est secundum Actus Congressus, anno 1883, anno MDCCCLXXXIII
+
+LYRA & FRATRES,
+
+in Officio Conventus Bibliothecae Vindobonae.
+
+All rights reserved.
+
+Transcriber's Notes
+
+In Indice Illustrationum unum codicem post Lenore absentem reddidi! ut infra patebit;
+
+"Misera, clamavi, Deus tuus te commodavit, per hos angelos tibi misit." requies et nepenthes a memoriis Lenoris!
+
+The List of Illustrations uses 'visitor' quo carmine et ipsa illustratione utuntur 'visitator'.
+
+ELENCHUS ILLUSTRATIONUM
+
+Cum nomina Engravers
+
+Title-page, ab Elihu Vedder designatus.
+
+Fridericus Juengling.
+
+"Numquam."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claud.
+
+"Olim media nocte tristis, dum cogitabam, infirma et lassa est; Plus multa quaint ac curiosa voluminis oblitus es.
+
+RA Muller.
+
+"Ah, distincte memini, erat in austero Decembri; et unaquaeque pars moriens favillae in solo fecit spiritum suum.
+
+RG Tietze.
+
+"crastinas libens optavi, frustra mutuari quaesieram" e libris tantum maeroris—dolorem deperditorum Lenore.
+
+H. Claud.
+
+"Mororem Lenore perdito."
+
+W. Zimmermann.
+
+"Nam virgo rara et candida, quam angeli nominant Lenore- hic sine nomine per omnia saecula saeculorum.'
+
+Fridericus Juengling.
+
+"''T est aliquis visitator orans introitum ad cubiculi mei forem. Quidam nuper visitator orans ad ostium cubiculi mei.
+
+W. Zimmermann.
+
+— "Hic aperui fores; — ibi tenebrae, et nihil amplius."
+
+H. Claud.
+
+"Somniare dubitare, somniare nemo mortalium unquam ante ausum somniare."
+
+F. S. regem.
+
+'Certe,' inquam, 'certe aliquid cancelli fenestrae meae est; Videam ergo quid sit hoc sacramentum explorare.
+
+Fridericus Juengling.
+
+"Aperire hic me adiiciam ad Lorem."
+
+T. Johnson.
+
+— "Declara Corvus sanctorum priorum. Ne minimum quidem adulatus est, ne minimum quidem aut moratus est."
+
+R. Staudenbaur.
+
+"Persidens in imagine Palladis supra thalami mei; Sedit, et sedit, et nihil amplius.
+
+RG Tietze.
+
+" Nocturne errantes litore."
+
+Fridericus Juengling.
+
+vix dum mussant alii amici prae- volaverunt. Cras me deseret, dum spes mea praevolavit.'
+
+Francus Gallicus.
+
+"Deinde holoserica mersa me contuli ad conjunctionem Fac ad phantasiam."
+
+R. Schelling.
+
+"At cui holoserica purpurea enascens anicula percellit Ah numquam urgebit.
+
+Georgius Kruell.
+
+"Misera, clamavi, Deus tuus te commodavit, per hos angelos tibi misit." requies et nepenthes a memoriis Lenoris!
+
+Victoris Bernstrom.
+
+" Hac lare perculit Horror uada."
+
+R. Staudenbaur.
+
+" Dic vere , oro , estne resina in Galaad ? dic , dic , oro " ?
+
+W. Zimmermann.
+
+» Dic animam hanc maerore gravem, si, dum abest, Aidenn; Virginem sanctam amplectetur, quam angeli Lenore nominant.'
+
+F. S. regem.
+
+"Esto hoc verbum nostrum signum abeuntis, ave vel furis!' Clamavi, proscaenium.'
+
+W. Zimmermann.
+
+"Recede in tempestatem et litus Plutonia Noctis!"
+
+Robertus Hoskin.
+
+"et anima mea ab umbra illa quae in solo volitans iacet" Elevabitur amplius.
+
+RG Tietze.
+
+Arcanum Sphingis.
+
+R. Staudenbaur.
+
+COMMENT IN CARMEN.
+
+Poema arcanum, non minus ac prosperum iocum, in aure audientis jacet. Carmine cede, sume vatis modum: hoc tamen respondet sapientibus, cum interrogas quanti sint. Etiamsi poeta ipse, in alia mente, artem suam levitas manus, alimenta incantatoris, alimenta tibi ostendat, et tibi dolum praebeat, ne credas. Horam propheticam exspecta; ad eius amorem vel dolorem te da. "In manu amoris sumus hodie!" cantat Gautier in Swinburni paraphrasin, et a mane ad occasum vectamur in mare vehemens: unus amor est, unus Maius, unus flos floridus. Amor aeternus, reliqua omnia ficta et abiecta. Visio finem habet, scena mutatur; sed aliquid adepti sumus, memoria suavitatis. Quotquot poetas, tot carmina. Est evanescentiae venustas, quae pathos aureolam tribuit summae pulchritudini et gratiae. Share cum Landor suam unam "noctem memoriarum et gemituum" pro Rose Aylmer, et hoc habes ad plenum.
+
+Ac nunc accipe manum novi orbis citharistae, ab aliquo proprio habitaculo ad rudem illam et dissonantiam Americam aberrantem, quae, ut Baudelaire vidit, erat apud Poe solum ingens carcer, per quem huc atque illuc currendo, febricitantibus agitatione creati ad respirandum in mundo puriore, et ubi « vita interior, spiritualis ut poeta, spiritualis vel temulentus, influentia huius atmosphaerae perpetua fuit. prehende sensim manus sic fatum turbidi cantoris, et communica secum in quo invenit caelum, numquam per diem, semper in nocte, si non Atlantis, unde erraverat, saltem perfugium a finibus, in quo die obruebatur.
+
+Uni tellus tantum valet ad te ducendi, et unius noctis tantum potes esse somnium. Tractus nec Terrae nec Caelum: "Terra nulla" extra Spatium, ex tempore. Hic sunt turbati, quorum oculi, sicut Cencorum, fenestras invenit animus, licet obstupuerit; hic spiritus, viam quae ad aeternitatem tendit, tardantur et morantur. Limbus animarum planetarum est, in quo sunt omnia lunae incertae, omnes amores et fallaciae perditae. Hic quaedam in excessu mentis fixae sunt, quae sola quies attingi potest; alii
+
+"Fantastically moventur
+
+Ad concentum discors: "
+
+dum ubique are
+
+"Memoria Sheeted de Past-
+
+Formae quae satus et suspiria
+
+Cum transeuntibus vagus.
+
+Talis est terra, et una nocte eam ingredimur, nox astrorum cursusque recurrentium cymbala. Duodecim eius monodia poemata sunt, quorum musica semper eadem mutare nititur. Singillatim resonant, sicut horologium aeneae et ebenae sonant, in “Masque rubrae mortis”, quae in perturbatione et tremore et meditatione vivificantes morantur, quoties hora circumdedit.
+
+Harum omnium mysticarum clausularum querela Corvi per limen pulsum principaliter exteriorem mundum impressit. Quae res ad carmen componendum, et quam verum in hoc, quod in plerisque aliis, genus illud, quod vates suos plasmatores nominavit? Opus extra inane dicitur. Ubi nihil est, ibi manet, nova creatio, pars hominis thesaurus. Et paucae eximiae lyricae, prae ceteris, quae aeque sunt fecundae, denuo nos cogunt cogitare quam fortiter stylo poetae res incognita vertat.
+
+"Fingit et dat nihil aerium
+
+Locus habitatio, et nomen.
+
+Uterque sine prototypo videtur, omnia tamen elementa nos fascinant umbra Supernaturalis erepta. Summa autem imaginatio est circa animam rerum. Vel potest vel non inspirare Phantasiam, quam gentes cum imaginibus vagum interlunarium. Una tamen ex his carminibus, minore modo, singularitatis nos afficit, ut scilicet ad altiora supernaturalis iacta opera, Marlowe "Fausti", "Fausti" de Goethe, "Manfredi", vel etiam aetherea magisteria, "Tempestas" et "Somnium Noctis solstitialis". Plus quam unum, alias singulare, aliquid habet  onerare vel abstinere quae memoriam frequentat, aliquando audita, numquam oblita, sicut sonus rarioris usus sed distincti organi insistens. His notabilis est Bürgeri scriptor Lenore, lepida illa et sonora cantilena, interpretum illecebra et claua. Pauci negant Coleridge miraculum "Rime veteris Marine" in ipso capite stare. "Le Juif-Errant" habuisse affirmat, si Beranger poeta maior fuisset; et, sed propter longinquitatem a populari miseratione, "Domina Shalott" et "Beata Damozel" in indice addi posset. Edgaro Allan Poe datum est ut duas lyricas, "Tinnana" et Corvus produceret, quarum singulae, licet minus pulchritudinis fortasse quam Tennyson et Rossetti, unica est. "Ulalume," dum aeque extraneus et imaginatiua est, non habet universalem qualitatem quae est portio nostri experimenti.
+
+The Corvus in mere poetical constituentia infra tales partes cadit ut "Haunted Palatium," "Urbs in Mari," "Dormiens," et "Israfel." Totum permutatum iri suspicor, lectoribus delicatis pro his locis;
+
+" Circum, levando oblitus ventos ;
+
+Resignedly sub caelo
+
+Tristes aquae iacent.
+
+Non descendunt radii de caelo sancto
+
+Longo nocturno tempore eius oppidi;
+
+Sed lucem e medio lurida
+
+Ad turres tacite-
+
+· · · · · · ·
+
+Multa et multa miranda fanum
+
+Cuius redimitus zophoro texitur
+
+lyra, viola, vitis.
+
+· · · · · · ·
+
+Nullae tumores dico esse ventos
+
+In quibusdam longe beatior maris
+
+Nullae fluctuationes innuere ventos fuisse
+
+Per freta segnius serena.'
+
+Aerea melos caret vatis, cuius corda chordae sunt citharae;
+
+"Et dicunt (chorum sidereum
+
+et reliqua audientia)
+
+Quod Israel ignis
+
+Est ex illa lyra
+
+qua sedet et cantat.
+
+Tremulus vitae filum
+
+De insolitis chordis.'
+
+Sed Corvus , sicut Campana et Annabel Lee, multis et paucis se commendat. Diximus alibi rarioras poe' tas mihi visas esse, in quibus est species, saltem spontanea, in quibus cedit animo, dum moriens labitur et labes musicissimas, et melancholica, ex improviso veniunt. Hoc adhuc a me creditum est; et tamen novo studio huius carminis me magis quam aliquando a pueritia impressit. Pro omni vero opere artis notis. Hominem induces, qui nec artem novit nec curat, ut carmen aliquod aut picturam exploret, quam mox vis ejus apprehendat! Re quidem vera, quantum ad valorem primi boni operis, quo eius attentio fuerit comprehensa, expendet. Corvus quoque habet constantiam, quae etiam peritus admirari debet. Nulla alia ejus auctoris carmina ratio manifestius definitur. "The Haunted Palace" tam definita est lectori selecto, sed poe vix allegoriam illam subtilem pro analysi calvi adhibuisset. Corvus totum occupatum est argumento typico auctoris — inreparabilis iactura mulieris idololatae et pulchrae; sed alia ratione etiam instinctus publicus recte sentiendo suum carmen repraesentativum.
+
+Solet homo ingeniosi alicuius conatu succedere successu, neque id semper in maximis. Recognitio instantior pro dilata est. Non acquirit, ut fortunam avari nummum, sed vel omnino non in omnibus. Et sic in aliis cupiditatibus: aulicus, miles, histrio, pro partibus suis, quisque felici ictu triumphum ducit. Poe's corvus, invito augurio, pro eo "ales fecit auram flare." Poeta in Novo-York, hieme anni 1844-'45 consedit, opus in charta Willis vespertina inveniens, et reditus suos alibi contributionibus emittens. Ad sexennium auctor strenuus fuerat, et famae professio fuerat; et in utroque genere et in dubitatione habebatur, nec defuit ob partem diurnarii illius diei male persoluta. Multum etiam praeclarissimi sui operis fecerat, sicut "Ligeia" et "Lapsus domus Usheri" (haec continet mysticam illam partem, in versu, de Elihu Vedder "Amissa Minde,") tam analytica facinora ac "Aurum Bug" et "Mysterium Mariae Roget". Proselytos peregre fecerat, et perpetuam Gallorum mentem obtinuit. Vim suam virtutemque cognoverat, primaevo tempore, non sine certa fama. At ille nihil in omnium lingua scripserat. Ad laborem rarum ac delicatum accedit aliquis popularis tactus ad capiendum proprium tempus generalem audientiam.
+
+Industria Poënï successivorum biographorum ictus factus a The Raven factus est sermo saepe. Iuvenilis uxor, Virginia poetae, ocellis decidebat, sed in alium annum mortis umbra morabatur. Cubiculum longum et humile in domo prope Road Bloomingdale est  clarus locus ubi Rouget de l'Isle Massilia composuit. Omnes audiverunt carmen, "Quarles" in "American Review" signatum apparuisse, cum commento pseudo-editorali de forma sua; quod Poe decem dollariorum accepit; quod Willis, mitissimus et minime invidus probabilium arbitrorum, cum encomio prodidit, quae illico in urbe-loquentia fecit. Omnis dubitatio auctoritatis eius discussa est, cum Poe se in congregatione litteraria recitavit, et ad tempus notissimus auctorum Americanorum fuit. Impellit ictus hortatusque est. Sicut alius satyricus et superbus, ipse quoque "aestatis" aliquid etiam "in humerum insectorum" invenit. Triste satis, sed triennio elapso, tempus gratiae, superbiae, angoris, semper tamen phantastici aut ancipitis laboris, ante cladem ultimam, antequam velum vita decidisset, quod ei revera tragoedia fuit, et "Vinctor Worm" cessit.
+
+"Americanae Recognitio: A Whig Journal" erat tempus honestum emporium, bilinguis, impressum in charta bona cum typo perspicuo, et imaginibus mezzotint illustratum. Inter multa infra praesentis normae nonnulla continebat quod quilibet editor libenter reciperet. Volumen initiale, pro 1845, articulos habet ab Horatio Greeley, Donaldo Mitchell, Waltero Whitman, Marsh, Tuckerman, et Whipple. Radulphi Hoyt carmen "Vetus" in hoc volumine prodiit. Et hic tres sunt lyrics by Poe: "Urbs in mari", "vallis Inquietiae" et Corvus . Horum duo ex superioribus studiis aedificata, sed postrema quasi recenter composita, et fere ut nunc habemus. Quod autem postea non recognitum est, erroneum est. Undecim leves mutationes ex textu emporio in The Raven and Other Poems , 1845 apparent , quem librum poeta brevi sensit ad rem publicam offerendam esse . Hae plerunque sunt interpunctionis mutationes, vel verborum simplicium, hoc genus ad augendam alliterationis effectum. In Mr. Lang's pulchra editio poematis Poe's in "Parchment Library" protulit, insitum grammatici ostendit, et sapienter egit, ut ad textum rediret in tomo proxime dicto, sicut Londini anno 1846. editum est. Griswold collectionis operum vatis mendis scatet. Hi a recentioribus editoribus repetiti sunt, qui etiam errores suos fecerunt. Sed textus Corvi , ob petitiones auctoris in exemplaribus manuscriptis, ab eo adhuc correctus est; imo in Richmond, ante mortem suam impressit, substitutione "seraphim" cuius pedites pro angelis, quorum languidi pedites, in quarta decima stantia. Textus ergo noster praesens, dum anno MDCCCXLV substantialiter, a posteriori poetae lectione aliquantum mutatus est, huius unius poematis versio, ut opinor, rectissima et efficacissima est. Mutatio radicalis a prima versione apparuit tamen in tomo 1845 ; Undecima stantia initio hos versus continebat, rithimo mendosa, et alias menda carminis;
+
+"Infelici domino deprehensus ab aliquo, Cui clades immisericordes"
+
+Secuta celeriter, et citius secuta est, Spem adiurat;
+
+Sterna Desperatio rediit, loco dulcis Spei ausus est adjurare.
+
+Ille tristis respondit, "Numquam".
+
+Sat est, si alii, et celebres, poetas pro certo habere possent suas muta- tiones semper emendare. Poe rarum spectaculum assidue retractavit, et plerumque emendavit. Corvus primus inter pauca poemata, quae ante typis confecta est, fere perfecit. Fieri potest ut qui carmina curat paulum morte sua amiserit. In prosa oratione disertus, numquam versus faciendi poematis causa scripsit. Cum cantilena imaginis eum frequentet, lyricum quod consecutum fuit, ut ipse dixit, passionis, non propositi. Haec interiecta tam rara erat ut Fairfieldius theoriam comprobaret, quod utrumque discrimen nervosi ortum erat.
+
+Quid ergo poeta Corvo suum sensum dedit ? Ex quo caliginoso fundamento lente ascendit ad musicam lente exspiratam? Ut solet, plusquam unum abiit ad tam insigne poema. Conciones longiores saepe in brevibus ac minus suggestivis textibus praedicatas considerantes, spero non reprehendi hanc disputationem unius lyrici, praesertim quam artifex Dore simili argumento fecit illustrationis prodigae. Hanc partem, et pauca, quae auctor ad speciem suam composuit, nuper suspicatus sum, in puerilibus versibus non e seminibus crevisse. Sed Dominus Timens Gill ostendit mihi nonnullas ineditas stantias per Poe, octavo decimo anno scriptas, et inscriptas "Demon Ignis." Codex in prima poetae manu esse videtur, eiusque genuinus auctor est a familia in cuius possessione per medium saeculum permansit. Praeter planissima germina "The Bells" et "The Haunted Palace" continet paucas lineas aliquantum suggestive of the opening and close of The Raven . Quod ad modulum nostri carminis attinet, comparatio temporum indicat hoc modulis "Dominae Geraldine Curiae" movisse. Poe unus primus ad honorem Miss Bar- nius; poemata sua collegit ut "nobilissima sui sexus"  compatientes cum ea lyrici methodi. Carmine versus amatoria ;
+
+" Cum murmure incertum sollicitat in aera purpureum velum ;
+
+Tumet et inmobilis pallentia tempora turget.
+
+repertum Echo in his;
+
+"Et serica tristis incertus crepitantibus aulaeis purpureis utriusq;
+
+Horruit me, replevit me phantasticis terroribus numquam antea senserat.
+
+Hic Poe privilegium sumit, quod Longovium aspere incusavit, quod nemo unquam sine celeri detectione et castigatione sua praemissa quaesivit. In forma melodiae et stantiae, videbimus duo poemata non dissimilia, sed motiva prorsus distincta esse. Larga poetria nihil aliud sensit quam verum poetae ingenium. "Haec scribendo vivida!" exclamavit, "haec vis, quae sentitur!... magnus poeta noster, Mr. Browning, auctor Paracelsi, &c., alacer in admirationem sui rhythmi est." Ingramus, postquam ad "Dominam Geraldinam" referens, alium fontem lepide indicat unde Poe impetum cepit. Anno 1843, Albertus Pike, semigraecus, dimidius limitis, poeta Arkansas, in "Novo Speculo" excusum habuit, pro quo Poe turn scribebat, aliquot versus "Isidori" inscriptos, sed ab ipso auctore recognitos et "Viduum Cordis" appellavit. Ex D. Pike recognitione lego stantiam sequentem, cuius praecipua lineamenta cum versione originali respondent:
+
+"Inquiescamus ego conclavia nostra solum, nec plura cano carmina nostra;
+
+Sol ornatis hilariter in aream erret;
+
+Sedet et adhuc avis inrisa canit, o melancholia plectra!
+
+Est enim cor meum quasi nubes autumnalis pluviae;
+
+Peristi mihi in aeternum, Isidorus!
+
+Hic est prolixa mensura, quae est antiphonae similitudo, et avis introductio, cuius cantus tristitiam auget. Sunt aliae calles quae curiosis sequantur; notabiliter, quem locum Dominus Ingramus ex postrema recognitione "Barnaby Rudge" eligit;
+
+" Corvus quoque, quam nunc videmus, fieri potuit, portio conceptionis phantasticae Barnabae.
+
+Nihilominus, his seminibus ac similitudinibus demonstratis, valor huius carminis adhuc in sua origine invenitur. Musica progressiva, scenica proprietas et lux et umbra oppositi, ante omnia passio nocturni spiritualis, eam efficiunt ingenii informandi operam. Avis vero dira, dissimile est omnibus aliis gentis suae corvis, a duobus corbis et tribus corvis cantilenae, quae Barnabae rapienti ruptae sunt. Hic nulla est species raucae, quae turribus avitas colit et praeconis calcat ager; nulla fera vis cuius Tickell canebat,
+
+"Ter ad fenestram, stridere;
+
+Corvus alis plaudit;
+
+Nimis bene amatoria virgo sciebat
+
+Sollemnis ferax sonus.'
+
+Corvus poe's distinctus notio est; lugubris dolor et desperatio incarnationis; funebri memoria, manens annales, typum Irreparabilis. Profugit per Stygem ab litore Noctis Plutonia, imago videtur animae interrogantis ipsius, qui non vult, nepenthes exsorbet, quia Lenoris memoria superest ei, et cum maeroris celeritate etiam illud praetermittendum est.
+
+Corvus etiam potest intelligi carmen repraesentativum auctoris sui ad exemplum omnium notionum qualis sit poema. Haec in eius commentario de "Principio Poetico," "Rationale Versuum," et "Philosophia Compositionis" inveniuntur. Poëa declaravit "in Musica fortassis animam proxime attingi ad magnum finem, ad quod, inspirata sententiâ poetica, luctatur, supernae pulchritudinis creationem. sed rursus versus, qui vere est "Poetica verborum" est "Rhythmical Creation of Beauty", hoc et nihil aliud. Tonus pulchritudinis summae moestitia est. Tristissima locos mors est. Hoc coniungendum est cum forma. "Mors igitur pulchrae mulieri proculdubio maxime poeticus est in mundo, et sine dubio labra tali argumento aptissima sunt amatoris orbati." Hae postremae locutiones ex analysi ipsius poe's lubidinis huius ipsius poematis adducuntur, sed generalem eius versum demonstrant. Climax "Tintinnabulae" est obvoluto ghomonum monotone, qui gloriatur deprimendo cor humanum. "Lenore," Corvus , dormiens, "Uni in paradiso" et "Ulalume" faciunt tenebrosam symphoniam, et "Annabel Lee" scripta postrema, demonstrat unum propositum usque ad finem. Rursus, haec omnia nihil sunt nisi musicum, et quaedam phantastica ea qualitate tanguntur quae sensum horroris excitant, et novum ipsum dolori metum addit. Per omnia obscurum, sub palla opaca, specimen vatis amoris, — toties alibi semivivus — busta uxor Usheri, dominae Ligeiae, in  verum naturae suae instar. Existimo numquam artificis amorem erga unam "formam" omnino suam pietatem ad aliquod specimen imitari posse. Mulier iuxta eum debet exercere incantamenta sua, omnes per vices, nihilque longum, eum multiplici varietate delectare, vel sponsionis parte carere contenta. Illum oportet alliciendi ab Eo quod attingi non potest, et hoc semper est extra eum in passione artis creantis.
+
+Poe, sicut Hawthorne, in scholam Romanarum declinationem intravit, nec quisquam magis delectavit quam ille calamitatem rideret. Erat tamen cor eius cum romanis et orientalibus vel Gothicis effectibus. Ejus inventio, dives in prosa oratione, visus est ab eo deserere, cum versus scriberet; eique iudicium dixit longa poemata venerea magis a casu quam inspiratione pendere, et, ut poemata Romanorum proferret, sufficerent. Hinc eius theoria, suis limitationibus plane apta, quod "poema longum" est torto vocum contradictione. Corvi componentia pauca et simplicia sunt: ​​vir, avis, et memoria phantasma apud mulierem. Sed frustum praebet praeclarae materiae venereae. Quid habemus? nox media est; umbratilem thalamum cum voluminibus oblitus es; discipulus, -a modernus Hieronymus; sonum corvi in ​​casu; hiemalis nox et ignis exanimatus; tentoria serica vento- rum ; Somnia et obscurum dubiae suspecta tenebras; atram volucrem in pallida imagine monstrum; accessiones holoserici violacei et lucernae despectantis. Totus hic scaena effectus condicionis, lucis, coloris, soni est mere venereum, et etiam melodramaticum, sed qualis est poeticus, quem raro melodrama exhibet, ac plane reflectens "aeternum passionis, aeternum dolorem" poetae.
+
+The rhythmical structure of The Raven was sure to make an impression. RHYMA, alliteratio, onus, forma stantiae, singulari artificio excogitatae sunt. Nimirum poeta perculsus est apte Missae Barretti trochaici musici, in "octo", et praesertim a ordinatione adhibita prope finem "Dominae Geraldine";
+
+'Oculi' inquit 'per me palpitant! suntne oculi qui me peremerunt?
+
+Oculi lucent, sicut gemmae antiquae in Pario lapide positae!
+
+Subtus liunc frontem albam, semper ardentes torrida
+
+quaenam perii cordis et vitae deserta arena?
+
+His artistic introduction of the third rhyme in both the second and fourth lines, and the addition of the fifth line and a final antiphon, made the stanza of the Raven . Pervicax alliteratio sine labore venire videtur, et saepe rithimorum intra lineas seducunt; dum abstinentia vel onus toti operi dominatur. Hic quoque profecit per studium cantilenarum et romauntorum in propria et aliis linguis Miss Barrett. "Abstinentia" est esca, qua poeta vel musicus aurem errantem tenet, repetito naturae desiderio ad primam contentionem. Semper admiratus sum pulchras antiphonas Anglicanas cantrices, — Lusciniae, lusciniae, "Margret, Margret," "Cor et ego," "Toll lente," "Fluvius influit," "Pan, Pan mortuus est," etc. Ea etiam usus est quae Repetendum appellamus, in quorum usu Poe omnes poetas superavit, quandoquidem Coleridge ita revixit;
+
+"O felix animantia nulla lingua
+
+Eorum decor ut narret;
+
+Fons amoris emanavit ex corde meo;
+
+Et ego nesciens benedixi eis;
+
+Misertus est mei sanctus fideles mei;
+
+Et ego nesciens benedixi eis.
+
+Poe quintam lineae stantiae suae ad magicam repetendi rationem creavit. Paucis posterioribus poematibus ad extremum fidendum est, Lenore, Annabel Lee, Ulalume, et Annie. Feram ac melancholiam musicam consecutam putavi ex dulcibus influentiis Africae oneribus repetendisque in infantia sibi cantatis, cum patrio melo vocem nostri Australis poetae attingens.
+
+"Philosophia Compositionis" Analysis Corvi , est technica ejus methodi ac structurae dissectio. Nec cruentae artificii advocatio, nec advocatio subsequentis ad amicos, detectio artificii aliam esse ingenij ludibrium, fides habenda est. Quod si totum opus praemonuisset, vix tam acerbum crepitandi rithimi praeludium ad lyrae secundi stantiae melodiam redegisset, ne phantasiae quidem theoriae. Utique artifex, perficiens opus, videt, sicut primus artifex, quod est bonum, et quare bonum est. Subsequens analysis, cuiusvis ignis sacri obiurgatio copulata, satis facile explicari potest. Primam conceptionem et rudem carminis opinionem mihi semper inspiratio venisse. quod tunc auctor videbat quomodo perficiatur, dans ei finalem tactum descriptum in suo capite de Compositione, et hoc ergo non est omnino falsum, neque totum verum. Damnum huiusmodi analysis est quod novitium tentat ad phantasiam quod processibus artificialibus imaginatio supersedere potest. Ingenii impetus est horae creatrix arcana custodire. Prospectus laboris consecutus, elusus experimenta, quae triumphum praecedunt, ut in perscripta Hawthorne opere nuper in lucem prolata, inaestimabilem eruditionem et ad sincerum artificem incitamentum praebent. Sed quis  qui Musam adeuntibus ultro Objicit, et Candauli regis fata revocemus.
+
+Mundus adhuc de Poe cogitat tamquam "felicem ingenii virum." Nuper audivi illum nominatum esse quem omnes calumniari, vituperare vel calumniari videntur. Sed infaustam fortunam miserabili morte finiri mihi videtur, et ab eo pervicacem fuisse defensionem, famamque constantis incrementi, quantum laboris ac boni auctoris orare in spe sua potuit. Griswoldi declamatio et calumnia in eius favorem versam convertit. Accesserunt critici et biographi continuae refutationes, tributis moribus, novis operum editionibus. Epistolae ipsius et res gestae eius in nobis sunt; bonorum et malorum censu nemo hominum notus est. Mollius et ignoscens nullus appellator iudicium accepit. Infortunia vitae eius regionis ac periodi, forte magis ad voluntatis infirmitatem pertinebat. Utique non erat qui lepidam ac malam indolem foris et intus periculis servaret. Voluntas eius fortissima, ut sui dominus sit, ei vae haereditatem sibi comparavit. Infelicem dominum volucris se fassus est, Percussumque ferens carmen hoc. Sed eius plena fuit illa fabularum animi quae praesagia sui exitii exsultat. Pars laeta est ioci: omnes gladiatores sumus clamantes: Ave imperator! To quote de facto Burke: "In dolore superior est voluptas, et afflictio quae patimur nullam habet similitudinem cum dolore, qui semper est odiosus, quem quam primum excutere conamur." Procedebat Poe', et etiam in tragoedia curriculi artifex fuit. Si, ut ipsius opinionis, tristitia et evanescens pulchritudinis summa sunt themata poetica, et poetica sentiendi acerrima terrena delectatio, non sine eorum frequenti compensatione tristitia ac tenebrae contritae vitae fuerunt.
+
+Sequentibus in paginis novum exemplum ingenii artificis habemus, cuius interpretationem praeclari poematis habemus. Gustave Doré, cuius postremum opus penicilli apud nos est, non pictor, immo etiam magus fuit, quia veritates toni, figurae et perfectionis exigebant. His rebus minus quam figuram et distantiam, lucem et umbram efficere, adiuvat propositum, quod moveat animum, imaginationem, intuentis. Quod quidem fecit per horrorem nostrum excitando, per mirabiles et saepe sublimis rerum ineffabiles conceptiones et caliginis seu gloriae plenas. Bene dicitur, si opera ejus non magnae picturae essent, sicut imagines magnae quidem. Ut "litterarius artifex" et talis fuit, vis directa ratio fuit cum scenicis auctoris inventis, fortibus animi audacias inflammantibus suis. Hinc bene cum Rabelais, Le Juif-Errant, Les Contes Drolatiques, et Don Quixote, et inde e contrario decus suum exprimere potuit decoris Tennysonis Idyls, il Paradiso, Hebraeorum Pastorum, aliorumque textuum exaltationem, seu dulcedinem et quietem. Is de deridiculo natus est, spectra uati cerebri singulari intuitu potuit effingere. Videmus objecta tanquam personas visa, oculisque errantium Judaeorum, Don incerti, seu aurifabri filia, cujus regem in taberna in Pont-au-Change adeo magnificat. In rerum natura, ut ad singulas versus vel prosas palmas, singulares appellavi, traheretur. Regna inferiora in servitutem dicta sunt; eius saxa, arbores et montes, ipsum caelum, motivo ac diablerio animatum. Si Shakespeare illustrare vixerat, notabilem tractationem Caliban, veneficae, procellae in "Lear" vidimus; sed proculdubio specimina Imogenis seu Miranda interrogare debuit. Pulchritudo pura et simplex, ac perfecta ejus excellentia, raro comprehendere videbatur.
+
+Est tamen pulchritudo in consiliis suis pro "Antiquo Mariner", ut sunt reales, et consecutiva rara in serie a Doré. Rime prolixam ei praebuit fabulam, cum multis intervenit vicissitudine. Apud Corvum sonus et color monotones suos conservant et nullam habemus mutationem loci vel temporis. Quid sequitur? Doré varietates thematis seriem affert, cum illud « aenigma mortis et hallucinationis animae inconsolabilis » concipiens. Ex his quaedam vitia eius perspicua sunt; alii validam eius indolem et optimas qualitates, in quibus, ut ipse constitit, solus constitit. Fuit plane aliquid commune inter operando modos Poe et Dore. Hoc clarius appareret, ille suam manum in fabulas Grotesque et Arabesque temptavit. Uterque saepe ad Dryadalem terram phantasiae et Romanorum frequentabat. In melodramaticis facinoribus uterque, supernaturali imperio, periculum inter idealem et absurdum vitavit. Poe* verior erat formosae cultor; eius amor consecrator fuit, et hic cum suo illustratore communicat. Poeta seu artifex, Mors tandem omnes transfigurat: Sub umbrae praenuntiae, Vedder symbolicae crayon apte os ad os ponit, sed illis immortalis sapientiae ac potentiae pallio implicat. Mulier Americana simulacrum Genii siderei facibus ultimis operatus est, eximia specie eius, cuius visio aspicit, sed cuius labia non enuntiant, mysteria terrae ultra portam "sepulcri legendi".
+
+Edmundus C. Stedman.
+
+POEMA.
+
+Illustration 1
+
+RAVEN.
+
+Media nocte tristis es, dum cogitabam, infirmum et lassum;
+
+Permulta quat ac curiosa voluminis oblita es;
+
+Dum adnuissem, prope indiligente, repente icta est;
+
+Tamquam aliquis leniter radens, ad thalami mei ostium rapiens.
+
+"'T visitator quidam est," mussavi, "percussus ad ostium cubiculi mei.
+
+Hoc tantum, et nihil amplius.'
+
+Ah, plane memini caeruleo Decembri fuisse;
+
+Et favillae moribundae singulae singulae exspiravit in pavimento.
+
+crastina cupiebam: frustra quaesieram mutuari
+
+Ex libris meis luctus dolor tristique Lenore.
+
+Nam virgo rara et candida, quam angeli nominant Lenore-.
+
+Hie curtc in secula seculorum.
+
+Serica tristis incertus crepitantibus aulaei purpurei cuiusque
+
+Horruit me, replevit me phantasiis terroribus nunquam antea;
+
+ut nunc adhuc cordis mei pulsus repetendo steti
+
+"T est aliquis visitator ad ostium cubiculi mei deprecans ostium"
+
+Quidam nuper visitator deprecans introitum ad ianuam cubiculi mei;-
+
+Hoc est, et nihil amplius.
+
+mox invalescit anima mea; iam non dubitatis;
+
+'Domine,' inquam, 'vel Madam, veniam vero tuam exoro;
+
+Sed plane ego indiligebam, et ita sensim es rapacior;
+
+Ictibus itaque subtiliter venisti, ad cubiculi mei ianuam percutiens;
+
+Vix sciebam te audivi: hic ianuam aperui;
+
+Tenebrae factae sunt, et nihil amplius.
+
+Prospiciens penitus tenebras, dum stetimus illic, Obstupui, metuensque ;
+
+Somniare dubitare, nemo mortalium somniare ante ausus est;
+
+Sed continens silentium, et nullae tenebrae signum;
+
+Et solum ibi dictum est verbum in aurem, "Lenore!"
+
+Hoc insusurrans, et resonans murmure verbum, "Lenore!"
+
+Hoc modo et nihil amplius.
+
+Revertere in thalamum converte, anima mea intra me ardentem;
+
+Mox iterum Ictantem audivi paulo clariorem quam ante.
+
+"Certe", inquam, "certe aliquid est in fenestra mea cancelli;
+
+Videam ergo quid sit et hoc mysterium explorandum.
+
+Momento sit cor meum et hoc mysterium explorare;-
+
+"T ventus est et nihil amplius!"
+
+Aperto hic, cum multa amas et volitantem,
+
+Illic ingressa magnanimum venerabile corvum.
+
+Non minimum adulatus est; non minutum tempus aut moratus est;
+
+Sed vultu domini vel dominae supra cubiculi mei ostium residebat.
+
+Penetrale Palladis supra thalami thalami.
+
+Sedit, et sedit, et nihil amplius.
+
+Tunc hebenum risum decepit avis hebenum.
+
+Gravi et truci decori faciei utebatur;
+
+"Si tonderi et detonsura crista tua est, tu", inquam, "saxea non es certa;
+
+Tetrum horrendum et vetusto Corvo nocturnis errans in oris.
+
+Dic mihi quid sit nomen dominicum in littore Noctis Plutonia!
+
+Dicit Corvus, "Numquam."
+
+Multum miratus sum hanc indisciplinatam aucupium, ut tam aperte sermonem audiret;
+
+Quamquam eius responsionis significationem - parum congruentiae sustinuit;
+
+Non enim possumus non convenire quod nullus homo vivens
+
+Semper adhuc cum videndo avem super thalamo suo.
+
+Avis aut bestia supra cubiculi sui imaginem sculpta;
+
+Quo nomine "Nevermore".
+
+At Corvus, placido sedentem corpore solus, locutus est
+
+Unum illud, quasi anima in uno verbo promeret.
+
+nihil tum praeterea, pluma non volitat.
+
+Donec vix mussant alii "Alii prae- volaverunt amici.
+
+Cras me deseret, dum spes mea praevolavit.
+
+Tunc avis dixit, "Numquam."
+
+Arrectum excepit silentium, responsumque tam apte prolatum est;
+
+"Profecto" inquam "quid profert unum genus ac penus;
+
+Deprensus ab aliquo , miser , domino , cui clades immisericordes
+
+Et sequebatur eum festinanter, et usque ad unum onus carminum eius portabat.
+
+Donec naeniae Spei melancholica onus ferebat
+
+"Nunquam".
+
+At Corvus adhuc omnem animam tristis in renidens decepit;
+
+Protinus ad solium volucrem et imaginem et postes Versavi pulvinari;
+
+Tum holoserica depressa, me ad conjunctionem contuli
+
+Finge ad libidinem, quid ominis avem.
+
+Quae tam dira, rudes, luridae, macie et ominis ales ?
+
+Intelligitur in coquendo "Numquam."
+
+Hoc ego in coniectura sedebam, sed syllabam non exprimo
+
+volucri cui nunc igneus umor ardebat in sinum nucleus;
+
+Haec magisque ego divinans sedebam, caputque recumbens
+
+Pulvinar holoserica enascentia anicula oberrat;
+
+Sed cuius holoserica purpurea enascentia anicula eiectat
+
+Ah numquam urgebit!
+
+tum densiorque putabatur aer, et turibulo viso odoratus
+
+Seraphim intorta a pavimento caespitosa cuius pedites iuncti tinxerunt.
+
+Clamavi miser, Deus tuus te commodavit, per hos angelos te misit
+
+requies et nepenthes a memoriis Lenoris.
+
+Lesbii, o Lesbii genus hoc nepenthee, et amissam Lenore obliviscere!
+
+Dicit Corvus, "Numquam."
+
+"Propheta!" Ego dixi: Mali! Propheta adhuc, si avis aut diabolus!
+
+Sive missum tentator, sive eiectat tempestas,
+
+Desine cuncta imperterrita terra in hac solitudine cantata.
+
+hic vero horror Uada , dic mihi vero , oro .
+
+Estne resina in Galaad? dic mihi, quaeso.
+
+Dicit Corvus, "Numquam."
+
+"Propheta!" Malum dixi, propheta adhuc avis aut diabolus.
+
+Per coelum illud sursum, nos, per Deum nos ambo adoramus.
+
+Hanc animam moerore gravem, si longinqua, Aidenn;
+
+Amplectetur sanctam virginem, quam angeli nominant Lenore-.
+
+Rara et candida virgo quam Lenore nominant angeli.
+
+Dicit Corvus, "Numquam."
+
+"Esto hoc verbum nostrum signum abeuntis, ave vel furis!" Clamaverunt, upstarting-
+
+"Recede in tempestatem et litus Plutonium Noctis!
+
+Ne demittas cristam nigram tanquam pignus mentientis anima tua locuta est!
+
+Desine intemerata mihi solitudo! -quit imago supra ianuam meam!
+
+Rostrum de corde meo tolle, et formam tuam ab ostio meo aufer.
+
+Dicit Corvus, "Numquam."
+
+Et corvus, nunquam volitans, adhuc sedet, adhuc sedet
+
+Pallentis imago Palladis supra thalami;
+
+Oculi autem eius omnes quasi daemonia somniantes;
+
+Et lychnus inundans humi jactat umbram ;
+
+Et anima mea de umbra illa quae in solo volitans iacet
+
+Elevabitur amplius.
+

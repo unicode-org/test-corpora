@@ -1,0 +1,570 @@
+Iwe ebook Project Gutenberg ti The Raven, nipasẹ Edgar Allan Poe.
+
+Ebook Project Gutenberg ti The Raven
+
+Ebook yii jẹ fun lilo ẹnikẹni nibikibi ni Amẹrika ati ọpọlọpọ awọn ẹya miiran ti agbaye laisi idiyele ati pẹlu fere ko si awọn ihamọ ohunkohun. O le daakọ rẹ, fun ni kuro tabi tun lo labẹ awọn ofin ti Iwe-aṣẹ Project Gutenberg ti o wa pẹlu ebook yii tabi lori ayelujara ni www.gutenberg.org . Ti o ko ba wa ni Orilẹ Amẹrika, iwọ yoo ni lati ṣayẹwo awọn ofin ti orilẹ-ede ti o wa ṣaaju lilo ebook yii.
+
+Title : The Raven
+
+Onkọwe : Edgar Allan Poe
+
+Ọrọìwòye : Edmund Clarence Stedman
+
+Oluyaworan : Gustave Doré
+
+Ọjọ itusilẹ : Oṣu kọkanla ọjọ 30, Ọdun 2005 [eBook #17192] Imudojuiwọn pupọ julọ: Oṣu kejila ọjọ 13, Ọdun 2020
+
+Ede : English
+
+Awọn kirediti : Ti a ṣe nipasẹ Jason Isbell, Melissa Er-Raqabi ati Online Egbe Imudaniloju Pinpin ni https://www.pgdp.net.
+
+*** Ibẹrẹ Ise agbese GUTENBERG EBOOK THE Raven ***
+
+Ideri pada
+
+OGBON
+
+Nipasẹ
+
+EDGAR ALLAN POE
+
+Aworan By GUSTAVE DORÉ
+
+Aworan Akọle
+
+PẸLU Ọrọìwòye nipasẹ EDMUND C. STEDMAN
+
+NIU YOKI
+
+HARPER & Arakunrin, Publishers, Franklin SQUARE
+
+Ọdun 1884
+
+Wọle ni ibamu si Ofin ti Ile asofin ijoba, ni ọdun 1883, nipasẹ
+
+HARPER & Arakunrin,
+
+Ni Ọfiisi ti Ile-ikawe ti Ile asofin ijoba, ni Washington.
+
+Gbogbo awọn ẹtọ wa ni ipamọ.
+
+Awọn akọsilẹ Transcriber
+
+Ninu Atokọ Awọn apejuwe Mo ṣe atunṣe agbasọ ẹyọkan ti o padanu lẹhin Lenore! bi a ṣe han ni isalẹ:
+
+“‘O buru,’ Mo kigbe, ‘Ọlọrun rẹ ti yá ọ—nipasẹ awọn angẹli wọnyi li o fi rán ọ. Respite-isinmi ati nepenthe lati awọn iranti rẹ ti Lenore!'"
+
+Atokọ Awọn Apejuwe nlo 'alejo' nibiti oriki ati apejuwe gangan lo 'alejo'.
+
+Akojọ ti awọn aworan apejuwe
+
+Pẹlu awọn orukọ ti awọn Engravers
+
+Oju-iwe akọle, ti a ṣe nipasẹ Elihu Vedder.
+
+Frederick Juengling.
+
+"Laelae."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Klaudiu.
+
+“Lẹ́ẹ̀kọ̀ọ̀kan, ìyànjú ọ̀gànjọ́ òru kan, nígbà tí mo ń ronú, aláìlera àti àárẹ̀, Lori ọpọlọpọ iwọn didun ati iyanilenu ti itan igbagbe. ”
+
+RA Muller.
+
+"Ah, ni pato Mo ranti, o wa ni Oṣu kejila ti o buruju, Òkú ọ̀kọ̀ọ̀kan sì mú ẹ̀mí rẹ̀ sórí ilẹ̀.”
+
+RG Tietze.
+
+"Mo fi itara fẹ ọla; lasan ni mo ti wa lati yawo Lati awọn iwe mi ni idaniloju ibanujẹ - ibanujẹ fun Lenore ti o sọnu."
+
+H. Klaudiu.
+
+"Ibanujẹ fun Lenore ti o sọnu."
+
+W. Zimmermann.
+
+"Fun ọmọbirin ti o ṣọwọn ati didan ti awọn angẹli n pe Lenore- Laini orukọ nibi lailai."
+
+Frederick Juengling.
+
+"'T jẹ diẹ ninu awọn alejo ti n ṣagbe ẹnu-ọna ni ẹnu-ọna iyẹwu mi - Diẹ ninu awọn alejo pẹ ti ngba ẹnu-ọna ẹnu-ọna iyẹwu mi.'"
+
+W. Zimmermann.
+
+- "Nibi ni mo ti ṣi ilẹkun nla; - Okunkun nibẹ, ko si si nkan miiran."
+
+H. Klaudiu.
+
+"Iyemeji, awọn ala ala ko si eniyan ti o ni igboya lati lá ṣaaju."
+
+FS Ọba.
+
+"'Nitootọ,' ni mo wi, 'nitootọ eyi jẹ ohun kan ni oju ferese mi; Jẹ ki n wo, lẹhinna, kini o wa, ati ohun ijinlẹ yii ṣawari.'"
+
+Frederick Juengling.
+
+"Ṣii nibi ni mo ju tiipa."
+
+T. Johnson.
+
+- "Iwo nla ti awọn ọjọ mimọ ti igba atijọ. Ko ṣe itẹriba o kere ju; ko ṣe iṣẹju kan ti o duro tabi duro."
+
+R. Staudenbaur.
+
+"Ti o wa lori igbamu ti Pallas kan loke ẹnu-ọna iyẹwu mi - Duro, o si joko, ko si si nkankan mọ."
+
+RG Tietze.
+
+"Nrin kiri lati eti okun Nightly."
+
+Frederick Juengling.
+
+Titi di igba ti Emi yoo fẹrẹ diẹ sii ju kigbe, 'Awọn ọrẹ miiran ti fò ṣaaju - Ní ọ̀la yóò fi mí sílẹ̀, gẹ́gẹ́ bí ìrètí mi ti fò ṣáájú.’ ”
+
+Frank Faranse.
+
+“Lẹhinna, lori felifeti ti n rì, Mo gba ara mi lati sopọ Ifẹ si ifẹ. ”
+
+R. Schelling.
+
+"Ṣugbọn ẹniti felifeti violet awọ pẹlu atupa gloating o'er Yoo tẹ, ah, lailai! ”
+
+George Kruell.
+
+“‘O buru,’ Mo kigbe, ‘Ọlọrun rẹ ti yá ọ—nipasẹ awọn angẹli wọnyi li o fi rán ọ. Respite-isinmi ati nepenthe lati awọn iranti rẹ ti Lenore!'"
+
+Victor Bernstrom.
+
+"Lori ile yii nipasẹ Horror Ebora."
+
+R. Staudenbaur.
+
+“ ‘Sọ fún mi nítòótọ́, mo bẹ̀— Ǹjẹ́ ó wà—ì báramu wà ní Gílíádì bí?
+
+W. Zimmermann.
+
+"'Sọ fun ọkàn yii pẹlu ibanujẹ ti o rù bi, laarin Aidenn ti o jina, Yóo di omidan mímọ́ kan tí àwọn áńgẹ́lì pè ní Lenore.'"
+
+FS Ọba.
+
+"'Jẹ ọrọ naa ami ti pipin, eye tabi fiend!' Mo pariwo, ni ibẹrẹ."
+
+W. Zimmermann.
+
+"' Gba ọ pada sinu iji ati eti okun Plutonian Night!'"
+
+Robert Hoskin.
+
+“Ati ọkàn mi lati iboji yẹn ti o dubulẹ lori ilẹ A o gbe soke-ko si mọ!"
+
+RG Tietze.
+
+Ikọkọ ti Sphinx.
+
+R. Staudenbaur.
+
+Ọrọìwòye LORI ORÍKÌ.
+
+Asiri ewi, ko kere ju ire elegan lo, wa ni eti eni ti o gbo. Sokale si apilẹṣẹ rẹ, gba iṣesi akewi: eyi, lẹhinna, ni ohun ti awọn ọlọgbọn dahun nigbati o beere lọwọ wọn ni iye rẹ. Bi o tilẹ jẹ pe akewi funrarẹ, ninu iṣesi rẹ miiran, sọ fun ọ pe iṣẹ-ọnà rẹ jẹ ọwọ sleight, ounjẹ onjẹ onjẹ rẹ, o si funni lati ṣafihan ẹtan rẹ, - maṣe gbagbọ. Duro fun wakati asotele rẹ; lẹhinna fi ara rẹ fun ifẹkufẹ rẹ, ayọ tabi irora rẹ. "A wa ni ọwọ Love loni!" kọrin Gautier, ni Swinburne's buoyant paraphrase, - ati lati owurọ si Iwọoorun ti a ti wafted lori okun iwa: ife kan wa, ọkan May, ọkan Flower okun. Ifẹ jẹ ayeraye, gbogbo ohun miiran ko jẹ otitọ ati fi si apakan. Iran naa ni opin, aaye naa yipada; sugbon a ti ni ibe nkankan, iranti ti a rẹwa. Bi ọpọlọpọ awọn ewi, ki ọpọlọpọ awọn ẹwa. Nibẹ ni ifaya ti Evanescence, eyiti o ya si ẹwa giga julọ ati oore-ọfẹ aureole ti Pathos. Pin pẹlu Landor rẹ ọkan "alẹ ti awọn iranti ati ti ikẹdùn" fun Rose Aylmer, ati pe o ni eyi ni kikun.
+
+Ati nisisiyi gba ọwọ ti a titun-aye minstrel, strayed lati diẹ ninu awọn to dara ibugbe si wipe arínifín ati dissonant America eyi ti, bi Baudelaire ri, "je fun Poe nikan kan tiwa ni tubu nipasẹ eyi ti o ran, nibi ati nibẹ, pẹlu awọn feverish agitation ti a kookan da lati simi ni a purer aye," ati ibi ti "rẹ inu ilohunsoke aye, ẹmí bi a Akewi, ani awọn ipa ti ẹmí kan ti a ti salọ. bugbamu antipathetical yii." Di ọwọ ifarabalẹ ti akọrin ti o ni wahala kan nitorinaa ajeji rẹ, ki o pin pẹlu rẹ ni ipari ti eyiti o rii, - kii ṣe jakejado ọjọ, nigbagbogbo ni alẹ, - ti kii ba ṣe Atlantis nibiti o ti rin kiri, o kere ju aaye aabo lati awọn aala ninu eyiti nipasẹ ọjọ o jẹ immured.
+
+Si ilẹ kan nikan ni o ni agbara lati ṣe amọna rẹ, ati pe fun alẹ kan nikan ni iwọ le pin ala rẹ. Ilana ti kii ṣe Earth tabi Ọrun: "Ko si-eniyan-ilẹ," jade ti Space, jade ti Time. Eyi ni awọn ti o ni rudurudu, nipasẹ awọn oju wọn, bii ti Cenci, ọkàn wa awọn ferese bi o tilẹ jẹ pe ọkan rẹ parẹ; nibi awọn ẹmi, groping fun ọna ti o nyorisi si Ayeraye, ti wa ni idaduro ati idaduro. O jẹ limbo ti “awọn ẹmi aye,” ninu eyiti gbogbo awọn aidaniloju imọlẹ oṣupa wa, gbogbo awọn ifẹ ti o sọnu ati awọn ẹtan. Nibi diẹ ninu awọn ti wa ni titunse ni Tiranse, awọn nikan respite ṣee ṣe; awọn miiran
+
+" gbe fantastically
+
+Si orin aladun kan:"
+
+nigba ti ibi gbogbo wa
+
+"Awọn iranti ti o ti kọja ti o ti kọja-
+
+shrouded fọọmu ti o bẹrẹ ati ki o sigh
+
+Bí wọ́n ṣe ń kọjá lọ alárìnkiri.”
+
+Iru ilẹ naa ni, ati fun alẹ kan a wọ inu rẹ, - alẹ ti awọn ipele astral ati awọn chimes loorekoore. Awọn monodies rẹ jẹ awọn ewi mejila, ti orin rẹ n gbiyanju lati yipada sibẹsibẹ lailai jẹ kanna. Ọ̀kọ̀ọ̀kan wọ́n ń dún bí ìró aago brazen àti ebony, nínú “Masque of the Red Death,” èyí tí ó mú kí àwọn waltzer náà dánu dúró pẹ̀lú “àìdáríjì àti ìdààmú àti àṣàrò,” ní gbogbo ìgbà tí wákàtí náà ti ń yí.
+
+Ninu gbogbo awọn cadences mystical wọnyi, ẹjọ ti Raven , titaniji nipasẹ ọna abawọle, olori ti ṣe iwunilori agbaye ita. Awọn nkan wo ni o lọ si ṣiṣe ewi, ati bawo ni otitọ ninu eyi, bii ninu pupọ julọ miiran, ije yẹn ti o pe awọn bards rẹ ni “awọn oluṣe”? A pe iṣẹ kan kuro ninu ofo. Níbi tí kò sí nǹkan kan, ó ṣì wà,—ìṣẹ̀dá tuntun kan, apá kan ìṣúra aráyé. Ati awọn orin alailẹgbẹ diẹ, diẹ sii ju awọn miiran ti o jẹ iṣẹda dọgba, fi agbara mu wa lati ronu tuntun bawo ni igboya ti ikọwe akewi ṣe yi awọn nkan ti a ko mọ.
+
+"lati ṣe apẹrẹ, ko si fun ohunkohun ni airy
+
+Ibugbe agbegbe, ati orukọ kan."
+
+Olukuluku dabi laisi apẹrẹ kan, sibẹsibẹ gbogbo wọn ṣe iyanilenu wa pẹlu awọn eroja ti a ja lati ojiji ti Olori-aye. Bayi ni ga oju inu jẹ fiyesi nipa awọn ọkàn ti ohun; o le tabi ko le ṣe iwuri Irokuro ti awọn eniyan ti o ni awọn aworan ni aiduro interlunar. Sibẹsibẹ, ọkan ninu awọn orin wọnyi, ni ọna ti o kere julọ, yoo ni ipa lori wa pẹlu ori ti iyasọtọ, bi o ti jẹ pe awọn iṣẹ sublimer ti simẹnti eleri kan, - Marlowe's "Faustus," "Faust" ti Goethe, "Manfred," tabi paapaa awọn afọwọṣe ethereal, "The Tempest" ati "A Midsummer Night's Dream." Diẹ ẹ sii ju ọkan lọ, lakoko ti o jẹ alailẹgbẹ, ni diẹ ninu  ẹru tabi dawọ eyi ti o nmu iranti jẹ, - ni kete ti gbọ, ko gbagbe, bi ohun orin ti a ṣọwọn lo sugbon pato eto ara-duro. Ohun akiyesi laarin wọn ni Bürger's "Lenore," ti o jẹ ẹmi-iwin ati ballad ti o ni irẹwẹsi, ẹtan ati foil ti awọn atumọ. Diẹ yoo sẹ pe iyanu ti Coleridge "Rime of the Ancient Mariner" duro ni ori wọn gan-an. "Le Juif-Errant" yoo ti ni ẹtọ, ti Beranger ti jẹ akewi ti o tobi julọ; ati, ṣugbọn fun jijin wọn lati gbajugbaju aanu, "The Lady of Shalott" ati "The Ibukun Damozel" le wa ni afikun si awọn akojọ. A fi fun Edgar Allan Poe lati gbe awọn orin meji, "The Bells" ati The Raven , kọọkan ninu eyiti, biotilejepe boya ti ẹwa ti o kere ju ti Tennyson ati Rossetti, jẹ alailẹgbẹ. "Ulalume," lakoko ti o jẹ ajeji ati oju inu, ko ni didara agbaye ti o jẹ apakan ti idanwo wa.
+
+Raven ninu awọn eroja ewi lasan ṣubu ni isalẹ iru awọn ege bii “Aafin Ebora,” “Ilu inu Okun,” “Olusun oorun,” ati “Israfel.” Gbogbo rẹ yoo jẹ paarọ, Mo fura, nipasẹ awọn oluka ti simẹnti ti o yara, fun iru awọn ọrọ bi wọnyi:
+
+"Ni ayika, nipa gbigbe afẹfẹ gbagbe,
+
+Resigned labẹ awọn ọrun
+
+Awọn melancholy omi dubulẹ.
+
+Ko si itansan lati ọrun mimọ sọkalẹ
+
+Ni alẹ pipẹ ti ilu naa;
+
+Ṣugbọn imọlẹ lati jade ni lurid okun
+
+Ṣe ṣiṣan soke awọn turrets ni idakẹjẹ—
+
+· · · · · · ·
+
+Soke ọpọlọpọ ati ọpọlọpọ ile-ẹsin iyalẹnu kan
+
+Ẹniti wreathéd friezes intertwine
+
+violet, violet, ati ajara.
+
+· · · · · · ·
+
+Ko si wiwu ti o sọ pe awọn afẹfẹ le jẹ
+
+Lori omi okun idunnu ti o jinna diẹ —
+
+Ko si heavings ofiri wipe afẹfẹ ti ti
+
+Lori awọn okun kere hideously serene."
+
+Ko ni orin aladun eriali ti akewi ti awọn gbolohun ọrọ ọkan rẹ jẹ lute:
+
+"Ati pe wọn sọ (awọn akọrin irawọ
+
+Ati awọn nkan gbigbọ miiran)
+
+Ina Israfeli
+
+O jẹ nitori lyre yẹn
+
+Nipa eyiti o joko ti o si kọrin-
+
+Awọn gbigbọn alãye waya
+
+Ninu awọn gbolohun ọrọ dani. ”
+
+Ṣugbọn The Raven , bi "The Bells" ati "Annabel Lee," commends ara si awọn ọpọlọpọ ati awọn diẹ. Mo ti sọ ni ibomiiran pe awọn iṣelọpọ rarer Poe dabi ẹnipe mi “awọn ti o wa ninu irisi, o kere ju, ti aibikita, ninu eyiti o fun awọn ikunsinu rẹ, lakoko ti o ku ṣubu ati awọn cadences julọ orin, pupọ melancholy, wa lati ọdọ rẹ laimọ. Eyi tun jẹ igbagbọ mi; ati sibẹsibẹ, lori titun iwadi ti ewi yi, o iwunilori mi diẹ sii ju ti eyikeyi akoko niwon mi omokunrin. Isunmọ ojulumọ sọ ni ojurere ti gbogbo iṣẹ-ọnà otitọ. Rí ọkùnrin náà, tí kò mọ iṣẹ́ ọnà tàbí kò bìkítà nípa rẹ̀, láti ṣàyẹ̀wò ewì tàbí àwòrán kan, àti bí agbára rẹ̀ ṣe tètè gbá a mú! Na nugbo tọn, e na yí nukunpẹvi do pọ́n nuhọakuẹ-yinyin azọ́n dagbe tintan lọ tọn gbọn ehe dali ayidonugo etọn ko yin mimọyi ganji. Raven , paapaa, ni awọn agbara ti o ni ibamu eyiti paapaa alamọja gbọdọ nifẹ si. Ni ko si miiran ti awọn oniwe-onkowe ká awọn ewi ni idi diẹ palpably telẹ. "Aafin Ebora" jẹ bi o ṣe jẹ pato si oluka ti o yan, ṣugbọn Poe ko le ti mu apejuwe arekereke yẹn fun itupalẹ pá. Raven naa ni kikun ti tẹdo pẹlu akori aṣoju ti onkọwe — isonu ti ko ṣee ṣe pada ti obinrin oriṣa ati ẹlẹwa; sugbon lori miiran idi, tun, awọn àkọsílẹ instinct ni o tọ ni lerongba o rẹ asoju Ewi.
+
+Ọkùnrin olóye kan sábà máa ń ní ìforígbárí pẹ̀lú àṣeyọrí ìsapá kan, èyí kì í sì í ṣe gbogbo ìgbà tí ó ga jù lọ. Idanimọ jẹ lẹsẹkẹsẹ diẹ sii fun ti sun siwaju. Ko gba a, bi ọrọ-ini aṣiwere, owo-bọọlu lẹhin owo, ṣugbọn “kii ṣe rara tabi rara ni gbogbo rẹ.” Ati bayi pẹlu miiran ambitions: awọn courtier, jagunjagun, osere,-ohunkohun ti won awọn ẹya ara,-kọọkan kà rẹ Ijagunmolu lati diẹ ninu awọn orire ọpọlọ. Poe's Raven, pelu augury, jẹ fun u "ẹiyẹ ti o jẹ ki afẹfẹ fẹ." Akewi naa gbe ni New-York, ni igba otutu ti 1844-'45, wiwa iṣẹ lori iwe Willis, "The Evening Mirror," o si npa owo-ori rẹ jade nipasẹ awọn ẹbun ni ibomiiran. Fun ọdun mẹfa o ti jẹ onkọwe ti nṣiṣe lọwọ, o si gbadun olokiki olokiki; ti waye ni ọwọ mejeeji ati aiṣedeede, ko si padanu fun ipin rẹ ninu iṣẹ iroyin ti ko sanwo ni ọjọ yẹn. O tun ti ṣe pupọ julọ ninu iṣẹ rẹ ti o dara julọ, - iru awọn itan bii “Ligeia” ati “Isubu ti Ile Usher,” (igbẹhin ti o ni ẹlẹgbẹ aramada yẹn ninu, ninu ẹsẹ, ti Elihu Vedder's “A Lost Mind,”) iru awọn iṣesi atupale bii “Kokoro goolu” ati “The Mystery of Marie Roget.” Ó ti ṣe àwọn aláwọ̀ṣe nílẹ̀ òkèèrè, ó sì ti di ìdúró pípẹ́ sórí àwọn ará Faransé. Ó ti kọ́ agbára àti àìlera tirẹ̀, ó sì wà ní ipò àkọ́kọ́ rẹ̀, kì í sì í ṣe láìní orúkọ rere kan. Ṣugbọn kò kọ ohunkohun ti o wà lori ahọn gbogbo eniyan. Si iṣẹ toje ati elege diẹ ninu ifọwọkan olokiki gbọdọ wa ni afikun lati mu awọn olugbo gbogbogbo ti akoko tirẹ.
+
+Nipasẹ ile-iṣẹ ti awọn onkọwe itan-akọọlẹ ti Poe ti o tẹle, ikọlu ti The Raven ṣe ti di itan-akọọlẹ igbagbogbo. Iyawo ọdọ ti akewi, Virginia, ti nparẹ niwaju oju rẹ, ṣugbọn o duro fun ọdun miiran laarin ojiji iku. Awọn gun, kekere iyẹwu ni ile nitosi Bloomingdale Road ni bi  olokiki bi yara ibi ti Rouget de l'Isle kq Marseillaise. Gbogbo eniyan ti gbọ pe orin naa, ti o fowo si "Quarles," han ni "Atunwo Amẹrika," pẹlu asọye-ọrọ-ọrọ-ọrọ lori fọọmu rẹ; ti Poe gba mẹwa dọla fun o; ti Willis, awọn kindest ati ki o kere ilara ti asiko arbiters, reprinted o pẹlu kan eulogy ti o lesekese ṣe o ilu-ọrọ. Gbogbo iyemeji ti onkọwe rẹ ni a yọ kuro nigbati Poe sọ ọ funrararẹ ni apejọ iwe-kikọ kan, ati fun akoko kan o jẹ aami julọ ti awọn onkọwe Amẹrika. Kọlu naa ru o si fun u ni iyanju. Gẹgẹbi satirist miiran ati igberaga, oun naa rii “nkan ti ooru” paapaa “ninu hum ti awọn kokoro.” Ibanujẹ ti o to, ṣugbọn ọdun mẹta ti kọja,-akoko ti ipa, igberaga, ibanujẹ, sibẹsibẹ nigbagbogbo ti iṣaro tabi iṣẹ-ṣiṣe pataki,-ṣaaju ki o to ijatil ikẹhin, ṣaaju ki aṣọ-ikele ti lọ silẹ lori igbesi aye ti o jẹ ajalu fun u ni otitọ, o si jẹ ki o gba "Worm Conqueror."
+
+"Atunwo Amẹrika: Akosile Whig" jẹ iwe irohin ti o ni gbese fun akoko naa, ti o ni ilọpo meji, ti a tẹjade lori iwe ti o dara pẹlu iru ti o han, ati ti a ṣe apejuwe nipasẹ awọn aworan mezzoint. Laarin ọrọ pupọ ti o wa labẹ boṣewa ti o wa, diẹ ninu ninu eyiti olootu eyikeyi yoo dun lati gba. Iwọn akọkọ, fun 1845, ni awọn nkan nipasẹ Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman, ati Whipple. Ralph Hoyt's quaint oríkì, "Atijọ," han ni yi iwọn didun. Ati pe nibi ni awọn orin mẹta nipasẹ Poe: “Ilu ti o wa ni Okun,” “Afonifoji ti Rogbodiyan,” ati Raven . Meji ninu awọn wọnyi ni a kọ soke, - iru ọna rẹ, - lati awọn ẹkọ iṣaaju, ṣugbọn ti o kẹhin-orukọ wa jade bi ẹnipe a ti kọ tuntun, ati pe o fẹrẹ bi a ti ni bayi. Gbólóhùn náà pé a kò ṣàtúnṣe lẹ́yìn náà jẹ́ àṣìṣe. Àwọn ìyípadà mẹ́wàá mẹ́wàá láti inú ọ̀rọ̀ ìwé ìròyìn náà fara hàn nínú The Raven and Other Poems , 1845, ìwé kan tí akéwì náà rí i pé kó fún gbogbo èèyàn níṣìírí. Iwọnyi jẹ pupọ julọ awọn iyipada ti aami ifamisi, tabi ti awọn ọrọ ẹyọkan, iru igbehin ti a ṣe lati mu ipa ti isọdi pọ si. Ninu ẹda lẹwa ti Ọgbẹni Lang ti ẹsẹ Poe, ti a mu jade ni “Iwe-ikawe Parchment,” o ti ṣe afihan instinct ti ọmọ-iwe kan, o si ti ṣe pẹlu ọgbọn, ni lilọ pada si ọrọ ti o wa ninu iwọn didun ti a ti sọ tẹlẹ, gẹgẹ bi a ti fun ni atejade London ti 1846. Awọn “boṣewa” Griswold gbigba ti awọn iṣẹ akewi pọ pẹlu awọn aṣiṣe. Iwọnyi ti tun ṣe nipasẹ awọn olootu nigbamii, ti wọn tun ti ṣe awọn aṣiṣe tiwọn. Ṣugbọn ọrọ ti Raven , nitori awọn ibeere ti a ṣe si onkọwe fun awọn ẹda iwe afọwọkọ, tun tun ṣe atunṣe nipasẹ rẹ; ní tòótọ́, ó tẹ̀ ẹ́ jáde ní Richmond, ní kété ṣáájú ikú rẹ̀, pẹ̀lú ìfidípò ewì ti “séráfù ẹni tí ẹsẹ̀ rẹ̀ ṣubú” fún “àwọn áńgẹ́lì tí ẹsẹ̀ rẹ̀ rẹ̀ ṣubú,” ní àyè kẹrinla. Ọrọ ti o wa lọwọlọwọ, nitorina, lakoko ti o jẹ pataki ti 1845, jẹ atunṣe diẹ nipasẹ kika ti akewi nigbamii, ati pe, Mo ro pe, ẹya ti o pe julọ ati imunadoko ti ewi kan ṣoṣo yii. Iyipada pupọ julọ lati ẹya akọkọ ti han, sibẹsibẹ, ni iwọn didun ni 1845; stanza kọkanla ni akọkọ ti o ni awọn ila wọnyi ninu, ti o jẹ aṣiṣe ninu orin ati bibẹẹkọ abawọn lori ewi naa:
+
+"Ti a mu lati ọdọ oluwa ti ko ni idunnu, ẹniti Ajalu alaanu
+
+Tẹle ni iyara ati tẹle yiyara — nitorinaa, nigbati Ireti yoo jẹri,
+
+Stern Despair pada, dipo Ireti ti o dun ti o laya adjure-
+
+Ìdáhùn ìbànújẹ́ yẹn, ‘Kò sí mọ́!’”
+
+Yoo dara ti awọn miiran, ati olokiki, awọn ewi le ni idaniloju ti ṣiṣe awọn ayipada wọn nigbagbogbo awọn ilọsiwaju. Poe nigbagbogbo tun ṣe atunṣe ifihan ti ẹsẹ rẹ ti o kere pupọ, ati nigbagbogbo dara si. Raven jẹ akọkọ ti awọn ewi diẹ ti o fẹrẹ mu wa lati pari ṣaaju titẹ sita. Ó lè jẹ́ pé díẹ̀díẹ̀ làwọn tó ń bójú tó ewì pàdánù ikú rẹ̀. Ni pipe ni prose, ko kọ ẹsẹ rara nitori ṣiṣe ewi kan. Nigbati idaduro aworan kan ba a leti, orin ti o yọrisi ni imisi, gẹgẹ bi on tikararẹ sọ, ti itara, kii ṣe ti idi kan. Eyi wa ni awọn aaye arin to ṣọwọn bi o ti fẹrẹ ṣe idalare imọ-jinlẹ Fairfield pe ọkọọkan jẹ ọja ti idaamu aifọkanbalẹ.
+
+Kini, lẹhinna, fun akewi naa ni oye rẹ si Raven ? Lati ipilẹ owusu wo ni o dide laiyara si orin ti nmi laiyara? Gẹgẹbi o ti ṣe deede, diẹ sii ju ohun kan lọ si ile ti ewi olokiki kan. Ní ríronú nípa àwọn ìwàásù tí ó gùn tí wọ́n sábà máa ń wàásù lórí àwọn ọ̀rọ̀ ṣókí tí kò sì ní ìmọ̀ràn, mo retí pé kí n má ṣe dá mi lẹ́bi fún ìjíròrò orin kan ṣoṣo yìí, pàápàá èyí tí oníṣẹ́ ọnà bíi Doré ti ṣe kókó àkàwé onínàákúnàá. Titi di aipẹ Mo ti yẹ pe nkan yii, ati diẹ eyiti onkọwe rẹ kọ lẹhin irisi rẹ, jẹ iyasọtọ ni ko ti dagba lati awọn germs ninu ẹsẹ ọmọkunrin rẹ. Ṣugbọn Ọgbẹni Fearing Gill ti fihan mi diẹ ninu awọn stanzas ti a ko tẹjade nipasẹ Poe, ti a kọ ni ọdun kejidilogun rẹ, ti o si ni ẹtọ, "Eṣu ti Ina." Ó jọ pé ìwé àfọwọ́kọ náà wà nínú ìkọ̀wé àkọ́kọ́ tí akéwì náà kọ, àti pé ojúlówó rẹ̀ jẹ́ ẹ̀rí látọ̀dọ̀ ìdílé tí ohun ìní rẹ̀ ti wà fún ìdajì ọ̀rúndún. Yato si awọn germs ti o han gbangba ti “Awọn agogo” ati “Aafin Ebora” o ni awọn laini diẹ ni imọran ti ṣiṣi ati isunmọ ti Raven . Ní ti orin ewì wa, ìfiwéra àwọn déètì fi hàn pé orin “Lady Geraldine’s Courtship” ló nípa lórí èyí. Poe jẹ ọkan ninu awọn akọkọ lati bu ọla fun Miss Barrett; o kọ awọn ewi rẹ ti o gba fun u gẹgẹbi "ọla julọ ninu ibalopo rẹ," o si wa ninu rẹ  aanu pẹlu rẹ lyrical ọna. Awọn ila lati inu ewi ifẹ rẹ,
+
+"Pẹlu ariwo ariwo ti ko ni idaniloju, ni afẹfẹ, aṣọ-ikele eleyi ti
+
+Ó wú, ó sì wú jáde ní àyíká àwọn ojú ojú rẹ̀ tí kò lè rìn,”
+
+ri iwoyi ninu awọn wọnyi:
+
+“Ati ìbànújẹ́ ìbànújẹ́ àìdánilójú ti aṣọ ìkélé aláwọ̀ àlùkò kọ̀ọ̀kan
+
+Inu mi dun - o kun mi pẹlu awọn ẹru ikọja ti ko ni rilara tẹlẹ.”
+
+Nibi Poe gba anfani kan fun eyiti o ṣe ibawi Longfellow ni aijọju, ati eyiti ko si ẹnikan ti o wa lori agbegbe tirẹ laisi wiwa iyara ati ibawi. Ni orin aladun ati fọọmu stanzaic, a yoo rii pe awọn ewi mejeeji ko yatọ, ṣugbọn ni idi wọn jẹ iyatọ patapata. Akewi oninurere ro nkankan bikoṣe ipilẹṣẹ otitọ ti akewi naa. "Ikọwe ti o han kedere!" o kigbe, - "Agbara yii ti o ni imọran!... Akewi nla wa, Ọgbẹni Browning, onkọwe ti 'Paracelsus,' & c., jẹ itara ninu itara rẹ ti orin naa." Ọgbẹni Ingram, lẹhin ti o tọka si "Lady Geraldine," fi ọgbọn ṣe afihan orisun miiran lati eyiti Poe le ti mu igbiyanju kan. Ni 1843, Albert Pike, Giriki idaji, idaji-aala, akọwe ti Arkansas, ti tẹjade ni "The New Mirror," eyiti Poe lẹhinna nkọwe, diẹ ninu awọn ẹsẹ ti o ni ẹtọ ni "Isadore," ṣugbọn niwon atunṣe nipasẹ onkọwe ati pe o pe "Ọkan Opo." Mo yan lati atunyẹwo Ọgbẹni Pike ni ipo atẹle, eyiti awọn ẹya akọkọ ṣe deede pẹlu ẹya atilẹba:
+
+"Laisi isinmi Mo yara yara wa ti o wa, Emi ko ṣe awọn orin wa mọ,
+
+Oorun garish n tàn gaan lori ilẹ ti a ko gbá;
+
+Ẹyẹ ẹ̀gàn náà jókòó tí ó ń kọrin, Ìwọ ìpayà ìbànújẹ́!
+
+Nítorí ọkàn mi dàbí ìkùukùu ìgbà ẹ̀ẹ̀rùn tí ó kún àkúnwọ́sílẹ̀ fún òjò;
+
+O ti sọnu fun mi lailai, Isadore!"
+
+Níhìn-ín a ní ìwọ̀n gígùn kan, ìfararora ìjákulẹ̀, àti ìfihàn ẹyẹ tí orin rẹ̀ ń mú ìbànújẹ́ pọ̀ sí i. Awọn itọpa miiran wa eyiti o le tẹle nipasẹ iyanilenu; ni pataki, aye kan ti Ọgbẹni Ingram yan lati inu atunyẹwo ikẹhin Poe ti “Barnaby Rudge”:
+
+"Iwo, paapaa, * * * le ti ṣe, diẹ sii ju ti a ti rii ni bayi, apakan kan ti ero inu ti Barnaby ikọja. * * * Iwa rẹ le ti ṣe, ni iyi si ti aṣiwere, apakan kanna gẹgẹbi o ṣe, ni orin, accompaniment ni ọwọ si afẹfẹ."
+
+Bí ó tilẹ̀ rí bẹ́ẹ̀, lẹ́yìn títọ́ka sí àwọn kòkòrò àrùn àti àwọn ìfarawé, iye ewì yìí ṣì wà nínú ìpilẹ̀ṣẹ̀ rẹ̀. Orin ti o ni ilọsiwaju, awọn alaye oju-aye ati awọn iyatọ ti ina ati iboji, -ju gbogbo rẹ lọ, ifẹkufẹ ti ẹmi ti alẹ, jẹ ki o jẹ iṣẹ-ṣiṣe ti o ni imọran. Ní ti ẹiyẹ amúnikún-fún-ẹ̀rù náà, kò dà bí gbogbo àwọn ẹyẹ ìwò mìíràn nínú agbo ilé rẹ̀, láti inú “àwọn ẹyẹ twa corbies” àti “ìwò mẹ́ta” ti àwọn balladists sí Barnaby’s rumpled “Grip”. Nibi ni ko si semblance ti cawing rook ti o haunts ancestral turrets ati te agbala heraldry; Ko si irokuro boding eyiti Tickell kọrin pe, nigbati,
+
+"kigbe ni window rẹ ni ẹẹmẹta,
+
+ẹyẹ ìwò na ìyẹ́ rẹ̀,
+
+Ju daradara omobirin ife-lorn mọ
+
+Ohùn boding mimọ. ”
+
+Poe ká iwò jẹ kan pato ero; awọn incarnation ti a ọfọ irora ati ainireti; a sable embodied Memory, awọn duro chronicler ti Dumu, a iru ti awọn Ireparable. Sa kọja awọn Styx, lati "The Night ká Plutonian tera," o dabi awọn imaged ọkàn ti awọn questioner ara,-ti awọn ti o ko ba le, yoo ko, quaff awọn irú nepenthe, nitori iranti ti Lenore ni gbogbo awọn ti o ti wa ni osi rẹ, ati pẹlu awọn surcease ti rẹ ibanuje ani ti yoo wa ni fi akosile.
+
+Raven tun le gba bi ewi aṣoju ti onkọwe rẹ, fun apẹẹrẹ ti gbogbo awọn imọran rẹ ti kini ohun ti o yẹ ki oriki yẹ ki o jẹ. Awọn wọnyi ni a ri ninu awọn aroko ti rẹ lori "The Poetic Principle," "The Rationale of Verse," ati "The Philosophy of Composition." Poe sọ pe "ninu Orin, boya, ọkàn ti fẹrẹ de opin nla fun eyi ti, nigba ti o ni atilẹyin nipasẹ Irora Ewi, o ngbiyanju - ẹda ti Ẹwa ti o ga julọ .... Ẹsẹ ko le ṣe apejuwe ti o dara ju bi orin ti o kere tabi kere si"; sugbon lẹẹkansi, ẹsẹ ti o jẹ gan ni "Poetry of Words" ni "The Rhythmical Creation of Beauty,"-yi ati ohunkohun siwaju sii. Ohun orin ti Ẹwa ti o ga julọ jẹ ọkan ninu Ibanujẹ. Awọn julọ melancholy ti awọn koko ni Ikú. Eyi gbọdọ ni ibatan si Ẹwa. "Iku, nigbana, ti obinrin arẹwa, laiseaniani, koko-ọrọ ewì julọ ni agbaye, ati bakanna ni o kọja iyemeji pe awọn ète ti o baamu julọ fun iru koko bẹẹ jẹ ti olufẹ ti o ṣọfọ.” Àwọn gbólóhùn tó gbẹ̀yìn wọ̀nyí ni a fa ọ̀rọ̀ yọ látinú ìtúpalẹ̀ àrà ọ̀tọ̀ tí Poe ṣe nípa ewì yìí gan-an, ṣùgbọ́n wọ́n tọ́ka sí ìtòlẹ́sẹẹsẹ gbogbo ẹsẹ rẹ̀. Ipari ti "Awọn agogo" jẹ monotone muffled ti awọn ghouls, ti o ṣogo ni iwuwo ọkan eniyan. "Lenore," The Raven , "The Sleeper," "Si Ọkan ninu Párádísè," ati "Ulalume" ṣe kan tenebrose simfoni, ati "Annabel Lee," ti kọ kẹhin ti gbogbo, fihan wipe ọkan akori gba o si opin. Lẹẹkansi, gbogbo eyi kii ṣe nkan ti kii ṣe orin, ati diẹ ninu awọn ti fi ọwọ kan pẹlu didara ti Ikọja ti o ji ori ti ẹru, ti o ṣafikun iberu tuntun si irora funrararẹ. Nipasẹ gbogbo rẹ ni a ṣe alaye dimly, labẹ ojiji ojiji, ifẹ pipe ti akewi, - igbagbogbo ti a ṣe afihan ni ibomiiran, - iyawo ti o kun fun Usher, Lady Ligeia, ni  otitọ awọn counterpart ti ara rẹ iseda. Mo ro pe ifẹ olorin fun ọkan “ni fọọmu naa” ko le koju ifaramọ rẹ patapata si apẹrẹ kan. Obinrin ti o wa nitosi rẹ gbọdọ lo awọn aṣiwa rẹ, ki o yipada ni gbogbo rẹ ati pe ko si ohun to gun, ṣe ifaya fun u pẹlu oniruuru ailopin, tabi ni itẹlọrun lati yọkuro ipin kan ninu ifaramọ rẹ. O gbọdọ jẹ ki o jẹ ki o ni itara nipasẹ Alailẹgbẹ, ati pe eyi nigbagbogbo kọja rẹ ni ifẹ rẹ fun aworan ẹda.
+
+Poe, bii Hawthorne, wa pẹlu idinku ti ile-iwe Romantic, ati pe ko si ọkan ti o ni inudidun ju oun lọ lati rẹrin ni ajalu rẹ. Sibẹsibẹ ọkàn rẹ wa pẹlu awọn ololufẹ ati awọn ipa Ila-oorun tabi Gotik wọn. Ipilẹṣẹ rẹ, ti o jẹ ọlọrọ ninu awọn itan-ọrọ prose, dabi ẹni pe o kọ ọ silẹ nigbati o kọ ẹsẹ; idajọ rẹ si sọ fun u pe awọn ewi ifẹ gigun da lori iṣẹlẹ ju awokose lọ, - ati pe, lati sọ ewi ti fifehan, awọn orin yoo to. Nitorinaa imọran rẹ, ti o ni ibamu ni kedere si awọn idiwọn tirẹ, pe “‘orin gigun kan’ jẹ ilodi alapin ni awọn ofin.” Awọn paati ti Raven jẹ diẹ ati rọrun: ọkunrin kan, ẹiyẹ kan, ati iranti phantasmal ni obinrin kan. Ṣugbọn awọn nkan affords a itanran àpapọ romantic ohun elo. Kini awa ni? Ọganjọ oru; iyẹwu ojiji pẹlu awọn tomes ti igbagbe lore; akeko,-a igbalode Hieronymus; iwò ká tẹ ni kia kia lori awọn casement; oru otutu ati ina ti o ku; awọn aṣọ-ikele ti afẹfẹ siliki; awọn ala ati aifọkanbalẹ aifokanbale ti awọn echoing òkunkun; awọn dudu, uncanny eye lori pallid igbamu; awọn ẹya ẹrọ ti felifeti aro ati awọn gloating atupa. Gbogbo ipa ipele yii ti ipo, ina, awọ, ohun, jẹ romantic odasaka, ati paapaa melodramatic, ṣugbọn ti didara ewì ti melodrama ṣọwọn ṣafihan, ati afihan daradara ti “itara ayeraye, irora ayeraye” ti Akewi.
+
+Ilana rhythmical ti Raven ni idaniloju lati ṣe iwunilori kan. Orin, alliteration, ẹrù, awọn stanzaic fọọmu, ni a ṣe pẹlu adroitness nikan. Laisi aniani awọn akewi naa ni a kọlu pẹlu aptness ti Miss Barrett's music trochaics, ni "eights," ati paapa nipasẹ awọn akanṣe ti a gba sunmọ awọn sunmọ "Lady Geraldine":
+
+Ó ní, “‘Ojú,’ nisinsinyii tí ẹ ń lù mí!
+
+Didan oju, bi Atijo iyebíye ṣeto ni Parian ere-okuta!
+
+Labe iwaju funfun ti o farabalẹ, iwọ ha njo torrid nigbagbogbo
+
+Ṣebi aṣálẹ iyanrìn ahoro ti ọkan mi ati igbesi aye mi di asan?'"
+
+Ifihan iṣẹ ọna ti orin kẹta ni awọn laini keji ati kẹrin, ati afikun ti laini karun ati idaduro ipari, ṣe stanza ti Raven . Awọn jubẹẹlo alliteration dabi lati wa lai akitiyan, ati igba awọn orin laarin awọn ila ni o wa seductive; nigba ti idaduro tabi ẹru jẹ gaba lori gbogbo iṣẹ naa. Nibi tun ti jere nipasẹ Miss Barrett ká iwadi ti ballads ati romaunts ninu rẹ ara ati awọn miiran ahọn. “Idaduro” ni itara eyiti akewi kan tabi akọrin kan di eti alarinkiri mu, - ifẹ igbagbogbo ti Iseda fun igara akọkọ. Mo ti nigbagbogbo admired awọn lẹwa refrains ti awọn English songstress, — "The Nightingales, awọn Nightingales," "Margret, Margret," "My Heart ati ki o Mo," "Toll laiyara," "The River ṣàn on," "Pan, Pan ti kú," bbl O tun oojọ ti ohun ti mo oro awọn Repetend, ni awọn lilo ti eyi ti Poe ti bori o gbogbo awọn ewi: bayi ni Poe ti bori gbogbo awọn ewi:
+
+"Eyin eda alayo, ko si ahọn
+
+Ẹwa wọn le sọ pe:
+
+Orisun ife ti nsan lati okan mi,
+
+Mo sì súre fún wọn láìmọ̀:
+
+Nitõtọ enia mimọ́ rere mi ṣãnu fun mi,
+
+Mo sì súre fún wọn láìmọ̀.”
+
+Poe ṣẹda ila karun ti stanza rẹ fun idan ti atunwi. O gbẹkẹle e titi de opin ni awọn ewi diẹ nigbamii, - "Lenore," "Annabel Lee," "Ulalume," ati "Fun Annie." O ni ere egan ati orin aladun, Mo ti ronu, lati “awọn ipa didùn,” ti awọn ẹru Afirika ati awọn atunwi ti a kọ si i ni igba ewe, ni ibamu pẹlu orin aladun abinibi wọn ohun ti akewi Gusu wa.
+
+"The Philosophy of Composition," rẹ onínọmbà ti The Raven , ni a imọ dissection ti awọn oniwe-ọna ati be. Bẹni avowiwa rẹ ti artifice-ẹjẹ tutu, tabi avowal rẹ ti o tẹle si awọn ọrẹ pe ifihan ti artfice yii jẹ miiran ti awọn apanirun ọgbọn rẹ, nilo lati jẹri patapata. Ti o ba ti ṣe apẹrẹ iṣẹ pipe ni ilosiwaju, o fẹrẹ jẹ pe oun yoo ti ṣe iṣaaju ti awọn orin aladun rattle-pan si orin aladun aladun ti stanza keji, paapaa kii ṣe lori imọ-jinlẹ rẹ ti iyalẹnu. Dajudaju olorin kan, ti o ti ṣe pipe iṣẹ kan, o ri, gẹgẹbi olorin akọkọ, pe o dara, o si ri idi ti o dara. Ayẹwo ti o tẹle, pẹlu aibikita ti eyikeyi ina mimọ, ni imurasilẹ to le ṣee ṣe. Igbagbo mi ni pe ero akọkọ ati iwe inira ti ewi yii wa bi awokose nigbagbogbo; pé òǹkọ̀wé rẹ̀ rí i bí ó ṣe lè di pípé, ní fífúnni ní àwọn ìfọwọ́kàn ìkẹyìn tí a ṣàpèjúwe nínú orí rẹ̀ lórí Ìkópọ̀, àti pé èyí tí ó kẹ́yìn, nítorí náà, kìí ṣe irọ́ pátápátá tàbí òtítọ́ pátápátá. Ipalara ti iru onínọmbà ni pe o dan alakobere lati nifẹ pe awọn ilana atọwọda le bori oju inu. Agbara ti oloye-pupọ ni lati daabobo awọn aṣiri ti wakati iṣẹda rẹ. Awọn iwo ti a gba ti laalaa, awọn adanwo iyalẹnu, eyiti o ṣaju ijagun kan, gẹgẹ bi ninu iṣẹ afọwọya ti Hawthorne laipẹ mu wa si imọlẹ, funni ni itọnisọna ti ko ni idiyele ati iwuri si olorin olooto. Ṣugbọn ọkan  ti o fi atinuwa han Muse rẹ si iwo gbogbo awọn ti o wa yẹ ki o ranti ayanmọ ti King Candaules.
+
+Awọn aye si tun ro ti Poe bi a "orire ọkunrin ti oloye." Laipẹ Mo gbọ ti mẹnuba rẹ bi “ọkan ti gbogbo eniyan dabi ẹni ti o ni iwe-aṣẹ lati ṣe aiṣedeede, kọlu tabi ẹgan.” Ṣugbọn o dabi si mi pe oriire rẹ pari pẹlu iku aanu, ati pe lati igba naa aabo rẹ ti duro, ati pe okiki rẹ ti idagbasoke iduroṣinṣin bi ijiya ati onkọwe ti o ni ẹbun le gbadura fun ni wakati ireti rẹ. Griswold ká decrial ati egan yi pada lọwọlọwọ ninu rẹ ojurere. Awọn alariwisi ati awọn onkọwe-aye ti wa siwaju pẹlu awọn itusilẹ ti o tẹle, pẹlu awọn oriyin si iwa rẹ, pẹlu awọn atẹjade tuntun ti awọn iṣẹ rẹ. Awọn lẹta tirẹ ati awọn iṣẹlẹ iṣẹju iṣẹju ti iṣẹ rẹ wa niwaju wa; awọn gba awọn, ti o dara ati buburu, ni opolopo mọ. Ko si olufilọ ti o gba idajọ tutu ati idariji diẹ sii. Awọn aiṣedeede rẹ ni igbesi aye jẹ ti agbegbe ati akoko rẹ, boya o tun jẹ diẹ sii si ailera ifẹ tirẹ. Laisi iyemeji ayika rẹ kii ṣe ọkan lati daabobo ẹda ti o dara, ti ko ni iwọntunwọnsi lati awọn ewu laisi ati laarin. Ifẹ rẹ ti o lagbara julọ, lati jẹ oluwa ti ara rẹ, jèrè “ogún egbé yẹn” fun u. Ó jẹ́wọ́ ara rẹ̀ gẹ́gẹ́ bí ọ̀gá ẹyẹ tí kò láyọ̀, ẹni tí oríkì yìí kọlu. Ṣugbọn tirẹ jẹ ipin kikun ti ibinu iyalẹnu yẹn eyiti o yọ ninu presage ti iparun tirẹ. Idunnu wa ni ṣiṣere ipa giga ọkan: gbogbo wa jẹ gladiators, ti nkigbe Ave Imperator! Lati sọ ọrọ ti Burke ni otitọ: "Ninu ibinujẹ igbadun naa tun wa ni oke julọ, ati pe ipọnju ti a jiya ko ni ibajọra si irora pipe, eyiti o jẹ irira nigbagbogbo, ati eyiti a n gbiyanju lati gbọn ni kete bi o ti ṣee." Poe lọ siwaju, o si jẹ olorin paapaa ninu ajalu ti iṣẹ rẹ. Ti o ba jẹ pe, ni ibamu si igbagbọ ti ara rẹ, ibanujẹ ati sisọnu ẹwa jẹ awọn akori ewì ti o ga julọ, ati rilara ewì ti idunnu ti ilẹ-aye ti o ga julọ, lẹhinna ibanujẹ ati okunkun ti igbesi aye rẹ ti o bajẹ ko laisi isanpada igbagbogbo wọn.
+
+Ni awọn oju-iwe ti o tẹle, a ni apẹẹrẹ tuntun ti oloye-pupọ olorin kan ti o ṣe apejuwe itumọ rẹ ti ewi olokiki kan. Gustave Doré, iṣẹ ikẹhin ti ikọwe rẹ wa niwaju wa, kii ṣe oluyaworan, tabi paapaa oluyaworan, fun awọn onigbagbọ ti n beere otitọ ti ohun orin, eeya, ati pipe. Iru awọn ọrọ bẹẹ fiyesi rẹ kere ju lati ṣe apẹrẹ ati ijinna, imọlẹ ati iboji, ṣe iranlọwọ fun idi rẹ, - eyiti o jẹ lati mu ẹmi soke, oju inu, ti oluwo. Ó ṣe èyí nípa mímú ìmọ̀lára ìbẹ̀rù sókè, nípasẹ̀ àwọn ìrònú àgbàyanu tí ó sì sábà máa ń ga lọ́lá nípa àwọn ohun tí a kò lè sọ, tí ó sì kún fún òkùnkùn tàbí ògo. O ti sọ daradara pe ti awọn iṣẹ rẹ ko ba jẹ awọn aworan nla, bi awọn aworan, wọn jẹ nla nitootọ. Gẹgẹbi “oṣere iwe-kikọ,” ati iru bẹẹ o jẹ, agbara rẹ wa ni ipin taara pẹlu ẹda iyalẹnu ti onkọwe rẹ, pẹlu awọn akikanju audacities ti ẹmi ti o tan tirẹ. Nitorinaa aṣeyọri rẹ pẹlu Rabelais, pẹlu “Le Juif-Errant,” “Les Contes Drolatiques,” ati “Don Quixote,” ati nitorinaa, ni idakeji, ikuna rẹ lati ṣafihan ẹwa ti Tennyson's Idyls, ti “Il Paradiso,” ti awọn pastorals Heberu, ati awọn ọrọ miiran ti o nilo igbega, tabi didùn ati isinmi. O jẹ oluwa ti a bi ti grotesque, ati nipasẹ oye pataki kan le ṣe afihan awọn iwoye ti ọpọlọ Ebora. A rí àwọn nǹkan bí àwọn èèyàn rẹ̀ ṣe rí, àti pẹ̀lú ojú Júù tó ń rìnrìn àjò, Don tó dàrú, tàbí ọmọbìnrin alágbẹ̀dẹ wúrà tó fẹ́ràn Ọba tó wà ní ṣọ́ọ̀bù náà ní Pont-au-Change. O jẹ ninu iseda ti awọn nkan ti o yẹ ki o ni ifamọra si aṣetan ẹsẹ kọọkan tabi prose ti Mo ti pe ni alailẹgbẹ. Àwọn ìjọba ìsàlẹ̀ ni a pè sí iṣẹ́ ìsìn rẹ̀; awọn apata rẹ, awọn igi ati awọn oke-nla, ọrun tikararẹ, ni iwara pẹlu idi ati diablerie. Ti o ba ti gbe lati ṣe apejuwe Shakespeare, a yẹ ki o ti ri itọju pataki kan ti Caliban, awọn Witches, iji ni "Lear"; ṣugbọn laiseaniani yẹ ki o ti beere awọn ero inu rẹ ti Imogen tabi Miranda. Ẹwa mimọ ati rọrun, ati didara julọ rẹ, o ṣọwọn dabi ẹni pe o loye.
+
+Sibẹsibẹ ẹwa wa ninu awọn apẹrẹ rẹ fun “Agbofinro Mariner,” aiṣedeede bi wọn ṣe jẹ, ati itẹlera toje ni lẹsẹsẹ nipasẹ Doré. Rime fun u ni itan gigun, pẹlu ọpọlọpọ awọn iyipada ti iṣẹlẹ naa. Ninu ohun Raven ati awọ ṣe itọju monotone wọn ati pe a ko ni iyipada aaye tabi iṣẹlẹ. Kí ni àbájáde rẹ̀? Doré ṣe agbekalẹ oniruuru awọn iyatọ lori akori naa bi o ti loyun rẹ, “ainidi iku ati itanjẹ ọkan ti ko ni itunu.” Ni diẹ ninu awọn iyaworan wọnyi awọn aṣiṣe rẹ han; awọn ẹlomiiran ṣe afihan ipilẹṣẹ agbara rẹ, ati awọn agbara ti o dara julọ ninu eyiti, gẹgẹbi olutọpa, o duro nikan. Ni gbangba pe ohun kan wa ni apapọ laarin awọn iṣesi iṣẹ ti Poe ati Doré. Eyi yoo han diẹ sii kedere ti igbehin gbiyanju ọwọ rẹ lori "Awọn itan ti Grotesque ati Arabesque." Mejeeji lo nigbagbogbo si ilẹ Elf ti irokuro ati fifehan. Ni awọn iṣẹ aladun aladun awọn mejeeji, nipasẹ aṣẹ wọn ti eleri, yago fun laini eewu laarin apẹrẹ ati asan. Poe ni olujọsin otitọ ti Ẹlẹwà; ìfẹ́ rẹ̀ sí i jẹ́ ìfẹ́ ìyàsọ́tọ̀ kan, àti nínú èyí ó fi àjọṣepọ̀ pẹ̀lú olùṣàpẹẹrẹ rẹ̀. Akewi tabi olorin, Ikú ni kẹhin iyipada gbogbo: laarin awọn ojiji ti rẹ sable harbinger, Vedder ká crayon aami aptly kn wọn ojukoju, ṣugbọn enfolds wọn pẹlu awọn agbáda ti àìkú ọgbọn ati agbara. Arabinrin ara ilu Amẹrika kan ti ṣe aworan Genius ti o ni oju-irawọ pẹlu ògùṣọ ikẹhin, irisi iyalẹnu ti ẹni ti iran rẹ rii, ṣugbọn ti ète rẹ le ma sọ, awọn ohun ijinlẹ ti ilẹ ti o kọja “ilẹkun iboji arosọ.”
+
+Edmund C. Stedman.
+
+ORÍKÌ.
+
+Àpèjúwe 1
+
+OGBON.
+
+Ni ẹẹkan lori alala ọganjọ, nigbati mo ronu, alailagbara ati agara,
+
+Lori ọpọlọpọ iwọn didun ati iyanilenu ti itan igbagbe,
+
+Lakoko ti mo ti tẹriba, o fẹrẹ sun oorun, lojiji nibẹ ni kia kia,
+
+Bi ti ẹnikan rọra rapping, rapping ni ẹnu-ọna iyẹwu mi.
+
+"'T jẹ alejo kan," Mo kùn, "fifọwọ ba ẹnu-ọna iyẹwu mi -
+
+Eyi nikan, ati pe ko si diẹ sii."
+
+Ah, ni pato Mo ranti pe o wa ni Oṣu kejila ti o buru,
+
+Òkú ọ̀kọ̀ọ̀kan sì mú ẹ̀mí rẹ̀ sórí ilẹ̀.
+
+Mo fi itara ki ola:—Lasan ni mo ti wa lati yawo
+
+Lati inu awọn iwe mi daju ti ibanujẹ — ibanujẹ fun Lenore ti sọnu—
+
+Fun ọmọbirin ti o ṣọwọn ati didan ti awọn angẹli n pe Lenore—
+
+Laini orukọ nibi lailai.
+
+Ati awọn siliki ìbànújẹ uncertain rustling ti kọọkan eleyi ti aṣọ-ikele
+
+Inú mi dùn—ó kún fún mi pẹ̀lú àwọn ẹ̀rù ńláǹlà tí kò tí ì rí lára ​​rẹ̀ rí;
+
+Nitorinaa ni bayi, lati tun lilu ọkan mi duro, Mo duro ni atunwi
+
+"'T jẹ diẹ ninu awọn alejo ti n ṣagbe ẹnu-ọna ni ẹnu-ọna iyẹwu mi
+
+Diẹ ninu awọn alejo ti o pẹ ti n bẹbẹ ẹnu-ọna ni ẹnu-ọna iyẹwu mi;—
+
+Eyi ni, ati pe ko si nkankan siwaju sii. ”
+
+Ní báyìí, ọkàn mi ti lágbára sí i; ṣiyemeji lẹhinna ko si mọ,
+
+“Oluwa,” ni mo wi, “tabi Madam, nitootọ idariji rẹ ni mo bẹbẹ;
+
+Ṣugbọn otitọ ni pe Mo n sun, ati nitorinaa o wa ni rapping,
+
+Ati nitorinaa o wa ni kia kia, ni kia kia ni ẹnu-ọna iyẹwu mi,
+
+Ti mo ṣọwọn pe mo gbọ ọ” — nihin ni mo ṣi ilẹkun nla;—
+
+Òkunkun nibẹ, ati ohunkohun siwaju sii.
+
+Ninu okunkun yẹn ti n woju, gun Mo duro nibẹ ni iyalẹnu, bẹru,
+
+Iyemeji, ala ala ko si mortal lailai òrọ lati ala ṣaaju ki o to;
+
+Ṣùgbọ́n ìdákẹ́jẹ́ẹ́ kò fọ́, òkùnkùn kò sì fi àmì hàn.
+
+Ati ọrọ kan ṣoṣo ti o sọ nibẹ ni ọrọ ti o sọ, "Lenore!"
+
+Eyi ni mo sọ, ati iwoyi kan kùn ọrọ naa pada, "Lenore!"
+
+Nikan eyi ko si diẹ sii.
+
+Pada sinu iyẹwu ti o yipada, gbogbo ọkàn mi ninu mi njo,
+
+Laipẹ mo tun gbọ titẹ ni kia kia, o pariwo diẹ ju ti iṣaaju lọ.
+
+“Dajudaju,” ni mo wi, “nitootọ iyẹn jẹ ohun kan ni oju ferese mi;
+
+Jẹ ki n wo, lẹhinna, kini o wa, ati ohun ijinlẹ yii ṣawari-
+
+Jẹ ki ọkan mi duro ni iṣẹju diẹ ati ohun ijinlẹ yii ṣawari;
+
+'T jẹ afẹfẹ ati pe ko si nkankan siwaju sii!
+
+Ṣii ni ibi Mo ju tititi naa, nigbati, pẹlu ọpọlọpọ flirt ati flutter,
+
+Iwo ti o wuyi ti awọn ọjọ mimọ ti igba atijọ gbe soke.
+
+Ko kere ju teriba o ṣe; ko iseju kan duro tabi duro o;
+
+Ṣugbọn, pẹlu mien ti oluwa tabi obinrin, ti o wa loke ẹnu-ọna iyẹwu mi -
+
+Ti o joko lori igbamu ti Pallas ni oke ilẹkun iyẹwu mi -
+
+Perched, o si joko, ati ohunkohun siwaju sii.
+
+Lẹhinna ẹiyẹ ebony yii n tan ifẹ ibanujẹ mi sinu ẹrin,
+
+Nípa ibojì àti ọ̀ṣọ́ líle ti ojú tí ó wọ̀.
+
+“Bí ó tilẹ̀ jẹ́ pé a rẹ́ irun orí rẹ, tí a sì fárí rẹ̀, ìwọ,” ni mo wí, “ó dá a lójú pé kò sí afẹ́fẹ́.
+
+Ghastly koro ati Raven atijọ ti n rin kiri lati eti okun Nightly, -
+
+Sọ fun mi kini orukọ oluwa rẹ jẹ ni eti okun Plutonian Night!"
+
+Sọ awọn Raven, "Ko si mọ."
+
+Ó yà mí lẹ́nu gan-an fún ẹyẹ tí kò láyọ̀ yìí láti gbọ́ àsọyé ní gbangba,
+
+Tilẹ awọn oniwe-idahun kekere itumo-kekere relevancy bore;
+
+Fun a ko le ran gba wipe ko si eda eniyan alãye
+
+Lailai a bukun fun pẹlu ri ẹyẹ loke ẹnu-ọna iyẹwu rẹ—
+
+Ẹiyẹ tabi ẹranko lori igbamu ere ti o wa loke ẹnu-ọna iyẹwu rẹ,
+
+Pẹlu iru orukọ bi "Ko si."
+
+Ṣugbọn Raven, ti o joko nikan lori igbamu placid, sọrọ nikan
+
+Ọ̀rọ̀ kan ṣoṣo yẹn, bí ẹni pé ọkàn rẹ̀ nínú ọ̀rọ̀ kan ṣoṣo yẹn ni ó tú jáde.
+
+Ko si nkankan siwaju sii lẹhinna o sọ — kii ṣe iye kan lẹhinna o rọ —
+
+Titi di igba ti emi o fẹrẹ jẹ diẹ sii ju kigbe, “Awọn ọrẹ miiran ti fò ṣaaju -
+
+Ni ijọ keji oun yoo fi mi silẹ, gẹgẹ bi ireti mi ti fò ṣaju.”
+
+Nigbana ni eye si wipe, "Kò si."
+
+Ẹ̀rù bàjẹ́ nítorí ìdákẹ́jẹ́ẹ́ tí ó fọ̀ nípa èsì tí a sọ lọ́nà tí ó yẹ,
+
+“Laisi iyemeji,” ni mo sọ, “ohun ti o sọ ni iṣura ati ile itaja nikan rẹ,
+
+Ti a mu lati ọdọ oluwa ti ko ni idunnu ti Alainanu Ajalu
+
+Tẹle sare o si tẹle yiyara titi awọn orin rẹ fi ru ẹrù kan—
+
+Titi di irorin Ireti Re ti o ru eru asan
+
+Ti 'Kò - lailai.'"
+
+Ṣugbọn Raven tun n tan gbogbo ẹmi ibanujẹ mi sinu ẹrin,
+
+Taara ni mo gbe ijoko ti o ni itọsi niwaju ẹiyẹ ati igbamu ati ilẹkun;
+
+Lẹhinna, lori felifeti ti n rì, Mo fi ara mi si ọna asopọ
+
+Fẹran si ifẹ, lerongba kini ẹiyẹ buburu ti atijọ yii—
+
+Ohun ti koro yi, ungainly, ghastly, gaunt ati ominous eye ti yore
+
+Itumo ni croaking "Ko si."
+
+Eleyi ni mo joko npe ni lafaimo, sugbon ko si syllable ikosile
+
+Sí ẹiyẹ tí ojú rẹ̀ ń jó nísinsin yìí sí inú oókan àyà mi;
+
+Èyí àti jù bẹ́ẹ̀ lọ ni mo jókòó tí ń woṣẹ́, tí orí mi sì rọ̀gbọ̀kú rọ̀gbọ̀kú
+
+Lori aṣọ timutimu felifeti ti itanna fitila ti n tan,
+
+Ṣugbọn ẹniti felifeti aro ikan pẹlu fitila gloating o'er
+
+Yoo tẹ, ah, lailai!
+
+Lẹ́yìn náà, bí a ṣe rò pé afẹ́fẹ́ túbọ̀ pọ̀ sí i, tí ó ń lọ́ lọ́fínńdà láti inú àwo túràrí tí a kò lè rí
+
+Swung nipa serafimu ẹniti ẹsẹ-ṣubu tinkled lori tufted pakà.
+
+Mo kigbe pe, “O buruju, Ọlọrun rẹ ti fi ọ ya—nipasẹ awọn angẹli wọnyi li o fi rán ọ.
+
+Idaduro-isimi ati nepenthe lati awọn iranti rẹ ti Lenore!
+
+Quaff, oh quaff iru nepenthe yii, ki o gbagbe Lenore ti o sọnu yii!”
+
+Sọ awọn Raven, "Ko si mọ."
+
+"Woli!" Mo ní, “Ohun ibi!
+
+Boya Oludanwo ni o ran, tabi bi iji lile ti gbá ọ nihin,
+
+Ahoro sibẹ gbogbo wọn ko ni irẹwẹsi, lori ilẹ aginju yii ti a ti ṣe ẹlẹrin—
+
+Lori ile yii nipasẹ Horror Ebora—sọ fun mi nitootọ, Mo bẹbẹ—
+
+Ǹjẹ́ ìkunra ha wà ní Gílíádì?—Sọ fún mi—sọ fún mi, mo bẹ̀!”
+
+Sọ awọn Raven, "Ko si mọ."
+
+"Woli!" Mo wí pé, “Ohun búburú—wolii sì bẹ́ẹ̀, bí ẹyẹ tàbí Bìlísì!
+
+Nipa Ọrun ti o tẹ loke, awa—nipasẹ Ọlọrun yẹn ni awa mejeeji fẹran—
+
+Sọ fun ẹmi yii pẹlu ibanujẹ ti o rù ti, laarin Aidenn ti o jinna,
+
+Yóò di omidan mímọ́ kan tí àwọn áńgẹ́lì pè ní Lenore—
+
+Di ọmọbirin ti o ṣọwọn ati didan ti awọn angẹli n pe Lenore."
+
+Sọ awọn Raven, "Ko si mọ."
+
+"Jẹ ọrọ naa ami ti pipin, eye tabi fiend!" Mo kigbe, ni oke-
+
+Gba ọ pada sinu iji ati eti okun Plutonian Night!
+
+Má ṣe fi òṣùwọ̀n dúdú sílẹ̀ gẹ́gẹ́ bí àmì irọ́ tí ọkàn rẹ ti sọ!
+
+Fi ìdánìkanwà mi sílẹ̀ láìfọ̀rọ̀ sábẹ́ ahọ́n sọ!- jáwọ́ nínú ìgbàmu lókè ilẹ̀kùn mi!
+
+Yọ ẹnu rẹ kuro li ọkàn mi, ki o si mu irisi rẹ kuro li ẹnu-ọ̀na mi!"
+
+Sọ awọn Raven, "Ko si mọ."
+
+Ati Raven, ko flitting, ṣi joko, o tun joko
+
+Lori igbamu pallid ti Pallas kan loke ẹnu-ọna iyẹwu mi;
+
+Ojú rẹ̀ sì ní gbogbo bí ẹni ẹ̀mí Ànjọ̀nú tí ó ń lá.
+
+Ati awọn atupa o'er u sisanwọle ju ojiji rẹ lori pakà;
+
+Ati ọkàn mi lati jade ti ojiji ti o dubulẹ lilefoofo lori pakà
+
+A o gbe soke-ko si mọ!
+

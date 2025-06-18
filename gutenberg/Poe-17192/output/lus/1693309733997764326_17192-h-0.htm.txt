@@ -1,0 +1,570 @@
+The Project Gutenberg eBook of The Raven, Edgar Allan Poe-a ziak chu a ziak a ni.
+
+A rilru a buai em em a, a rilru a hah em em bawk a. The Project Gutenberg eBook of The Raven
+
+He ebook hi United States leh khawvel hmun dang tam zawkah pawh tu pawhin an hman theih tur a ni a, a man pawh a to lo va, khapna engmah a awm lo tluk a ni. He ebook-a tel Project Gutenberg License thuthlung hnuaiah emaw, online-ah www.gutenberg.org -ah emaw i copy thei a, i pe thei a, i hmang leh thei bawk. United States-a awm i nih loh chuan he eBook hi i hman hmain i awmna ram dan i enfiah hmasa phawt a ngai dawn a ni.
+
+Title : A rilru a buai em em a
+
+Lehkhabu ziaktu : Edgar Allan Poe
+
+Thusawitu : Edmund Clarence Stedman-a chuan a sawi
+
+Lemziak thiam : Gustave Doré
+
+A chhuah hun : November 30, 2005 [eBook #17192]. Tun hnaia update thar ber: December 13, 2020
+
+Ṭawng : Mizo
+
+Credits : Jason Isbell, Melissa Er-Raqabi leh Online te siam a ni https://www.pgdp.net ah Proofreading Team sem chhuah a ni.
+
+*** PROJECT TAN TAN GUTENBERG EBOOK THE RAVEN *** .
+
+Back Cover a ni
+
+RAVEN THIL THAWN THIN
+
+Tu
+
+EDGAR ALLAN POE chuan a ziak a
+
+THIL THLENG THIN GUSTAVE DORÉ- a ziah a ni
+
+Title Hmanlai thlalak
+
+EDMUND C. STEDMAN-A THIL TIH DAN AH
+
+NEW YORK ah a awm a
+
+HARPER & UNAUPA, THIL THAWN THIN, FRANKLIN SQUARE
+
+1884 khan a lo piang a
+
+Act of Congress angin a lut a, kum 1883 khan, by
+
+HARPER & UNAUTE, 2019.
+
+Office of the Librarian of Congress-ah chuan, Washington-ah a awm a.
+
+Thuneihna zawng zawng humhalh a ni.
+
+Transcriber-te thuziak te
+
+List of Illustrations ah khan Lenore hnua quote pakhat bo chu ka siam thar leh a! a hnuaia tarlan ang hian:
+
+"'Wretch,' ka au va, 'i Pathianin a loan che a ni—heng vantirhkohte hmang hian a tir che a ni." Chawlh hahdam rawh—Lenore-a i hriatrengna atang hian chawlh hahdam la, nepenthe rawh!'"
+
+List of Illustrations-ah hian ‘visitor’ a hmang a, chutah chuan hla thu leh a tak takah chuan ‘visiter’ a hmang a ni.
+
+THIL AWM DAN LIST
+
+Engravers Hmingte nen
+
+Title-page, Elihu Vedder-a design a ni.
+
+Frederick Juengling chuan a rawn ti a.
+
+"Engtikah mah."
+
+H. Claudius-a leh G. J. Buechner-a te chuan an ziak a ni.
+
+ANANKE chuan.
+
+H. Claudius-a chuan.
+
+"Vawikhat chu zanlai muang takin, ka ngaihtuah lai chuan, chak lo leh chau takin, . Mi tam tak chungah chuan theihnghilh tawh lore volume quaint leh curious tak a ni."
+
+R. A. Muller chuan a rawn ti a.
+
+"Ah, chiang takin ka hre reng, December thla thim tak, 1999 lai kha a ni. Tin, meipui thi hrang hrang tin chuan a thlarau chu leiah a rawn thawk chhuak ta a ni."
+
+RG Tietze chuan a rawn ti a.
+
+"Thil thahnemngai takin a tuk chu ka duh a; engmah lo maiin loan lak ka tum a ni." Ka lehkhabu atang chuan lungngaihna surcease—Lenore bo tawh tan lungngaihna."
+
+H. Claudius-a chuan.
+
+"Lenore bo chu lungngaihna a ni."
+
+W. Zimmermann-a chuan a ziak a.
+
+"Vantirhkohte'n Lenore tia an vuah nula hmuh tur awm lo leh eng tak tan chuan— Hming nei lo hetah hian chatuan atan."
+
+Frederick Juengling chuan a rawn ti a.
+
+"''T hi ka chamber kawngka bulah tlawhtu tu emaw chuan luhna a ngen a— Ka chamber kawngka bulah tlawhtu tlai deuh ṭhenkhatin luh an dil a ni.'"
+
+W. Zimmermann-a chuan a ziak a.
+
+—"Hetah hian kawngkhar chu ka hawng zau hle a;— Chutah chuan thim a awm a, chu aia tam chu a awm lo."
+
+H. Claudius-a chuan.
+
+"Ringhlelna, mumang nei mi thi thei tumahin an mumang an la nei ngam ngai lo."
+
+FS King a ni.
+
+"'Tih tak zetin,' ka ti a, 'chu chu ka window lattice-a thil awm chu a ni ngei ang; Chuti a nih chuan, chu chu eng nge ni tih ka en ang a, he thuruk hi ka chhui ang.'"
+
+Frederick Juengling chuan a rawn ti a.
+
+"Hetah hian hawng rawh shutter ka vawrh chhuak."
+
+T. Johnson-a chuan a sawi.
+
+—"A stately Raven of the saintly days of yore. Chibai bukna tlem ber pawh a siam lo; minute khat pawh a ding lo va, a awm lo bawk."
+
+R. Staudenbaur chuan a rawn ti a.
+
+"Ka chamber kawngka chungah chiah Pallas bust pakhat chungah chuan ka thu a— A thu a, a thu a, chu aia tam chu a awm lo."
+
+RG Tietze chuan a rawn ti a.
+
+"Zanlai tuipui kamah chuan a vakvai."
+
+Frederick Juengling chuan a rawn ti a.
+
+"Till I scarcely more than muttered, 'Ṭhian dangte pawhin an lo thlawk tawh a— A tuk ah chuan min kalsan ang , ka beiseina a lo thlawk tawh ang khan.'"
+
+Frank French chuan a rawn ti a.
+
+"Chutah chuan velvet a pil lai chuan linking turin ka betook ta a." Fancy atanga fancy thlengin."
+
+R. Schelling chuan a rawn ti a.
+
+"Mahse, tu nge velvet violet lining chu lamplight gloating o'er nen." A press ang, ah, engtikah mah!"
+
+George Kruell chuan a rawn ti a.
+
+"'Wretch,' ka au va, 'i Pathianin a loan che a ni—heng vantirhkohte hmang hian a tir che a ni." Chawlh hahdam rawh—Lenore-a i hriatrengna atang hian chawlh hahdam la, nepenthe rawh!'"
+
+Victor Bernstrom chuan a rawn ti a.
+
+"He in chungah hian Horror haunted a awm."
+
+R. Staudenbaur chuan a rawn ti a.
+
+"'Tih tak zetin min hrilh rawh, ka ngen a— Gilead-ah hian— balm a awm em?—min hrilh rawh—min hrilh rawh, ka ngen a che!'"
+
+W. Zimmermann-a chuan a ziak a.
+
+"'He thlarau hi lungngaihna phur chu hrilh rawh, hla tak Aidenn chhungah chuan, . Vantirhkohten Lenore tia an vuah nula thianghlim pakhat chu a kuah ang.'"
+
+FS King a ni.
+
+"'Chu thu chu kan inthenna chhinchhiahna ni rawh, sava emaw, ramhuai emaw!' Ka au chhuak a, upstarting."
+
+W. Zimmermann-a chuan a ziak a.
+
+"'Thlipui leh Zan Plutonian tuipui kamah chuan luh leh rawh!'"
+
+Robert Hoskin-a chuan a rawn ti a.
+
+"And my soul from out that shadow chu leia inphah chunga mu chu a ni." Hmasawn a ni ang—engtikah mah!"
+
+RG Tietze chuan a rawn ti a.
+
+Sphinx thuruk chu.
+
+R. Staudenbaur chuan a rawn ti a.
+
+POEM AH HIAN COMMENT VE RAWH.
+
+Hla thu thuruk, fiamthu hausakna aia tlem lo chu a hretu beng bulah a awm a ni. A spell-ah inpe la, hla phuahtu rilru put hmang pawm rawh: hei hi, a nihna takah chuan, a hlutna i zawh hian mi fingte chhanna chu a ni. Hla phuahtu ngei pawhin, a mood danglam takah, a art chu sleight of hand, a food enchanter ei tur mai a ni tih hrilh che mah se, a trick chu entir che turin a rawn ti che a nih pawhin,—ring suh. A zâwlnei hun chu nghak rawh; tichuan a passion, a hlimna emaw, a hrehawmna emaw hnenah inpe rawh. "Vawiin hian Hmangaihna kutah kan awm!" Gautier-a chuan Swinburne-a buoyant paraphrase-ah chuan a sa a,—zing a\anga ni tlak thlengin tuifinriat tharum thawh takah chuan kan inhnim pil a: hmangaihna pakhat chauh a awm a, May pakhat chauh a awm a, pangpar hrui pakhat chauh a awm. Hmangaihna chu chatuan a ni a, thil dang zawng zawng chu a tak lo leh dah bo vek a ni. Vision hian tawpna a nei a, scene a danglam a; mahse thil engemaw kan nei a, chu chu charm pakhat hriatrengna a ni. Hla phuah thiam tam tak ang bawkin, charm tam tak. Evanescence charm a awm a, chu chuan Pathos aureole-a mawina leh khawngaihna sang ber a pe a ni. Rose Aylmer tana a "night of memories and of sighs" tih chu Landor hnenah share la, hei hi i nei kim vek ang.
+
+Tin, tunah chuan khawvel thara minstrel pakhat, chenna hmun dik tak atanga kal bo, chu America zakzum leh inrem lo tak, Baudelaire-a hmuh angin, "Poe-a tan chuan khawvel thianghlim zawka thawk tura siam thilsiam rilru natna nasa tak nena a tlan chhuahna, hetah leh khawiah pawh, khawvêl thianghlim zawka thawk tûra siam a ni," tih leh "a chhungril nun, hla phuahtu ang maia thlarau lam, zu ruih ang maia thlarau lam thila a awm theihna hmun chauh a ni mahse, he antipathetical atmosphere-in a nghawng aṭanga tlanchhuah tumin theihtawp chhuah reng pakhat a ni." Chutianga a thil mak tih dreeing hla phuahtu buai tak kut sensitive chu chelh la, a hmuhna boruak chu hrilh rawh,—nitin, zan lamah pawh ni ngai lo,—a vakvai Atlantis a nih loh chuan, nitin a immuredna ramri atanga inhumhimna hmun tal chu.
+
+Ram pakhatah chauh hruai turin thuneihna a nei a, zan khat chauh a mumang chu i chanpui thei a ni. Lei leh Van ram pawh ni lo tract: "No-man's-land," Space atanga chhuak, Hun atanga chhuak. Hetah hian buaina nei lote chu an awm a, an mit hmang hian Cenci-ho mit ang bawkin thlarau chuan rilru chu a buai hle chung pawhin kawngkhar a hmu a; hetah hian thlaraute, Chatuan lam panna kawng zawngtute chu an ding reng a, an tlai ta a ni. "Planetary souls" limbo a ni a, chutah chuan thla eng rinhlelhna zawng zawng, hmangaihna hloh leh illusion zawng zawng a awm vek a ni. Hetah hian ṭhenkhat chu trance-ah an innghat a, chu chu chawlh hahdamna awmchhun a ni a; mi dangte chu
+
+"move fantastic takin."
+
+Melody inmil lo tak hnenah:"
+
+hmun tinah an awm laiin
+
+"Hmanlai Hriatrengna Sheeted—
+
+Shrouded forms atanga tan leh thawk chhuak
+
+Vakvai chu an kal pelh lai chuan."
+
+Chutiang ram chu a ni a, zan khat chhung chu kan lut a,—astral phase leh recurrent chimes awmna zan a ni. A monodies te hi hla sawm leh pahnih a ni a, a music hian inthlak danglam tumin a bei a, mahse engtik lai pawhin a inang reng a ni. Pakhat hnu pakhatin an ri a, brazen leh ebony clock ri ang maiin, "The Masque of the Red Death"-ah chuan, waltzer-te chu darkar a lo thlen meuh chuan "lungngaihna leh khur leh ngaihtuahna" nen a titawp ta a ni.
+
+Heng mystical cadence zawng zawng zingah hian The Raven -a plaint, portal kal tlanga vibrating chuan pawn lam khawvel a tithinur ber a ni. Hla siamnaah hian eng thil nge kal a,—chutiang bawkin he thilah hian, a tam zawk ang bawkin, chu hnam, a bard-te chu "the siamtute" tia vuahtu hnam chu engtiang chiahin nge a dik? Hnathawh pakhat chu hmun ruak atang chuan koh chhuah a ni. Engmah awm lohna hmunah chuan a la awm reng a,—siam thar, mihringte ro hlu zinga mi a ni. Tin
+
+"to shapes, leh airy engmah pe lo."
+
+Local habitation, leh hming pawh a awm."
+
+Prototype nei lo ang maiin a lang a, chutih rualin Supernatural thlalak atanga element lak chhuah hmangin min hip vek a ni. Tunah chuan suangtuahna sang ber chuan thil thlarau a ngaihtuah a; chu chuan Fantasy chu a tichak thei a, a tichak lo thei bawk a, chu chu peoples with images the interlunar vague tih hi a ni. Mahse, heng hla thu zinga pakhat hian, a tlem zawkah chuan, danglamna hriatnain min nghawng a, chu chu supernatural cast-te hnathawh sublimer-te ang bawkin,—Marlowe-a "Faustus," Goethe-a "Faust", "Manfred," emaw, chutiang ethereal masterpiece-te pawh, "The Tempest" leh "A Midsummer Night's Dream" te pawh a ni. Pakhat aia tam, a danglamna chu a danglam bik laiin, thenkhat an nei  burden or refrain which haunts the memory,—vawi khat hriat tawh, theihnghilh ngai loh, hman tlem mahse danglam bik organ-stop tone ang mai. Chumi zinga langsar tak chu Bürger-a "Lenore" a ni a, chu ballad thlarau leh ri chhuak, lehlintute lure leh foil chu a ni. Coleridge-a mak tak mai "Rime of the Ancient Mariner" chu an lu ber bulah a ding tih hi mi tlemte chauhvin an hnial ang. "Le Juif-Errant" hian claims a nei ngei ang, Beranger hi hla phuah thiam ropui zawk ni ta se; tin, mahse mipui lainatna atanga an hlat em avangin "The Lady of Shalott" leh "The Blessed Damozel" te chu list-ah hian an tel ve mai thei bawk. Edgar Allan Poe hnenah hla pahnih, "The Bells" leh The Raven -te siam turin pek a ni a, chungte chu Tennyson leh Rossetti-te hla phuah aiin a mawi lo zawk mai thei a, mahse a danglam bik hle. "Ulalume," chu chutiang bawka mak leh suangtuahnaa awm mah se, kan test-a tel ve universal quality chu a nei lo.
+
+The Raven in sheer poetical constituents chu "The Haunted Palace," "The City in the Sea," "The Sleeper," leh "Israfel" tih ang chi piece hnuaiah a tla a ni. A pum pui hi, fastidious cast chhiartute chuan, heng ang thuziak nen hian an thlak danglam dawn niin ka ring:
+
+"A chhehvel, thlipui chawi chungin a theihnghilh a, .
+
+Van hnuaiah chuan resigned takin
+
+Tui lungngaihna chu a dawt a ni.
+
+Van thianghlim atanga eng reng reng a lo chhuk lo
+
+Chu khawpui zan rei takah chuan;
+
+Mahse, tuipui lurid atanga êng lo chhuak
+
+Turret-te chu ngawi rengin a luang chho a—
+
+· · · · · ·
+
+Up tam tak leh tam tak chu hmun thianghlim mak tak a ni
+
+A wreathéd friezes te chu a inzawm khawm a
+
+Viol, violet leh vine te chu a ni.
+
+· · · · · ·
+
+Thli a tleh thei tih hi swellings engmahin a sawi lo
+
+Tuipui hlim zawk hla tak tak chungah—
+
+No heavings hint that thli a tleh tawh
+
+Tuipuiah chuan less hideously serene."
+
+A thinlung-strings lute ang maia hla phuahtu aerial melody a tlachham a ni:
+
+"A nih leh an ti bawk (starry choir."
+
+Tin, ngaithla dangte pawh)
+
+Chu Israfeli mei chu
+
+Chu lyre avang chuan a ni
+
+Chumi hmang chuan a thu a, hla a sa a—
+
+Wire nung khur chhuak chu
+
+Chutiang string danglam tak takte chu."
+
+Mahse The Raven , "The Bells" leh "Annabel Lee" te ang bawkin mi tam tak leh mi tlemte tan chuan a infak hle. Hmun dangah pawh ka sawi tawh a, Poe-a thil siam hmuh tur awm lo zawkte chu ka tan chuan "a tlem berah chuan, mahni inrintawkna (spontaneity) anga lang,—a rilru put hmang chunga a inpekna, thihna tlu leh cadence-te musical ber, lungngaihna ber berte chu a hriat lohvin a hnen atanga lo chhuak a ni," tiin ka sawi tawh a ni. Hei hi ka rinna a la ni reng a; tin, chuti chung pawh chuan he hla hi ka zir thar leh chuan ka naupan lai a\anga engtik lai pawhin min tithinur zawk a ni. Inhriat tawnna hnai tak chuan kutchhuak dik tak zawng zawng a thlawp thu a sawi. Art hre lo leh ngaihsak lo mipa chu hla emaw, lemziak emaw eng emaw enfiah turin fuih la, a chakna chuan a rawn man thuai thuai ang! Dik tak chuan, a ngaihvenna dik taka a hipna hna ṭha hmasa ber chu a hlutna (relative value) chu a sawi uar lutuk ang. The Raven , pawh hian mizia inang lo tak tak a nei a, chu chu mithiam pawhin a ngaihsan tur a ni. A ziaktu hla dangah chuan a chhan chu a chiang zawkin a sawifiah lo. "The Haunted Palace" hi chhiartu thlan bik tan chuan a chiang ve tho a, mahse Poe hian chu allegory fiah lo tak chu bald analysis atan a la harsa khawp mai. The Raven hi a ziaktu thupui pangngaiah a buai vek a ni—hmeichhe milem biak leh hmeltha tak hloh leh theih loh; mahse, a chhan dangah pawh, vantlang instinct chuan a aiawh hla phuah anga ngaih chu a dik a ni.
+
+Mi fing chuan thil tum pakhat hlawhtlinna hmangin ke a pen chhuak tlangpui a, hei hi a ropui ber a ni ngai lo. Recognition hi sawn hlat a nih avangin instant zawk. A nei lo, mi rethei hausakna ang maiin, pawisa fai pakhat hnu pakhat, mahse "a nei lo emaw, a zawng zawng emaw a ni lo." Tin, chutiang chuan thil tum dangte nen: lal in enkawltu, sipai, lemchan thiam,—an chanvo eng pawh ni se,—vanneihna engemaw zat atanga an hnehna chu an chhiar vek a ni. Poe-a Raven chu augury ni mahse, a tan chuan "thlipui tleh tir thei sava" a ni. Hla phuahtu hian New-York-ah a khawsa a, kum 1844-'45 thlasik lai khan Willis-a paper, "The Evening Mirror"-ah hna a hmu a, hmun danga thawhlawm thawh hmangin a sum lakluh chu a eking out a ni. Kum ruk chhung zet chu ziaktu active tak a ni tawh a, professional hmingthatna a nei bawk; zahna leh rinhlelhna nei lovin an chelh a, chu ni a journalism hlawh tha lo tak takte zinga a chanvo chu a hloh lo. A hnathawh ṭha ber ber tam tak pawh a thawk tawh bawk a,—"Ligeia" leh "The Fall of the House of Usher," (a hnuhnung zawkah chuan chu mystical counterpart, verse-ah chuan, Elihu Vedder-a "A Lost Mind," tih ang chi thawnthute pawh a awm a, chu chu "The Gold Bug" leh "The Mystery of Marie Roget" ang chi analytic feats te hi a ni. Ram pawnah proselyte a siam tawh a, French rilruah pawh thuneihna nghet tak a nei ta a ni. A thiltihtheihna leh chak lohna chu a zir tawh a, a ṭhat lai ber a ni a, hmingthanna engemaw chen nei lo a ni lo. Mahse, mi zawng zawng leiah engmah a ziak lo. Hnathawh rare leh nalh takah chuan mahni hun laia mipui zahawm tak takte man theih nan popular touch engemaw zat dah belh a ngai a ni.
+
+Poe-a biographer inzawmkhawmte industry kaltlangin The Raven- in hit a siam hi thawnthu sawi fo a ni ta a ni. Hla phuahtu nupui naupang Virginia chu a mit hmuhah a bo vek a, mahse thihna hnuaiah kum khat dang a awm ta a ni. Bloomingdale Road bula in chhunga chamber sei leh hniam tak chu as  Rouget de l’Isle-a’n Marseillaise a phuahna pindan anga hmingthang tak a ni. "Quarles" tih hming ziak hla hi "American Review"-ah a lang tih an hre vek a, a form chungchangah hian pseudo-editorial comment a awm a; Poe-a chuan dollar sawm a dawng tih; fashionable arbiter zinga ngilnei ber leh inhuatna nei lo ber Willis-a chuan fakna thu hmangin a rawn print leh a, chu chuan khawpui lam a sawi nghal mai a ni. A ziaktu rinhlelhna zawng zawng chu Poe-a’n literary gathering-a amah ngeiin a sawi chhuah khan a bo vek a, hun engemaw chen chu American ziaktu zingah chuan a langsar ber a ni. Hit chuan a tichak a, a fuih bawk. Satirist dang leh chhuanawm zawk ang bawkin ani pawh hian "thlasik thil" chu "insect hum-ah" pawh a hmu a ni. Lungchhiatthlak takin, mahse kum thum a liam ta a,—chutiang hun, inchhuanna, lungngaihna, mahse suangtuahna emaw, sawiselna emaw thawhrimna hun a ni fo thin,—a tawp bera hnehna a chan hmain, a tan chuan a tak takah chuan lungngaihna ang maia nunna chu puanzar a tlak hmain, "Hnehtu rulhut" hnenah chuan a inpe ta a ni.
+
+"The American Review: A Whig Journal" hi chutih laia magazine lawmawm tak a ni a, column pahnih nei, paper tha takah type chiang taka print a ni a, mezzotint portrait hmanga entir a ni bawk. Tuna tehfung hnuai lam thil tam tak karah chuan, editor tu pawhin an dawn lawmawm tur ṭhenkhat a awm a ni. Volume hmasa ber, kum 1845-a siamah chuan Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman leh Whipple-te thuziak a awm a. Ralph Hoyt-a hla mawi tak, "Old" tih chu he volume-ah hian a rawn lang a. Tin, Poe hla thu pathum chu hetiang hi a ni: "The City in the Sea," "The Valley of Unrest," leh The Raven . Chung zinga pahnih chu siam chhuah a ni a,—chutiang chu a kalphung a ni,—zirna hmasa a\angin, mahse a hming hnuhnung ber chu phuah thar ang maiin a chhuak a, tuna kan neih ang chiah hi a ni. A hnuah siamthat a ni lo tih sawi hi a dik lo. Magazine-text a\anga inthlak danglamna tlemte 11 chu The Raven and Other Poems , 1845-ah a lang a, chu lehkhabu chu hla phuahtu chuan mipui hnena hlan tura fuih a nih thu rei lo teah a inhria a ni. Chûngte chu a tam zâwk chu punctuation tihdanglamna emaw, thumal pakhat emaw, a hnuhnung zawk chi hi alliteration-in nghawng a neih tihsan nâna siam a ni. Mr. Lang-a'n Poe-a chang mawi tak, "Parchment Library"-a a rawn chhuah chhuahah chuan, mi thiam instinct a lantir a, fing takin a ti a, chu volume-a thuziak chu a kir leh a, chu chu London issue of 1846-a pek angin a ni.The "standard" Griswold collection of the poet's works abounds with errors. Hengte hi a hnu lama editor-te pawhin an sawi nawn leh a, anmahni pawhin tihsual an nei ve bawk. Mahse The Raven -a thuziak chu, a ziaktu hnena kutziak copy dilna avang chuan, a la siam\hat thui zawk a; dikin, a thih hma lawk khan Richmond-ah a print a, stanza sawm leh palina-ah chuan "seraphim whose foot-falls" tih chu "angels whose faint foot-falls" tih aiah hla thu hmanga thlak a ni. Chuvangin, tuna kan thuziak hi a tam zawkah chuan kum 1845-a ziah ni mah se, hla phuahtuin a hnu lama a chhiar dan chuan a siam danglam deuh a, he hla pakhat chauh hi a dik ber leh a hlawk ber niin ka hria. Mahse, a hmasa ber aṭanga inthlâk danglamna nasa ber chu kum 1845-a volume-ah a lang a; stanza sawm leh pakhatna chu a tir lamah chuan heng line-te hi a awm a, rhyme-ah a dik lo va, a dangin hlaah hian bawlhhlawh a awm bawk:
+
+"Caught from some unhyppy master, whom khawngaihna nei lo Disaster."
+
+A zui nghal vat a, a zui chak zawk bawk—chuvangin, Hope-a’n thu a chah hunah, .
+
+Stern Despair chu a lo kir leh a, a thutiam ngam Beiseina thlum tak ai chuan—
+
+Chu chhanna lungchhiatthlak tak chu, 'Nevermore!'"
+
+Hla phuah thiam dang, leh hmingthang tak takte pawhin an inthlak danglamna chu hmasawn zel turin an ring tlat thei a nih chuan a tha ang. Poe hian a verse show tlemte chu a rehanded fo thin a, a tlangpuiin a ti tha zawk thin. The Raven hi hla tlemte zinga a hmasa ber a ni a, a print hmaa a tih zawh hnaih ber a ni. Hla ngaihsaktute hian a thihna avang hian an hloh tlem hle a ni mai thei. Prose thiam tak, hla siamna tur atan chang a ziak ngai lo. Refrain of image-in a tihbuai lai khan, a rah chhuah lyric chu amah ngeiin a sawi angin, thil tum ni lovin, passion-a infuih tharna a ni. Hei hi Fairfield theory pakhat zel chu nervous crisis atanga lo chhuak a ni tih dikna tur ang maia hun remchang takah a ni.
+
+Chuti a nih chuan eng thilin nge hla phuahtu hnenah The Raven ? Eng misty foundation atang nge zawi zawiin music thaw chhuah takah a lo kai chho? A hma ang bawkin thil pakhat aia tam chu hetiang hla langsar tak siamnaah hian a kal ta a ni. Thu tawi leh ngaihtuahna seng lo zawka thusawi rei zawkte ngaihtuah chuan, he hla thu pakhat chauh sawihona avang hian mawhpuh ka nih loh ka beisei a,—a bîk takin Doré-a ang artist-in lemchan boralna thupuiah a siam chu. Tun hnai thleng khan he hla hi, leh a ziaktuin a lo chhuah hnua a phuah tlemte chu a boyish verse-a hrik atanga lo piang lo a nih avangin a danglam bik hle niin ka ngai a. Mahse Mr. Fearing Gill chuan Poe-a stanzas chhuah loh thenkhat min hmuhtir a, a kum sawm leh pariatnaah a ziak a, a thupui chu, "The Demon of the Fire" tih a ni. He lehkhabu hi hla phuahtu kutziak hmasa berah a awm niin a lang a, a dikzia chu kum zabi chanve chhung zet an kuta awm chhungkua chuan a nemnghet a ni. "The Bells" leh "The Haunted Palace"-a natna hrik langsar ber berte bakah hian The Raven hawnna leh khar dan tur tilangtu line tlemte a awm bawk. Kan hla thu rhythm chungchangah chuan, date tehkhin chuan hei hi "Lady Geraldine's Courtship" rhythm hian a nghawng tih a tilang. Poe hi Miss Barrett-i thiamna chawimawi hmasa berte zinga mi a ni a; a hla khawlkhawmte chu "a sex zinga ropui ber" tiin a ziak a, a awm ta a ni  a lyrical method-ah chuan sympathy a nei. A love-poem atanga line te, .
+
+"Murmurous stir uncertain nen, boruakah chuan purple curtain chu."
+
+A hmui dum che thei lo vel chu a lo hring chhuak a, a lo hring chhuak bawk a ni,"
+
+hengteah hian echo a hmuchhuak a:
+
+"A nih leh purple curtain tin silk ang sad uncertain rustling pawh."
+
+Min ti phur hle—a hmaa ka la hriat ngai loh hlauhna mak tak takte nen min khat a ni."
+
+Hetah hian Poe-a chuan Longfellow-a chu roughly censured privilege a chang a, chu chu rang taka hriatchhuah leh hremna awm lovin a hmunah tumahin an zawng ngai lo. Melody leh stanzaic form-ah chuan hla pahnih hi an inang lo va, mahse motive-ah chuan an danglam vek tih kan hmu ang. Hla phuahtu thilphal tak chuan hla phuahtu originality dik tak tih loh chu engmah a hre lo. "He thuziak nung tak hi!" she exclaimed,—"this power which is felt!... Kan hla phuah thiam ropui tak, Mr. Browning, 'Paracelsus,' &c. ziaktu chuan rhythm a ngaihsan em avangin a phur hle a ni." Mr. Ingram-a chuan "Lady Geraldine" tih a sawi hnuah, fing takin Poe-a'n rilru put hmang a hmuh theihna tur source dang a kawhhmuh a. Kum 1843 khan Albert Pike, Greek chanve, ramri chanve nei, Arkansas-a hla phuah thiam chuan chutih laia Poe-a'n a ziah lai "The New Mirror"-ah chuan chang thenkhat "Isadore" tih chu a lo print tawh a, mahse chuta ṭang chuan a ziaktuin a siam ṭha leh a, "The Widowed Heart" tiin a vuah ta a ni. Mr. Pike-a revision atang hian a hnuaia stanza hi ka thlang a, chuta a feature lian ber chu original version nen a inmil a ni:
+
+"Restless takin kan room lonely tak takte chu ka pace a, kan hlate chu ka play tawh lo, ."
+
+Ni eng mawi tak chu a hring chhuak lo chungah chuan a rawn eng chhuak a;
+
+Mocking-bird chu a la thu a, hla a la sa reng a, Aw melancholy strain!
+
+Ka thinlung chu thlasik chhum, ruah surin a chim ang a ni si a;
+
+Ka lakah chatuan atan i bo tawh, Isadore!"
+
+Hetah hian tehfung rei tak, refrain inang, leh a hlain lungngaihna tipungtu sava rawn luhtirna kan nei a. Trail dang pawh a awm a, chu chu thil hriat duhte pawhin an zui thei a; a bik takin, Mr. Ingram-a'n Poe-a'n "Barnaby Rudge" a review hnuhnung ber a\anga a thlan chhuah pakhat chu:
+
+"Raven pawh hi, * * * chu tuna kan hmuh aia tam, Barnaby ropui tak ngaihdan a\anga siam a ni mai thei. * * * A mizia hian, mi â ang chiah hian, music-ah, boruak zahna lama a accompaniment ang chiah chiah a ti thei a ni.
+
+Chuti chung pawh chuan heng natna hrik leh inanna te hi kan tarlan hnuah pawh he hla hlutna hi a bul tannaah hian a la awm reng a ni. Progressive music, scenic detail leh contrasted light and shade te,—a chung berah chuan nocturn thlarau lam passion te hian informing genius hnathawh a siam a ni. Sava rapthlak tak chungchang erawh chu a hnam chhunga raven dang zawng zawng ang lo takin a danglam a, balladist-te "twa corbies" leh "three ravens" atanga Barnaby-a rumpled "Grip" thlengin. Hetah hian pi leh pute turret-te tibuaitu leh heraldry field-a ke pentu cawing rook ang chi hi a awm lo; no boding phantom of which Tickell chuan chu chu a sa a, chutih lai chuan,
+
+"a window-ah vawi thum a au chhuak a, .
+
+Raven chuan a thla a rawn phawrh a, .
+
+Hmangaihna nei lo nula chuan a hre chiang lutuk
+
+A solemn boding sound chu a rawn ti chhuak ta a ni."
+
+Poe-a raven hi ngaihdan danglam tak a ni a; lungngaihna tuar leh beiseina nei lo taksaa lo chang; a sable embodied Memory, doom chanchin ziaktu awm reng, Irreparable chi khat. Styx lui kam atanga tlanchhuak, "Zan lama Plutonian tuipui kamah," zawhna zawttu ngei thlarau lem ang mai a ni a,—nepenthe chi khat chu quaff thei lo, quaff thei lo tur, a chhan chu Lenore-a hriatrengna chauh a la awm a, a lungngaihna surcease nen chuan chu pawh chu dah bo a ni ang.
+
+The Raven pawh hi a ziaktu hla phuahtu aiawhtu anga ngaih theih a ni a, hla chu eng nge ni tur tih a ngaihdan zawng zawng a entir avangin. Chungte chu "The Poetic Principle," "The Rationale of Verse," leh "The Philosophy of Composition" tih a essay-ah te kan hmu a ni. Poe-a chuan "Music-ah chuan, thlarau chuan a tawp ropui ber chu a thleng hnai ber mai thei a, chu chu Poetic Sentiment-in a fuih a nih chuan a bei nasa ber a ni—supernal Beauty siamna.... Verse hi music hnuaihnung zawk emaw, thiam lo zawk emaw anga sawi ai chuan a tha zawk thei lo" tiin a puang a mahse, hetah pawh hian, "Thu Hla" tak tak chang chu "The Rhythmical Creation of Beauty,"—hei hi leh a aia tam a awm lo. Beauty sang ber tone chu Lungngaihna a ni. Thupui zingah chuan melancholy ber chu Thihna hi a ni. Hei hi Beauty nen a inzawm tlat tur a ni. "Chuti a nih chuan hmeichhe hmeltha thihna hi, rinhlelh rual lohvin, khawvela thupui hla phuahtu ber a ni a,—chutiang thupui atana hmanraw tha ber chu hmangaihtu lungngai tak hmui a ni tih pawh rinhlelh rual a ni lo. Heng thumal hnuhnung berte hi Poe-a’n he hla ngei hi a whimsical analysis atanga lak chhuah a ni a, mahse a verse general range chu chiang takin a tarlang a ni. "The Bells" climax chu mihring thinlung tichhe thei khawpa ropui, ghoul-te muffled monotone a ni. "Lenore," The Raven , "The Sleeper," "To One in Paradise," leh "Ulalume" te hian tenebrose symphony an siam a,—chuan "Annabel Lee," tih hnuhnung ber ziah chuan thupui pakhatin a tawp thlengin a luah tih a tilang bawk. Hetah pawh hian heng zawng zawng hi music lam ni lo se engmah a ni lo va, thenkhat chu chu Fantastic quality chuan a khawih a, chu chuan hlauhna a tiharh a, hrehawmna ngeiah pawh hlauhna thar a belhchhah bawk. Through all is dimly outlined, beneath a shadowy pall, poet’s ideal love,—chuvangin hmun dangah a chanvea tarlan a ni fo thin,—Usher-a nupui phum tawh, Lady Ligeia, in  thutak chu a nihna ang chiah a ni. Artist pakhatin mi pakhat "in the form" a hmangaihna hian ideal engemaw takah a inpekna hi a tluk lo thei ngai lo niin ka hria. A bula hmeichhia chuan a spell-te chu a exercise tur a ni a, a inthlak danglam vek tur a ni a, engmah a rei lo tur a ni a, chi hrang hrang tawp nei loin a hip tur a ni a, a rinawmna chanvo chu bânsan mai maiin a lungawi tur a ni. Unattainable-in a hip a ngai a, hei hi a creative art lama a tui zawngah chuan a piah lam chauh a ni fo.
+
+Poe-a pawh Hawthorne-a ang bawkin Romantic school tlahniam zel nen a rawn lut a, a chhiatna chu nuihzatthlak zawkin tumah an lawm lo. Mahse, a thinlung chu romance-te leh an Oriental emaw Gothic effects-ah a awm a ni. A thil siam chhuah, prose thawnthua hausa lutuk chuan verse a ziah lai khan a thlahthlam niin a lang a; tin, a rorelna chuan romantic hla thui tak takte chu infuih tharna aiin thil thlengah a innghat zawk tih a hrilh bawk a,—chuan, romance hla thu sawi tur chuan hla thute chu a tawk ang tih a hrilh bawk. Chuvangin a theory, a tih theih lohna nena inmil chiang tak, "'hla thu sei' chu thumal hrang hranga inhnialna (flat contradiction) a ni" tih hi a ni. The Raven -a thil telte hi a tlem hle a, a awlsam hle bawk: mipa, sava, leh hmeichhe chunga hriatrengna (phantasmal memory) te. Mahse, he piece hian romantic material pholanna tha tak a pe a ni. Eng nge kan neih? Zanlai pelh hnuah; a tome of forgotten lore nen chuan shadowy chamber chu; zirlai,—tunlai Hieronymus pakhat; casement-a raven-a tap chu; thlasik zan leh mei thi tur; silk ang thliin a nuai hrual hrual te; thim ri ri chhuak chu mumang leh rin lohna fiah lo tak takte; pallid bust chunga sava dum, mak tak mai; violet velvet hmanga siam accessories leh gloating lamp te chu a ni. Heng dinhmun, êng, rawng, aw-a stage effect zawng zawng hi romantic chauh a ni a, melodramatic pawh ni se, melodrama-in a lantir ngai loh poetic quality a ni a, hla phuahtu "chatuan passion, chatuan hrehawmna" chu uluk takin a lantir a ni.
+
+The Raven -a rhythmic structure hian mi a tithinur ngei ang. Rhyme, alliteration, burden, stanzaic form te chu singular adroitness nen an duang chhuak a ni. Ringhlelhawm lohvin hla phuahtu hian Miss Barrett-i musical trochaics-te aptness chu a tithinur hle a, "eights"-ah te, a bik takin "Lady Geraldine" tawp dawna ruahmanna siam dan chuan a tithinur hle a ni:
+
+"'Mit,' a ti a, 'tunah chuan ka chhungah a rawn thawk chhuak ta! Min tibuaitu mit kha in ni em?
+
+Mit eng mawi tak, Parian statue-stone-a dah hlui lunghlu ang mai!
+
+Chu hmai dum reh tak hnuaiah chuan, in kang reng a ni
+
+O'er ka thinlung leh nun undone sand-desert desolate kha?'"
+
+Line hnihna leh palina pahniha rhyme pathumna a artistic introduction te, line pangana leh refrain hnuhnung ber a dah belh te chuan The Raven stanza a siam ta a ni. Persistent alliteration chu thawhrimna tel lovin a lo thleng niin a lang a, a tam zawkah chuan line chhunga rhyme te hi a hip thei a; refrain emaw phurrit emaw chuan hna zawng zawng a thunun laiin. Hetah pawh hian Miss Barrett-i’n a tawng leh tawng dang hmanga ballad leh romaunt a zir avang hian hlawkna a lo hmu tawh a ni. "Refrain" chu hla phuahtu emaw, musician emaw-in beng vakvai a vawn theihna tur lure a ni a,—Nature-in a tir lama strain a duhna lo awm leh thin chu. English hla phuah thiamte refrain mawi tak tak te hi ka ngaina fo thin a,—"The Nightingales, the Nightingales," "Margret, Margret," "My Heart and I," "Toll slowly," "The River floweth on," "Pan, Pan is dead," etc. Repetend ka tih chu a hmang bawk a, chu chu Poe-a hman danah chuan Coleridge-a'n hetiang hian a siam thar leh atang khan hla phuahtu zawng zawng a phak lo hle a ni:
+
+"Aw thil nung hlim tak tak! lei nei lo."
+
+An mawina chuan heti hian a puang mai thei:
+
+Ka thinlung atangin hmangaihna tuikhuah a rawn luang chhuak a, .
+
+Tin, ka hriat lohvin mal ka sawm a ni:
+
+Ka mi thianghlim ngilnei tak chuan min khawngaih ngei ang, .
+
+Tin, ka hriat lohvin mal ka sawm bawk a ni."
+
+Poe hian a stanza line pangana chu repetend magic atan a siam a. A hnu lama hla tlemte,—"Lenore," "Annabel Lee," "Ulalume," leh "For Annie"-ah te chuan a tawp thlengin a rinchhan a ni. Naupan lai atanga a sak thin Afric burdens leh repetends te "sweet influences," a\angin, wild leh melancholy music a nei niin ka hria a, an native melody nen kan Southern poet aw chu a inmil tir a ni.
+
+"The Philosophy of Composition," The Raven -a a zirchianna hi a kalphung leh a structure technical dissection a ni. Thisen lum tak hmanga thil siam a sawina emaw, a hnu lama a ṭhiante hnena he thil siam chhuahna hi a finna lama a bumna dang pakhat chauh a nih thu a sawina emaw pawh hi a pum puia chawimawi a ngai lo. A hnathawh kimchang chu a lo design lawk tawh a nih chuan, stanza pahnihna melody tui tak chu rattle-pan rhyme-a thuhmahruai khauh tak chu a siam harsa khawp ang,—a theory of the fantastic-ah pawh ni lovin. Dik tak chuan artist chuan hnathawh pakhat a ti famkim tawh a, Artist hmasa ang bawkin a tha tih a hmu a, a tha chhan pawh a hmu bawk. A hnu lama zirchianna, mei thianghlim eng pawh hnialna nen chuan, awlsam taka tih theih a ni. Ka rin dan chuan he hla thu hi a conception hmasa ber leh rough draft hi inspiration a lo thleng fo thin angin a lo thleng a; chutah chuan a ziaktu chuan a famkim theih dan tur chu a hmu a, Composition chungchanga a bung-a a sawi hnuhnung berte chu a pe a, chuvangin a hnuhnung zawk hi a dik lo vek lo va, a dik vek lo bawk tih a sawi bawk. Chutiang thlirletna chhiatna chu, novice chu artificial process-in imagination a hneh thei tih fancy turin a thlem a ni. Genius impulse chu a creative hour thuruk humhim hi a ni. Tun hnaia Hawthorne-a sketch-work-a a rawn chhuah ang khan, hnehna hmaa thil tih, experiment buaithlak tak takte hmuh chhuah te chuan, artist thinlung tak takte tan chuan zirtirna leh fuihna hlu tak a pe thei a ni. Mahse pakhat  a duhthusamin a Muse chu lo kal zawng zawng mit hmuha pholangtu chuan Lal Candaules-a chanchin chu a hrechhuak tur a ni.
+
+Khawvel chuan Poe hi "luckless man of genius" angin an la ngai reng a ni. Tun hnaiah "mi zawng zawngin sawi dik lo, sawisel emaw sawichhiat emaw tura chartered ang maia lang" tia sawi ka hre bawk. Mahse, a vanduai chu a thihna khawngaihthlak takah a tawp ta niin ka hria a, chuta ṭang chuan a invenna chu a la awm reng a, hrehawm tuar leh thilpek nei tak ziaktuin a beisei hun laia a ṭawngṭai theih ang maia ṭhanlenna nghet tak a neih hmingthanna chu a ni. Griswold-a sawiselna leh sawichhiatna chuan current chu a duh zawngin a tidanglam ta a ni. Critics leh biographer-te chuan a hnungzuiin hnialna an rawn chhuah a, a mizia chawimawina te, a kutchhuak edition thar te nen an rawn chhuak a ni. Amah ngeiin lehkha a thawn te leh a career-a thil thleng minute te tak te chu kan hmaah a awm a; record, a tha leh tha lo chu mi tam takin an hre chiang hle. Appellor tu mahin hetiang aia tender leh ngaihdamna rorelna hi an dawng lo. Nunnaah a chhiatnate chu a bial leh a hun laia thil thleng a ni a, chu chu a duhzawng chak lohna vang pawh a ni zawk mai thei. Ringhlelhawm lohvin a chhehvêl chu a chhûnga leh a chhûnga hlauhawmna laka thilsiam ṭha tak, inthlau tak chu vênghimtu a ni lo. A duhna chak ber, mahni lal nih chuan a tan "chu lungngaihna rochun" chu a hlawh chhuak ta a ni. Chu sava pu hlim lo, he hla thu tuar tuar tuar chu a inpuang ta a ni. Mahse, a ta chu chu dramatic temper which exults in the presage of its own doom chu a chanve pumhlum a ni. Mahni chanvo sang tak khelh hian hlimna a awm a: gladiator kan ni vek a, Ave Imperator tap kan ni! Burke-a thil dik tak sawi chhuah tur chuan: "Lungngaihnaah chuan nuam tihna chu a la chungnung ber a, kan hrehawm tawrhna hian hrehawmna famkim nen a inang lo va, chu chu thil tenawm tak a ni fo va, chu chu a rang thei ang bera tihbo kan tum a ni. Poe hian hla zawkah a kal a, a career-a tragedy-ah pawh artist a ni. A rin dan ang chuan lungngaihna leh mawina bo hi hla thupui sang ber a nih a, hla thu hriatna hi leilung nawmna ril ber a nih chuan, a nun chhe tawh lungngaihna leh thim chu an rulhna fo tawh loh a ni lo.
+
+A hnuaia phek-ah hian hla lar tak pakhat a hrilhfiahna ziarang, artist pakhatin a thiamna a lantir dan entir thar kan nei a ni. Gustave Doré, a pencil kutchhuak hnuhnung ber chu kan hmaah a awm a, chu chu tone, figure leh perfection chungchanga thutak phuttu realist-te tan chuan painter, a nih loh leh draughtsman pawh a ni lo. Chutiang thilte chuan a thil tum ṭanpui,—chu chu a entu thlarau, suangtuahna, tiharh ai chuan a pianzia leh hlat zawng, êng leh êng siam ai chuan a ngaihtuah lo zâwk a ni. Chu chu kan hlauhthawnna tiharh hmangin, sawi theih loh leh thim emaw, ropuina emaw nena khat thilte ngaihdan mak tak tak leh a tam zawkah chuan ropui tak tak hmangin a ti a ni. A kutchhuakte hi lemziak ropui tak tak ni lo se, thlalak angin an ropui tak zet tih hi sawi tha tak a ni. "Literary artist" a nih angin, leh chutiang a nih angin, a chakna chu a ziaktu dramatic invention nen chuan direct ratio a ni a, a thlarau huaisenna huaisen tak takte nen pawh a inrem a ni. Chuvangin Rabelais-a nena an hlawhtlinna te, "Le Juif-Errant," "Les Contes Drolatiques," leh "Don Quixote" te, leh chuta ṭang chuan, a lehlamah chuan, Tennyson-a Idyls, "Il Paradiso," Hebrai pastorals, leh thuziak dangte chawimawi ngai, a nih loh leh thlum leh chawlh hahdam ngai thuziak mawina a sawi chhuah loh vang a ni. Amah hi thil mak (grotesque) lama thiam tak (born master) a ni a, hriatna bik hmangin thluak hausa (haunted brain)-a thil thleng (specters) te chu a rawn pholang thei a ni. Thilte chu a mite hmuh angin kan hmu a, chu chu Juda Vakvai, Don buai tak emaw, Pont-au-Change-a dawr-a a fancy-in Lal chu a ti ropui em em rangkachak siamtu fanu mit ngeiin kan hmu bawk. Thil awm danah hian a danglam bik tia ka sawi verse emaw prose emaw masterpiece tinte chu a hip tur a ni. Lalram hnuai zawkte chu a rawngbawl turin koh an ni a; a lungpui, thing leh tlang, van boruak ngei pawh hi motive leh diablerie nen a nung a ni. Shakespeare-a entir nan a nung a nih chuan "Lear"-a Caliban, the Witches, thlipui tleh dan hi a enkawl dan mak tak mai kan hmu tur a ni; mahse rinhlelh rual lohvin Imogen emaw Miranda emaw chungchanga a thil tum chu zawhna a siam tur a ni. Mawina thianghlim leh awlsam, leh a ṭhatna famkim chu a hrethiam lo niin a lang.
+
+Mahse, "Ancient Mariner" atana a design-ah hian mawina a awm a, a tak tak lo mah se, Doré-a series-ah chuan a zawna a awm lo hle. The Rime hian thawnthu thui tak a pe a, a scene pawh a inthlak danglam nasa hle. The Raven -ah chuan sound leh colour hian an monotone an humhim a, hmun leh hun inthlak danglamna kan nei lo. Eng nge a rah chhuah? Doré chuan a ngaihtuah angin thupui chungchangah hian danglamna hrang hrang a rawn rawt a, "thihna thuruk leh thlarau thlamuan theih loh thil hmuh theih (hallucination of an inconsolable soul"" tih hi. Heng lemziak thenkhatah hian a dik lohna chu a lang chiang hle a; mi dangte chuan a originality chak tak, leh, draughtsman a nih angin, amah chauha a dinna mizia ṭha ber berte an pholang bawk. Poe leh Doré-a hnathawh danah hian thil inang tak a awm tih a chiang hle. Hei hi a hnuhnung zawk hian "Tales of the Grotesque and Arabesque" tih hi a kut a thlak a nih chuan chiang zawkin a lang ang. An pahnih hian fantasy leh romance elf-land an pan fo thin. Melodramatic feats-ah chuan an pahnih hian supernatural an thupek hmangin ideal leh absurd inkara danger-line chu an pumpelh ta a ni. Poe-a chu Mawi chibai buktu dik zawk a ni a; a hmangaihna chu thil thianghlim tak a ni a, hetah hian a lemziak thiam nen an inthen ta a ni. Hla phuah thiam emaw, lemziak thiam emaw, Thihna hian a tawpah chuan a tidanglam vek a ni: a sable harbinger thlalak chhungah chuan Vedder-a symbolic crayon chuan hmaichhana a siam dik a, mahse thi thei lo finna leh thiltihtheihna puan in a khuh thung. American hmeichhe pakhat chuan arsi mit nei Genius lem chu meialh hnuhnung ber hmangin a siam a, chu chu a hmuhnawm tak, mahse a hmui chuan "thufing thlan kawngkhar" piah lama ram thurukte chu a hmu thei a, mahse a hmui chuan a sawi chhuak lo mai thei.
+
+Edmund C. Stedman-a chuan a rawn ti a.
+
+THE POEM THIL THAWN THIN.
+
+Entirna 1. A rilru a hah lutuk chuan a rilru a buai em em a
+
+RAVEN THIL THAWN THIN.
+
+Vawikhat chu zanlai muang takin, ka ngaihtuah lai chuan, chak lo leh chau takin, .
+
+Over many a quaint leh curious volume of forgotten lore, .
+
+Ka lu ka bu nghat lai chuan, ka muhil hnaih lai chuan, rang takin tapping a rawn ri ta a, .
+
+Mi pakhatin zawi zawia rap, ka chamber kawngkaa rap lai ang maiin.
+
+"'T hi tlawhtu tu emaw a ni," ka ti muangchang a, "ka chamber kawngka chu ka tap a— .
+
+Hei chauh hi, chu aia tam chu a awm lo."
+
+Ah, chiang takin ka hre reng a, December thla thim tak, 1999 lai kha a ni.
+
+Tin, meipui thi hrang hrang tin chuan a thlarau chu leiah chuan a rawn thawk chhuak ta a.
+
+Thawhrim takin a tuk chu ka duh a:—a hlawk lo hle a, loan lak ka tum a ni
+
+Ka lehkhabu atang chuan lungngaihna surcease—Lenore bo tawh tan lungngaihna—
+
+Vantirhkohte’n Lenore tia an vuah nula hmuh tur awm lo leh eng tak tan chuan—
+
+Hming nei lo hetah hian chatuan atan.
+
+Tin, purple curtain tin silk ang sad uncertain rustling pawh
+
+Min ti phur hle—a hmaa ka la hriat ngai loh hlauhawmna mak tak takte chuan min tikhat a;
+
+Chutichuan tunah chuan ka thinlung na tak chu ti reh turin, ka ding leh ta a
+
+"'T hi visiter thenkhatin ka chamber kawngka bulah luhna an ngen a
+
+Ka chamber kawngka bulah tlawhtu tlai ṭhenkhatin luh an dil a;—
+
+Hei hi a ni a, chu aia tam chu a awm lo."
+
+Tunah hian ka thlarau chu a chak zual sauh sauh a; hesitating then ni tawh lo, .
+
+"Ka pu," ka ti a, "a nih loh leh Madam, dik takin i ngaihdamna ka ngen a che;
+
+Mahse a dikna chu ka muhil a, chutiang chuan zawi zawiin i rawn rap a, .
+
+Tin, chutiang chuan faint takin i rawn tapping a, ka chamber kawngka chu i tap a, .
+
+That I scarce was sure I heard you"—hetah hian kawngkhar chu ka hawng zau hle a;—
+
+Chutah chuan thim a awm a, chu aia tam pawh a awm lo.
+
+Chu thim thuk takah chuan ka thlir kual a, rei tak chu mak ti takin ka ding a, hlau takin, .
+
+Ringhlelna, mumang nei, mihring thi thei tumahin an mumang an neih ngai loh;
+
+Mahse, ngawi renga awm chu a tawp lo va, thim chuan chhinchhiahna engmah a pe lo;
+
+Tin, chutah chuan thu sawi awmchhun chu, "Lenore!"
+
+Hei hi ka ti sap a, echo chuan, "Lenore!"
+
+Hei chauh hi a ni a, chu aia tam chu a awm lo.
+
+Chamber chhungah chuan hawi let lehin, ka chhunga ka thlarau zawng zawng chu a kang vek a, .
+
+Rei vak lovah chuan tapping ri ka hre leh a, a hma aia nasa deuhin ka hre leh ta.
+
+"Tih tak zetin," ka ti a, "chu chu ka window lattice-a thil awm chu a ni ngei ang;
+
+Chuti a nih chuan, chuta awm chu ka en ang a, he thuruk hi ka chhui chhuak ang—
+
+Ka thinlung hi rei lo te chauh awm sela, he thuruk hi chhui chhuak rawh se;—
+
+'T chu thli a ni a, chu aia tam chu!"
+
+Hetah hian hawn rawh shutter ka vawrh chhuak a, chutih lai chuan, mi tam tak a flirt leh flutter nen, .
+
+Chutah chuan hmanlai hun thianghlim tak Raven ropui tak pakhat chu a rawn lut a.
+
+Chibai bûkna pawh a siam lo; minute khat pawh a ding lo va, a awm lo he;
+
+Mahse, mien of lord or lady nen, ka chamber kawngka chungah chuan—
+
+Ka chamber kawngka chungah chiah Pallas bust pakhat chungah chuan ka thu a—
+
+Perched, and thut, chu aia tam chu a awm lo.
+
+Tichuan he ebony bird hian ka sad fancy chu nuihzat turin a bum a, .
+
+A hmêl a inthuamna thlan leh hnungzang decorum hmangin, .
+
+"I hmul chu tan leh hrual ni mah se, nang," ka ti a, "I crest no craven,
+
+Zan lam tuipui kam atanga Raven rapthlak tak leh hlimthla rapthlak tak,—
+
+Zan Plutonian tuipui kamah i lal hming chu eng nge ni tih min hrilh teh!"
+
+Quoth the Raven, "Engtikah mah."
+
+Hetiang taka thusawi chiang taka ka hriat hian he sava ungainly tak hi mak ka ti hle a,
+
+A chhanna chuan awmzia tlemte chauh nei mah se—a inzawmna tlemte chauh nei mah se;
+
+Mihring nung reng reng kan awm lo tih hi kan pawm lo thei lo si a
+
+Ever yet chuan a chamber kawngka chungah sava hmuin malsawmna a dawng a—
+
+A chamber kawngka chunga sculptured bust chungah sava emaw sakawlh emaw, .
+
+"Nevermore" tih hming puin.
+
+Mahse, Raven, placid bust-a mahni chauha thu chuan thu chauh a sawi
+
+Chu thu pakhat chu, chu thu pakhatah chuan a thlarau chu a rawn luang chhuak ang maiin.
+
+Chutah chuan engmah a sawi lo va—a hmul pakhat mah a ni lo va, a thlawk chhuak ta a—
+
+Till I scarcely more than muttered, "Ṭhian dangte pawh an lo thlawk tawh a—
+
+Ka beiseina a lo thlawh tawh ang khan a tuk lamah chuan min kalsan ang ."
+
+Tichuan sava chuan, "Nevermore," a ti ta a.
+
+Reply so aptly spoken avanga ngawi renga tihchhiat chu mak a ti hle a, .
+
+"Ringhlelhawm lohvin," ka ti a, "a sawi chhuah chu a stock leh store awmchhun a ni, .
+
+Caught from some unhyppy master whom khawngaihna nei lo Disaster
+
+A hlate phurrit pakhat a phurh thlengin a zui chak a, a zui chak zawk bawk—
+
+Till the dirges of his Beiseina chu chu phurrit lungngaihna chuan a phur a ni
+
+'Engtikah mah—engtikah mah.'" tih thu."
+
+Mahse, Raven chuan ka thlarau lungngai zawng zawng chu nuihzat turin a la thlem reng a,
+
+Straight chuan bird leh bust leh kawngka hmaah cushioned seat ka wheel a;
+
+Tichuan, velvet a pil lai chuan linking-ah ka insiam ta a
+
+Fancy to fancy, he sava hlauhawm tak hi eng nge ni tih ngaihtuah chungin—
+
+He sava lungchhiatthlak, ungainly, ghastly, gaunt leh ominous tak hi eng nge ni
+
+"Nevermore" tih croaking tihna a ni.
+
+Hei hi guessing-ah ka thu a, mahse syllable expressing erawh a awm lo
+
+Tuna a mitmeng meialh chu ka rilru chhungril takah a kang tawh sava hnenah chuan;
+
+Hei leh thil dang tam tak chu ka thu a, ka lu chu hahdam takin ka nghat a
+
+Lamplight gloated o'er cushion velvet lining-ah chuan,
+
+Mahse, tu nge velvet violet lining chu lamplight gloating o'er nen
+
+A press ang, ah, engtikah mah!
+
+Tichuan, methought, boruak chu a denser zual sauh sauh a, hmuh theih loh rimtui dahna atanga rimtui a lo chhuak ta a ni
+
+Swung by seraphim whose foot-falls chu tufted floor-ah chuan a ri chhuak a.
+
+"Wretch," ka au chhuak a, "i Pathianin a loan che a ni—heng vantirhkohte hmang hian a tir che a ni."
+
+Chawlh hahdam rawh—Lenore-a i hriatrengna atang hian chawlh hahdam la, nepenthe rawh!
+
+Quaff, oh quaff hetiang nepenthe hi, leh he Lenore bo hi theihnghilh rawh!"
+
+Quoth the Raven, "Engtikah mah."
+
+"Zâwlnei!" ka ti a, "thil sual!—zawlnei la ni reng, sava emaw, diabola emaw pawh ni se!—
+
+Thlemtu tirh emaw, thlipuiin hetah hian tuipuiah a rawn vawrh che emaw,
+
+Desolate yet all undeunted, he thlaler ram enchanted-ah hian—
+
+On this home by Horror haunted—dik tak min hrilh teh, ka ngen a che—
+
+Gilead-ah hian— balm a awm em?—min hrilh rawh—min hrilh rawh, ka ngen a che!"
+
+Quoth the Raven, "Engtikah mah."
+
+"Zâwlnei!" ka ti a, "thil sual—zawlnei la ni reng, sava emaw, diabola emaw pawh ni se!
+
+Chu Vanram inbeng kang hmang chuan keini—chu Pathian hmang chuan kan pahnih hian kan biak a— .
+
+He thlarau lungngaihna phur chu hrilh rawh, Aidenn hla tak chhungah chuan, .
+
+Nula thianghlim pakhat, vantirhkohte’n Lenore tia an vuah chu a kuah ang—
+
+Vantirhkohte’n Lenore tia an vuah nula rare leh radiant tak chu clasp rawh."
+
+Quoth the Raven, "Engtikah mah."
+
+"Chu thu chu kan inthenna chhinchhiahna ni rawh, sava emaw, ramhuai emaw!" Ka au chhuak a, upstarting—
+
+"Thlipui leh Zan Plutonian tuipui kamah chuan lut leh rawh!"
+
+I thlarauvin chu thu dik lo a sawina chhinchhiahna atan chuan black plume dah suh!
+
+Ka mahni chauhna chu titawp lovin kalsan rawh!—ka kawngka chunga bust chu chhuahsan rawh!
+
+Ka thinlung atangin i hmui la la, ka kawngka atang chuan i hmel chu la rawh!"
+
+Quoth the Raven, "Engtikah mah."
+
+Tin, Raven, flitting ngai lo, a la thu reng a, a la thu reng bawk
+
+Ka chamber kawngka chungah chuan Pallas bust dum hring dup chungah chuan;
+
+Tin, a mitte chuan ramhuai mumang ang maia lang zawng zawng a nei a, .
+
+Tin, lamplight o'er him streaming chuan a thlalak chu leiah a paih a;
+
+Tin, ka thlarau chu chu thlalak atang chuan leiah chuan a lo inphah chhuak a
+
+Hmasawn a ni ang—engtikah mah!
+

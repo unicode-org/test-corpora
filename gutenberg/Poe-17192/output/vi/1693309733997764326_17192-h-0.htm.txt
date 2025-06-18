@@ -1,0 +1,570 @@
+Sách điện tử Project Gutenberg của The Raven, của Edgar Allan Poe.
+
+Sách điện tử Project Gutenberg của The Raven
+
+Sách điện tử này dành cho bất kỳ ai ở Hoa Kỳ và hầu hết các nơi khác trên thế giới sử dụng miễn phí và hầu như không có bất kỳ hạn chế nào. Bạn có thể sao chép, tặng hoặc sử dụng lại theo các điều khoản của Giấy phép Project Gutenberg đi kèm với cuốn sách điện tử này hoặc trực tuyến tại www.gutenberg.org . Nếu bạn không sống ở Hoa Kỳ, bạn sẽ phải kiểm tra luật pháp của quốc gia nơi bạn sống trước khi sử dụng Sách điện tử này.
+
+Tiêu đề : Con quạ
+
+Tác giả : Edgar Allan Poe
+
+Bình luận viên : Edmund Clarence Stedman
+
+Người minh họa : Gustave Doré
+
+Ngày phát hành : 30 tháng 11 năm 2005 [eBook #17192] Cập nhật gần đây nhất: Ngày 13 tháng 12 năm 2020
+
+Ngôn ngữ : Tiếng Anh
+
+Tín dụng : Được sản xuất bởi Jason Isbell, Melissa Er-Raqabi và Online Nhóm hiệu đính được phân phối tại https://www.pgdp.net.
+
+*** BẮT ĐẦU DỰ ÁN GUTENBERG EBOOK THE RAVEN ***
+
+Bìa sau
+
+con quạ
+
+Qua
+
+EDGAR ALLAN POE
+
+MINH HỌA Bởi GUSTAVE DORÉ
+
+Hình ảnh tiêu đề
+
+CÓ BÌNH LUẬN CỦA EDMUND C. STEDMAN
+
+YORK MỚI
+
+HARPER & BROTHERS, NHÀ XUẤT BẢN, FRANKLIN SQUARE
+
+1884
+
+Được ký kết theo Đạo luật của Quốc hội vào năm 1883 bởi
+
+HARPER & CÁC ANH EM,
+
+Tại Văn phòng Thư viện Quốc hội ở Washington.
+
+Mọi quyền được bảo lưu.
+
+Ghi chú của người ghi chép
+
+Trong Danh sách Hình minh họa, tôi đã khôi phục một trích dẫn còn thiếu sau Lenore! như hình dưới đây:
+
+“ ‘Khốn nạn,’ tôi kêu lên, ‘Chúa của ngươi đã cho ngươi mượn—bởi những thiên thần này mà Ngài đã phái ngươi đến Hãy nghỉ ngơi—nghỉ ngơi và nepenthe khỏi những ký ức của bạn về Lenore!'"
+
+Danh sách Hình minh họa sử dụng 'khách' trong đó bài thơ và hình minh họa thực tế sử dụng 'khách'.
+
+DANH MỤC HÌNH ẢNH MINH HỌA
+
+Với tên của thợ khắc
+
+Trang tiêu đề, được thiết kế bởi Elihu Vedder.
+
+Frederick Juengling.
+
+"Không bao giờ nữa."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claudius.
+
+"Ngày xửa ngày xưa, vào một nửa đêm buồn bã, trong khi tôi suy nghĩ, yếu đuối và mệt mỏi, Qua rất nhiều tập truyện kỳ ​​lạ và tò mò bị lãng quên."
+
+RA Muller.
+
+"À, tôi nhớ rõ rồi, đó là vào tháng 12 ảm đạm, Và mỗi viên than hồng sắp tàn đều để lại bóng ma của nó trên sàn nhà.”
+
+RG Tietze.
+
+"Tôi háo hức ước ngày mai; tôi đã tìm cách vay mượn một cách vô ích Từ những cuốn sách của tôi, nỗi buồn đã vơi đi—nỗi buồn cho Lenore đã mất.”
+
+H. Claudius.
+
+"Thật đau buồn cho Lenore đã mất."
+
+W. Zimmermann.
+
+“Dành cho thiếu nữ rạng ngời và hiếm có được các thiên thần đặt tên là Lenore— Vô danh ở đây mãi mãi."
+
+Frederick Juengling.
+
+"''Không phải có vị khách nào đó đang mời vào cửa phòng tôi— Có vị khách nào đó đến muộn xin vào cửa phòng tôi.”
+
+W. Zimmermann.
+
+—"Ở đây tôi đã mở rộng cửa;— Bóng tối ở đó, và không còn gì nữa."
+
+H. Claudius.
+
+"Nghi ngờ, mơ những giấc mơ mà trước đây chưa từng có người phàm nào dám mơ."
+
+Vua FS.
+
+“Chắc chắn rồi,” tôi nói, “chắc chắn có cái gì đó ở lưới cửa sổ của tôi; Vậy hãy để tôi xem ở đó có gì và khám phá bí ẩn này.”
+
+Frederick Juengling.
+
+"Mở đây tôi đã tắt màn trập."
+
+T.Johnson.
+
+- "Một con quạ trang nghiêm của những ngày thánh thiện ngày xưa. Không một chút sự phục tùng nào khiến anh ta; không một phút dừng lại hay ở lại anh ta."
+
+R. Staudenbaur.
+
+“Đứng trên bức tượng bán thân của Pallas ngay phía trên cửa phòng tôi— Ngồi và ngồi, không có gì hơn."
+
+RG Tietze.
+
+"Lang thang từ bờ biển đêm."
+
+Frederick Juengling.
+
+"Cho đến khi tôi chỉ lẩm bẩm, 'Những người bạn khác đã bay trước— Ngày mai anh ấy sẽ rời bỏ tôi, như những hy vọng của tôi đã bay đi trước đó.'"
+
+Frank người Pháp.
+
+“Sau đó, khi tấm nhung chìm xuống, tôi bắt đầu liên kết Lạ mắt cho đến lạ mắt."
+
+R. Schelling.
+
+“Nhưng lớp lót nhung màu tím với ánh đèn hả hê o'er Cô ấy sẽ nhấn, à, không bao giờ nữa!"
+
+George Kruell.
+
+“ ‘Khốn nạn,’ tôi kêu lên, ‘Chúa của ngươi đã cho ngươi mượn—bởi những thiên thần này mà Ngài đã phái ngươi đến Hãy nghỉ ngơi—nghỉ ngơi và nepenthe khỏi những ký ức của bạn về Lenore!'"
+
+Victor Bernstrom.
+
+"Tại ngôi nhà này bị ám ảnh bởi nỗi kinh hoàng."
+
+R. Staudenbaur.
+
+"'Hãy nói thật cho tôi biết, tôi cầu xin— Có— có dầu thơm ở Gilead không?—nói cho tôi biết—nói cho tôi biết đi, tôi cầu xin!'"
+
+W. Zimmermann.
+
+"'Hãy nói với linh hồn đang mang nặng nỗi buồn này nếu, ở Aidenn xa xôi, Nó sẽ ôm chặt một thiếu nữ thánh thiện mà các thiên thần đặt tên là Lenore.'"
+
+Vua FS.
+
+“'Hãy coi đó là dấu hiệu chia tay của chúng ta, chim hay quái vật!' Tôi hét lên, đứng dậy."
+
+W. Zimmermann.
+
+"'Hãy quay trở lại cơn bão và bờ biển Plutonian của Đêm!'"
+
+Robert Hoskin.
+
+"Và tâm hồn tôi thoát ra khỏi cái bóng đang trôi nổi trên sàn nhà Sẽ được dỡ bỏ—không bao giờ nữa!”
+
+RG Tietze.
+
+Bí mật của tượng Nhân sư.
+
+R. Staudenbaur.
+
+BÌNH LUẬN VỀ BÀI THƠ.
+
+Bí mật của một bài thơ, không kém gì sự thịnh vượng của một câu chuyện cười, nằm ở đôi tai của người nghe nó. Hãy khuất phục trước bùa mê của nó, chấp nhận tâm trạng của nhà thơ: xét cho cùng, đây là điều mà các nhà hiền triết trả lời khi bạn hỏi họ về giá trị của nó. Mặc dù bản thân nhà thơ, trong tâm trạng khác, nói với bạn rằng nghệ thuật của anh ta chỉ là trò ảo thuật của bàn tay, món ăn của kẻ mê hoặc đồ ăn, và đề nghị chỉ cho bạn thủ thuật đó, - đừng tin anh ta. Hãy chờ đợi giờ tiên tri của Ngài; rồi hãy trao mình cho niềm đam mê của anh ấy, niềm vui hay nỗi đau của anh ấy. "Hôm nay chúng ta đang ở trong tay Tình Yêu!" Gautier hát, theo lối diễn giải sôi nổi của Swinburne,—và từ sáng đến tối, chúng ta trôi dạt trên biển dữ dội: chỉ có một tình yêu, một tháng Năm, một sợi dây đầy hoa. Tình yêu là vĩnh cửu, tất cả những thứ khác đều không thực tế và bị gạt sang một bên. Tầm nhìn đã kết thúc, khung cảnh thay đổi; nhưng chúng ta đã đạt được một điều gì đó, ký ức về một lá bùa. Như nhiều nhà thơ, rất nhiều duyên dáng. Có sự quyến rũ của Evanescent, thứ tạo nên vẻ đẹp và sự duyên dáng tối cao như vầng hào quang của Pathos. Hãy chia sẻ với Landor về "đêm đầy kỷ niệm và những tiếng thở dài" của anh ấy dành cho Rose Aylmer, và bạn sẽ có được điều này một cách trọn vẹn.
+
+Và bây giờ hãy nắm tay một nghệ sĩ hát rong của thế giới mới, lạc khỏi môi trường sống thích hợp nào đó để đến nước Mỹ thô lỗ và bất hòa mà, như Baudelaire thấy, “đối với Poe chỉ là một nhà tù rộng lớn mà anh ta chạy qua đây đó, với sự kích động cuồng nhiệt của một sinh vật được tạo ra để hít thở trong một thế giới thuần khiết hơn,” và nơi “đời sống nội tâm của anh ta, tâm linh như một nhà thơ, tâm linh ngay cả như một kẻ say rượu, chỉ là một nỗ lực không ngừng để thoát khỏi ảnh hưởng của bầu không khí ác cảm này.” Hãy nắm lấy bàn tay nhạy cảm của một ca sĩ đang gặp rắc rối khi thấy điều kỳ lạ của anh ta, và chia sẻ với anh ta bầu không khí mà anh ta tìm thấy, - không bao giờ suốt ngày, luôn là trong đêm, - nếu không phải là Atlantis nơi anh ta đã lang thang, thì ít nhất là một nơi ẩn náu khỏi những giới hạn mà ban ngày anh ta bị giam cầm.
+
+Đến một vùng đất duy nhất, anh ấy có quyền dẫn dắt bạn và chỉ trong một đêm, bạn có thể chia sẻ giấc mơ của anh ấy. Một đoạn không phải Đất cũng không phải Thiên Đường: "Vùng đất không người", ngoài Không gian, ngoài Thời gian. Đây là những người bối rối, qua đôi mắt của họ, giống như của Cenci, tâm hồn tìm thấy cửa sổ dù tâm trí choáng váng; ở đây các linh hồn đang dò dẫm tìm kiếm con đường dẫn tới cõi vĩnh hằng đã bị dừng lại và trì hoãn. Đó là tình trạng lấp lửng của "linh hồn hành tinh", trong đó có tất cả những điều không chắc chắn về ánh trăng, tất cả những tình yêu và ảo tưởng đã mất. Ở đây một số người bị cố định trong trạng thái xuất thần, thời gian nghỉ ngơi duy nhất có thể đạt được; người khác
+
+"di chuyển thật tuyệt vời
+
+Với một giai điệu không hòa hợp:"
+
+trong khi mọi nơi đều có
+
+"Ký ức về quá khứ—
+
+Những hình thù che phủ bắt đầu và thở dài
+
+Khi họ đi ngang qua kẻ lang thang."
+
+Vùng đất đó là như vậy, và trong một đêm chúng ta bước vào đó – một đêm của các giai đoạn trung giới và những tiếng chuông tái diễn. Đơn điệu của nó là mười hai bài thơ, trong đó âm nhạc luôn cố gắng thay đổi nhưng vẫn giống nhau. Từng cái một, chúng phát ra âm thanh, giống như tiếng chuông của chiếc đồng hồ trơ trẽn và bằng gỗ mun, trong "The Masque of the Red Death", khiến những người nhảy điệu valse phải dừng lại với "bối rối, run rẩy và thiền định", thường xuyên khi thời gian trôi qua.
+
+Trong số tất cả những nhịp điệu thần bí này, lời than phiền của The Raven , rung động qua cánh cổng, chủ yếu đã gây ấn tượng với thế giới bên ngoài. Điều gì ảnh hưởng đến việc tạo ra một bài thơ,—và sự thật như thế nào trong điều này, cũng như trong hầu hết những điều khác, chủng tộc đặt tên cho các thi sĩ của mình là "những người sáng tạo"? Một tác phẩm được gọi ra từ khoảng trống. Nơi nào không có gì thì nó vẫn còn—một sự sáng tạo mới, một phần kho báu của nhân loại. Và một số ca từ đặc biệt, hơn những ca từ khác có tính sáng tạo không kém, buộc chúng ta phải suy nghĩ lại xem ngòi bút của nhà thơ đã dũng cảm biến đổi những điều chưa biết như thế nào
+
+"để tạo hình và không mang lại điều gì thoáng đãng
+
+Một nơi cư trú ở địa phương và một cái tên."
+
+Mỗi cái dường như không có nguyên mẫu, nhưng tất cả đều mê hoặc chúng ta bằng những yếu tố được lấy từ cái bóng của Siêu nhiên. Bây giờ trí tưởng tượng cao nhất quan tâm đến linh hồn của sự vật; nó có thể hoặc không thể truyền cảm hứng cho Ảo mộng mà mọi người có hình ảnh mơ hồ về mặt trăng. Tuy nhiên, một trong những lời bài hát này, theo cách nhỏ hơn, ảnh hưởng đến chúng ta với cảm giác độc đáo, chắc chắn giống như những tác phẩm siêu phàm của một dàn diễn viên siêu nhiên,—“Faustus” của Marlowe, “Faust” của Goethe, “Manfred” hay thậm chí là những kiệt tác thanh tao, “The Tempest” và “A Midsummer Night's Dream”. Nhiều hơn một, mặc dù là duy nhất, nhưng có một số  gánh nặng hay điệp khúc ám ảnh ký ức,—một lần nghe, không bao giờ quên, giống như giai điệu của một bản đàn organ hiếm khi được sử dụng nhưng đặc biệt. Đáng chú ý trong số đó là "Lenore" của Bürger, bản ballad ma quái và vang dội, sự lôi cuốn và lá chắn của các dịch giả. Ít ai sẽ phủ nhận rằng tác phẩm kỳ diệu "Rime of the Ancient Mariner" của Coleridge đang đứng đầu trong số họ. "Le Juif-Errant" sẽ có những tuyên bố nếu Beranger là một nhà thơ vĩ đại hơn; và, nhưng vì chúng xa cách với sự đồng cảm của quần chúng, "The Lady of Shalott" và "The Bless Damozel" có thể được thêm vào danh sách. Edgar Allan Poe được giao cho hai lời bài hát, "The Bells" và The Raven , mỗi lời bài hát, mặc dù có lẽ kém đẹp hơn Tennyson và Rossetti, nhưng lại là một bản độc nhất. "Ulalume," mặc dù cũng kỳ lạ và giàu trí tưởng tượng nhưng không có chất lượng chung như một phần trong thử nghiệm của chúng tôi.
+
+Con Quạ xét về mặt thi ca tuyệt đối kém hơn những tác phẩm như “Cung điện ma ám”, “Thành phố trên biển”, “Người ngủ” và “Israfel”. Tôi nghi ngờ rằng toàn bộ nó sẽ được trao đổi bởi những độc giả thuộc tầng lớp khó tính để lấy những đoạn như thế này:
+
+“Xung quanh, do gió nâng quên mất,
+
+Cam chịu dưới bầu trời
+
+Dòng nước u sầu nằm.
+
+Không có tia sáng nào từ thiên đường thánh thiện chiếu xuống
+
+Vào đêm dài của thị trấn đó;
+
+Nhưng ánh sáng từ biển cả khủng khiếp
+
+Âm thầm tiến lên các tháp pháo—
+
+· · · · · · · ·
+
+Lên rất nhiều một ngôi đền tuyệt vời
+
+Những trụ gạch có vòng hoa đan xen vào nhau
+
+Viol, tím và cây nho.
+
+· · · · · · · ·
+
+Không sưng tấy cho biết gió có thể
+
+Trên một vùng biển hạnh phúc xa xôi nào đó—
+
+Không có dấu hiệu nào cho thấy gió đã
+
+Trên những vùng biển bớt thanh bình đến đáng sợ."
+
+Nó thiếu đi giai điệu bay bổng của nhà thơ có nhịp tim là đàn luýt:
+
+"Và họ nói (dàn hợp xướng đầy sao
+
+Và những thứ nghe khác)
+
+Đó là ngọn lửa của Israfeli
+
+Là nhờ cây đàn lia đó
+
+Anh ấy ngồi và hát—
+
+Sợi dây sống run rẩy
+
+Của những sợi dây bất thường đó."
+
+Nhưng The Raven , giống như "The Bells" và "Annabel Lee", được nhiều người và một số ít khen ngợi. Tôi đã nói ở chỗ khác rằng đối với tôi, những tác phẩm hiếm hoi hơn của Poe dường như là “những tác phẩm trong đó ít nhất có vẻ ngoài tự nhiên - trong đó anh ấy chiều theo cảm xúc của mình, trong khi hấp hối và những giai điệu mà hầu hết âm nhạc, u sầu nhất, đều đến từ anh ấy mà không hề hay biết.” Đây vẫn là niềm tin của tôi; tuy nhiên, khi nghiên cứu mới về bài thơ này, nó gây ấn tượng với tôi hơn bao giờ hết kể từ thời niên thiếu của tôi. Người quen thân thiết sẽ ủng hộ mọi tác phẩm nghệ thuật thực sự. Hãy dụ dỗ một người đàn ông, người không biết cũng như không quan tâm đến nghệ thuật, xem xét một bài thơ hoặc bức tranh nào đó, và sức mạnh của nó sẽ thu hút anh ta nhanh như thế nào! Trên thực tế, anh ta sẽ đánh giá quá cao giá trị tương đối của tác phẩm tốt đầu tiên thu hút được sự chú ý của anh ta. Raven cũng có những phẩm chất nhất quán mà ngay cả một chuyên gia cũng phải ngưỡng mộ. Không có bài thơ nào khác của tác giả có động cơ được xác định rõ ràng hơn. "Cung điện ma ám" cũng chắc chắn như vậy đối với một số độc giả chọn lọc, nhưng Poe khó có thể coi câu chuyện ngụ ngôn tinh tế đó để phân tích hói. Con quạ hoàn toàn tập trung vào chủ đề điển hình của tác giả - sự mất mát không thể cứu vãn của một người phụ nữ xinh đẹp và thần tượng; nhưng trên cơ sở khác, bản năng của công chúng cũng đúng khi nghĩ rằng đây là bài thơ tiêu biểu của ông.
+
+Một thiên tài thường có được chỗ đứng nhờ sự thành công của một nỗ lực nào đó, và đây không phải lúc nào cũng là điều vĩ đại nhất của anh ta. Sự công nhận càng tức thời hơn vì đã bị trì hoãn. Anh ta không có được nó, giống như vận may của một kẻ keo kiệt, hết đồng xu này đến đồng xu khác, nhưng "không một chút nào hoặc không một chút nào". Và do đó, với những tham vọng khác: cận thần, người lính, diễn viên, — bất kể vai trò của họ là gì — mỗi người đều tính chiến thắng của mình từ một cú đánh may mắn nào đó. Quạ của Poe, dù có điềm báo, đối với ông vẫn là “con chim khiến gió thổi”. Nhà thơ định cư ở New-York vào mùa đông năm 1844-1845, tìm việc làm trên tờ báo "The Evening Mirror" của Willis, và kiếm thu nhập bằng cách đóng góp ở nơi khác. Trong sáu năm, ông đã là một nhà văn tích cực và có danh tiếng về nghề nghiệp; được tôn trọng lẫn nghi ngờ, và không hề tổn hại gì đến việc chia sẻ công việc báo chí được trả lương thấp vào ngày đó. Ông cũng đã thực hiện nhiều tác phẩm xuất sắc nhất của mình, chẳng hạn như những câu chuyện như “Ligeia” và “The Fall of the House of Usher,” (cuốn sau có chứa bản sao thần bí đó, trong câu thơ, của “A Lost Mind” của Elihu Vedder), những kỳ công phân tích như “The Gold Bug” và “The Mystery of Marie Roget”. Ông đã truyền đạo ở nước ngoài và có được ảnh hưởng lâu dài trong tâm trí người Pháp. Anh ta đã biết được điểm mạnh và điểm yếu của mình, đang ở thời kỳ đỉnh cao và không phải không có danh tiếng nhất định. Nhưng anh ấy đã không viết gì cho mọi người. Đối với tác phẩm hiếm và tinh tế, phải thêm vào một số nét phổ biến để thu hút khán giả nói chung ở thời đại của chính mình.
+
+Thông qua sự nghiệp của những người viết tiểu sử liên tiếp của Poe, tác phẩm ăn khách của The Raven đã trở thành một câu chuyện được kể nhiều lần. Người vợ trẻ của nhà thơ, Virginia, đang mờ dần trước mắt ông, nhưng vẫn nán lại trong bóng tối của cái chết thêm một năm nữa. Căn phòng dài và thấp trong ngôi nhà gần đường Bloomingdale giống như  nổi tiếng là căn phòng nơi Rouget de l'Isle sáng tác bản Marseillaise. Tất cả đều đã nghe nói rằng bài thơ, ký tên "Quarles", xuất hiện trên tờ "American Review", với một bình luận giả biên tập về hình thức của nó; rằng Poe đã nhận được mười đô la cho việc đó; rằng Willis, người tốt bụng nhất và ít ghen tị nhất trong số các trọng tài thời thượng, đã in lại nó với một bài điếu văn khiến nó ngay lập tức trở thành chủ đề bàn tán trong thành phố. Mọi nghi ngờ về quyền tác giả của nó đã bị xua tan khi Poe tự mình đọc nó tại một buổi họp mặt văn học, và trong một thời gian, ông là tác giả người Mỹ được chú ý nhiều nhất. Cú đánh đã kích thích và động viên anh. Giống như một nhà châm biếm khác và kiêu hãnh hơn, anh ấy cũng tìm thấy "thứ gì đó của mùa hè" ngay cả "trong tiếng vo ve của côn trùng". Thật đáng buồn, nhưng ba năm đã trôi qua - một khoảng thời gian đầy ảnh hưởng, kiêu hãnh, thống khổ, nhưng luôn phải lao động trí tưởng tượng hoặc phê phán - trước thất bại cuối cùng, trước khi bức màn buông xuống cuộc đời mà đối với anh thực ra là một bi kịch, và anh đã đầu hàng "Con sâu chinh phục".
+
+"The American Review: A Whig Journal" là một tạp chí có uy tín vào thời điểm đó, có hai cột, in trên giấy tốt, chữ rõ ràng và được minh họa bằng những bức chân dung mezzotint. Giữa nhiều vấn đề dưới mức tiêu chuẩn hiện tại, nó chứa đựng một số vấn đề mà bất kỳ biên tập viên nào cũng vui lòng nhận được. Tập đầu tiên xuất bản năm 1845 có các bài viết của Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman và Whipple. Bài thơ kỳ lạ của Ralph Hoyt, “Old,” xuất hiện trong tập này. Và đây là ba lời bài hát của Poe: "Thành phố trên biển", "Thung lũng bất ổn" và Con quạ . Hai trong số này đã được xây dựng, - đó là cách của anh ấy, - từ các nghiên cứu trước đó, nhưng cái tên cuối cùng xuất hiện như thể được sáng tác mới, và gần như giống như chúng ta có nó bây giờ. Tuyên bố rằng nó không được sửa đổi sau đó là sai lầm. Mười một thay đổi nhỏ so với nội dung tạp chí xuất hiện trong The Raven and Other Poems , 1845, một cuốn sách mà nhà thơ nhanh chóng cảm thấy được khuyến khích giới thiệu với công chúng. Đây chủ yếu là những thay đổi về dấu câu hoặc các từ đơn lẻ, loại sau được thực hiện để nâng cao hiệu quả của sự ám chỉ. Trong ấn bản đẹp đẽ của thơ Poe, được xuất bản trong "Thư viện giấy da", ông đã thể hiện bản năng của một học giả, và đã thực hiện một cách khôn ngoan khi quay lại văn bản trong tập vừa đề cập, như được đưa ra trong số báo London năm 1846. Bộ sưu tập tác phẩm của nhà thơ Griswold “chuẩn mực” có rất nhiều lỗi. Những điều này đã được lặp lại bởi những người biên tập sau này, những người này cũng mắc phải những sai sót của riêng mình. Nhưng văn bản của Con quạ , do tác giả yêu cầu sao chép bản thảo, vẫn được ông sửa lại thêm; trên thực tế, ông đã in nó ở Richmond, ngay trước khi qua đời, với sự thay thế đầy chất thơ của "seraphim có bước chân" bằng "những thiên thần có bước chân yếu ớt" trong khổ thơ thứ mười bốn. Do đó, văn bản hiện tại của chúng tôi, mặc dù về cơ bản là văn bản năm 1845, đã được sửa đổi phần nào theo cách đọc sau này của nhà thơ, và tôi nghĩ đây là phiên bản đúng đắn và hiệu quả nhất của bài thơ duy nhất này. Tuy nhiên, sự thay đổi căn bản nhất so với phiên bản đầu tiên xuất hiện trong tập năm 1845; Khổ thơ thứ mười một ban đầu có những dòng này, bị lỗi về vần và mặt khác là một khuyết điểm trong bài thơ:
+
+"Bị bắt từ một người chủ bất hạnh nào đó, người mà Thảm họa tàn nhẫn
+
+Theo sau nhanh và theo sau nhanh hơn—vì vậy, khi Hope anh ấy sẽ ra lệnh,
+
+Nỗi tuyệt vọng nghiêm khắc đã quay trở lại, thay vì niềm Hy vọng ngọt ngào mà anh ta dám cầu xin—
+
+Câu trả lời buồn bã đó, 'Không bao giờ nữa!'"
+
+Sẽ tốt hơn nếu những nhà thơ khác và nổi tiếng có thể chắc chắn rằng những thay đổi của họ luôn luôn là những cải tiến. Poe liên tục xử lý lại cách trình bày thơ ít ỏi của mình và thường cải thiện nó. The Raven là bài đầu tiên trong số ít bài thơ mà ông gần như đã hoàn thành trước khi in. Có thể những người quan tâm đến thơ ca đã mất mát chút ít trước cái chết của ông. Thông thạo văn xuôi, ông không bao giờ viết thơ chỉ để làm thơ. Khi một điệp khúc hình ảnh ám ảnh ông, lời bài hát dẫn đến kết quả là nguồn cảm hứng, như chính ông đã nói, về niềm đam mê chứ không phải mục đích. Điều này hiếm khi xảy ra đến mức gần như để biện minh cho lý thuyết của Fairfield rằng mỗi trường hợp đều là sản phẩm của một cuộc khủng hoảng thần kinh.
+
+Vậy thì điều gì đã mang lại cho nhà thơ manh mối về Con quạ ? Từ nền tảng mù sương nào nó đã từ từ dâng lên thành một bản nhạc thở chậm? Như thường lệ, có nhiều điều đã góp phần tạo nên một bài thơ đáng chú ý như vậy. Xem xét những bài giảng dài hơn thường được giảng bằng những bản văn ngắn gọn và ít gợi ý hơn, tôi hy vọng không bị khiển trách vì cuộc thảo luận về một lời bài hát này, đặc biệt là bài mà một nghệ sĩ như Doré đã lấy làm chủ đề minh họa hoang đàng. Cho đến gần đây, tôi vẫn cho rằng tác phẩm này, và một số tác phẩm mà tác giả của nó sáng tác sau khi nó xuất hiện, thật đặc biệt vì không phát triển từ vi trùng trong câu thơ trẻ thơ của ông. Nhưng ông Fearing Gill đã cho tôi xem một số khổ thơ chưa xuất bản của Poe, được viết vào năm ông mười tám tuổi, có tựa đề "Con quỷ của lửa". Bản thảo dường như được viết tay từ thời kỳ đầu của nhà thơ, và tính xác thực của nó đã được xác nhận bởi gia đình mà nó đã tồn tại được nửa thế kỷ. Bên cạnh những chi tiết đơn giản nhất của "The Bells" và "The Haunted Palace", nó còn có một vài dòng gợi ý phần mở đầu và kết thúc của The Raven . Về nhịp điệu bài thơ của chúng tôi, việc so sánh ngày tháng cho thấy rằng điều này bị ảnh hưởng bởi nhịp điệu của bài “Quý bà Geraldine tán tỉnh”. Poe là một trong những người đầu tiên tôn vinh thiên tài của cô Barrett; anh ấy đã ghi những bài thơ sưu tầm của mình cho cô ấy là "những bài thơ cao quý nhất trong giới tính của cô ấy" và  đồng cảm với lối trữ tình của cô. Những dòng trong bài thơ tình của cô,
+
+“Với tiếng rì rầm khuấy động không rõ ràng, trong không trung, tấm màn tím
+
+Sưng lên và phồng lên quanh đôi lông mày nhợt nhạt bất động của cô ấy,"
+
+tìm thấy tiếng vang trong những điều này:
+
+“Và tiếng xào xạc buồn bã mơ hồ của từng tấm rèm tím
+
+Làm tôi phấn khích - khiến tôi tràn ngập những nỗi kinh hoàng khủng khiếp chưa từng có trước đây."
+
+Ở đây Poe đã nhận được một đặc quyền mà anh ta đã chỉ trích Longfellow một cách thô bạo, và đặc quyền mà không ai từng tìm kiếm ở cơ sở riêng của anh ta mà không bị phát hiện và trừng phạt nhanh chóng. Về giai điệu và hình thức khổ thơ, chúng ta sẽ thấy hai bài thơ không khác nhau nhưng về động cơ thì chúng hoàn toàn khác biệt. Nữ thi sĩ hào phóng không cảm thấy gì ngoài sự độc đáo thực sự của nhà thơ. "Bài viết sống động này!" cô ấy kêu lên,— "sức mạnh được cảm nhận này!... Nhà thơ vĩ đại của chúng tôi, ông Browning, tác giả cuốn 'Paracelsus,' & c., rất nhiệt tình ngưỡng mộ nhịp điệu." Ông Ingram, sau khi đề cập đến "Quý bà Geraldine", đã khéo léo chỉ ra một nguồn khác mà từ đó Poe có thể đã bị thôi thúc. Năm 1843, Albert Pike, một nhà thơ nửa Hy Lạp, nửa biên giới, người Arkansas, đã in trong cuốn "The New Mirror" mà Poe đang viết khi đó, một số câu có tựa đề "Isadore", nhưng sau đó đã được tác giả sửa lại và gọi là "Trái tim góa bụa". Tôi chọn đoạn thơ sau do ông Pike sửa lại, trong đó những nét chính tương ứng với bản gốc:
+
+"Không ngừng nghỉ, tôi bước đi trong căn phòng cô đơn của chúng tôi, tôi không chơi những bài hát của chúng tôi nữa,
+
+Mặt trời rực rỡ chiếu sáng rực rỡ trên sàn nhà chưa được quét dọn;
+
+Chim nhại vẫn ngồi hót, Hỡi nỗi sầu sầu!
+
+Vì lòng tôi như đám mây mùa thu tràn ngập mưa;
+
+Cậu đã mất tôi mãi mãi rồi, Isadore!"
+
+Ở đây chúng ta có một đoạn nhạc kéo dài, một đoạn điệp khúc tương tự và phần giới thiệu một con chim có tiếng hót làm tăng thêm nỗi buồn. Có những con đường khác mà những người tò mò có thể đi theo; đáng chú ý là một đoạn văn mà ông Ingram chọn từ bài đánh giá cuối cùng của Poe về “Barnaby Rudge”:
+
+"Con quạ cũng vậy, * * * có thể đã được tạo ra, nhiều hơn những gì chúng ta thấy bây giờ, một phần của quan niệm về Barnaby tuyệt vời. * * * Tính cách của nó có thể đã biểu diễn, đối với tính cách của một tên ngốc, phần giống như trong âm nhạc, phần đệm đối với không khí."
+
+Tuy nhiên, sau khi chỉ ra những nét giống nhau và mầm mống đó, giá trị của bài thơ này vẫn nằm ở tính độc đáo của nó. Âm nhạc tiến bộ, chi tiết phong cảnh, ánh sáng và bóng tối tương phản,—trên hết, niềm đam mê tinh thần của người về đêm, khiến nó trở thành tác phẩm của một thiên tài cung cấp thông tin. Đối với con chim khủng khiếp, anh ta không giống tất cả những con quạ khác trong tộc của mình, từ "twa corbies" và "ba con quạ" của những người hát ballad cho đến "Grip" nhàu nát của Barnaby. Đây không phải là vẻ ngoài của con quạ kêu ám ảnh các tháp canh của tổ tiên và giẫm lên cánh đồng huy hiệu; không có bóng ma nào mà Tickell đã hát, khi,
+
+"la hét ba lần ở cửa sổ,
+
+Con quạ đập cánh,
+
+Quá rõ ràng cô gái thất tình đã biết
+
+Âm thanh trang trọng."
+
+Con quạ của Poe là một quan niệm khác biệt; hiện thân của nỗi đau đớn và tuyệt vọng của người đưa tang; một Ký ức hiện thân của sable, người ghi chép thường trực về sự diệt vong, một loại Không thể sửa chữa. Trốn thoát qua sông Styx, khỏi "bờ biển Plutonian của đêm", anh ta dường như là hình ảnh linh hồn của chính người hỏi, - của người không thể, sẽ không nốc cạn loại nepenthe tốt bụng, bởi vì ký ức về Lenore là tất cả những gì còn lại cho anh ta, và với sự nguôi ngoai nỗi buồn của anh ta, ngay cả điều đó cũng sẽ bị gạt sang một bên.
+
+Con quạ cũng có thể được coi là một bài thơ tiêu biểu của tác giả nó, vì nó thể hiện tất cả những quan niệm của ông về thế nào là một bài thơ. Những điều này được tìm thấy trong các bài tiểu luận của ông về “Nguyên tắc thơ ca”, “Cơ sở lý luận của thơ ca” và “Triết lý sáng tác”. Poe tuyên bố rằng "có lẽ trong Âm nhạc, tâm hồn gần như đạt được mục đích vĩ đại nhất mà khi được truyền cảm hứng từ Tình cảm thi ca, nó sẽ đấu tranh - tạo ra vẻ đẹp siêu phàm... Không thể coi thơ là một thứ âm nhạc kém cỏi hoặc kém năng lực hơn"; nhưng một lần nữa, câu thơ thực sự là "Thơ của ngôn từ" lại là "Sự sáng tạo có nhịp điệu của vẻ đẹp" - chỉ thế thôi và không có gì hơn thế. Giọng điệu của Vẻ đẹp cao nhất là giọng điệu của Nỗi buồn. Chủ đề u sầu nhất là Cái chết. Điều này phải được liên minh với Vẻ đẹp. "Cái chết của một người phụ nữ xinh đẹp chắc chắn là chủ đề thơ mộng nhất trên thế giới - và không thể nghi ngờ rằng đôi môi phù hợp nhất cho chủ đề như vậy chính là đôi môi của một người tình đã khuất." Những cách diễn đạt cuối cùng này được trích dẫn từ phân tích kỳ lạ của Poe về chính bài thơ này, nhưng chúng chỉ ra chính xác phạm vi chung của câu thơ của ông. Đỉnh cao của "The Bells" là giọng điệu đều đều bị bóp nghẹt của những con ma cà rồng, những kẻ kiêu hãnh trong việc đè nặng trái tim con người. “Lenore,” The Raven , “The Sleeper”, “To One in Paradise” và “Ulalume” tạo thành một bản giao hưởng tenebrose,—và “Annabel Lee,” được viết cuối cùng, cho thấy rằng một chủ đề đã ám ảnh anh ấy đến cùng. Một lần nữa, tất cả những điều này chẳng là gì nếu không nói là âm nhạc, và một số người cảm động với chất lượng của Điều kỳ diệu, thứ đánh thức cảm giác kinh ngạc và tạo thêm nỗi sợ hãi mới cho chính nỗi đau đớn. Xuyên suốt tất cả được phác họa lờ mờ, bên dưới tấm màn mờ, tình yêu lý tưởng của nhà thơ,—thường được miêu tả một nửa ở nơi khác,—người vợ đã được chôn cất của Usher, Quý cô Ligeia, trong  sự thật đối lập với bản chất của chính mình. Tôi cho rằng tình yêu của một nghệ sĩ dành cho một người “hình thức” không bao giờ có thể sánh bằng sự tận tâm của anh ta đối với một lý tưởng nào đó. Người phụ nữ ở gần anh ta phải thực hiện các phép thuật của mình, lần lượt và không có gì lâu dài, quyến rũ anh ta bằng vô số sự đa dạng, hoặc bằng lòng từ bỏ một phần lòng trung thành của anh ta. Anh ta phải bị thu hút bởi Điều không thể đạt được, và điều này luôn vượt xa niềm đam mê nghệ thuật sáng tạo của anh ta.
+
+Poe, giống như Hawthorne, đến sau sự suy tàn của trường phái Lãng mạn, và không ai vui hơn việc cười nhạo tai họa của nó. Tuy nhiên, trái tim anh lại dành cho những câu chuyện lãng mạn và hiệu ứng phương Đông hoặc Gothic của chúng. Phát minh của ông, rất phong phú về những câu chuyện văn xuôi, dường như đã bỏ rơi ông khi ông viết thơ; và phán đoán của anh ấy nói với anh ấy rằng những bài thơ lãng mạn dài phụ thuộc nhiều vào tình tiết hơn là cảm hứng,—và rằng, để thốt lên chất thơ lãng mạn, lời bài hát là đủ. Do đó, lý thuyết của ông, rõ ràng phù hợp với những hạn chế của chính ông, rằng "một 'bài thơ dài' là một sự mâu thuẫn rõ ràng về mặt thuật ngữ." Các thành phần của The Raven rất ít và đơn giản: một người đàn ông, một con chim và ký ức ảo ảnh về một người phụ nữ. Nhưng tác phẩm thể hiện tốt chất liệu lãng mạn. Chúng ta có gì? Nửa đêm; căn phòng tối tăm với những cuốn sách truyền thuyết bị lãng quên; học sinh,—một Hieronymus hiện đại; con quạ gõ vào cửa sổ; đêm đông và lửa tàn; những tấm rèm lụa lộng gió; những giấc mơ và sự ngờ vực mơ hồ của bóng tối vang vọng; con chim đen kỳ lạ trên bức tượng bán thân xanh xao; các phụ kiện nhung tím và đèn hả hê. Tất cả hiệu ứng sân khấu này của tình huống, ánh sáng, màu sắc, âm thanh, hoàn toàn lãng mạn, thậm chí là khoa trương, nhưng mang chất thơ mà thể loại giai điệu hiếm khi thể hiện và phản ánh triệt để “niềm đam mê vĩnh cửu, nỗi đau vĩnh cửu” của nhà thơ.
+
+Cấu trúc nhịp nhàng của The Raven chắc chắn sẽ gây ấn tượng. Vần điệu, ám chỉ, gánh nặng, hình thức khổ thơ, được nghĩ ra một cách hết sức khéo léo. Không còn nghi ngờ gì nữa, nhà thơ đã bị ấn tượng bởi sự phù hợp trong những đoạn nhạc trochaics của Miss Barrett, ở những quãng tám, và đặc biệt là bởi cách sắp xếp được áp dụng gần phần cuối của Lady Geraldine:
+
+“'Đôi mắt', anh ấy nói, 'giờ đang đập mạnh trong tôi! Có phải các bạn là đôi mắt đã hủy diệt tôi không?
+
+Đôi mắt sáng ngời như những viên ngọc cổ được đặt trên tượng đá Parian!
+
+Dưới vầng trán trắng êm ả ấy, em có bao giờ nóng bỏng không?
+
+O'er sa mạc cát hoang vắng của trái tim tôi và cuộc sống đã hoàn tác?'"
+
+Việc ông giới thiệu vần thứ ba một cách nghệ thuật ở cả dòng thứ hai và dòng thứ tư, đồng thời bổ sung dòng thứ năm và điệp khúc cuối cùng, đã tạo nên khổ thơ của The Raven . Sự ám chỉ dai dẳng dường như đến mà không cần nỗ lực, và thường những vần điệu trong dòng rất quyến rũ; trong khi điệp khúc hoặc gánh nặng chi phối toàn bộ tác phẩm. Tại đây, anh cũng đã thu được lợi ích từ việc cô Barrett nghiên cứu các bản ballad và romaunts bằng tiếng mẹ đẻ và các ngôn ngữ khác của cô. Một “sự kiềm chế” là sự cám dỗ mà nhờ đó một nhà thơ hoặc một nhạc sĩ nắm giữ đôi tai lang thang,—sự khao khát tái diễn của Tự nhiên đối với sự căng thẳng ban đầu. Tôi luôn ngưỡng mộ những điệp khúc tuyệt vời của nữ ca sĩ người Anh,—“The Nightingales, the Nightingales,” “Margret, Margret,” “My Heart and I,” “Toll Slow,” “The River floweth on,” “Pan, Pan is dead,” v.v. Cô ấy cũng sử dụng cái mà tôi gọi là Repetend, trong cách sử dụng mà Poe đã xuất sắc hơn tất cả các nhà thơ kể từ khi Coleridge hồi sinh nó:
+
+“Ôi những sinh vật hạnh phúc! không có lưỡi
+
+Vẻ đẹp của họ có thể tuyên bố:
+
+Một dòng suối tình yêu tuôn trào từ trái tim tôi,
+
+Và tôi đã chúc phúc cho họ mà không hề hay biết:
+
+Chắc chắn vị thánh tốt bụng của tôi đã thương hại tôi,
+
+Và tôi đã chúc phúc cho họ mà không hề hay biết."
+
+Poe đã tạo ra dòng thứ năm trong khổ thơ của mình để thể hiện sự kỳ diệu của sự lặp lại. Ông đã dựa vào nó tối đa trong một số bài thơ sau này, như “Lenore”, “Annabel Lee”, “Ulalume” và “For Annie”. Tôi nghĩ nó mang một thứ âm nhạc hoang dã và u sầu từ "những ảnh hưởng ngọt ngào" của những gánh nặng và sự lặp lại của châu Phi đã được hát cho anh ấy nghe thời thơ ấu, hòa hợp với giai điệu quê hương của chúng với giọng hát của nhà thơ miền Nam của chúng tôi.
+
+"Triết lý sáng tác", bài phân tích của ông về The Raven , là sự mổ xẻ kỹ thuật về phương pháp và cấu trúc của nó. Cả việc anh ta thừa nhận mưu mẹo máu lạnh cũng như việc anh ta thừa nhận sau đó với bạn bè rằng việc vạch trần mưu mẹo này chỉ là một trò lừa bịp trí tuệ khác của anh ta, đều không cần phải được ghi nhận hoàn toàn. Nếu anh ấy đã thiết kế trước toàn bộ tác phẩm, anh ấy sẽ khó có thể tạo ra một khúc dạo đầu khắc nghiệt như vậy cho giai điệu ngọt ngào của khổ thơ thứ hai, thậm chí không dựa trên lý thuyết của anh ấy về điều tuyệt vời. Tất nhiên, một nghệ sĩ, sau khi hoàn thiện một tác phẩm, sẽ thấy, giống như Nghệ sĩ đầu tiên, rằng nó tốt và hiểu tại sao nó tốt. Một phân tích tiếp theo, cùng với việc từ chối bất kỳ ngọn lửa thiêng liêng nào, có thể được thực hiện một cách dễ dàng. Tôi tin rằng ý tưởng đầu tiên và bản thảo thô của bài thơ này đến như nguồn cảm hứng luôn đến; rằng tác giả của nó sau đó đã biết nó có thể được hoàn thiện như thế nào, hoàn thiện nó những nét cuối cùng được mô tả trong chương về Bố cục của anh ấy, và do đó, điều sau không hoàn toàn sai cũng không hoàn toàn đúng. Tác hại của việc phân tích như vậy là nó khiến người mới bắt đầu tưởng tượng rằng các quá trình nhân tạo có thể thay thế trí tưởng tượng. Động lực của thiên tài là bảo vệ những bí mật trong giờ sáng tạo của mình. Những cái nhìn thoáng qua về công việc vất vả, những thử nghiệm khó khăn trước một chiến thắng, như trong tác phẩm phác họa của Hawthorne gần đây đã được đưa ra ánh sáng, mang lại sự hướng dẫn và động viên vô giá cho người nghệ sĩ chân thành. Nhưng một  người tự nguyện đưa Nàng thơ của mình ra trước ánh mắt của mọi người nên nhớ lại số phận của Vua Candaules.
+
+Thế giới vẫn coi Poe là “thiên tài kém may mắn”. Gần đây tôi đã nghe nói anh ấy là "người mà mọi người dường như được ủy quyền để xuyên tạc, chê bai hoặc vu khống." Nhưng đối với tôi, có vẻ như vận rủi của ông đã kết thúc bằng cái chết đáng thương, và kể từ đó, sự bào chữa của ông vẫn kiên trì, và danh tiếng của ông ngày càng phát triển vững chắc như một tác giả tài năng và đau khổ có thể cầu nguyện trong giờ phút đầy hy vọng của mình. Sự chê bai và vu khống của Griswold đã xoay chuyển tình thế có lợi cho anh ta. Các nhà phê bình và viết tiểu sử đã liên tiếp đưa ra những lời bác bỏ, ca ngợi tính cách của ông, bằng những ấn bản mới về các tác phẩm của ông. Những lá thư của chính anh ấy và những sự việc nhỏ nhặt trong sự nghiệp của anh ấy đang ở trước mắt chúng ta; kỷ lục, tốt và xấu, được biết đến rộng rãi. Không có người kháng cáo nào nhận được sự phán xét dịu dàng và tha thứ hơn. Những rủi ro trong cuộc sống của anh ấy thuộc về khu vực và thời đại của anh ấy, có thể phần lớn vẫn là do ý chí yếu đuối của anh ấy. Không còn nghi ngờ gì nữa, môi trường của anh ta không phải là nơi bảo vệ bản chất tinh vi, mất cân bằng khỏi những nguy hiểm bên ngoài và bên trong. Ý chí mạnh mẽ nhất của anh ta, muốn làm chủ chính mình, đã mang lại cho anh ta "di sản đau khổ". Anh tự nhận mình là người chủ bất hạnh của con chim, người đau khổ vì bài thơ này. Nhưng anh ấy hoàn toàn chia sẻ tính khí kịch tính vốn hân hoan trước sự báo trước về sự diệt vong của chính nó. Có một niềm vui khi đóng vai cao của mình: tất cả chúng ta đều là đấu sĩ, đang khóc Ave Imperator! Để trích dẫn thực tế của Burke: "Trong đau buồn, niềm vui vẫn là trên hết, và nỗi đau khổ mà chúng ta phải chịu không giống với nỗi đau tột cùng, vốn luôn ghê tởm và chúng ta cố gắng rũ bỏ càng sớm càng tốt." Poe còn đi xa hơn, và là một nghệ sĩ ngay cả trong bi kịch của sự nghiệp. Nếu, theo niềm tin của chính ông, nỗi buồn và sự tan biến của cái đẹp là những chủ đề thơ ca cao nhất, và cảm xúc thi ca là niềm vui sâu sắc nhất trần thế, thì nỗi buồn và bóng tối trong cuộc đời tan vỡ của ông không phải là không được bù đắp thường xuyên.
+
+Trong những trang tiếp theo, chúng ta có một ví dụ mới về tài năng thiên bẩm của một nghệ sĩ khi diễn giải một bài thơ nổi tiếng. Gustave Doré, tác phẩm cuối cùng của ông có cây bút chì trước mắt chúng ta, không phải là họa sĩ, hay thậm chí là người vẽ phác thảo, dành cho những người theo chủ nghĩa hiện thực đòi hỏi sự trung thực về giọng điệu, hình dáng và sự hoàn hảo. Những vấn đề như vậy khiến anh quan tâm hơn là tạo ra hình dạng và khoảng cách, ánh sáng và bóng tối, hỗ trợ mục đích của anh, - đó là kích thích tâm hồn, trí tưởng tượng, của người nhìn. Ngài đã làm điều này bằng cách khơi dậy cảm giác kính sợ của chúng ta, thông qua những quan niệm kỳ diệu và thường là cao siêu về những điều không thể diễn tả được và đầy u ám hoặc vinh quang. Người ta nói rõ rằng nếu tác phẩm của ông không phải là những bức tranh đẹp thì chúng thực sự rất tuyệt. Với tư cách là một “nghệ sĩ văn học”, và anh ấy là như vậy, sức mạnh của anh ấy tỷ lệ thuận với sự sáng tạo đầy kịch tính của tác giả, với sự táo bạo của tinh thần đã khơi dậy tinh thần của chính anh ấy. Do đó, ông thành công với Rabelais, với "Le Juif-Errant", "Les Contes Drolatiques" và "Don Quixote", và do đó, ngược lại, ông đã không thể hiện được vẻ đẹp trong các bài Idyls của Tennyson, "Il Paradiso" của các bài đồng quê Do Thái, và các văn bản khác đòi hỏi sự tán dương, hay sự ngọt ngào và yên tĩnh. Anh ta bẩm sinh đã là bậc thầy về sự kỳ cục, và bằng một cái nhìn sâu sắc đặc biệt, anh ta có thể khắc họa những bóng ma của một bộ não bị ma ám. Chúng ta nhìn thấy các đồ vật giống như các nhân vật của ông đã nhìn thấy chúng, và bằng chính con mắt của Người Do Thái lang thang, Don hoang mang, hay con gái của người thợ kim hoàn có trí tưởng tượng tôn vinh Nhà vua trong cửa hàng trên Pont-au-Change. Chính bản chất của sự vật là anh ta bị thu hút bởi mỗi kiệt tác thơ hay văn xuôi mà tôi gọi là độc nhất vô nhị. Các vương quốc thấp hơn được kêu gọi phục vụ ông; những tảng đá, cây cối và những ngọn núi, chính bầu trời, đều sống động với động cơ và sự khéo léo. Nếu ông sống để minh họa cho Shakespeare, chúng ta hẳn đã thấy cách xử lý đáng chú ý về Caliban, các Phù thủy, cơn bão trong "Lear"; nhưng chắc chắn nên đặt câu hỏi về lý tưởng của anh ấy về Imogen hay Miranda. Vẻ đẹp thuần khiết và giản dị, cùng sự xuất sắc hoàn hảo của nó, dường như anh hiếm khi hiểu được.
+
+Tuy nhiên, có vẻ đẹp trong các thiết kế của ông dành cho "Người thủy thủ cổ đại", dù chúng vốn có vẻ phi thực tế và sự liên tục hiếm có trong loạt phim của Doré. Rime đã mang đến cho anh một câu chuyện dài, với nhiều cảnh chuyển cảnh. Trong The Raven, âm thanh và màu sắc vẫn giữ được sự đơn điệu và không có sự thay đổi về địa điểm hay dịp nào. Kết quả là gì? Doré đưa ra một loạt biến thể về chủ đề mà ông hình dung, "bí ẩn về cái chết và ảo giác về một linh hồn không thể nguôi ngoai." Trong một số bức vẽ này, lỗi của anh ấy lộ rõ; những người khác bộc lộ sự độc đáo mạnh mẽ của anh ấy và những phẩm chất tốt nhất mà anh ấy, với tư cách là một người soạn thảo, đã đứng một mình. Rõ ràng có điều gì đó chung giữa tâm trạng làm việc của Poe và Doré. Điều này sẽ xuất hiện rõ ràng hơn nếu người sau thử sức mình với "Những câu chuyện kỳ ​​cục và kiểu Ả Rập". Cả hai thường xuyên đến xứ sở thần tiên của sự tưởng tượng và lãng mạn. Trong những chiến công khoa trương, cả hai, thông qua khả năng chỉ huy siêu nhiên, đã tránh được ranh giới nguy hiểm giữa lý tưởng và phi lý. Poe là người thực sự tôn thờ Cái Đẹp; tình yêu của anh ấy dành cho nó là một niềm đam mê dâng hiến, và ở đây anh ấy chia tay họa sĩ minh họa của mình. Nhà thơ hay nghệ sĩ, Cái chết cuối cùng đã biến đổi tất cả: trong cái bóng của kẻ báo hiệu đáng sợ của hắn, cây bút chì biểu tượng của Vedder đã khéo léo đặt họ đối mặt nhau, nhưng lại bao bọc họ bằng tấm áo choàng của trí tuệ và sức mạnh bất tử. Một người phụ nữ Mỹ đã tạo nên hình ảnh một Thiên tài có đôi mắt sáng với ngọn đuốc cuối cùng, vẻ ngoài tinh tế của một người có tầm nhìn có thể nhìn thấy nhưng môi không thể thốt ra những bí ẩn về một vùng đất nằm ngoài “cánh cửa của một ngôi mộ huyền thoại”.
+
+Edmund C. Stedman.
+
+BÀI THƠ.
+
+Minh họa 1
+
+con quạ.
+
+Ngày xửa ngày xưa, vào một nửa đêm buồn thảm, trong khi tôi đang suy nghĩ, yếu đuối và mệt mỏi,
+
+Qua nhiều khối lượng truyền thuyết kỳ lạ và tò mò bị lãng quên,
+
+Khi tôi đang gật đầu, gần như chợp mắt, đột nhiên có tiếng gõ nhẹ,
+
+Như có ai gõ nhẹ, gõ cửa phòng tôi.
+
+“Có khách nào đó,” tôi lẩm bẩm, “gõ nhẹ vào cửa phòng tôi—
+
+Chỉ có thế này thôi, không có gì hơn."
+
+À, tôi nhớ rõ ràng đó là vào tháng 12 ảm đạm,
+
+Và mỗi viên than hồng sắp tàn đều để lại bóng ma của nó trên sàn nhà.
+
+Tôi háo hức ước ngày mai:—tôi đã tìm cách vay mượn một cách vô ích
+
+Từ những cuốn sách của tôi, sự nguôi ngoai nỗi buồn—nỗi buồn cho Lenore đã mất—
+
+Dành cho cô thiếu nữ rạng ngời và hiếm có được các thiên thần đặt tên là Lenore—
+
+Vô danh ở đây mãi mãi.
+
+Và tiếng lụa buồn mơ hồ xào xạc của từng tấm rèm tím
+
+Làm tôi hồi hộp - tràn ngập trong tôi những nỗi kinh hoàng khủng khiếp chưa từng có trước đây;
+
+Để bây giờ, để làm cho trái tim tôi ngừng đập, tôi đứng lặp đi lặp lại
+
+“Có vị khách nào đó đang nài nỉ vào cửa phòng tôi
+
+Một vị khách đến muộn nào đó đang nài nỉ bước vào cửa buồng tôi;—
+
+Chỉ thế thôi, không còn gì nữa."
+
+Hiện nay tâm hồn tôi đã mạnh mẽ hơn; do dự rồi không còn nữa,
+
+“Thưa ông,” tôi nói, “hoặc thưa bà, tôi thực sự cầu xin sự tha thứ của ông;
+
+Nhưng sự thật là tôi đang ngủ trưa và bạn đã rap thật nhẹ nhàng,
+
+Và bạn nhẹ nhàng gõ, gõ vào cửa phòng tôi,
+
+Tôi không chắc là mình đã nghe thấy bạn"—đến đây tôi mở rộng cửa;—
+
+Bóng tối ở đó, và không còn gì nữa.
+
+Nhìn sâu vào bóng tối đó, tôi đứng đó rất lâu, băn khoăn, sợ hãi,
+
+Nghi ngờ, mơ những giấc mơ chưa từng có phàm nhân nào dám mơ;
+
+Nhưng sự im lặng không hề bị phá vỡ, và bóng tối không mang lại dấu hiệu gì,
+
+Và từ duy nhất được nói ra là từ thì thầm, "Lenore!"
+
+Tôi thì thầm điều này, và một tiếng vang vọng lại từ đó, "Lenore!"
+
+Chỉ có điều này và không có gì hơn.
+
+Quay trở lại căn phòng, cả tâm hồn tôi bừng cháy,
+
+Chẳng bao lâu sau, tôi lại nghe thấy tiếng gõ, có phần to hơn trước.
+
+“Chắc chắn rồi,” tôi nói, “chắc chắn có cái gì đó trên lưới cửa sổ của tôi;
+
+Vậy hãy để tôi xem có gì và khám phá bí ẩn này—
+
+Hãy để trái tim tôi tĩnh lặng trong giây lát và khám phá bí ẩn này;—
+
+'Đó là gió và không có gì hơn!
+
+Mở ở đây tôi đã đóng cửa chớp, khi đó, với nhiều tiếng tán tỉnh và rung động,
+
+Ở đó bước vào một con quạ trang nghiêm của những ngày thánh thiện ngày xưa.
+
+Anh ta không hề tỏ ra tôn kính chút nào; không một phút dừng lại hay ở lại anh ta;
+
+Nhưng, với dáng vẻ của một quý ông hay một quý cô, đậu trên cửa phòng tôi—
+
+Nằm trên bức tượng bán thân của Pallas ngay phía trên cửa phòng tôi—
+
+Ngồi, và ngồi, và không có gì hơn.
+
+Rồi con chim mun này đang đánh lừa trí tưởng tượng buồn bã của tôi để mỉm cười,
+
+Bằng vẻ nghiêm trang và nghiêm nghị của vẻ mặt nó,
+
+Tôi nói: “Mặc dù đầu của ngươi bị cắt ngắn và cạo trọc, nhưng ngươi chắc chắn không hề hèn nhát,
+
+Con quạ cổ xưa và dữ tợn đáng sợ lang thang từ bờ biển Đêm,—
+
+Hãy cho tôi biết tên chúa tể của bạn trên bờ biển Plutonian của Đêm!"
+
+Quoth the Raven, "Nevermore."
+
+Tôi rất ngạc nhiên về con chim vụng về này khi nghe bài giảng một cách rõ ràng như vậy,
+
+Mặc dù câu trả lời của nó chẳng có mấy ý nghĩa—chẳng có mấy liên quan;
+
+Vì chúng ta không thể không đồng ý rằng không có con người sống nào
+
+Chưa từng may mắn được nhìn thấy con chim phía trên cửa buồng mình—
+
+Chim hay thú trên bức tượng bán thân phía trên cửa buồng của anh ta,
+
+Với cái tên như "Nevermore."
+
+Nhưng Quạ, ngồi cô đơn trên bức tượng bán thân bình lặng, chỉ nói
+
+Một từ đó, như thể tâm hồn anh trong đó đã trút hết tâm hồn vào đó.
+
+Sau đó anh ấy không nói thêm gì nữa—không một chiếc lông vũ rồi anh ấy rung rinh—
+
+Cho đến khi tôi chỉ lẩm bẩm, "Những người bạn khác đã bay trước—
+
+Ngày mai anh ấy sẽ rời bỏ tôi, như những hy vọng của tôi đã bay đi trước đó.”
+
+Rồi con chim nói: "Không bao giờ nữa."
+
+Giật mình trước sự tĩnh lặng bị phá vỡ bởi câu trả lời được nói rất khéo léo,
+
+"Chắc chắn," tôi nói, "những gì nó thốt ra là kho dự trữ duy nhất của nó,
+
+Bị bắt từ một ông chủ bất hạnh nào đó, kẻ gây ra thảm họa tàn nhẫn
+
+Theo nhanh và theo nhanh hơn cho đến khi bài hát của anh mang theo một gánh nặng—
+
+Cho đến khi nỗi niềm hy vọng của anh trở nên u sầu, gánh nặng u sầu đó đã mang theo
+
+Của 'Không bao giờ—không bao giờ nữa.'"
+
+Nhưng con Quạ vẫn dụ dỗ tâm hồn buồn bã của tôi mỉm cười,
+
+Thẳng tôi đẩy một chiếc ghế đệm phía trước con chim, bức tượng bán thân và cánh cửa;
+
+Sau đó, khi tấm nhung chìm xuống, tôi bắt đầu liên kết
+
+Từ tưởng tượng đến tưởng tượng, nghĩ về con chim đáng ngại ngày xưa—
+
+Con chim ngày xưa dữ tợn, vô duyên, ghê rợn, hốc hác và đáng ngại này là gì?
+
+Có nghĩa là rên rỉ "Nevermore."
+
+Cái này tôi ngồi suy đoán mà không có âm tiết nào diễn đạt được
+
+Gửi đến con chim có đôi mắt rực lửa giờ đã đốt cháy tận tâm can tôi;
+
+Còn hơn thế nữa, tôi ngồi bói toán, ngả đầu thoải mái
+
+Trên lớp lót nhung của chiếc đệm mà ánh đèn hả hê chiếu rọi,
+
+Nhưng lớp lót nhung tím với ánh đèn hả hê o'er
+
+Cô ấy sẽ nhấn, à, không bao giờ nữa!
+
+Sau đó, tôi nghĩ, không khí trở nên đặc hơn, tỏa hương thơm từ một chiếc lư hương vô hình
+
+Được vung bởi seraphim với những bước chân rơi leng keng trên sàn chần.
+
+“Khốn nạn,” tôi kêu lên, “Chúa của ngươi đã cho ngươi mượn—bởi những thiên thần này, Ngài đã phái ngươi đến
+
+Hãy nghỉ ngơi—nghỉ ngơi và giải thoát khỏi những ký ức của bạn về Lenore!
+
+Quaff, ồ hãy uống hết nepenthe này, và quên Lenore lạc lối này đi!"
+
+Quoth the Raven, "Nevermore."
+
+"Nhà tiên tri!" tôi nói, "thứ của cái ác!—vẫn là nhà tiên tri, dù là chim hay ác quỷ!—
+
+Cho dù Tempter đã gửi đến, hay liệu cơn bão có ném bạn vào bờ ở đây,
+
+Hoang tàn nhưng không hề nản chí, trên vùng đất sa mạc đầy mê hoặc này—
+
+Trong ngôi nhà bị ám ảnh bởi Kinh dị này—hãy nói thật cho tôi biết đi, tôi cầu xin—
+
+Có— có dầu thơm ở Ga-la-át không?—nói cho tôi biết—nói cho tôi biết đi, tôi cầu xin!”
+
+Quoth the Raven, "Nevermore."
+
+"Nhà tiên tri!" tôi nói, "thứ của cái ác—vẫn là nhà tiên tri, dù là chim hay quỷ dữ!
+
+Bởi Thiên đường ngự trên cao đó, chúng ta—bởi Chúa mà cả hai chúng ta đều tôn thờ—
+
+Hãy nói với linh hồn đang mang nặng nỗi đau này nếu, ở Aidenn xa xôi,
+
+Nó sẽ ôm chặt một thiếu nữ thánh thiện mà các thiên thần đặt tên là Lenore—
+
+Hãy ôm lấy một thiếu nữ rạng ngời và hiếm có được các thiên thần đặt tên là Lenore."
+
+Quoth the Raven, "Nevermore."
+
+"Hãy coi đó là lời chia tay của chúng ta, chim hay quái vật!" Tôi hét lên, đứng dậy—
+
+"Hãy quay trở lại cơn bão và bờ biển Plutonian của Đêm!
+
+Đừng để lại một chùm lông đen nào làm bằng chứng cho lời nói dối mà tâm hồn bạn đã nói ra!
+
+Hãy để nỗi cô đơn của tôi không bị phá vỡ!—bỏ bức tượng bán thân phía trên cửa nhà tôi đi!
+
+Hãy lấy cái mỏ của ngươi ra khỏi trái tim ta và lấy hình dạng của ngươi ra khỏi cửa nhà ta!”
+
+Quoth the Raven, "Nevermore."
+
+Và con quạ, không bao giờ bay đi, vẫn ngồi, vẫn ngồi
+
+Trên bức tượng bán thân xanh xao của Pallas ngay phía trên cửa buồng tôi;
+
+Và đôi mắt của anh ấy có vẻ như của một con quỷ đang mơ,
+
+Và ánh đèn trên cao chiếu bóng anh xuống sàn nhà;
+
+Và tâm hồn tôi thoát ra khỏi cái bóng đang trôi nổi trên sàn nhà
+
+Sẽ được dỡ bỏ—không bao giờ nữa!
+

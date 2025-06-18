@@ -1,0 +1,104 @@
+El projecte Gutenberg eBook of The Raven, d'Edgar Allan Poe.
+
+*** FI DEL PROJECTE GUTENBERG EBOOK EL CORB ***
+
+Les edicions actualitzades substituiran l'anterior; les edicions antigues es canviaran de nom.
+
+La creació d'obres a partir d'edicions impreses no protegides per la llei dels drets d'autor dels Estats Units significa que ningú és propietari dels drets d'autor dels Estats Units sobre aquestes obres, de manera que la Fundació (i vosaltres!) podeu copiar-les i distribuir-les als Estats Units sense permís i sense pagar drets d'autor. Les normes especials, establertes a la part de les Condicions generals d'ús d'aquesta llicència, s'apliquen a la còpia i distribució d'obres electròniques del Projecte Gutenberg™ per protegir el concepte i la marca registrada PROJECT GUTENBERG™. Project Gutenberg és una marca comercial registrada i no es pot utilitzar si cobreu per un llibre electrònic, excepte seguint els termes de la llicència de marca comercial, inclòs el pagament de drets d'autor per l'ús de la marca comercial de Project Gutenberg. Si no cobreu res per les còpies d'aquest llibre electrònic, complir amb la llicència de marca comercial és molt fàcil. Podeu utilitzar aquest llibre electrònic per a gairebé qualsevol propòsit, com ara la creació d'obres derivades, informes, actuacions i investigació. Els llibres electrònics del Projecte Gutenberg es poden modificar, imprimir i regalar; podeu fer pràcticament qualsevol cosa als Estats Units amb llibres electrònics no protegits per la llei de drets d'autor dels EUA. La redistribució està subjecta a la llicència de marca registrada, especialment la redistribució comercial.
+
+INICI: LLICÈNCIA COMPLETA
+
+LA LLICÈNCIA DE GUTENBERG DEL PROJECTE COMPLET
+
+LLEGIU AQUEST ABANS DE DISTRIBUIR O UTILITZAR AQUESTA OBRA
+
+Per protegir la missió del Projecte Gutenberg™ de promoure la distribució gratuïta d'obres electròniques, mitjançant l'ús o la distribució d'aquest treball (o qualsevol altre treball associat d'alguna manera amb la frase "Projecte Gutenberg"), accepteu complir tots els termes de la Llicència Full Project Gutenberg™ disponible amb aquest fitxer o en línia a www.gutenberg.org/license.
+
+Secció 1. Condicions generals d'ús i redistribució d'obres electròniques del Projecte Gutenberg™
+
+1.A. En llegir o utilitzar qualsevol part d'aquesta obra electrònica del Projecte Gutenberg™, indiqueu que heu llegit, entès, accepteu i accepteu tots els termes d'aquesta llicència i l'acord de propietat intel·lectual (marca comercial/dret d'autor). Si no accepteu complir tots els termes d'aquest acord, haureu de deixar d'utilitzar i retornar o destruir totes les còpies de les obres electròniques del Project Gutenberg™ que tingueu. Si vau pagar una quota per obtenir una còpia o accedir a una obra electrònica del Projecte Gutenberg™ i no accepteu estar subjecte als termes d'aquest acord, podeu obtenir un reemborsament de la persona o entitat a qui vau pagar la quota tal com s'estableix al paràgraf 1.E.8.
+
+1.B. "Project Gutenberg" és una marca registrada. Només es pot utilitzar o associar de qualsevol manera a una obra electrònica les persones que acceptin estar subjectes als termes d'aquest acord. Hi ha algunes coses que podeu fer amb la majoria de les obres electròniques del Project Gutenberg™ fins i tot sense complir amb els termes complets d'aquest acord. Vegeu el paràgraf 1.C a continuació. Hi ha moltes coses que podeu fer amb les obres electròniques del Project Gutenberg™ si seguiu els termes d'aquest acord i ajudeu a preservar l'accés gratuït futur a les obres electròniques del Project Gutenberg™. Vegeu el paràgraf 1.E a continuació.
+
+1.C. La Fundació de l'Arxiu Literari del Projecte Gutenberg ("la Fundació" o PGLAF), posseeix un copyright de compilació de la col·lecció d'obres electròniques del Projecte Gutenberg™. Gairebé totes les obres individuals de la col·lecció són de domini públic als Estats Units. Si una obra individual no està protegida per la llei de drets d'autor als Estats Units i us trobeu als Estats Units, no reclamem el dret d'impedir-vos de copiar, distribuir, interpretar, mostrar o crear obres derivades basades en l'obra, sempre que s'eliminin totes les referències al Projecte Gutenberg. Per descomptat, esperem que recolzeu la missió del Projecte Gutenberg™ de promoure l'accés gratuït a les obres electròniques compartint lliurement les obres del Projecte Gutenberg™ d'acord amb els termes d'aquest acord per mantenir el nom del Projecte Gutenberg™ associat a l'obra. Podeu complir fàcilment els termes d'aquest acord mantenint aquesta obra en el mateix format amb la seva llicència completa de Project Gutenberg™ adjunta quan la compartiu sense cap càrrec amb altres persones.
+
+1.D. Les lleis de drets d'autor del lloc on us trobeu també regeixen el que podeu fer amb aquesta obra. Les lleis de drets d'autor a la majoria dels països estan en un estat de canvi constant. Si sou fora dels Estats Units, comproveu les lleis del vostre país a més dels termes d'aquest acord abans de descarregar, copiar, mostrar, executar, distribuir o crear obres derivades basades en aquesta obra o qualsevol altra obra del Project Gutenberg™. La Fundació no fa cap representació sobre l'estat dels drets d'autor de cap obra en cap altre país que no sigui els Estats Units.
+
+1.E. A menys que hàgiu eliminat totes les referències al Projecte Gutenberg:
+
+1.E.1. La següent frase, amb enllaços actius a, o un altre accés immediat a, la llicència completa del Projecte Gutenberg™ ha d'aparèixer de manera destacada sempre que s'accedeixi, es mostri, es visualitzi, es copiï o es distribueixi una còpia d'una obra del Projecte Gutenberg™ (qualsevol obra en què aparegui la frase "Projecte Gutenberg" o amb la qual s'associï la frase "Projecte Gutenberg"):
+
+Aquest llibre electrònic és per a qualsevol persona a qualsevol lloc dels Estats Units i de la majoria d'altres parts del món sense cap cost ni gairebé cap restricció. Podeu copiar-lo, regalar-lo o reutilitzar-lo sota els termes de la llicència del Projecte Gutenberg inclosa amb aquest llibre electrònic o en línia a www.gutenberg.org . Si no us trobeu als Estats Units, haureu de comprovar les lleis del país on us trobeu abans d'utilitzar aquest llibre electrònic.
+
+1.E.2. Si una obra electrònica individual del Project Gutenberg™ deriva de textos no protegits per la llei dels drets d'autor dels EUA (no conté cap avís que indiqui que s'ha publicat amb permís del titular dels drets d'autor), l'obra es pot copiar i distribuir a qualsevol persona als Estats Units sense pagar cap taxa o càrrec. Si esteu redistribuint o donant accés a una obra amb la frase "Projecte Gutenberg" associada o que apareix a l'obra, heu de complir els requisits dels paràgrafs 1.E.1 a 1.E.7 o obtenir permís per utilitzar l'obra i la marca registrada Project Gutenberg™ tal com s'estableix en els paràgrafs 1.E.8 o 1.E.9.
+
+1.E.3. Si es publica una obra electrònica del Projecte Gutenberg™ individual amb el permís del titular dels drets d'autor, el vostre ús i distribució han de complir amb els paràgrafs 1.E.1 a 1.E.7 i amb qualsevol condició addicional imposada pel titular dels drets d'autor. Els termes addicionals s'enllaçaran a la llicència Project Gutenberg™ per a totes les obres publicades amb el permís del titular dels drets d'autor que es troba al començament d'aquest treball.
+
+1.E.4. No desenllaçeu, deslligueu ni suprimiu els termes complets de la llicència del Project Gutenberg™ d'aquesta obra, ni cap fitxer que contingui una part d'aquesta obra o qualsevol altra obra associada amb Project Gutenberg™.
+
+1.E.5. No copieu, visualitzeu, realitzeu, distribuïu o redistribuïu aquesta obra electrònica, ni cap part d'aquesta obra electrònica, sense mostrar de manera destacada la frase exposada al paràgraf 1.E.1 amb enllaços actius o accés immediat a les condicions completes de la Llicència Project Gutenberg™.
+
+1.E.6. Podeu convertir i distribuir aquest treball en qualsevol forma binària, comprimida, marcada, no propietària o propietat, inclòs qualsevol forma de processament de textos o hipertext. Tanmateix, si proporcioneu accés o distribuïu còpies d'una obra de Project Gutenberg™ en un format diferent de "Plain Vanilla ASCII" o un altre format utilitzat en la versió oficial publicada al lloc web oficial de Project Gutenberg™ (www.gutenberg.org), haureu de proporcionar, sense cap cost, tarifa o despesa addicionals per a l'usuari, una còpia, un mitjà per exportar una còpia o un mitjà per obtenir l'obra original a la seva sol·licitud. ASCII” o una altra forma. Qualsevol format alternatiu ha d'incloure la llicència completa del Project Gutenberg™ tal com s'especifica al paràgraf 1.E.1.
+
+1.E.7. No cobriu cap quota per accedir, visualitzar, mostrar, executar, copiar o distribuir cap obra del Projecte Gutenberg™ tret que compleixi el paràgraf 1.E.8 o 1.E.9.
+
+1.E.8. Podeu cobrar una tarifa raonable per còpies o per proporcionar accés o distribució d'obres electròniques del Projecte Gutenberg™ sempre que:
+
+• Pagueu una taxa de regal del 20% dels beneficis bruts que obteniu de l'ús de les obres del Projecte Gutenberg™ calculades amb el mètode que ja feu servir per calcular els vostres impostos aplicables. La taxa es deu al propietari de la marca registrada Project Gutenberg™, però ha acceptat donar drets d'autor en virtut d'aquest paràgraf a la Fundació Arxiu Literari Project Gutenberg. Els pagaments de royalties s'han de pagar dins dels 60 dies següents a cada data en què prepareu (o estigueu obligats legalment a preparar) les vostres declaracions periòdiques d'impostos. Els pagaments de drets d'autor s'han de marcar clarament com a tals i enviar-los a la Fundació Arxiu Literari Project Gutenberg a l'adreça especificada a la Secció 4, "Informació sobre donacions a la Fundació Arxiu Literari Project Gutenberg".
+
+• Proporcioneu un reemborsament total dels diners pagats per un usuari que us avisi per escrit (o per correu electrònic) dins dels 30 dies següents a la recepció que no està d'acord amb els termes de la llicència completa del Project Gutenberg™. Heu d'exigir a aquest usuari que retorni o destrueixi totes les còpies de les obres posseïdes en un suport físic i que interrompi tot ús i tot accés a altres còpies de les obres del Projecte Gutenberg™.
+
+• Proporcioneu, d'acord amb el paràgraf 1.F.3, un reemborsament íntegre dels diners pagats per una obra o una còpia de substitució, si es descobreix un defecte en l'obra electrònica i se us comunica dins dels 90 dies següents a la recepció de l'obra.
+
+• Compleu amb tots els altres termes d'aquest acord per a la distribució gratuïta de les obres del Projecte Gutenberg™.
+
+1.E.9. Si voleu cobrar una tarifa o distribuir una obra electrònica o un grup d'obres del Project Gutenberg™ en termes diferents dels que s'estableixen en aquest acord, heu d'obtenir el permís per escrit de la Project Gutenberg Literary Archive Foundation, el gestor de la marca registrada del Project Gutenberg™. Poseu-vos en contacte amb la Fundació tal com s'estableix a la secció 3 següent.
+
+1.F.
+
+1.F.1. Els voluntaris i els empleats del Projecte Gutenberg dediquen un esforç considerable per identificar, fer investigacions sobre drets d'autor, transcriure i corregir obres no protegides per la llei dels drets d'autor dels EUA en crear la col·lecció Project Gutenberg™. Malgrat aquests esforços, les obres electròniques del Projecte Gutenberg™ i el suport en què es poden emmagatzemar poden contenir "Defectes", com ara, entre d'altres, dades incompletes, inexactes o corruptes, errors de transcripció, una infracció dels drets d'autor o d'altres propietats intel·lectuals, un disc o un altre mitjà defectuós o danyat, un virus informàtic o codis informàtics que danyin o no es puguin llegir pel vostre equip.
+
+1.F.2. GARANTIA LIMITADA, EXENCIÓ DE DANYS - Excepte pel "Dret de substitució o reemborsament" descrit al paràgraf 1.F.3, la Fundació Arxiu Literari Project Gutenberg, el propietari de la marca registrada Project Gutenberg™ i qualsevol altra part que distribueixi una obra electrònica Project Gutenberg™ en virtut d'aquest acord, declinen tota responsabilitat davant vostè per danys, costos i despeses legals. ACCEPTEU QUE NO TENIU RECURS PER NEGLIGÈNCIA, RESPONSABILITAT ESTRICTA, INCORCAMENT DE GARANTIA O INCOPLIMENT DEL CONTRACTE EXCEPTE ELS PREVISTS A L'PARÀGRAF 1.F.3. ACCEPTEU QUE LA FUNDACIÓ, EL PROPIETARI DE LA MARCA I QUALSEVOL DISTRIBUIDOR D'AQUEST ACCORD NO SERÀ RESPONSABLE ANTES DE VOSTRE PER DANYS REALS, DIRECTS, INDIRECTS, CONSEQUENTS, PUNITIUS O INCIDENTALS, FINS I TOT SI AVÍS DE LA POSSIBILITAT.
+
+1.F.3. DRET LIMIT DE SUBSTITUCIÓ O REEMBOLSAMENT - Si descobreix un defecte en aquesta obra electrònica dins dels 90 dies següents a la seva recepció, pots rebre un reemborsament dels diners (si n'hi ha) que has pagat enviant una explicació per escrit a la persona de la qual has rebut l'obra. Si heu rebut el treball en un suport físic, heu de retornar el suport amb la vostra explicació escrita. La persona o entitat que us ha proporcionat el treball defectuós pot optar per proporcionar una còpia de substitució en lloc d'un reemborsament. Si heu rebut l'obra electrònicament, la persona o l'entitat que us la proporciona pot optar per donar-vos una segona oportunitat de rebre l'obra electrònicament en lloc d'un reemborsament. Si la segona còpia també és defectuosa, podeu demanar un reemborsament per escrit sense més oportunitats per solucionar el problema.
+
+1.F.4. Excepte el dret limitat de substitució o reemborsament que estableix el paràgraf 1.F.3, aquest treball se us proporciona "TAL CUAL", SENSE ALTRES GARANTIES DE CAP TIPUS, EXPRESSES O IMPLÍCITES, INCLOSANT, PERÒ NO LIMITAR-SE, GARANTIES DE COMERCIABILITAT O IDONEIDAD PER A QUALSEVOL PROPÒSIT.
+
+1.F.5. Alguns estats no permeten exempcions de responsabilitat de determinades garanties implícites o l'exclusió o limitació de certs tipus de danys. Si qualsevol exempció de responsabilitat o limitació establerta en aquest acord infringeix la llei de l'estat aplicable a aquest acord, l'acord s'interpretarà com a màxima exempció o limitació permesa per la llei estatal aplicable. La nul·litat o inaplicabilitat de qualsevol disposició d'aquest acord no anul·larà la resta de disposicions.
+
+1.F.6. INDEMNITZACIÓ - Accepteu indemnitzar i mantenir la Fundació, el propietari de la marca registrada, qualsevol agent o empleat de la Fundació, qualsevol persona que proporcioni còpies de les obres electròniques del Projecte Gutenberg™ d'acord amb aquest acord, i qualsevol voluntari associat amb la producció, promoció i distribució d'obres electròniques del Projecte Gutenberg™, sense responsabilitat de tota responsabilitat, costos i despeses, inclosos els honoraris legals, que es produeixin directament o indirectament per: d'aquesta o qualsevol obra del Projecte Gutenberg™, (b) alteració, modificació o addicions o supressions a qualsevol obra del Projecte Gutenberg™ i (c) qualsevol Defecte que causeu.
+
+Secció 2. Informació sobre la missió del Projecte Gutenberg™
+
+Project Gutenberg™ és sinònim de la distribució gratuïta d'obres electròniques en formats llegibles per la més àmplia varietat d'ordinadors, inclosos els obsolets, antics, de mitjana edat i nous. Existeix gràcies a l'esforç de centenars de voluntaris i donacions de persones de tots els àmbits de la vida.
+
+Els voluntaris i el suport financer per oferir als voluntaris l'assistència que necessiten són fonamentals per assolir els objectius del Projecte Gutenberg™ i garantir que la col·lecció Project Gutenberg™ romangui disponible gratuïtament per a les generacions futures. L'any 2001, es va crear la Fundació Arxiu Literari Project Gutenberg per proporcionar un futur segur i permanent per al Projecte Gutenberg™ i les generacions futures. Per obtenir més informació sobre la Fundació de l'Arxiu Literari del Projecte Gutenberg i com poden ajudar els vostres esforços i donacions, consulteu les seccions 3 i 4 i la pàgina d'informació de la Fundació a www.gutenberg.org.
+
+Secció 3. Informació sobre la Fundació Arxiu Literari Project Gutenberg
+
+La Fundació Arxiu Literari del Projecte Gutenberg és una corporació educativa sense ànim de lucre 501(c)(3) organitzada segons les lleis de l'estat de Mississipí i que ha estat exempta d'impostos per l'Internal Revenue Service. El número d'identificació fiscal federal o EIN de la Fundació és 64-6221541. Les contribucions a la Fundació Arxiu Literari Project Gutenberg són deduïbles d'impostos en la mesura que ho permeten les lleis federals dels EUA i les lleis del vostre estat.
+
+L'oficina comercial de la Fundació es troba a 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Els enllaços de contacte per correu electrònic i la informació de contacte actualitzada es poden trobar al lloc web de la Fundació i a la pàgina oficial a www.gutenberg.org/contact
+
+Secció 4. Informació sobre donacions a la Fundació Arxiu Literari Project Gutenberg
+
+El Projecte Gutenberg™ depèn i no pot sobreviure sense un suport públic generalitzat i donacions per dur a terme la seva missió d'augmentar el nombre d'obres de domini públic i amb llicència que es poden distribuir lliurement en forma llegible per màquina accessible per la més àmplia gamma d'equips, inclosos els equips obsolets. Moltes donacions petites (entre 1 i 5.000 dòlars) són especialment importants per mantenir l'estat d'exempció fiscal amb l'IRS.
+
+La Fundació es compromet a complir amb les lleis que regulen les organitzacions benèfiques i les donacions benèfiques als 50 estats dels Estats Units. Els requisits de compliment no són uniformes i cal un esforç considerable, molta documentació i moltes tarifes per complir i mantenir-se al dia amb aquests requisits. No sol·licitem donacions en llocs on no hem rebut una confirmació escrita de compliment. Per ENVIAR DONACIONS o determinar l'estat de compliment d'un estat en particular, visiteu www.gutenberg.org/donate .
+
+Tot i que no podem sol·licitar ni sol·licitar contribucions d'estats on no hem complert els requisits de sol·licitud, no coneixem cap prohibició d'acceptar donacions no sol·licitades de donants d'aquests estats que s'acosten a nosaltres amb ofertes de donar.
+
+Les donacions internacionals són acceptades amb gratitud, però no podem fer cap declaració sobre el tractament fiscal de les donacions rebudes de fora dels Estats Units. Només les lleis dels Estats Units engloben el nostre petit personal.
+
+Si us plau, consulteu les pàgines web del Projecte Gutenberg per obtenir els mètodes i les adreces de donació actuals. Les donacions s'accepten de diverses altres maneres, com ara xecs, pagaments en línia i donacions amb targeta de crèdit. Per fer una donació, visiteu: www.gutenberg.org/donate.
+
+Secció 5. Informació general sobre les obres electròniques del Projecte Gutenberg™
+
+El professor Michael S. Hart va ser el creador del concepte Project Gutenberg™ d'una biblioteca d'obres electròniques que es podien compartir lliurement amb qualsevol. Durant quaranta anys, va produir i distribuir llibres electrònics del Projecte Gutenberg™ amb només una àmplia xarxa de suport voluntari.
+
+Els llibres electrònics del Project Gutenberg™ es creen sovint a partir de diverses edicions impreses, que es confirmen que no estan protegides pels drets d'autor als EUA tret que s'inclogui un avís de drets d'autor. Per tant, no necessàriament mantenim els llibres electrònics d'acord amb cap edició en paper en particular.
+
+La majoria de la gent comença al nostre lloc web que té la funció de cerca de PG principal: www.gutenberg.org .
+
+Aquest lloc web inclou informació sobre Project Gutenberg™, com ara com fer donacions a la Fundació Arxiu Literari Project Gutenberg, com ajudar a produir els nostres nous llibres electrònics i com subscriure's al nostre butlletí per correu electrònic per conèixer nous llibres electrònics.
+

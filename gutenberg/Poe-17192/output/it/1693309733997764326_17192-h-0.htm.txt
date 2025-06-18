@@ -1,0 +1,570 @@
+L'eBook del Progetto Gutenberg del Corvo, di Edgar Allan Poe.
+
+L'eBook del Progetto Gutenberg del Corvo
+
+Questo ebook può essere utilizzato da chiunque, ovunque negli Stati Uniti e nella maggior parte delle altre parti del mondo, senza alcun costo e quasi senza restrizioni di sorta. Puoi copiarlo, regalarlo o riutilizzarlo secondo i termini della licenza Project Gutenberg inclusa in questo ebook o online su www.gutenberg.org . Se non ti trovi negli Stati Uniti, dovrai verificare le leggi del paese in cui ti trovi prima di utilizzare questo eBook.
+
+Titolo : Il corvo
+
+Autore : Edgar Allan Poe
+
+Commentatore : Edmund Clarence Stedman
+
+Illustratore : Gustave Doré
+
+Data di rilascio : 30 novembre 2005 [eBook n. 17192] Ultimo aggiornamento: 13 dicembre 2020
+
+Lingua : inglese
+
+Crediti : prodotto da Jason Isbell, Melissa Er-Raqabi e Online Team di correzione di bozze distribuito su https://www.pgdp.net.
+
+*** INIZIO DEL PROGETTO GUTENBERG EBOOK IL CORVO ***
+
+Copertina posteriore
+
+IL CORVO
+
+Di
+
+EDGAR ALLAN POE
+
+ILLUSTRATO Di GUSTAVE DORE
+
+Immagine del titolo
+
+CON COMMENTO DI EDMUND C. STEDMAN
+
+NEW YORK
+
+HARPER & BROTHERS, EDITORI, FRANKLIN SQUARE
+
+1884
+
+Inserito secondo l'Atto del Congresso, nell'anno 1883, da
+
+HARPER E FRATELLI,
+
+Nell'ufficio del Bibliotecario del Congresso, a Washington.
+
+Tutti i diritti riservati.
+
+Appunti del trascrittore
+
+Nella Lista delle illustrazioni ho ripristinato una virgoletta singola mancante dopo Lenore! come mostrato di seguito:
+
+«'Miserabile', gridai, 'il tuo Dio ti ha prestato: per mezzo di questi angeli ti ha mandato Tregua: tregua e nepenthe dai tuoi ricordi di Lenore!'"
+
+L'elenco delle illustrazioni utilizza "visitatore" mentre la poesia e l'illustrazione vera e propria utilizzano "visitatore".
+
+ELENCO DELLE ILLUSTRAZIONI
+
+Con nomi di incisori
+
+Frontespizio, disegnato da Elihu Vedder.
+
+Federico Juengling.
+
+"Mai più."
+
+H. Claudio, GJ Buechner.
+
+ANANKE.
+
+H. Claudio.
+
+"C'era una volta una mezzanotte triste, mentre riflettevo, debole e stanco, Nel corso di molti volumi pittoreschi e curiosi di tradizioni dimenticate."
+
+RA Muller.
+
+"Ah, ricordo distintamente, era il tetro dicembre, E ogni singola brace morente modellava il suo fantasma sul pavimento."
+
+RG Tietze.
+
+"Desideravo ardentemente il domani; invano avevo cercato un prestito Dai miei libri la fine del dolore: il dolore per la perduta Lenore."
+
+H. Claudio.
+
+"Dispiace per la perduta Lenore."
+
+W. Zimmermann.
+
+"Per la fanciulla rara e radiosa che gli angeli chiamano Lenore... Senza nome qui per sempre."
+
+Federico Juengling.
+
+"C'è qualche visitatore che implora di entrare alla porta della mia camera... Qualche visitatore tardivo implora di entrare alla porta della mia camera.'"
+
+W. Zimmermann.
+
+—"Qui ho spalancato la porta; là è buio e niente più."
+
+H. Claudio.
+
+"Dubitare, sognare sogna nessun mortale ha mai osato sognare prima."
+
+Re delle FS.
+
+"Certamente", dissi, "sicuramente è qualcosa che si trova sulla grata della mia finestra; Fammi vedere, allora, di cosa si tratta, ed esplora questo mistero.'"
+
+Federico Juengling.
+
+"Apri qui ho buttato la persiana."
+
+T. Johnson.
+
+— "Un maestoso corvo dei tempi santi di un tempo. Non gli ha fatto il minimo omaggio; non si è fermato o si è fermato per un minuto."
+
+R. Staudenbaur.
+
+"Appollaiato su un busto di Pallade proprio sopra la porta della mia camera... Appollaiato e seduto, e niente più."
+
+RG Tietze.
+
+"Vagando dalla riva notturna."
+
+Federico Juengling.
+
+"Finché non ho fatto altro che mormorare: 'Altri amici hanno volato prima... Domani mi lascerà , poiché prima le mie speranze erano svanite.'"
+
+Franco francese.
+
+"Poi, quando il velluto affondò, mi misi a collegare Fantasia per fantasia."
+
+R.Schelling.
+
+"Ma il cui rivestimento viola di velluto sotto la luce della lampada gongolante sopra Lei premerà, ah, mai più!"
+
+George Kruell.
+
+«'Miserabile', gridai, 'il tuo Dio ti ha prestato: per mezzo di questi angeli ti ha mandato Tregua: tregua e nepenthe dai tuoi ricordi di Lenore!'"
+
+Victor Bernstrom.
+
+"In questa casa infestata dall'orrore."
+
+R. Staudenbaur.
+
+"'Dimmi davvero, ti imploro... c'è... c'è balsamo in Galaad? - dimmi... dimmi, ti imploro!'"
+
+W. Zimmermann.
+
+"'Di' a quest'anima carica di dolore se, nel lontano Aidenn, Abbraccerà una santa fanciulla che gli angeli chiamano Lenore.'"
+
+Re delle FS.
+
+"'Sia quella parola il nostro segno di addio, uccello o demone!' Ho urlato, sussultando."
+
+W. Zimmermann.
+
+"'Torna nella tempesta e nella spiaggia plutoniana della Notte!'"
+
+Robert Hoskin.
+
+"E la mia anima da quell'ombra che giace fluttuante sul pavimento Non sarà revocato, mai più!"
+
+RG Tietze.
+
+Il segreto della Sfinge.
+
+R. Staudenbaur.
+
+COMMENTO ALLA POESIA.
+
+Il segreto di una poesia, non meno della prosperità di uno scherzo, sta nell'orecchio di chi l'ascolta. Cedere al suo incantesimo, accettare lo stato d'animo del poeta: questo, del resto, è ciò che rispondono i saggi quando si chiede loro del suo valore. Anche se il poeta stesso, nel suo altro stato d'animo, ti dice che la sua arte non è altro che un gioco di prestigio, il suo cibo da incantatore, e si offre di mostrarti il ​​suo trucco, non credergli. Aspetta la sua ora profetica; allora abbandonati alla sua passione, alla sua gioia o al suo dolore. "Oggi siamo nelle mani dell'Amore!" canta Gautier, nella vivace parafrasi di Swinburne, - e dalla mattina al tramonto siamo trasportati sul mare violento: c'è un solo amore, un maggio, una spiaggia fiorita. L'amore è eterno, tutto il resto è irreale e messo da parte. La visione ha fine, la scena cambia; ma qualcosa abbiamo guadagnato, il ricordo di un incanto. Tanti poeti, tanti incantesimi. C'è il fascino dell'Evanescenza, quello che conferisce alla bellezza e alla grazia suprema un'aureola di Pathos. Condividi con Landor la sua unica "notte di ricordi e di sospiri" per Rose Aylmer, e avrai tutto questo.
+
+E ora prendete la mano di un menestrello del nuovo mondo, deviato da un habitat adatto a quell'America rozza e dissonante che, come vide Baudelaire, "era per Poe solo una vasta prigione attraverso la quale correva di qua e di là con l'agitazione febbrile di un essere creato per respirare in un mondo più puro", e dove "la sua vita interiore, spirituale come poeta, spirituale anche come ubriacone, non era altro che uno sforzo perpetuo per sfuggire all'influenza di questa atmosfera antipatica". Stringi la mano sensibile di un cantante tormentato che interpreta così la sua stranezza, e condividi con lui il clima in cui trovò, - mai durante il giorno, sempre di notte, - se non l'Atlantide da cui aveva vagato, almeno un luogo di rifugio dai confini in cui di giorno era rinchiuso.
+
+Solo in una terra ha il potere di condurti, e solo per una notte puoi condividere il suo sogno. Un tratto né di Terra né di Cielo: “terra di nessuno”, fuori dallo Spazio, fuori dal Tempo. Ecco i turbati, per i quali occhi, come quelli dei Cenci, l'anima trova finestre benché la mente sia intontita; qui gli spiriti, cercando a tentoni la via che conduce all'Eternità, vengono fermati e ritardati. È il limbo delle "anime planetarie", in cui si trovano tutte le incertezze al chiaro di luna, tutti gli amori e le illusioni perduti. Qui alcuni sono fissati in trance, l'unica tregua raggiungibile; altri
+
+"muoviti in modo fantastico
+
+Ad una melodia discordante:"
+
+mentre ovunque lo sono
+
+"Ricordi del passato -
+
+Forme avvolte che sussultano e sospirano
+
+Mentre passano davanti al viandante."
+
+Tale è la terra, e per una notte vi entriamo, una notte di fasi astrali e rintocchi ricorrenti. Le sue monodie sono dodici poesie, la cui musica si sforza di cambiare eppure è sempre la stessa. Uno dopo l'altro suonano, come il rintocco dell'orologio di bronzo ed ebano, in "La maschera della morte rossa", che faceva fermare i valzer con "sconcerto, tremore e meditazione", ogni volta che l'ora passava.
+
+Di tutte queste cadenze mistiche, il lamento del Corvo , che vibra attraverso il portale, ha impressionato principalmente il mondo esterno. Quali fattori contribuiscono alla realizzazione di un poema, e quanto è vero in questa, come nella maggior parte delle altre, quella razza che chiamava i suoi bardi "i creatori"? Un'opera viene chiamata dal vuoto. Dove non c'era nulla, rimane una nuova creazione, parte del tesoro dell'umanità. E alcuni testi eccezionali, più di altri altrettanto creativi, ci costringono a ripensare con quanta coraggio la penna del poeta trasforma cose sconosciute
+
+"a modellare e dona al nulla aereo
+
+Un'abitazione locale e un nome."
+
+Ognuno sembra senza prototipo, eppure tutti ci affascinano con elementi strappati all'ombra del soprannaturale. Ora, l'immaginazione più alta riguarda l'anima delle cose; può o meno ispirare la Fantasia che popola con immagini il vago interlunare. Eppure, uno di questi testi, nel suo piccolo, ci colpisce con un senso di unicità, sicuramente come le opere più sublimi di un cast soprannaturale, "Faustus" di Marlowe, il "Faust" di Goethe, "Manfred", o anche quei capolavori eterei, "La Tempesta" e "Sogno di una notte di mezza estate". Più di uno, pur essendo unico, ne ha alcuni  fardello o ritornello che tormenta la memoria, una volta ascoltato, mai dimenticato, come il tono di un registro d'organo usato raramente ma distintivo. Tra questi spicca "Lenore" di Bürger, quella ballata spettrale e risonante, richiamo e ostacolo dei traduttori. Pochi negheranno che la meravigliosa "Rima del vecchio marinaio" di Coleridge sia proprio il loro caposaldo. "Le Juif-Errant" avrebbe pretese, se Beranger fosse stato un poeta più grande; e, se non fosse per la loro lontananza dalla simpatia popolare, "The Lady of Shalott" e "The Blessed Damozel" potrebbero essere aggiunti alla lista. Fu affidato a Edgar Allan Poe il compito di produrre due testi, "The Bells" e The Raven , ognuno dei quali, sebbene forse meno bello di quelli di Tennyson e Rossetti, è unico. "Ulalume", sebbene altrettanto strano e fantasioso, non ha la qualità universale che è parte del nostro test.
+
+Il Corvo nelle sue componenti puramente poetiche rientra in pezzi come "Il palazzo stregato", "La città nel mare", "Il dormiente" e "Israfel". Il tutto verrebbe scambiato, sospetto, da lettori di un cast esigente, con passaggi come questi:
+
+"Intorno, sollevando venti dimenticati,
+
+Rassegnatamente sotto il cielo
+
+Le acque malinconiche giacciono.
+
+Nessun raggio dal santo cielo scende
+
+Nella lunga notte di quella città;
+
+Ma la luce proviene dal mare lurido
+
+Si innalza silenziosamente sulle torrette—
+
+· · · · · · ·
+
+Su molti e molti un meraviglioso santuario
+
+I cui fregi ghirlandati si intrecciano
+
+La viola, la viola e la vite.
+
+· · · · · · ·
+
+Nessun rigonfiamento indica che potrebbero esserci venti
+
+Su qualche mare lontano e più felice—
+
+Nessun sollevamento suggerisce che ci siano stati venti
+
+Su mari meno orribilmente sereni."
+
+Manca la melodia aerea del poeta le cui corde del cuore sono un liuto:
+
+"E dicono (il coro stellato
+
+E le altre cose da ascoltare)
+
+Quel fuoco di Israfeli
+
+È dovuto a quella lira
+
+Presso il quale si siede e canta:
+
+Il tremante filo vivo
+
+Di quelle corde insolite."
+
+Ma The Raven , come "The Bells" e "Annabel Lee", si raccomanda a molti e a pochi. Ho detto altrove che le produzioni più rare di Poe mi sono sembrate "quelle in cui c'è almeno un'apparenza di spontaneità, in cui egli cede ai suoi sentimenti, mentre le cadute morenti e le cadenze più musicali, più malinconiche, provengono da lui inconsapevoli". Questa è ancora la mia convinzione; eppure, dopo uno studio nuovo di questa poesia, mi impressiona più che in qualsiasi momento fin dalla mia infanzia. Una conoscenza ravvicinata parla a favore di ogni vera opera d'arte. Inducete l'uomo, che non conosce l'arte e non se ne cura, a esaminare qualche poesia o dipinto, e quanto presto la sua forza lo prenderà! In effetti, sopravvaluterà il valore relativo della prima buona opera dalla quale la sua attenzione è stata abbastanza catturata. Il Corvo , inoltre, ha qualità costanti che anche un esperto deve ammirare. In nessun'altra poesia del suo autore il motivo è definito in modo più palpabile. "Il Palazzo Stregato" è altrettanto definito per il lettore selezionato, ma Poe difficilmente avrebbe preso quella sottile allegoria per una semplice analisi. Il Corvo è interamente occupato dal tema tipico dell'autore: la perdita irreparabile di una donna bella e idolatrata; ma anche per altri motivi l'istinto del pubblico ha ragione nel considerarlo il suo poema rappresentativo.
+
+Un uomo di genio di solito guadagna terreno grazie al successo di un suo sforzo, e questo non è sempre il suo più grande. Il riconoscimento è tanto più immediato in quanto è stato rinviato. Non la acquisisce, come la fortuna di un avaro, moneta dopo moneta, ma "né del tutto né del tutto". E così anche per le altre ambizioni: il cortigiano, il soldato, l'attore, qualunque sia la loro parte, attribuiscono ciascuno il proprio trionfo a un colpo fortunato. Il corvo di Poe, nonostante gli auguri, era per lui "l'uccello che faceva soffiare la brezza". Il poeta si stabilì a New York, nell'inverno 1844-'45, trovando lavoro sul giornale di Willis, "The Evening Mirror", e guadagnando le sue entrate con contributi altrove. Per sei anni era stato uno scrittore attivo e godeva di una reputazione professionale; era tenuto sia con rispetto che con dubbi, e non perdeva la sua parte di giornalismo mal pagato di quel giorno. Aveva anche realizzato gran parte dei suoi lavori migliori, racconti come "Ligeia" e "La caduta della casa Usher" (quest'ultimo contenente la controparte mistica, in versi, di "Una mente perduta" di Elihu Vedder), imprese analitiche come "Lo scarabeo d'oro" e "Il mistero di Marie Roget". Aveva fatto proseliti all'estero e aveva conquistato una presa duratura sulla mente francese. Aveva imparato il proprio potere e la propria debolezza, ed era al suo apice, e non senza una certa reputazione. Ma non aveva scritto nulla che fosse sulla bocca di tutti. All'opera rara e delicata deve essere aggiunto un tocco popolare per catturare il pubblico generale del proprio tempo.
+
+Attraverso l'industria dei successivi biografi di Poe, il successo del Corvo è diventato una storia spesso raccontata. La giovane moglie del poeta, Virginia, stava svanendo davanti ai suoi occhi, ma rimase per un altro anno nell'ombra della morte. La camera lunga e bassa nella casa vicino a Bloomingdale Road è come  famosa come la stanza dove Rouget de l'Isle compose la Marsigliese. Tutti hanno sentito che la poesia, firmata "Quarles", è apparsa sull'"American Review", con un commento pseudo-editoriale sulla sua forma; che Poe ricevette dieci dollari per questo; che Willis, il più gentile e meno invidioso degli arbitri alla moda, lo ristampò con un elogio che ne fece immediatamente parlare in città. Tutti i dubbi sulla sua paternità furono dissipati quando Poe lo recitò lui stesso in un incontro letterario, e per un certo periodo fu il più notevole degli autori americani. Il colpo lo stimolò e lo incoraggiò. Come un altro e più orgoglioso autore satirico, anche lui trovò "qualcosa d'estate" anche "nel ronzio degli insetti". Abbastanza tristemente, ma trascorsero tre anni, un periodo di influenza, orgoglio, angoscia, ma sempre di lavoro fantasioso e critico, prima della sconfitta finale, prima che calasse il sipario su una vita che per lui era in verità una tragedia, e lui cedesse al "Verme Conquistatore".
+
+"The American Review: A Whig Journal" era una rivista degna di nota per l'epoca, a due colonne, stampata su buona carta con caratteri chiari e illustrata da ritratti a mezzatinta. In mezzo a molta materia al di sotto degli standard attuali, ne conteneva alcuni che qualsiasi editore sarebbe stato felice di ricevere. Il volume iniziale, per il 1845, contiene articoli di Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman e Whipple. La pittoresca poesia di Ralph Hoyt, "Old", è apparsa in questo volume. Ed ecco tre testi di Poe: "La città nel mare", "La valle dei disordini" e Il corvo . Due di questi furono costruiti, così era il suo modo, da studi precedenti, ma l'ultimo risultò come se fosse stato appena composto, e quasi come lo abbiamo adesso. L'affermazione secondo cui non è stato successivamente rivisto è errata. Undici piccole modifiche rispetto al testo della rivista compaiono in The Raven and Other Poems , 1845, un libro che il poeta si sentì presto incoraggiato a offrire al pubblico. Si tratta per lo più di cambiamenti di punteggiatura, o di singole parole, quest'ultimo fatto per aumentare l'effetto dell'allitterazione. Nella bella edizione dei versi di Poe, Mr. Lang, pubblicata nella "Parchment Library", egli ha mostrato l'istinto di uno studioso, e ha fatto saggiamente, tornando al testo del volume appena menzionato, come riportato nell'edizione londinese del 1846. La raccolta "standard" Griswold delle opere del poeta è abbonda di errori. Questi sono stati ripetuti da redattori successivi, che hanno anch'essi commesso errori. Ma il testo del Corvo , a causa delle richieste fatte all'autore di copie manoscritte, fu da lui ulteriormente rielaborato; infatti, lo stampò a Richmond, poco prima della sua morte, con la sostituzione poetica di "serafini i cui passi" con "angeli i cui deboli passi", nella quattordicesima strofa. Il nostro testo attuale, quindi, pur essendo sostanzialmente quello del 1845, è alquanto modificato dalla successiva lettura del poeta, ed è, credo, la versione più corretta ed efficace di quest'unico poema. Il cambiamento più radicale rispetto alla prima versione si ebbe però nel volume del 1845; l'undicesima strofa originariamente conteneva questi versi, difettosi nella rima e altrimenti un difetto nella poesia:
+
+"Preso da qualche padrone infelice, che ha avuto un disastro spietato
+
+Seguiva velocemente e seguiva sempre più velocemente, così, quando Hope scongiurava,
+
+La severa Disperazione ritornò, invece della dolce Speranza che osò invocare...
+
+Quella triste risposta: 'Mai più!'"
+
+Sarebbe bene che altri poeti famosi potessero essere altrettanto sicuri di apportare sempre miglioramenti ai loro cambiamenti. Poe rielaborava costantemente la sua scarsa esibizione di versi, e di solito la migliorava. Il corvo fu la prima delle poche poesie che portò quasi a completamento prima della stampa. Può darsi che chi ha a cuore la poesia abbia perso poco con la sua morte. Fluente in prosa, non ha mai scritto versi per il gusto di fare una poesia. Quando un ritornello d'immagine lo perseguitava, il testo che ne risultava era l'ispirazione, come lui stesso disse, di una passione, non di uno scopo. Ciò era a intervalli così rari da giustificare quasi la teoria di Fairfield secondo cui ciascuno era il prodotto di una crisi nervosa.
+
+Che cosa, allora, fornì al poeta la chiave per Il Corvo ? Da quale fondamento nebbioso è emersa lentamente fino a diventare una musica lentamente respirata? Come al solito, più di una cosa ha contribuito alla costruzione di una poesia così notevole. Considerando i sermoni più lunghi spesso predicati su testi brevi e meno suggestivi, spero di non essere incolpato per questa discussione di un singolo testo, soprattutto di quello di cui un artista come Doré ha fatto oggetto di prodighe illustrazioni. Fino a poco tempo fa avevo supposto che questo pezzo, e alcuni che il suo autore compose dopo la sua pubblicazione, fossero eccezionali nel non essere nati da germi nei suoi versi da ragazzo. Ma il signor Fearing Gill mi ha mostrato alcune strofe inedite di Poe, scritte quando aveva diciotto anni e intitolate "Il demone del fuoco". Il manoscritto sembra essere scritto nella primitiva grafia del poeta e la sua autenticità è garantita dalla famiglia in cui è rimasto in possesso per mezzo secolo. Oltre ai più semplici abbozzi di "The Bells" e "The Haunted Palace", contiene alcune righe in qualche modo suggestive dell'apertura e della chiusura di The Raven . Per quanto riguarda il ritmo della nostra poesia, un confronto delle date indica che questo è stato influenzato dal ritmo del "Corteggiamento di Lady Geraldine". Poe fu uno dei primi a onorare il genio della signorina Barrett; le descrisse la sua raccolta di poesie come "la più nobile del suo sesso", e fu accettato  simpatia per il suo metodo lirico. I versi della sua poesia d'amore,
+
+"Con un sussurro agitarsi incerto, nell'aria, la tenda purpurea
+
+Si gonfia e si gonfia attorno alle sue immobili sopracciglia pallide,"
+
+trovato un'eco in questi:
+
+"E il fruscio serico, triste e incerto di ogni tenda viola
+
+Mi ha emozionato, mi ha riempito di terrori fantastici mai provati prima."
+
+Qui Poe si assunse un privilegio per il quale censurò aspramente Longfellow, e che nessuno mai cercò nei suoi locali senza essere rapidamente scoperto e punito. Nella melodia e nella forma strofica vedremo che le due poesie non sono dissimili, ma nel motivo sono totalmente distinte. La generosa poetessa non sentiva altro che la vera originalità del poeta. "Questa scrittura vivida!" esclamò: "questa potenza che si sente!... Il nostro grande poeta, il signor Browning, autore di 'Paracelsus', ecc., è entusiasta nella sua ammirazione per il ritmo." Il signor Ingram, dopo aver fatto riferimento a "Lady Geraldine", sottolinea astutamente un'altra fonte da cui Poe potrebbe aver colto un impulso. Nel 1843, Albert Pike, il poeta mezzo greco e mezzo uomo di frontiera, dell'Arkansas, aveva stampato in "The New Mirror", per il quale Poe allora stava scrivendo, alcuni versi intitolati "Isadore", ma poi rivisti dall'autore e intitolati "The Widowed Heart". Seleziono dalla revisione di Mr. Pike la seguente strofa, le cui caratteristiche principali corrispondono alla versione originale:
+
+"Inquieto percorro le nostre stanze solitarie, non suono più le nostre canzoni,
+
+Il sole abbagliante splende ostentatamente sul pavimento non spazzato;
+
+L'uccello beffardo sta ancora seduto e canta, o canzone malinconica!
+
+Perché il mio cuore è come una nuvola autunnale, straripante di pioggia;
+
+Sei perduto per me per sempre, Isadore!"
+
+Qui abbiamo una misura prolungata, una somiglianza di ritornello e l'introduzione di un uccello il cui canto accresce il dolore. Ci sono altri sentieri che i curiosi possono seguire; in particolare, un passaggio che il signor Ingram seleziona dalla recensione finale di Poe di "Barnaby Rudge":
+
+"Anche il corvo * * * avrebbe potuto essere reso, più di quanto lo vediamo ora, una parte della concezione del fantastico Barnaby. * * * Il suo carattere avrebbe potuto svolgere, rispetto a quello dell'idiota, più o meno la stessa parte che fa, nella musica, l'accompagnamento rispetto all'aria."
+
+Tuttavia, dopo aver messo in luce questi germi e queste somiglianze, il valore di questa poesia sta ancora nella sua originalità. La musica progressiva, i dettagli scenici e il contrasto di luci e ombre, soprattutto la passione spirituale del notturno, ne fanno l'opera di un genio informatore. Per quanto riguarda il raccapricciante uccello, è diverso da tutti gli altri corvi del suo clan, dai "twa corbies" e "tre corvi" dei balladisti al "Grip" spiegazzato di Barnaby. Qui non c'è alcuna parvenza della torre gracchiante che infesta le torrette ancestrali e calca il campo dell'araldica; nessun fantasma promettente di cui Tickell cantò quel, quando,
+
+"gridando tre volte alla sua finestra,
+
+Il corvo sbatté le ali,
+
+Lo sapeva fin troppo bene la fanciulla disperata per amore
+
+Il suono solenne e presagio."
+
+Il corvo di Poe è una concezione distinta; l'incarnazione dell'agonia e della disperazione di chi è in lutto; una cupa Memoria incarnata, il costante cronista della sventura, un tipo dell'Irreparabile. Fuggito attraverso lo Stige, dalla "sponda plutoniana della Notte", sembra l'anima immaginata dell'interrogante stesso, di colui che non può, non vuole, tracannare il gentile nepenthe, perché il ricordo di Lenore è tutto ciò che gli è rimasto, e con la cessazione del suo dolore anche quello verrebbe messo da parte.
+
+Il Corvo può anche essere considerato una poesia rappresentativa del suo autore, poiché esemplifica tutte le sue nozioni su come dovrebbe essere una poesia. Questi si trovano nei suoi saggi su "Il principio poetico", "La logica del verso" e "La filosofia della composizione". Poe dichiarò che "nella musica, forse, l'anima raggiunge quasi il grande fine per il quale, quando ispirata dal sentimento poetico, lotta: la creazione della bellezza superna... Il verso non può essere meglio designato che come una musica inferiore o meno capace"; ma ancora una volta, il verso che è realmente la "Poesia delle parole" è "La creazione ritmica della bellezza", questo e niente più. Il tono della Bellezza più elevata è quello della Tristezza. L'argomento più malinconico è la Morte. Questo deve essere alleato alla Bellezza. "La morte, quindi, di una bella donna è, senza dubbio, l'argomento più poetico del mondo, ed è altrettanto fuori dubbio che le labbra più adatte per un argomento del genere siano quelle di un amante in lutto." Queste ultime espressioni sono citate dalla stravagante analisi di Poe di questa stessa poesia, ma indicano precisamente la gamma generale dei suoi versi. Il culmine di "The Bells" è il monotono ovattato dei ghoul, che si gloriano di appesantire il cuore umano. "Lenore", The Raven , "The Sleeper", "To One in Paradise" e "Ulalume" formano una sinfonia tenebrosa, e "Annabel Lee", scritta per ultima, mostra che un tema lo possedeva fino alla fine. Ancora una volta, questi non sono altro che musicali, e alcuni sono toccati da quella qualità del fantastico che risveglia il senso di stupore e aggiunge una nuova paura all'agonia stessa. In tutto ciò è debolmente delineato, sotto un velo oscuro, l'amore ideale del poeta, - così spesso ritratto a metà altrove, - la moglie sepolta di Usher, Lady Ligeia, in  la verità è la controparte della sua stessa natura. Suppongo che l'amore di un artista per qualcuno "nella forma" non possa mai rivaleggiare del tutto con la sua devozione a qualche ideale. La donna accanto a lui deve esercitare i suoi incantesimi, essere tutto a turno e niente a lungo, affascinarlo con infinita varietà o accontentarsi di rinunciare a una parte della sua fedeltà. Deve essere attratto dall'Irraggiungibile, e questo è sempre al di là della sua passione per l'arte creativa.
+
+Poe, come Hawthorne, arrivò con il declino della scuola romantica, e nessuno più di lui si dilettava a ridere della sua calamità. Eppure il suo cuore era rivolto ai romanzi rosa e ai loro effetti orientali o gotici. La sua invenzione, così ricca nei racconti in prosa, sembrava abbandonarlo quando scriveva versi; e il suo giudizio gli diceva che le lunghe poesie romantiche dipendono più dall'incidente che dall'ispirazione, e che, per esprimere la poesia del romanticismo, i testi sarebbero sufficienti. Da qui la sua teoria, chiaramente adattata ai suoi limiti, secondo cui "una 'lunga poesia' è una piatta contraddizione in termini". Gli elementi de Il Corvo sono pochi e semplici: un uomo, un uccello e il ricordo spettrale di una donna. Ma il pezzo offre una bella esposizione di materiale romantico. Cosa abbiamo? La mezzanotte; la camera oscura con i suoi tomi di conoscenze dimenticate; lo studente, un moderno Girolamo; il colpetto del corvo sulla finestra; la notte invernale e il fuoco morente; i tendaggi di seta spazzati dal vento; i sogni e la vaga diffidenza dell'eco dell'oscurità; l'uccello nero e misterioso sul busto pallido; gli accessori di velluto viola e la lampada gongolante. Tutto questo effetto scenico di situazione, luce, colore, suono, è puramente romantico e persino melodrammatico, ma di una qualità poetica che il melodramma raramente mostra, e riflette completamente la "passione eterna, il dolore eterno" del poeta.
+
+La struttura ritmica di The Raven avrebbe sicuramente lasciato il segno. La rima, l'allitterazione, il peso, la forma strofa, erano ideati con singolare perizia. Senza dubbio il poeta rimase colpito dall'adeguatezza dei trocaici musicali di Miss Barrett, in "otto", e soprattutto dall'arrangiamento adottato verso la chiusura di "Lady Geraldine":
+
+"'Gli occhi' disse, 'ora mi pulsano dentro! Siete voi gli occhi che mi avete distrutto?
+
+Occhi lucenti, come gioielli antichi incastonati nella pietra di una statua di Paros!
+
+Sotto quella calma fronte bianca, bruci sempre torridi
+
+Sul desolato deserto di sabbia del mio cuore e della vita distrutta?'"
+
+La sua introduzione artistica di una terza rima sia nel secondo che nel quarto verso, e l'aggiunta di un quinto verso e di un ritornello finale, formarono la strofa di The Raven . L'allitterazione persistente sembra avvenire senza sforzo, e spesso le rime all'interno dei versi sono seducenti; mentre il ritornello o l'onere domina l'intera opera. Anche qui aveva tratto profitto dallo studio di ballate e romanze di Miss Barrett nella sua e in altre lingue. Un «ritornello» è l'esca con cui un poeta o un musicista attira l'orecchio errante, il desiderio ricorrente della Natura per la melodia iniziale. Ho sempre ammirato i bellissimi ritornelli della cantante inglese: "The Nightingales, the Nightingales", "Margret, Margret", "My Heart and I", "Toll slow", "The River floweth on", "Pan, Pan is dead", ecc. Impiegò anche quello che io chiamo Repetend, nell'uso del quale Poe ha eccelso tutti i poeti da quando Coleridge lo ha così fatto rivivere:
+
+"O esseri viventi felici! senza lingua
+
+La loro bellezza potrebbe dichiarare:
+
+Una sorgente d'amore è sgorgata dal mio cuore,
+
+E li benedissi inconsapevole:
+
+Certo il mio gentile santo ha avuto pietà di me,
+
+E li ho benedetti inconsapevolmente."
+
+Poe ha creato la quinta riga della sua strofa per la magia del ripetuto. Fece affidamento su di esso fino in fondo in alcune poesie successive: "Lenore", "Annabel Lee", "Ulalume" e "For Annie". Ha acquisito una musica selvaggia e malinconica, ho pensato, dalle "dolci influenze", dei fardelli e delle ripetizioni afriche che gli furono cantate durante l'infanzia, armonizzando con la loro melodia nativa la voce del nostro poeta del sud.
+
+"La filosofia della composizione", la sua analisi del Corvo , è una dissezione tecnica del suo metodo e della sua struttura. Né la sua confessione di artificio a sangue freddo, né la sua successiva confessione agli amici che la denuncia di questo artificio era solo un'altra delle sue bufale intellettuali, devono essere interamente accreditate. Se avesse progettato in anticipo l'opera completa, difficilmente avrebbe fatto un preludio così aspro di rime a sonagli alla deliziosa melodia della seconda strofa, nemmeno secondo la sua teoria del fantastico. Naturalmente un artista, avendo perfezionato un'opera, vede, come il primo Artista, che è buona e vede perché è buona. Si può fare abbastanza facilmente un’analisi successiva, unita al disconoscimento di qualsiasi fuoco sacro. La mia convinzione è che la prima concezione e la prima bozza di questa poesia siano arrivate come sempre arriva l'ispirazione; che il suo autore poi vide come poteva essere perfezionato, dandogli gli ultimi ritocchi descritti nel suo capitolo sulla Composizione, e che quest'ultima, quindi, non è né del tutto falsa né del tutto vera. Il danno di tale analisi è che induce un principiante a immaginare che i processi artificiali possano sostituire l’immaginazione. L'impulso del genio è custodire i segreti della sua ora creativa. Gli scorci ottenuti della fatica, gli esperimenti sconcertati, che precedono un trionfo, come nei bozzetti di Hawthorne recentemente portati alla luce, offrono istruzioni e incoraggiamento inestimabili all'artista sincero. Ma uno  chi espone volontariamente la sua Musa allo sguardo di tutti i presenti dovrebbe ricordare il destino del re Candaule.
+
+Il mondo pensa ancora a Poe come a uno "sfortunato uomo di genio". Recentemente l'ho sentito menzionato come "uno che tutti sembrano autorizzati a travisare, denigrare o diffamare". Ma mi sembra che la sua sfortuna si sia conclusa con la sua pietosa morte, e che da allora la sua difesa sia stata persistente, e la sua fama di crescita costante come un autore sofferente e dotato potrebbe pregare nella sua ora di speranza. La denigrazione e la calunnia di Griswold girarono la corrente a suo favore. Critici e biografi si sono fatti avanti con successive confutazioni, con omaggi al suo personaggio, con riedizioni delle sue opere. Le sue lettere e i minuti incidenti della sua carriera sono davanti a noi; il record, buono e cattivo, è ampiamente noto. Nessun ricorrente ha ricevuto un giudizio più tenero e indulgente. Le sue disavventure nella vita appartenevano alla sua regione e al suo periodo, forse ancora di più alla sua debolezza di volontà. Senza dubbio il suo ambiente non era tale da proteggere una natura a grana fine e squilibrata dai pericoli esterni ed interni. La sua volontà più forte, quella di essere signore di se stesso, gli procurò "quell'eredità di dolore". Si è confessato l'infelice padrone dell'uccello, il sofferente di questa poesia. Ma il suo era pieno di quel carattere drammatico che esulta nel presagio della propria rovina. C'è un piacere nel recitare la propria parte alta: siamo tutti gladiatori, che gridano Ave Imperator! Per citare il dato di fatto di Burke: "Nel dolore il piacere è ancora predominante, e l'afflizione che soffriamo non ha alcuna somiglianza con il dolore assoluto, che è sempre odioso, e dal quale cerchiamo di scrollarci di dosso il più presto possibile". Poe è andato oltre, ed è stato un artista anche nella tragedia della sua carriera. Se, secondo la sua convinzione, la tristezza e la scomparsa della bellezza sono i temi poetici più alti, e il sentimento poetico il piacere terreno più acuto, allora il dolore e l'oscurità della sua vita spezzata non furono senza la loro frequente compensazione.
+
+Nelle pagine seguenti abbiamo un nuovo esempio del genio di un artista che caratterizza la sua interpretazione di una famosa poesia. Gustave Doré, l'ultima opera della cui matita è davanti a noi, non era il pittore, e nemmeno il disegnatore, per i realisti che esigevano verità di tono, figura e perfezione. Tali questioni lo preoccupavano meno del fatto che forma e distanza, luce e ombra aiutassero il suo scopo, che era quello di eccitare l'anima, l'immaginazione, di chi guardava. Lo ha fatto suscitando il nostro senso di soggezione, attraverso concezioni meravigliose e spesso sublimi di cose indicibili e piene di oscurità o di gloria. È ben detto che se le sue opere non erano grandi quadri, come quadri lo sono davvero. Come "artista letterario", e tale era, la sua forza era in diretto rapporto con l'invenzione drammatica del suo autore, con le coraggiose audacie dello spirito che accendevano il suo. Da qui il suo successo con Rabelais, con "Le Juif-Errant", "Les Contes Drolatiques" e "Don Chisciotte", e da qui, al contrario, il suo fallimento nell'esprimere la bellezza degli Idilli di Tennyson, del "Paradiso", dei pastorali ebraici e di altri testi che richiedono esaltazione, o dolcezza e riposo. Era un maestro nato del grottesco e, grazie a un'intuizione speciale, poteva ritrarre gli spettri di un cervello infestato. Vediamo gli oggetti come li vedevano i suoi personaggi, e con gli stessi occhi dell'ebreo errante, del Don disorientato, o della figlia dell'orafo la cui fantasia magnifica così tanto il re nella bottega di Pont-au-Change. Era nella natura delle cose che fosse attratto da ogni capolavoro in versi o in prosa che ho definito unico. I regni inferiori furono chiamati al suo servizio; le sue rocce, alberi e montagne, il cielo stesso, sono animati da motivi e diablerie. Se fosse vissuto per illustrare Shakespeare, avremmo visto in "Lear" un trattamento straordinario di Calibano, delle streghe e della tempesta; ma senza dubbio avrebbe dovuto mettere in dubbio i suoi ideali di Imogen o Miranda. La bellezza pura e semplice, e la sua perfetta eccellenza, raramente sembrava comprenderla.
+
+Eppure c'è bellezza nei suoi progetti per "L'Antico Marinaio", irreali come sono, e una consecutività rara in una serie di Doré. La Rima gli ha offerto una storia prolungata, con molti spostamenti di scena. In The Raven suono e colore conservano la loro monotonia e non abbiamo alcun cambiamento di luogo o occasione. Qual è il risultato? Doré propone una serie di variazioni sul tema così come lo ha concepito, "l'enigma della morte e l'allucinazione di un'anima inconsolabile". In alcuni di questi disegni i suoi difetti sono evidenti; altri rivelano la sua potente originalità e le migliori qualità in cui, come disegnatore, si distingueva. Evidentemente c'era qualcosa in comune tra gli umori lavorativi di Poe e Doré. Ciò sarebbe apparso più chiaramente se quest'ultimo si fosse cimentato con i "Racconti del grottesco e dell'arabesco". Entrambi ricorrevano spesso alla terra degli elfi della fantasia e del romanticismo. Nelle imprese melodrammatiche entrambi, attraverso il loro dominio del soprannaturale, evitavano il confine pericoloso tra l'ideale e l'assurdo. Poe era il più vero adoratore del Bello; il suo amore per esso era una passione consacrante, e qui si separa dal suo illustratore. Poeta o artista, la Morte alla fine trasfigura tutto: all'ombra del suo zibellino messaggero, il simbolico pastello di Vedder li mette giustamente faccia a faccia, ma li avvolge con il manto di saggezza e potere immortali. Una donna americana ha creato l'immagine di un Genio dagli occhi stellati con la torcia finale, le sembianze squisite di qualcuno la cui visione vede, ma le cui labbra potrebbero non pronunciare, i misteri di una terra oltre "la porta di una tomba leggendaria".
+
+Edmund C. Stedman.
+
+LA POESIA.
+
+Illustrazione 1
+
+IL CORVO.
+
+C'era una volta una mezzanotte triste, mentre riflettevo, debole e stanco,
+
+Su molti volumi pittoreschi e curiosi di tradizioni dimenticate,
+
+Mentre annuivo, quasi addormentato, all'improvviso si udì un colpetto,
+
+Come se qualcuno bussasse piano, bussasse alla porta della mia camera.
+
+"C'è qualche visitatore", mormorai, "che bussa alla porta della mia camera...
+
+Solo questo e niente di più."
+
+Ah, ricordo distintamente che era il tetro dicembre,
+
+E ogni singola brace morente disegnava il suo fantasma sul pavimento.
+
+Desideravo ardentemente il domani: invano avevo cercato un prestito
+
+Dai miei libri la fine del dolore - il dolore per la perduta Lenore -
+
+Per la fanciulla rara e radiosa che gli angeli chiamano Lenore—
+
+Senza nome qui per sempre.
+
+E il fruscio serico, triste e incerto di ogni tenda viola
+
+Mi ha emozionato, mi ha riempito di terrori fantastici mai provati prima;
+
+Così ora, per calmare il battito del mio cuore, stavo ripetendo
+
+"C'è qualche visitatore che implora di entrare alla porta della mia camera
+
+Qualche visitatore tardivo implora di entrare alla porta della mia camera;
+
+Questo è e niente di più."
+
+Subito la mia anima si rafforzò; allora non esitare più,
+
+"Signore", dissi, "o signora, imploro davvero il vostro perdono;
+
+Ma il fatto è che stavo facendo un pisolino, e così dolcemente sei arrivato a rappare,
+
+E così debolmente sei venuto a bussare, a bussare alla porta della mia camera,
+
+Che non ero quasi sicuro di averti sentito", - qui ho spalancato la porta; -
+
+Lì è buio e niente più.
+
+Scrutando nel profondo di quell'oscurità, rimasi lì a lungo chiedendomi, temendo,
+
+Dubitare, sognare sogna nessun mortale ha mai osato sognare prima;
+
+Ma il silenzio era ininterrotto, e l'oscurità non lasciava segno,
+
+E l'unica parola pronunciata lì fu la parola sussurrata: "Lenore!"
+
+Questo sussurrai, e un'eco mormorò in risposta la parola: "Lenore!"
+
+Soltanto questo e niente più.
+
+Ritorno nella camera girando, tutta la mia anima dentro di me brucia,
+
+Ben presto sentii di nuovo un colpetto, un po' più forte di prima.
+
+"Certamente", dissi, "sicuramente è qualcosa che si trova sulla grata della mia finestra;
+
+Fammi vedere, allora, cosa c'è, ed esplora questo mistero...
+
+Lascia che il mio cuore si calmi un momento ed esplori questo mistero;
+
+E' il vento e niente più!"
+
+Qui aprii la persiana, quando, tra molti flirt e battiti,
+
+Lì entrò un maestoso corvo dei tempi santi di un tempo.
+
+Non gli fece il minimo omaggio; non si fermò o rimase fermo nemmeno un minuto;
+
+Ma, con aspetto da lord o dama, appollaiato sopra la porta della mia camera...
+
+Appollaiato su un busto di Pallade proprio sopra la porta della mia camera...
+
+Appollaiato e seduto, e niente di più.
+
+Poi quest'uccello d'ebano, inducendo la mia triste fantasia a sorridere,
+
+Per il decoro grave e severo del volto che indossava,
+
+"Anche se la tua cresta è rasata e rasata, tu", dissi, "non sei certo un vile,
+
+Corvo antico e spaventoso che vaga dalla riva notturna, -
+
+Dimmi qual è il tuo nome signorile sulla sponda plutoniana della Notte!"
+
+Disse il corvo: "Mai più".
+
+Mi sono meravigliato molto che questo goffo uccello sentisse i discorsi così chiaramente,
+
+Sebbene la sua risposta avesse poco significato, poca rilevanza annoiava;
+
+Perché non possiamo fare a meno di convenire che nessun essere umano vivente
+
+Mai avuto la fortuna di vedere un uccello sopra la porta della sua camera -
+
+Uccello o animale sul busto scolpito sopra la porta della sua camera,
+
+Con un nome come "Nevermore".
+
+Ma il Corvo, seduto solitario sul placido busto, parlava soltanto
+
+Quell'unica parola, come se la sua anima in quell'unica parola si riversasse.
+
+Nient'altro poi pronunciò - nemmeno una piuma poi svolazzò -
+
+Finché non ho fatto altro che mormorare: "Altri amici hanno volato prima...
+
+Domani mi lascerà , poiché prima le mie speranze erano svanite."
+
+Allora l'uccello disse: "Mai più".
+
+Sorpreso dal silenzio rotto da una risposta così appropriatamente pronunciata,
+
+"Senza dubbio", dissi, "quello che dice è il suo unico patrimonio,
+
+Catturato da qualche padrone infelice che ha avuto un disastro spietato
+
+Seguito veloce e seguito sempre più veloce finché le sue canzoni portarono un unico fardello:
+
+Fino ai canti funebri della sua Speranza che quel malinconico fardello portò
+
+Di 'Mai—mai più'."
+
+Ma il Corvo continua a ingannare tutta la mia anima triste inducendola a sorridere,
+
+Dritto ho spinto un sedile imbottito davanti all'uccello, al busto e alla porta;
+
+Poi, quando il velluto affondò, mi misi a collegare
+
+Fantasia su fantasia, pensando a cosa questo minaccioso uccello di un tempo...
+
+Che cos'è questo cupo, sgraziato, orribile, scarno e minaccioso uccello di un tempo
+
+Significa gracchiare "Mai più".
+
+Mi sono seduto a indovinare questo, ma senza esprimere sillabe
+
+All'uccello i cui occhi ardenti ora ardevano nel profondo del mio petto;
+
+Questo e altro ancora sedevo a fare divinazioni, con la testa a mio agio reclinata
+
+Sulla fodera di velluto del cuscino su cui la luce della lampada brillava,
+
+Ma il cui rivestimento viola di velluto con la luce della lampada gongolante sopra
+
+Lei premerà, ah, mai più!
+
+Poi, mi parve, l'aria si fece più densa, profumata da un turibolo invisibile
+
+Oscillato da serafini i cui passi risuonavano sul pavimento trapuntato.
+
+"Misero", gridai, "il tuo Dio ti ha prestato: per mezzo di questi angeli ti ha mandato
+
+Tregua... tregua e nepenthe dai tuoi ricordi di Lenore!
+
+Bevi, oh bevi questo gentile nepenthe, e dimentica questa Lenore perduta!"
+
+Disse il corvo: "Mai più".
+
+"Profeta!" dissi, "cosa malvagia! - profeta ancora, se uccello o diavolo! -
+
+Sia che il Tentatore sia stato mandato, sia che la tempesta ti abbia gettato qui a riva,
+
+Desolato e tuttavia imperterrito, in questa terra deserta e incantata—
+
+In questa casa infestata dall'Orrore - dimmi sinceramente, ti imploro -
+
+C'è... c'è balsamo in Galaad?... dimmi... dimmi, ti imploro!"
+
+Disse il corvo: "Mai più".
+
+"Profeta!" dissi, "cosa malvagia - profeta pur sempre, se uccello o diavolo!
+
+Per quel Cielo che si china in alto, noi - per quel Dio che entrambi adoriamo -
+
+Di' a quest'anima carica di dolore se, nel lontano Aidenn,
+
+Abbraccerà una santa fanciulla che gli angeli chiamano Lenore—
+
+Stringi una fanciulla rara e radiosa che gli angeli chiamano Lenore."
+
+Disse il corvo: "Mai più".
+
+"Sia quella parola il nostro segno di addio, uccello o demone!" ho gridato, sussultando...
+
+"Torna nella tempesta e nella spiaggia plutoniana della Notte!
+
+Non lasciare alcuna piuma nera come segno di quella menzogna che la tua anima ha detto!
+
+Lascia intatta la mia solitudine! - metti via il busto sopra la mia porta!
+
+Togli il tuo becco dal mio cuore e prendi la tua forma dalla mia porta!"
+
+Disse il corvo: "Mai più".
+
+E il Corvo, senza mai svolazzare, è ancora seduto, è ancora seduto
+
+Sul pallido busto di Pallade proprio sopra la porta della mia camera;
+
+E i suoi occhi sembrano quelli di un demone che sogna,
+
+E la luce della lampada che scorre sopra di lui getta la sua ombra sul pavimento;
+
+E la mia anima da quell'ombra che giace fluttuando sul pavimento
+
+Non sarà revocato, mai più!
+

@@ -1,0 +1,570 @@
+EBook Proyek Gutenberg dari The Raven, oleh Edgar Allan Poe.
+
+Proyek Gutenberg eBook dari The Raven
+
+Ebook ini buat dipake siapa aja di Amerika Serikat dan sebagian besar bagian dunia lainnya tanpa biaya dan hampir kagak ada batasan apapun. Lu bisa nyalin, ngasih atau make ulang di bawah ketentuan Lisensi Proyek Gutenberg yang disertakan dengan ebook ini atau online di www.gutenberg.org . Kalo lu kagak tinggal di Amerika Serikat, lu harus ngecek hukum negara tempat lu tinggal sebelum make eBook ini.
+
+Judul : Si Gagak
+
+Penulis : Edgar Allan Poe
+
+Komentator : Edmund Clarence Stedman
+
+Ilustrator : Gustave Doré
+
+Tanggal rilis : 30 November 2005 [eBook #17192] Terbaru diperbarui: 13 Desember 2020
+
+Bahasa : Inggris
+
+Kredit : Diproduksi oleh Jason Isbell, Melissa Er-Raqabi dan Online Tim Proofreading yang terdistribusi di https://www.pgdp.net.
+
+*** MULAI PROYEK GUTENBERG EBOOK THE RAVEN ***
+
+Sampul Belakang
+
+GAGAK
+
+Ama
+
+EDGAR ALLAN POE
+
+BERGAMBAR Oleh GUSTAVE DORÉ
+
+Gambar Judul
+
+DENGAN KOMENTAR OLEH EDMUND C. STEDMAN
+
+NEW YORK
+
+HARPER & BROTHERS, PUBLISHERS, FRANKLIN SQUARE
+
+1884
+
+Masuk sesuai dengan Undang-Undang Kongres, pada tahun 1883, oleh
+
+HARPER & BROTHERS,
+
+Di Kantor Pustakawan Kongres, di Washington.
+
+Semua hak dilindungi.
+
+Catatan Penulis
+
+Di Daftar Ilustrasi, gue balikin satu kutipan yang hilang setelah Lenore! seperti yang ditunjukkan di bawah:
+
+"'Sial,' gue teriak, 'Tuhan lu udah minjemin lu—lewat malaikat-malaikat ini dia udah ngirim lu Istirahat—istirahat dan nepenthe dari ingatan lu tentang Lenore!'"
+
+Daftar Ilustrasi make 'pengunjung' dimana puisi dan ilustrasi yang sebenernye make 'pengunjung'.
+
+DAFTAR ILUSTRASI
+
+Dengan Nama-nama Pengukir
+
+Halaman judul, didesain oleh Elihu Vedder.
+
+Frederick Juengling.
+
+"Kagak pernah lagi."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claudius.
+
+"Pernah di tengah malam yang suram, saat gue merenung, lemah dan lelah, Banyak banget volume yang aneh dan penasaran dari pengetahuan yang terlupakan."
+
+RA Muller.
+
+"Ah, gue inget banget, itu pas bulan Desember yang suram, Dan setiap bara yang terpisah yang sekarat membuat hantunya di lantai."
+
+RG Tietze.
+
+"Dengan semangat gue berharap besok; percuma gue berusaha minjem Dari buku-buku gue muncul kesedihan—kesedihan untuk Lenore yang hilang."
+
+H. Claudius.
+
+"Sedih buat Lenore yang hilang."
+
+W. Zimmermann.
+
+"Buat gadis langka dan berseri yang dinamai malaikat Lenore— Gak ada nama di sini selamanya."
+
+Frederick Juengling.
+
+"''T adalah beberapa pengunjung yang memohon masuk di pintu kamar gue— Beberapa pengunjung yang telat memohon masuk di pintu kamar gue.'"
+
+W. Zimmermann.
+
+—"Di sini gue buka pintu lebar-lebar;— Gelap di sana, dan kagak ada yang lebih."
+
+H. Claudius.
+
+"Ragu, mimpi mimpi yang kagak ada manusia yang pernah berani mimpiin sebelumnya."
+
+FS King.
+
+"'Pasti,' kata gue, 'pasti itu sesuatu di kisi-kisi jendela gue; Biar gue liat, apa yang ada, dan misteri ini dijelajahi.'"
+
+Frederick Juengling.
+
+"Buka sini, gue lempar rananya."
+
+T. Johnson.
+
+—"Seorang Gagak yang megah dari jaman suci dulu. Gak ada sujud yang dibuat dia; gak ada satu menit pun yang berhenti atau berhenti."
+
+R. Staudenbaur.
+
+"Dingker di atas patung Pallas di atas pintu kamar gue— Duduk, dan duduk, dan kagak lebih."
+
+RG Tietze.
+
+"Berkeliling dari pantai Nightly."
+
+Frederick Juengling.
+
+"Sampai gue hampir bergumam, 'Temen-temen lain pernah terbang sebelumnya— Besoknya dia bakal ninggalin gue, karena harapan gue udah terbang sebelumnya.'"
+
+Frank French.
+
+"Terus, pas beludrunya tenggelam, gue mulai ngehubungin Mewah ke mewah."
+
+R. Schelling.
+
+"Tapi yang lapisan ungu beludrunya dengan cahaya lampu yang bersinar di atas Dia bakalan mencet, ah, kagak pernah lagi!"
+
+George Kruell.
+
+"'Sial,' gue teriak, 'Tuhan lu udah minjemin lu—lewat malaikat-malaikat ini dia udah ngirim lu Istirahat—istirahat dan nepenthe dari ingatan lu tentang Lenore!'"
+
+Victor Bernstrom.
+
+"Di rumah ini oleh Horror angker."
+
+R. Staudenbaur.
+
+"'Bilang ke gue beneran, gue mohon— Apa ada— apa ada balsem di Gilead?—bilang ke gue—bilang ke gue, gue mohon!'"
+
+W. Zimmermann.
+
+"'Bilang ke jiwa ini dengan kesedihan kalo, di dalam Aidenn yang jauh, Itu bakalan ngegenggam gadis suci yang dinamai malaikat Lenore.'"
+
+FS King.
+
+"'Jadilah kata itu tanda perpisahan kita, burung atau setan!' Gue teriak, kaget."
+
+W. Zimmermann.
+
+"'Balik lu ke badai dan pantai Plutonia Malam!'"
+
+Robert Hoskin.
+
+"Dan jiwa gue dari bayangan yang tergeletak melayang di lantai Bakal diangkat—kagak pernah lagi!"
+
+RG Tietze.
+
+Rahasia Sphinx.
+
+R. Staudenbaur.
+
+KOMEN PUISINYA.
+
+Rahasia dari sebuah puisi, kagak kalah dari kemakmuran lelucon, terletak di telinga orang yang mendengarnya. Pasrah sama mantranya, terima suasana hati penyair: ini, setelah semua, adalah apa yang dijawab para bijak ketika lu tanya mereka tentang nilainya. Meskipun penyair itu sendiri, dalam suasana hati yang lain, bilang ke elu kalo seninya cuma licik tangan, makanan penyihir makanannya, dan nawarin buat nunjukin triknya,—jangan percaya. Tunggu jam kenabiannya; trus kasih diri ke passion dia, seneng atau sakitnya. "Kita ada di tangan Cinta hari ini!" nyanyi Gautier, dalam parafrase Swinburne,—dan dari pagi sampe matahari terbenam kita dilayangin di laut yang ganas: cuma ada satu cinta, satu Mei, satu helai bunga. Cinta itu abadi, semua yang lain kagak nyata dan dikesampingkan. Penglihatan punya akhir, adegan berubah; tapi kita udah dapet sesuatu, ingatan pesona. Sebanyak penyair, sebanyak pesona. Ada pesona Evanescence, yang memberikan keindahan tertinggi dan anggun aureole Pathos. Bagiin ke Landor satu "malam kenangan dan desahan" buat Rose Aylmer, dan lu punya ini sepenuhnya.
+
+Dan sekarang ambil tangan minstrel dunia baru, yang tersesat dari habitat yang tepat ke Amerika yang kasar dan dissonan yang, seperti yang dilihat Baudelaire, "bagi Poe hanyalah penjara luas yang dia lari, kesana kemari, dengan agitasi demam dari makhluk yang diciptakan untuk bernapas di dunia yang lebih murni," dan di mana "kehidupan batinnya, sebagai pemiski spiritual, bahkan pemabuk rohani, bahkan mabuk abadi usaha buat kabur dari pengaruh suasana antipatis ini." Pegang tangan sensitif penyanyi yang bermasalah yang bermimpi aneh, dan bagiin dengan dia iklim di mana dia temukan, - tidak pernah sepanjang hari, selalu di malam hari, - jika bukan Atlantis dari mana dia berkeliaran, setidaknya tempat berlindung dari batas-batas di mana dia terkurung di siang hari.
+
+Cuma ke satu tanah dia yang punya kekuatan buat mimpin lu, dan cuma satu malem lu bisa berbagi mimpinya. Sebuah bagian yang bukan Bumi atau Surga: "Tanah-orang-orang," di luar Ruang Angkasa, di luar Waktu. Nih yang ganggu, yang lewat matanya, kayak mata Cenci, jiwa nemuin jendela meskipun pikiran linglung; di sini roh-roh, yang meraba-raba jalan yang mengarah ke Keabadian, dihentikan dan ditunda. Ini adalah limbo dari "jiwa planet," di mana semua ketidakpastian cahaya bulan, semua cinta dan ilusi yang hilang. Di sini beberapa orang tetap dalam trance, satu-satunya jeda yang dapat dicapai; yang laen
+
+"bergerak dengan fantastis
+
+Ke melodi yang kagak sesuai:"
+
+sementara dimana-mana ada
+
+"Kenangan Masa Lalu yang Terlembar—
+
+Bentuk terselubung yang mulai dan menghela nafas
+
+Pas mereka ngelewatin pengembara."
+
+Begitulah tanahnya, dan selama satu malam kita masuk ke dalamnya,—malam fase astral dan lonceng berulang. Monodinya adalah dua belas puisi, yang musiknya berusaha untuk berubah tapi selalu sama. Satu persatu mereka terdengar, seperti dering jam kuningan dan ebony, di "The Masque of the Red Death," yang membuat para waltzers berhenti dengan "kegelisahan dan gemeteran dan meditasi," sesering jam tiba.
+
+Dari semua irama mistis ini, keluhan The Raven , yang bergetar melalui portal, terutama telah mengesankan dunia luar. Apa hal yang terjadi dalam pembuatan puisi,—dan seberapa benar dalam hal ini, seperti di kebanyakan hal lain, ras yang menamai penyanyinya "para pembuat"? Sebuah karya dipanggil dari kekosongan. Dimana kagak ada apa-apa, itu tetep,—ciptaan baru, bagian dari harta karun umat manusia. Dan beberapa lirik yang luar biasa, lebih dari yang lain yang sama-sama kreatif, memaksa kita untuk berpikir lagi betapa beraninya pena penyair mengubah hal-hal yang tidak diketahui
+
+"ke bentuk, dan ngasih ke lapang kagak ada apa-apanya
+
+Tempat tinggal lokal, dan nama."
+
+Masing-masing keliatan tanpa prototipe, tapi semuanya mempesona kita dengan elemen yang diambil dari bayangan Supranatural. Sekarang imajinasi tertinggi peduli dengan jiwa benda; itu mungkin atau mungkin kagak menginspirasi Fantasi yang orang-orang dengan gambar antar bulan yang samar-samar. Masih, salah satu lirik ini, dengan cara yang lebih kecil, mempengaruhi kita dengan rasa keunikan, sepasti karya-karya sublimer dari pemeran supranatural, — "Faustus" Marlowe, "Faust" dari Goethe, "Manfred," atau bahkan mahakarya-mahakarya eterial itu, "The Tempest" dan "A Midsummers." Lebih dari satu, meskipun unik, punya beberapa  beban atau penahanan yang menghantui ingatan,—sekali didengar, kagak pernah dilupain, kayak nada organ-stop yang jarang dipake tapi khas. Yang terkenal diantaranya adalah "Lenore" Bürger, balada yang hantu dan bergema, pikat dan penghalang para penerjemah. Beberapa orang bakal menyangkal kalo "Rime of the Ancient Mariner" Coleridge yang luar biasa berdiri di kepala mereka. "Le Juif-Errant" bakalan punya klaim, kalo Beranger adalah penyair yang lebih hebat; dan, tapi karena keterpencilan mereka dari simpati populer, "The Lady of Shalott" dan "The Blessed Damozel" mungkin ditambahkan ke daftar. Itu dikasih ke Edgar Allan Poe buat ngehasilin dua lirik, "The Bells" dan The Raven , yang masing-masing, meskipun mungkin kurang indah daripada Tennyson dan Rossetti, adalah yang unik. "Ulalume," meskipun sama-sama aneh dan imajinatif, kagak punya kualitas universal yang jadi bagian dari tes kite.
+
+Gagak dalam konstituen puitis belaka jatuh di bawah karya-karya seperti "Istana Angker," "Kota di Laut," "Si Tidur," dan "Israfel." Semuanya bakal dituker, gue curiga, oleh pembaca pemeran yang cerewet, untuk bagian-bagian seperti ini:
+
+"Di sekitar, dengan ngangkat angin lupa,
+
+Pasrah di bawah langit
+
+Air melankolis terletak.
+
+Gak ada sinar dari surga suci yang turun
+
+Di malam yang panjang di kota itu;
+
+Tapi cahaya dari laut yang kenceng
+
+Aliran ke atas menara tanpa suara—
+
+· · · · · · ·
+
+Banyak dan banyak kuil yang luar biasa
+
+Yang frieze berkarangan bunganya terjalin
+
+Biola, ungu, dan anggur.
+
+· · · · · · ·
+
+Gak ada bengkak yang ngasih tau kalo angin mungkin
+
+Di laut yang lebih bahagia yang jauh—
+
+Gak ada petunjuk kalo angin udah
+
+Di laut kurang tenang."
+
+Itu kagak punya melodi udara dari penyair yang senar hatinya adalah lute:
+
+"Dan mereka bilang (paduan suara berbintang
+
+Dan hal-hal dengerin yang laen)
+
+Itu apinya Israfeli
+
+Apakah karena lyre itu
+
+Yang mana dia duduk dan nyanyi—
+
+Kawat hidup yang gemeteran
+
+Dari senar yang kagak biasa itu."
+
+Tapi The Raven , kayak "The Bells" dan "Annabel Lee," memuji dirinya sendiri ke banyak dan sedikit. Gue udah bilang di tempat lain kalo produksi Poe yang lebih langka menurut gue "yang ada penampilan, setidaknya, spontanitas,—di mana dia menyerah pada perasaannya, sementara sekarat jatuh dan irama yang paling musikal, paling melankolis, berasal dari dia tanpa sadar." Ini masih jadi keyakinan gue; dan, setelah mempelajari puisi ini, itu lebih mengesankan gue daripada kapanpun sejak masa kecil gue. Kenalan deket ngasih tau setiap karya seni yang bener. Ajak orang itu, yang kagak tau seni atau peduli sama itu, buat ngeperiksa beberapa puisi atau lukisan, dan seberapa cepat kekuatannya megang dia! Malah, dia bakalan ngelebih-lebihin nilai relatif dari karya bagus pertama yang perhatiannya udah cukup tertarik. Gagak , juga, punya kualitas yang konsisten yang bahkan seorang ahli harus mengagumi. Gak ada puisi penulis lain yang motifnya lebih jelas. "The Haunted Palace" sama pastinya buat pembaca pilihan, tapi Poe jarang banget ngambil alegori halus itu untuk analisis botak. Gagak sepenuhnya sibuk dengan tema khas penulis—kehilangan yang kagak bisa dipulihkan dari seorang wanita yang diidolakan dan cantik; tapi dengan alasan lain, juga, naluri publik benar dalam menganggap itu puisi perwakilannya.
+
+Orang yang jenius biasanya dapet pijakan dengan keberhasilan dari satu usaha, dan ini kagak selalu yang terbaik. Pengakuan lebih instan karena udah ditunda. Dia kagak dapetin itu, kayak kekayaan orang boros, koin demi koin, tapi "kagak sama sekali atau semuanya." Dan demikian dengan ambisi lain: bangsawan, tentara, aktor,—apapun bagian mereka,—masing-masing menghitung kemenangannya dari beberapa keberuntungan. Gagak Poe, meskipun ada ramalan, bagi dia "burung yang bikin angin bertiup." Penyair itu menetap di New-York, di musim dingin 1844-'45, nemuin kerjaan di makalah Willis, "The Evening Mirror," dan ngeluarin penghasilannya dari kontribusi di tempat lain. Selama enam tahun dia udah jadi penulis aktif, dan menikmati reputasi profesional; dipegang dengan hormat dan keraguan, dan kagak rugi atas bagian jurnalisme yang dibayar kurang pada hari itu. Dia juga udah ngelakuin banyak karya terbaiknya,—seperti cerita-cerita seperti "Ligeia" dan "The Fall of the House of Usher," (yang terakhir berisi rekan mistis, dalam ayat, dari "A Lost Mind" karya Elihu Vedder,) seperti "The Gold Bug" dan "The Mystery of Marie Roget." Dia udah bikin proselit di luar negeri, dan dapet pegangan yang abadi di pikiran orang Prancis. Dia udah belajar kekuatan dan kelemahannya sendiri, dan lagi di puncaknya, dan bukan tanpa reputasi tertentu. Tapi dia kagak nulis apa-apa yang ada di lidah semua orang. Ke karya langka dan halus, beberapa sentuhan populer harus ditambahkan untuk menangkap penonton umum pada waktu itu sendiri.
+
+Lewat industri penulis biografi Poe yang berturut-turut, hit yang dibuat oleh The Raven telah menjadi kisah yang sering diceritakan. Istri muda penyair, Virginia, memudar di depan matanya, tapi bertahan selama setahun lagi dalam bayangan kematian. Ruangan panjang dan rendah di rumah dekat Bloomingdale Road adalah  terkenal sebagai ruangan tempat Rouget de l'Isle menyusun Marseillaise. Semua udah denger kalo puisi, yang ditandatangani "Quarles," muncul di "American Review," dengan komentar pseudo-editorial tentang bentuknya; kalo Poe nerima sepuluh dolar buat itu; kalo Willis, yang paling baik dan paling kagak iri dari arbiter modis, nyetak ulang dengan pujian yang langsung bikin itu jadi omongan kota. Semua keraguan tentang penulisannya terbuang ketika Poe membacakannya sendiri di sebuah pertemuan sastra, dan untuk sementara waktu dia adalah penulis Amerika yang paling terkenal. Pukulan itu merangsang dan menyemangati dia. Kayak satiris lain yang lebih bangga, dia juga nemuin "sesuatu musim panas" bahkan "di deru serangga." Cukup sedih, tapi tiga tahun berlalu, - periode pengaruh, kebanggaan, penderitaan, tapi selalu kerja imajinatif atau kritis, - sebelum kekalahan akhir, sebelum tirai jatuh pada kehidupan yang baginya sebenarnya adalah tragedi, dan dia menyerah pada "Cacing Penakluk."
+
+"The American Review: A Whig Journal" adalah majalah yang kredibel untuk waktu itu, berkolom ganda, dicetak di kertas yang bagus dengan huruf yang jelas, dan diilustrasikan dengan potret mezzotint. Di tengah banyak hal di bawah standar saat ini, itu berisi beberapa yang setiap editor akan senang menerima. Volume awal, untuk 1845, memiliki artikel oleh Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman, dan Whipple. Puisi aneh Ralph Hoyt, "Tua," muncul di volume ini. Dan ini ada tiga lirik dari Poe: "Kota di Laut," "Lembah Gejolak," dan Gagak . Dua dari ini dibangun,—begitu cara dia,—dari penelitian sebelumnya, tapi yang terakhir keluar seolah-olah baru dikarang, dan hampir seperti yang kita punya sekarang. Pernyataan bahwa itu kagak direvisi setelahnya salah. Sebelas perubahan kecil dari teks majalah muncul di The Raven and Other Poems , 1845, sebuah buku yang penyairnya segera merasa terdorong untuk ditawarkan kepada publik. Ini kebanyakan perubahan tanda baca, atau kata tunggal, yang terakhir dibuat untuk meningkatkan efek aliterasi. Di edisi cantik Mr. Lang dari puisi Poe, yang dikeluarin di "Perpustakaan Perkamen," dia udah nunjukin naluri seorang sarjana, dan udah ngelakuin dengan bijak, dengan balik ke teks di volume yang barusan disebutin, seperti yang diberikan di edisi London tahun 1846. Koleksi "standar" Griswold dari karya-karya penyair berlimpah dengan kesalahan. Ini udah diulang oleh editor selanjutnya, yang juga udah bikin kesalahan sendiri. Tapi teks The Raven , karena permintaan yang dibuat ke penulis untuk salinan naskah, masih direvisi lebih jauh olehnya; malah, dia nyetaknya di Richmond, sebelum kematiannya, dengan penggantian puitis dari "serafim yang kakinya jatuh" untuk "malaikat yang kakinya jatuh samar," di stanza keempat belas. Teks kita sekarang, oleh karena itu, meskipun secara substansial dari tahun 1845, agak dimodifikasi oleh bacaan penyair selanjutnya, dan, menurut gue, adalah versi yang paling benar dan efektif dari puisi tunggal ini. Perubahan paling radikal dari versi paling awal muncul, bagaimanapun, di volume pada tahun 1845; stanza kesebelas awalnya berisi baris-baris ini, salah rima dan cela pada puisi:
+
+"Ditangkep dari tuan yang kagak bahagia, yang bencana kagak ampun
+
+Ngikutin cepet dan ngikutin lebih cepet—jadi, pas Hope dia bakal bersumpah,
+
+Keputusasaan yang tegas kembali, bukannya Harapan manis yang dia berani sumpah—
+
+Jawaban sedih itu, 'Gak pernah lagi!'"
+
+Akan bagus kalo penyair lain, dan terkenal, bisa yakin buat bikin perubahan mereka selalu jadi perbaikan. Poe terus-terusan menangani ulang pertunjukan baitnya yang sedikit, dan biasanya memperbaikinya. Gagak adalah puisi pertama dari beberapa puisi yang hampir dia selesaikan sebelum dicetak. Mungkin mereka yang peduli dengan puisi kehilangan sedikit karena kematiannya. Fasih dalam prosa, dia kagak pernah nulis puisi demi bikin puisi. Ketika refrensi gambar menghantui dia, lirik yang dihasilkan adalah inspirasi, seperti yang dia sendiri bilang, dari sebuah gairah, bukan dari sebuah tujuan. Ini terjadi pada interval yang sangat langka sehingga hampir membenarkan teori Fairfield bahwa masing-masing adalah produk dari krisis saraf.
+
+Apa, kalo gitu, yang ngasih penyair itu petunjuk ke The Raven ? Dari pondasi berkabut apa itu naik pelan-pelan ke musik yang dihirup pelan-pelan? Seperti biasa, lebih dari satu hal yang pergi ke bangunan puisi yang begitu terkenal. Mengingat khotbah yang lebih panjang yang sering dikhotbahin di teks yang singkat dan kurang sugestif, gue berharap kagak disalahin atas pembahasan satu lirik ini, - terutama yang seniman kayak Doré udah jadiin subjek ilustrasi boros. Sampai baru-baru ini gue berpikir bahwa karya ini, dan beberapa yang dikarang penulisnya setelah penampilannya, luar biasa karena tidak tumbuh dari kuman dalam ayat-ayat kekanakannya. Tapi Mr. Fearing Gill udah nunjukin ke gue beberapa stanza yang belom diterbitin oleh Poe, yang ditulis di tahun kedelapan belas, dan berjudul, "The Demon of the Fire." Naskah itu tampaknya ada di tulisan tangan awal penyair, dan keasliannya dijamin oleh keluarga yang udah dimiliki selama setengah abad. Selain kuman paling polos dari "The Bells" dan "The Haunted Palace" itu berisi beberapa baris yang agak menunjukkan pembukaan dan penutupan The Raven . Mengenai ritme puisi kita, perbandingan tanggal menunjukkan bahwa ini dipengaruhi oleh ritme "Lady Geraldine's Courtship." Poe adalah salah satu orang pertama yang menghormati kejeniusan Miss Barrett; dia nulis puisi-puisi yang dia kumpulin ke dia sebagai "yang paling mulia dari jenis kelaminnya," dan berada di  simpati dengan metode liriknya. Baris-baris dari puisi cintanya,
+
+"Dengan aduk yang kagak pasti, di udara, tirai ungu
+
+Membengkak dan membengkak di sekitar alis pucatnya yang kagak bergerak,"
+
+nemu gema di ini:
+
+"Dan suara sutra yang sedih dan kagak pasti dari tiap tirai ungu
+
+Membuat gue seneng—menuhi gue dengan teror fantastis yang belum pernah gue rasakan sebelumnya."
+
+Di sini Poe ngambil hak istimewa yang dia kasar-kasar ngecen Longfellow, dan yang kagak pernah ada yang nyari di tempatnya sendiri tanpa deteksi dan hukuman yang cepat. Dalam melodi dan bentuk stanzaik, kita bakal ngeliat kalo dua puisi itu kagak beda, tapi dalam motif mereka beda banget. Penyair wanita yang dermawan itu kagak ngerasain apa-apa selain keaslian penyair yang sebenarnya. "Tulisan yang jelas ini!" dia berseru,—"kekuatan ini yang dirasain!... Penyair hebat kita, Mr. Browning, penulis 'Paracelsus,' &c., antusias dalam kekagumannya terhadap ritme." Pak Ingram, setelah merujuk ke "Lady Geraldine," dengan pinter nunjukin sumber lain yang mungkin Poe dapet dorongan. Di 1843, Albert Pike, penyair setengah Yunani, setengah perbatasan, penyair Arkansas, udah nyetak di "The New Mirror," yang Poe saat itu nulis, beberapa ayat berjudul "Isadore," tapi sejak itu direvisi oleh penulis dan disebut "The Widowed Heart." Gue pilih dari revisi Mr. Pike stanza berikut, yang fitur utamanya sesuai dengan versi aslinya:
+
+"Gelisah gue mondar-mandir di kamar kita yang sepi, gue mainin lagu kita kagak lagi,
+
+Matahari yang terang bersinar di lantai yang belum disapu;
+
+Burung ejekan masih duduk dan bernyanyi, O strain melankolis!
+
+Karena hati gue kayak awan musim gugur yang meluap-luap dengan hujan;
+
+Lu udah ilang buat gue selamanya, Isadore!"
+
+Di sini kita punya ukuran yang berkepanjangan, kesamaan refren, dan perkenalan burung yang lagunya meningkatkan kesedihan. Ada jejak lain yang mungkin diikuti oleh orang-orang yang penasaran; terutama, sebuah bagian yang dipilih Pak Ingram dari ulasan akhir Poe tentang "Barnaby Rudge":
+
+"Gagak juga, * * * mungkin udah dibuat, lebih dari yang kita liat sekarang, bagian dari konsepsi Barnaby yang fantastis. * * * Karakternya mungkin udah tampil, dalam hal idiot, bagian yang sama seperti, dalam musik, iringan dalam hal udara."
+
+Meskipun begitu, setelah nunjukin kuman dan kemiripan ini, nilai dari puisi ini masih ditemukan dalam keasliannya. Musik progresif, detail pemandangan dan cahaya dan teduh yang kontras,—di atas semuanya, gairah spiritual dari malam hari, membuatnya karya jenius yang menginformasikan. Kalo soal burung yang mengerikan, dia kagak kayak semua gagak lain dari klannya, dari "twa corbies" dan "three ravens" dari para pemain baladis hingga "Grip" Barnaby yang kusut. Di sini kagak ada seakan-akan rook cawing yang menghantui menara leluhur dan menginjak bidang heraldik; kagak ada hantu yang dinyanyiin Tickell, pas,
+
+"teriak di jendelanya tiga kali,
+
+Si gagak ngepakin sayapnya,
+
+Terlalu baik gadis yang sedih cinta itu tau
+
+Suara peringatan yang suram."
+
+Gagak Poe adalah konsepsi yang berbeda; inkarnasi dari penderitaan dan keputusasaan seorang berduka; sebuah sable yang mewujudkan Ingatan, penulis sejarah azab yang abadi, jenis yang kagak bisa diperbaiki. Kabur nyebrang Styx, dari "pantai Plutonia Malam," dia keliatannye jiwa yang dicitrain dari penanya itu sendiri, — dari dia yang kagak bisa, kagak bakal, minum nepenthe, karena ingatan Lenore adalah semua yang tersisa dari dia, dan dengan berhentinya kesedihannya itu pun bakal disisihkan.
+
+Gagak juga bisa diambil sebagai puisi representatif dari penulisnya, untuk contohnya dari semua pemikirannya tentang apa yang harus dijadiin puisi. Ini ditemuin di esai-esainya tentang "Prinsip Puisi," "Rasional Ayat," dan "Filsafat Komposisi." Poe menyatakan bahwa "dalam Musik, mungkin, jiwa paling hampir mencapai tujuan besar yang mana, ketika terinspirasi oleh Sentimen Puitis, ia berjuang—penciptaan Keindahan supernal.... Ayat tidak dapat lebih baik ditunjuk daripada sebagai musik yang lebih rendah atau kurang mampu"; tapi lagi, ayat yang bener-bener "Puisi Kata" adalah "Penciptaan Keindahan yang Berirama,"—ini dan kagak lebih. Nada dari Kecantikan tertinggi adalah salah satu dari Kesedihan. Topik yang paling melankolis adalah Kematian. Ini harus bersekutu dengan Kecantikan. "Kematian, maka, dari seorang wanita cantik adalah, tanpa diragukan lagi, topik paling puitis di dunia, - dan sama-sama tidak diragukan lagi bahwa bibir yang paling cocok untuk topik seperti itu adalah bibir kekasih yang berduka." Ungkapan-ungkapan terakhir ini dikutip dari analisis aneh Poe tentang puisi ini, tapi mereka nunjukin persis jangkauan umum baitnya. Klimaks dari "The Bells" adalah monoton yang teredam dari hantu, yang bangga dalam menimbang hati manusia. "Lenore," The Raven , "The Sleeper," "To One in Paradise," dan "Ulalume" membentuk simfoni tenebrose,—dan "Annabel Lee," yang ditulis terakhir, menunjukkan bahwa satu tema merasukinya sampai akhir. Sekali lagi, ini semua kagak ada kalo kagak musikal, dan beberapa tersentuh dengan kualitas Fantastis yang membangkitkan rasa kagum, dan menambahkan ketakutan baru ke penderitaan itu sendiri. Semuanya digariskan samar-samar, di bawah bayangan, cinta ideal penyair, — yang sering setengah digambarkan di tempat lain, — istri Usher yang terkubur, Lady Ligeia, di  kebenaran lawan dari sifatnya sendiri. Gue rasa cinta seniman terhadap seseorang "dalam bentuk" kagak pernah bisa nyaingin pengabdiannya terhadap cita-cita. Perempuan di deket dia harus ngejalanin mantranya, bergantian dan kagak lama, mempesona dia dengan ragam yang tak terhingga, atau puas untuk melepaskan bagian dari kesetiaannya. Dia pasti terpancing oleh yang tak tercapai, dan ini selalu di luar kemampuannya dalam gairahnya untuk seni kreatif.
+
+Poe, kayak Hawthorne, dateng dengan penurunan sekolah Romantis, dan kagak ada yang lebih seneng dari dia buat ngetawain bencananya. Tapi hatinya sama para romantis dan efek Oriental atau Gotik mereka. Penemuannye, yang kaya banget dengan cerita prosa, kayaknya ninggalin dia pas dia nulis puisi; dan penilaiannya bilang ke dia kalo puisi romantis panjang lebih bergantung pada kejadian daripada inspirasi,—dan bahwa, untuk mengucapkan puisi romantis, lirik akan cukup. Makanya teorinya, yang jelas pas dengan keterbatasannya sendiri, bahwa "'puisi panjang' adalah kontradiksi datar dalam istilah." Komponen dari The Raven sedikit dan sederhana: seorang pria, seorang burung, dan ingatan fantasmal pada seorang wanita. Tapi karya itu menampilkan bahan romantis yang bagus. Kita punya apaan? Tengah malem; ruangan yang teduh dengan buku-buku pengetahuan yang terlupakan; siswa,—Hieronymus modern; keran burung gagak di kamar; malem yang dingin dan api yang sekarat; gantungan sutra yang disapu angin; mimpi dan ketidakpercayaan yang samar-samar terhadap kegelapan yang bergema; burung hitam dan aneh di dada pucat; aksesoris dari beludru ungu dan lampu yang menyala. Semua efek panggung dari situasi, cahaya, warna, suara, murni romantis, dan bahkan melodramatis, tapi dengan kualitas puitis yang jarang dipamerin melodrama, dan mencerminkan secara menyeluruh "gairah abadi, rasa sakit abadi" penyair.
+
+Struktur ritmis The Raven pasti bikin kesan. Rima, aliterasi, beban, bentuk stanzaik, dirancang dengan keahlian yang luar biasa. Gak diragukan lagi, penyair itu terkejut dengan ketepatan trokaik musik Miss Barrett, di "delapan," dan terutama dengan aransemen yang diadopsi di dekat penutupan "Lady Geraldine":
+
+"'Mata,' katanya, 'sekarang berdenyut melalui gue! Apakah lu mata yang menghancurkan gue?
+
+Mata yang bersinar, kayak permata antik yang dipasang di batu patung Parian!
+
+Di bawah jidat putih yang tenang itu, apakah lu pernah terbakar terik
+
+O'er gurun pasir yang sepi dari hati dan hidup gue yang dibatalkan?'"
+
+Perkenalan artistiknya dari rima ketiga di baris kedua dan keempat, dan penambahan baris kelima dan refrain akhir, membuat stanza The Raven . Aliterasi yang terus-menerus tampaknya datang tanpa usaha, dan seringkali rima dalam baris menggoda; sementara refrain atau beban mendominasi seluruh karya. Di sini juga dia udah dapet untung dari studi Miss Barrett tentang balada dan romaunt dalam bahasanya sendiri dan lainnya. "Refrain" adalah pancingan di mana penyair atau musisi memegang telinga yang berkeliaran, - kerinduan Alam yang berulang untuk ketegangan awal. Gue selalu mengagumi refrensi indah dari penyanyi Inggris,—"The Nightingales, the Nightingales," "Margret, Margret," "My Heart and I," "Toll slowly," "The River flowesh on," "Pan, Pan is dead," dll. Dia juga menggunakan apa yang gue sebut Repetend, dalam penggunaan Poece yang telah menghidupkan semua saringan Poce ntuh:
+
+"Wahai makhluk hidup yang bahagia! kagak ada lidahnya
+
+Kecantikan mereka mungkin menyatakan:
+
+Sebuah mata air cinta mengalir dari hati gue,
+
+Dan gue memberkati mereka tanpa sadar:
+
+Yakin orang suci gue yang baik itu kasian sama gue,
+
+Dan gue memberkati mereka tanpa sadar."
+
+Poe bikin baris kelima dari stanzanya buat keajaiban yang diulang. Dia ngandelin itu sepenuhnya di beberapa puisi selanjutnya,—"Lenore," "Annabel Lee," "Ulalume," dan "For Annie." Itu mendapatkan musik yang liar dan melankolis, gue pikir, dari "pengaruh manis," dari beban dan pengulangan Afrika yang dinyanyikan kepadanya saat kecil, menyesuaikan dengan melodi asli mereka suara penyair Selatan kita.
+
+"Filsafat Komposisi," analisisnya tentang The Raven , adalah diseksi teknis dari metode dan strukturnya. Baik pengakuannya tentang artifisial berdarah dingin, atau pengakuannya selanjutnya ke teman-teman bahwa paparan artifisial ini hanyalah satu lagi hoax intelektualnya, perlu dipuji sepenuhnya. Kalo dia udah ngerancang karya lengkap terlebih dahulu, dia jarang banget bakalan bikin pendahuluan yang keras dari sajak-sajak rattle-pan untuk melodi yang enak dari stanza kedua,—bahkan bukan pada teori fantastisnya. Tentu saja seniman, setelah menyempurnakan suatu karya, melihat, seperti seniman pertama, bahwa itu bagus, dan melihat mengapa itu bagus. Analisis selanjutnya, ditambah dengan penolakan api sakral, cukup mudah dapat dibuat. Keyakinan gue adalah bahwa konsepsi pertama dan draft kasar dari puisi ini datang sebagai inspirasi yang selalu datang; bahwa penulisnya kemudian melihat bagaimana itu dapat disempurnakan, memberinya sentuhan akhir yang dijelaskan dalam babnya tentang Komposisi, dan bahwa yang terakhir, oleh karena itu, tidak sepenuhnya palsu atau sepenuhnya benar. Kerugian dari analisis kayak gitu adalah menggoda pemula untuk berpikir bahwa proses buatan dapat menggantikan imajinasi. Dorongan jenius adalah untuk menjaga rahasia jam kreatifnya. Sekilas yang didapet dari jerih payah, eksperimen yang bingung, yang mendahului kemenangan, seperti dalam karya sketsa Hawthorne yang baru-baru ini diungkapkan, memberikan instruksi dan dorongan yang tak ternilai harganya bagi seniman yang tulus. Tapi satu  yang secara sukarela ngeekspos Muse-nya ke tatapan semua pendatang harus nginget nasib Raja Candaules.
+
+Dunia masih nganggep Poe sebagai "orang jenius yang kagak beruntung." Baru-baru ini gue denger dia disebutin sebagai "orang yang semua orang kayaknya disuruh buat nyalahin, ngehina, atau ngefitnah." Tapi menurut gue, kesialannya berakhir dengan kematiannya yang menyedihkan, dan sejak saat itu pembelaannya telah gigih, dan ketenarannya yang tumbuh sekuat penulis yang menderita dan berbakat dapat berdoa di jam harapannya. Kecamatan dan fitnah Griswold mengubah arus memihaknya. Kritikus dan penulis biografi udah maju dengan penyangkalan berturut-turut, dengan penghormatan ke karakternya, dengan edisi baru karya-karyanya. Surat-suratnya sendiri dan kejadian-kejadian kecil dalam karirnya ada di depan kita; catatan, bagus dan buruk, dikenal luas. Gak ada penggugat yang dapet penilaian yang lebih lembut dan memaafkan. Kecelakaan hidupnya adalah milik wilayah dan periodenya, mungkin masih lebih ke kelemahan kemauannya sendiri. Gak diragukan lagi lingkungannya bukan lingkungan yang bisa ngejaga alam yang halus dan kagak seimbang dari bahaya di luar dan di dalam. Kehendak terkuatnya, untuk menjadi penguasa dirinya sendiri, mendapatkan untuknya "warisan celaka itu." Dia ngakuin dirinya tuan burung yang kagak bahagia, penderita puisi ini. Tapi dia adalah bagian penuh dari kemarahan dramatis yang bergembira dalam ramalan azabnya sendiri. Ada kesenangan dalam memainkan peran tinggi: kita semua adalah gladiator, menangis Ave Imperator! Untuk mengutip masalah Burke: "Dalam kesedihan, kesenangan masih tertinggi, dan penderitaan yang kita derita tidak ada kemiripan dengan rasa sakit mutlak, yang selalu menjijikkan, dan yang kita usahakan untuk hilangkan secepatnya." Poe pergi lebih jauh, dan menjadi seniman bahkan dalam tragedi karirnya. Kalo, menurut keyakinannya sendiri, kesedihan dan hilangnya keindahan adalah tema puitis tertinggi, dan perasaan puitis adalah kesenangan duniawi tertajam, maka kesedihan dan kegelapan hidupnya yang rusak tidak tanpa kompensasi yang sering.
+
+Di halaman-halaman berikut, kita punya contoh baru dari jenius seniman yang mencirikan interpretasi puisi terkenal. Gustave Doré, karya terakhir pensilnya ada di depan kita, bukan pelukis, atau bahkan tukang gambar, untuk realis yang menuntut kebenaran nada, figur, dan kesempurnaan. Hal-hal kayak gitu kurang menyangkut dia daripada bikin bentuk dan jarak, cahaya dan teduh, ngebantu tujuannya,—yang buat menggugah jiwa, imajinasi, dari penonton. Ini dia lakuin dengan membangkitkan rasa kagum kita, melalui konsepsi yang luar biasa dan seringkali luhur tentang hal-hal yang tak terkatakan dan penuh dengan suram atau kemuliaan. Udah dibilang kalo karya-karyanya bukan lukisan yang hebat, sebagai gambar mereka emang hebat. Sebagai "seniman sastra," dan begitulah dia, kekuatannya berbanding lurus dengan penemuan dramatis penulisnya, dengan keberanian semangat yang menyalakan dirinya sendiri. Makanya keberhasilannya dengan Rabelais, dengan "Le Juif-Errant," "Les Contes Drolatiques," dan "Don Quixote," dan karenanya, sebaliknya, kegagalannya untuk mengekspresikan keindahan Tennyson's Idyls, dari "Il Paradiso," dari pastoral Ibrani, dan teks-teks lain yang membutuhkan eksaltasi, atau kemanisan dan repose. Dia adalah jago lahir dari hal-hal yang aneh, dan dengan wawasan khusus dapat menggambarkan hantu otak yang angker. Kita ngeliat benda-benda seperti yang dilihat oleh tokoh-tokohnya, dan dengan mata Yahudi Keliling, Don yang bingung, atau putri tukang emas yang mewahnya sangat membesarkan Raja di toko di Pont-au-Change. Itu dalam sifat hal-hal yang harus dia tertarik dengan setiap mahakarya bait atau prosa yang gue sebut unik. Kerajaan-kerajaan yang lebih rendah dipanggil untuk melayaninya; batu-batu, pohon dan gunung, langit itu sendiri, bernyawa dengan motif dan diablerie. Seandainya dia hidup untuk menggambarkan Shakespeare, kita harus melihat perlakuan luar biasa terhadap Caliban, para Penyihir, badai di "Lear"; tapi kagak diragukan lagi harus mempertanyakan cita-citanya tentang Imogen atau Miranda. Keindahan yang murni dan sederhana, dan keunggulan yang sempurna, dia jarang keliatan paham.
+
+Tapi ada keindahan dalam desainnya untuk "Pelaut Kuno," meskipun kagak nyata, dan keturunan yang langka di seri Doré. Rime ngasih dia cerita yang panjang, dengan banyak pergeseran adegan. Di The Raven, suara dan warna tetep monoton dan kita kagak punya perubahan tempat atau acara. Gimane hasilnye? Doré ngasih serangkaian variasi tentang tema yang dia pikirin, "enigma kematian dan halusinasi jiwa yang kagak bisa dihibur." Di beberapa gambar ini, kesalahan dia keliatan banget; yang lain ngungkapin keasliannya yang kuat, dan kualitas terbaik di mana, sebagai tukang gambar, dia berdiri sendiri. Jelas ada sesuatu yang sama antara suasana kerja Poe dan Doré. Ini bakalan keliatan lebih jelas kalo yang terakhir nyoba "Tales of the Grotesque and Arabesque." Keduanya sering berangkat ke tanah peri fantasi dan romansa. Dalam prestasi melodramatis, mereka berdua, melalui perintah supranatural mereka, menghindari garis bahaya antara ideal dan absurd. Poe adalah pemuja yang lebih sejati dari yang Indah; cintanya untuk itu adalah gairah yang mengkhususkan, dan di sini dia berpisah dengan ilustratornya. Penyair atau seniman, Kematian akhirnya mengubah semua: dalam bayangan pertanda sablenya, krayon simbolis Vedder dengan tepat mengatur mereka berhadapan, tetapi membungkus mereka dengan mantel kebijaksanaan dan kekuatan abadi. Seorang wanita Amerika telah membuat gambar Jenius bermata bintang dengan obor terakhir, penampilan indah dari seseorang yang penglihatannya melihat, tetapi bibirnya mungkin tidak mengucapkan, misteri tanah di luar "pintu makam legendaris."
+
+Edmund C. Stedman.
+
+PUISI.
+
+Ilustrasi 1
+
+GAGAK.
+
+Suatu ketika tengah malam yang suram, saat gue merenung, lemah dan lelah,
+
+Di atas banyak volume pengetahuan yang aneh dan aneh yang terlupakan,
+
+Saat gue mengangguk, hampir tidur siang, tiba-tiba terdengar suara ketukan,
+
+Seperti seseorang yang ngerap pelan, ngerap di pintu kamar gue.
+
+"'T ada pengunjung," gumam gue, "ngetuk pintu kamar gue—
+
+Cuma ini, dan kagak lebih."
+
+Ah, gue inget banget itu di bulan Desember yang suram,
+
+Dan setiap bara yang sekarat terpisah membuat hantunya di lantai.
+
+Dengan semangat gue berharap besoknya:—percuma gue udah berusaha minjem
+
+Dari buku-buku gue muncul kesedihan—kesedihan untuk Lenore yang hilang—
+
+Buat gadis langka dan berseri yang dinamai malaikat Lenore—
+
+Gak ada nama di sini selamanya.
+
+Dan deru sutra yang sedih dan kagak pasti dari tiap tirai ungu
+
+Membuat gue seneng—menuhi gue dengan teror fantastis yang belum pernah gue rasakan sebelumnya;
+
+Jadi sekarang, untuk menenangkan detak jantung gue, gue berdiri mengulang
+
+"'T adalah beberapa pengunjung yang memohon masuk di pintu kamar gue
+
+Beberapa pengunjung yang telat memohon masuk di pintu kamar gue;—
+
+Ini dia, dan kagak lebih."
+
+Sekarang jiwa gue makin kuat; ragu-ragu trus kagak lagi,
+
+"Pak," kata gue, "atau Bu, benar-benar maaf gue mohon;
+
+Tapi faktanya gue lagi tidur siang, dan dengan lembutnya lo dateng ngerap,
+
+Dan samar-samar lu dateng ngetok, ngetok pintu kamar gue,
+
+Gue jarang yakin gue denger lu"—disini gue buka pintu lebar-lebar;—
+
+Gelap disana, dan kagak lebih.
+
+Jauh ke dalam kegelapan itu mengintip, lama gue berdiri di sana bertanya-tanya, takut,
+
+Ragu, mimpiin mimpi yang kagak ada manusia yang berani mimpiin sebelumnya;
+
+Tapi keheningan itu kagak putus, dan kegelapan kagak ngasih tanda,
+
+Dan satu-satunya kata yang diucapkan adalah kata yang dibisikan, "Lenore!"
+
+Ini gue bisikin, dan gema menggumam balik kata, "Lenore!"
+
+Cuma ini dan kagak lebih.
+
+Kembali ke ruangan berbalik, semua jiwa gue di dalam diri gue terbakar,
+
+Nggak lama kemudian lagi gue mendengar suara ketukan, agak lebih keras dari tadi.
+
+"Pasti," kata gue, "pasti itu sesuatu di kisi-kisi jendela gue;
+
+Biar gue liat, kalo gitu, apa yang ada, dan misteri ini dijelajahi—
+
+Biar hati gue tenang sebentar dan misteri ini dijelajahi;—
+
+'T adalah angin dan kagak lebih!"
+
+Buka sini gue lempar rana, ketika, dengan banyak gombal dan berkibar,
+
+Di situ melangkah seekor Gagak megah dari jaman suci dulu.
+
+Gak ada sujud yang dibuat dia; kagak ada seminit berhenti atau tinggal dia;
+
+Tapi, dengan tampang tuan atau wanita, bertengger di atas pintu kamar gue—
+
+Bertengger di atas patung Pallas tepat di atas pintu kamar gue—
+
+Duduk, dan duduk, dan kagak lebih.
+
+Terus burung ebony ini menggoda keinginan sedih gue untuk tersenyum,
+
+Dengan sopan santun yang serius dan tegas dari wajah yang dipake,
+
+"Walaupun jambul lu digunting dan dicukur, lu," kata gue, "pasti kagak ada orang yang jahat,
+
+Gagak kuno yang suram dan mengerikan berkeliaran dari pantai Nightly,—
+
+Kasih tau gue apa nama tuan lu di pantai Plutonia Malam!"
+
+Kata si Gagak, "Gak pernah lagi."
+
+Gue kagum banget sama ayam yang aneh ini denger wacana dengan begitu polos,
+
+Meskipun jawabannya kagak berarti—dikit relevansinya;
+
+Karena kita kagak bisa kagak setuju kalo kagak ada manusia yang hidup
+
+Pernah dikaruniai ngeliat burung di atas pintu kamarnya—
+
+Burung atau binatang di atas patung di atas pintu kamarnya,
+
+Dengan nama seperti "Nevermore."
+
+Tapi si Gagak, duduk kesepian di dada yang tenang, cuma ngomong
+
+Satu kata itu, seolah-olah jiwanya dalam satu kata itu dia emang mencurahkan.
+
+Gak ada yang lebih dari dia ngomong—kagak ada bulu pun dia berkibar—
+
+Sampai gue hampir bergumam, "Temen-temen lain pernah terbang sebelumnya—
+
+Besoknya dia bakal ninggalin gue, karena harapan gue udah terbang sebelumnya."
+
+Terus burung itu bilang, "Jangan pernah lagi."
+
+Kaget dengan keheningan yang dipecah oleh balesan yang begitu tepat,
+
+"Gak diragukan lagi," kata gue, "apa yang diucapkan adalah satu-satunya stok dan tokonya,
+
+Ketangkep dari beberapa tuan yang kagak bahagia yang kagak ampun Bencana
+
+Ngikutin cepet dan ngikutin lebih cepet sampe lagu-lagunya satu beban membosankan—
+
+Sampai lagu-lagu duka harapannya yang beban melankolis itu memikul
+
+Dari 'Gak pernah—kagak pernah lagi.'"
+
+Tapi si Gagak masih menggoda semua jiwa sedih gue untuk tersenyum,
+
+Lurus gue naik kursi empuk di depan burung dan dada dan pintu;
+
+Terus, pas beludrunya tenggelam, gue mulai ngehubungin
+
+Mewah ke mewah, mikirin apa burung jaman dulu ini—
+
+Apa burung jaman dulu yang suram, aneh, mengerikan, kurus dan menjijikan ini
+
+Maksudnya dengan berteriak "Gak Nevermore."
+
+Ini gue duduk sambil nebak, tapi kagak ada suku kata yang ngungkapin
+
+Kepada ayam yang matanya berapi-api sekarang membakar ke inti dada gue;
+
+Ini dan banyak lagi gue duduk meramal, dengan kepala gue yang santai bersila
+
+Di lapisan beludru bantal yang lampunya bersinar,
+
+Tapi yang lapisan ungu beludrunya dengan cahaya lampu yang bersinar di atas
+
+Dia bakalan neken, ah, kagak pernah lagi!
+
+Terus, gue pikir, udara makin padat, wangi dari dupa gaib
+
+Diayunkan oleh serafim yang kakinya berdenting di lantai bergumpal.
+
+"Sial," teriak gue, "Tuhan lu udah minjemin lu—dengan malaikat-malaikat ini dia kirim lu
+
+Istirahat—istirahat dan nepenthe dari kenangan lu tentang Lenore!
+
+Quaff, oh quaff nepenthe yang baik ini, dan lupain Lenore yang ilang ini!"
+
+Kata si Gagak, "Gak pernah lagi."
+
+"Nabi!" kata gue, "hal jahat!—nabi tetep, kalo burung atau setan!—
+
+Entah Penggoda yang ngirim, atau entah badai yang ngelempar lu ke darat,
+
+Sepi tapi kagak takut, di tanah gurun yang terpesona ini—
+
+Di rumah yang dihantui Horor ini—bilangin gue beneran, gue mohon—
+
+Apa ada— ada balsem di Gilead?—bilangin—bilangin, gue mohon!"
+
+Kata si Gagak, "Gak pernah lagi."
+
+"Nabi!" kata gue, “hal kejahatan—nabi tetep, kalo burung atau setan!
+
+Dengan Surga yang membungkuk di atas, kita—dengan Tuhan yang kita berdua puja—
+
+Bilang ke jiwa ini dengan kesedihan kalo, di dalam Aidenn yang jauh,
+
+Itu bakalan ngegenggam gadis suci yang dinamai malaikat Lenore—
+
+Pegang gadis langka dan berseri yang dinamai malaikat Lenore."
+
+Kata si Gagak, "Gak pernah lagi."
+
+"Jadilah kata itu tanda perpisahan kita, burung atau setan!" gue teriak, kaget—
+
+"Balik lu ke badai dan pantai Plutonia Malam!
+
+Jangan ninggalin bulu hitam sebagai tanda kebohongan yang diucapkan jiwa lu!
+
+Biarkan kesepian gue tanpa putus!—berhentikan patung di atas pintu gue!
+
+Ambil paruh lu dari hati gue, dan ambil wujud lu dari pintu gue!"
+
+Kata si Gagak, "Gak pernah lagi."
+
+Dan si Gagak, kagak pernah terbang, masih duduk, masih duduk
+
+Di dada Pallas yang pucat di atas pintu kamar gue;
+
+Dan matanya keliatan kayak setan yang lagi mimpi,
+
+Dan cahaya lampu di atasnya mengalir melemparkan bayangannya ke lantai;
+
+Dan jiwa gue dari bayangan yang tergeletak melayang di lantai
+
+Bakal diangkat—kagak pernah lagi!
+

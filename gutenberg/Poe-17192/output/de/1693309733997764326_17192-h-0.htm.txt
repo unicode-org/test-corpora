@@ -1,0 +1,570 @@
+Das Projekt Gutenberg eBook von The Raven, von Edgar Allan Poe.
+
+Das Project Gutenberg eBook von The Raven
+
+Dieses E-Book steht jedem in den Vereinigten Staaten und den meisten anderen Teilen der Welt kostenlos und nahezu ohne jegliche Einschränkungen zur Verfügung. Sie dürfen es kopieren, verschenken oder unter den Bedingungen der Project Gutenberg-Lizenz, die in diesem E-Book enthalten ist, oder online unter www.gutenberg.org wiederverwenden. Wenn Sie nicht in den Vereinigten Staaten ansässig sind, müssen Sie die Gesetze des Landes, in dem Sie sich befinden, prüfen, bevor Sie dieses E-Book verwenden.
+
+Titel : Der Rabe
+
+Autor : Edgar Allan Poe
+
+Kommentator : Edmund Clarence Stedman
+
+Illustrator : Gustave Doré
+
+Erscheinungsdatum : 30. November 2005 [eBook #17192] Zuletzt aktualisiert: 13. Dezember 2020
+
+Sprache : Englisch
+
+Credits : Produziert von Jason Isbell, Melissa Er-Raqabi und the Online Verteiltes Korrekturleseteam unter https://www.pgdp.net.
+
+*** BEGINN DES PROJEKTS GUTENBERG EBOOK DER RABE ***
+
+Rückseite
+
+DER RABE
+
+Von
+
+EDGAR ALLAN POE
+
+ILLUSTRIERT Von GUSTAVE DORÉ
+
+Titelbild
+
+MIT KOMMENTAR VON EDMUND C. STEDMAN
+
+NEW YORK
+
+HARPER & BROTHERS, VERLAG, FRANKLIN SQUARE
+
+1884
+
+Eingetragen gemäß Gesetz des Kongresses im Jahr 1883 von
+
+HARPER & BROTHERS,
+
+Im Büro des Bibliothekars des Kongresses in Washington.
+
+Alle Rechte vorbehalten.
+
+Notizen des Transkribierers
+
+Im Abbildungsverzeichnis habe ich ein fehlendes einzelnes Zitat nach Lenore ergänzt! wie unten gezeigt:
+
+„‚Elender‘, schrie ich, ‚dein Gott hat dich geliehen – durch diese Engel hat er dich gesandt.‘ Ruhe – Ruhe und nepenthe von deinen Erinnerungen an Lenore!‘“
+
+Die Liste der Illustrationen verwendet „Besucher“, während das Gedicht und die eigentliche Illustration „Besucher“ verwenden.
+
+LISTE DER ABBILDUNGEN
+
+Mit Namen von Graveuren
+
+Titelseite, gestaltet von Elihu Vedder.
+
+Friedrich Jüngling.
+
+"Nimmermehr."
+
+H. Claudius, GJ Büchner.
+
+ANANKE.
+
+H. Claudius.
+
+„Es war einmal eine trostlose Mitternacht, während ich schwach und müde nachdachte, Über viele urige und merkwürdige Bände vergessener Überlieferungen.“
+
+RA Müller.
+
+„Ah, ich erinnere mich genau, es war im trostlosen Dezember, Und jede einzelne sterbende Glut erzeugte ihren Geist auf dem Boden.
+
+RG Tietze.
+
+„Sehnsüchtig wünschte ich mir den Morgen; vergeblich hatte ich versucht, Geld zu leihen Aus meinen Büchern geht hervor, dass die Trauer aufhört – Trauer um die verlorene Lenore.
+
+H. Claudius.
+
+„Trauer um die verlorene Lenore.“
+
+W. Zimmermann.
+
+„Für die seltene und strahlende Jungfrau, die die Engel Lenore nennen – Für immer hier namenlos.
+
+Friedrich Jüngling.
+
+„Es ist ein Besucher, der an meiner Zimmertür um Einlass bittet –“ Irgendein verspäteter Besucher bittet um Einlass an meiner Zimmertür.‘“
+
+W. Zimmermann.
+
+– „Hier habe ich die Tür weit geöffnet; – Dunkelheit dort und nichts weiter.“
+
+H. Claudius.
+
+„Zweifelnde, träumende Träume, die noch nie ein Sterblicher zu träumen gewagt hat.“
+
+FS König.
+
+„‚Sicherlich‘, sagte ich, ‚sicherlich ist das etwas an meinem Fenstergitter; Lassen Sie mich also sehen, was da ist, und dieses Geheimnis erforschen.‘“
+
+Friedrich Jüngling.
+
+„Hier öffnen, ich habe den Verschluss betätigt.“
+
+T. Johnson.
+
+– „Ein stattlicher Rabe aus den heiligen Tagen von damals. Nicht die geringste Ehrerbietung erwies er; keine Minute blieb er stehen oder blieb stehen.“
+
+R. Staudenbaur.
+
+„Auf einer Büste von Pallas direkt über meiner Kammertür sitzend – Gehockt und gesessen, und nichts weiter.
+
+RG Tietze.
+
+„Wanderung vom nächtlichen Ufer.“
+
+Friedrich Jüngling.
+
+„Bis ich kaum mehr als murmelte: ‚Andere Freunde sind schon einmal geflogen …‘ Am nächsten Morgen wird er mich verlassen, wie meine Hoffnungen schon zuvor verflogen sind.‘“
+
+Frank Französisch.
+
+„Dann, als der Samt sank, machte ich mich an die Verbindung Fantasie zu Fantasie.
+
+R. Schelling.
+
+„Aber dessen samtiges violettes Futter über dem das Lampenlicht weidet Sie wird drücken, ach, nie mehr!“
+
+George Kruell.
+
+„‚Elender‘, schrie ich, ‚dein Gott hat dich geliehen – durch diese Engel hat er dich gesandt.‘ Ruhe – Ruhe und nepenthe von deinen Erinnerungen an Lenore!‘“
+
+Victor Bernstrom.
+
+„In diesem Haus spukt das Grauen.“
+
+R. Staudenbaur.
+
+„‘Sag es mir wahrhaftig, ich flehe – Gibt es – gibt es Balsam in Gilead? – Sag es mir – sag es mir, ich flehe!‘“
+
+W. Zimmermann.
+
+„‚Sagen Sie dieser traurigen Seele, ob im fernen Aidenn Es soll eine heilige Jungfrau umarmen, die die Engel Lenore nennen.‘“
+
+FS König.
+
+„‚Sei dieses Wort unser Zeichen des Abschieds, Vogel oder Unhold!‘ Ich schrie und war empört.“
+
+W. Zimmermann.
+
+„‚Geh zurück in den Sturm und an die plutonische Küste der Nacht!‘“
+
+Robert Hoskin.
+
+„Und meine Seele aus dem Schatten, der auf dem Boden schwebt Wird aufgehoben – niemals mehr!“
+
+RG Tietze.
+
+Das Geheimnis der Sphinx.
+
+R. Staudenbaur.
+
+Kommentieren Sie das Gedicht.
+
+Das Geheimnis eines Gedichts, nicht weniger als der Erfolg eines Scherzes, liegt im Ohr dessen, der es hört. Ergeben Sie sich seinem Zauber, akzeptieren Sie die Stimmung des Dichters: Das ist schließlich die Antwort der Weisen, wenn Sie sie nach seinem Wert fragen. Auch wenn Ihnen der Dichter selbst in seiner anderen Stimmung sagt, dass seine Kunst nur ein Taschenspielertrick ist, die Nahrung seines Essenszauberers, und anbietet, Ihnen den Trick dabei zu zeigen – glauben Sie ihm nicht. Warte auf seine prophetische Stunde; dann gib dich seiner Leidenschaft, seiner Freude oder seinem Schmerz hin. „Wir sind heute in der Hand der Liebe!“ singt Gautier in Swinburnes beschwingter Paraphrase – und vom Morgen bis zum Sonnenuntergang werden wir auf dem stürmischen Meer getrieben: Es gibt nur eine Liebe, einen Mai, einen blumigen Strang. Liebe ist ewig, alles andere ist unwirklich und wird beiseite gelegt. Die Vision hat ein Ende, die Szene verändert sich; aber wir haben etwas gewonnen, die Erinnerung an einen Zauber. So viele Dichter, so viele Reize. Es gibt den Charme der Vergänglichkeit, der höchster Schönheit und Anmut eine Aureole des Pathos verleiht. Teilen Sie mit Landor seine eine „Nacht der Erinnerungen und der Seufzer“ für Rose Aylmer, und Sie haben dies in vollen Zügen.
+
+Und nun nehmen Sie die Hand eines Minnesängers aus der neuen Welt, der von seinem richtigen Lebensraum in das raue und dissonante Amerika verirrt ist, das, wie Baudelaire sah, „für Poe nur ein riesiges Gefängnis war, durch das er hin und her rannte, mit der fieberhaften Erregung eines Wesens, das geschaffen wurde, um in einer reineren Welt zu atmen“, und wo „sein inneres Leben, spirituell wie ein Dichter, spirituell selbst wie ein Trunkenbold, nur ein ständiger Versuch war, dem Einfluss dieser Antipathie zu entkommen.“ Atmosphäre." Ergreifen Sie die empfindsame Hand eines besorgten Sängers, der so sein Unheimliches träumt, und teilen Sie mit ihm das Klima, in dem er – nie den ganzen Tag, immer in der Nacht – wenn nicht das Atlantis, von dem aus er gewandert war, so doch zumindest einen Zufluchtsort vor den Grenzen fand, in die er tagsüber eingemauert war.
+
+Nur in ein Land hat er die Macht, dich zu führen, und nur für eine Nacht kannst du seinen Traum teilen. Ein Gebiet weder auf der Erde noch im Himmel: „Niemandsland“, außerhalb des Weltraums, außerhalb der Zeit. Hier sind die Verstörten, durch deren Augen, wie die der Cenci, die Seele Fenster findet, obwohl der Geist benommen ist; Hier werden Geister, die nach dem Weg suchen, der in die Ewigkeit führt, aufgehalten und verzögert. Es ist der Schwebezustand der „planetaren Seelen“, in dem sich alle Mondscheinunsicherheiten, alle verlorenen Lieben und Illusionen befinden. Hier sind einige in Trance verharrt, die einzig erreichbare Ruhepause; andere
+
+„bewegen sich fantastisch
+
+Zu einer dissonanten Melodie:“
+
+während überall sind
+
+„Geblätterte Erinnerungen an die Vergangenheit –
+
+Verhüllte Formen, die aufschrecken und seufzen
+
+Als sie am Wanderer vorbeigehen.
+
+So ist das Land, und für eine Nacht betreten wir es – eine Nacht mit astralen Phasen und wiederkehrenden Glockenschlägen. Seine Monodien sind zwölf Gedichte, deren Musik nach Veränderung strebt und doch immer gleich bleibt. Einer nach dem anderen erklingen sie, wie das Schlagen der ehernen und ebenholzfarbenen Uhr in „Die Maske des roten Todes“, was die Walzer jedes Mal, wenn die Stunde kam, mit „Beunruhigung, Zittern und Nachdenken“ innehalten ließ.
+
+Von all diesen mystischen Kadenzen hat die Klage des Raben , die durch das Portal vibriert, die Außenwelt am meisten beeindruckt. Welche Dinge gehören zur Entstehung eines Gedichts – und wie wahr ist dies bei dieser wie bei den meisten anderen Rassen, die ihre Barden „die Schöpfer“ nannten? Ein Werk wird aus dem Nichts gerufen. Wo nichts war, bleibt es – eine neue Schöpfung, Teil des Schatzes der Menschheit. Und einige außergewöhnliche Texte zwingen uns, mehr als andere, die ebenso kreativ sind, dazu, noch einmal darüber nachzudenken, wie mutig die Feder des Dichters unbekannte Dinge umschreibt
+
+„Formt und gibt luftigem Nichts nach.“
+
+Eine lokale Behausung und ein Name.
+
+Jedes scheint keinen Prototyp zu haben, doch alle faszinieren uns mit Elementen, die dem Schatten des Übernatürlichen entrissen sind. Nun beschäftigt sich die höchste Einbildungskraft mit der Seele der Dinge; Es kann die Fantasie inspirieren, die das interlunare Unbestimmte mit Bildern bevölkert, oder auch nicht. Dennoch berührt uns einer dieser Texte auf seine kleinere Art mit einem Gefühl der Einzigartigkeit, genauso sicher wie die erhabeneren Werke einer übernatürlichen Besetzung – Marlowes „Faustus“, der „Faust“ von Goethe, „Manfred“ oder sogar diese ätherischen Meisterwerke „Der Sturm“ und „Ein Sommernachtstraum“. Mehr als eine davon ist zwar ansonsten einzigartig, hat aber welche  Last oder Refrain, der die Erinnerung verfolgt – einmal gehört, nie vergessen, wie der Ton eines selten verwendeten, aber markanten Orgelregisters. Bemerkenswert unter ihnen ist Bürgers „Lenore“, diese gespenstische und klangvolle Ballade, die Verlockung und Kontrast der Übersetzer. Nur wenige werden leugnen, dass Coleridges wundersames „Rime of the Ancient Mariner“ an ihrer Spitze steht. „Le Juif-Errant“ hätte Ansprüche gehabt, wenn Beranger ein größerer Dichter gewesen wäre; und wenn sie nicht von der allgemeinen Sympathie entfernt wären, könnten „The Lady of Shalott“ und „The Blessed Damozel“ der Liste hinzugefügt werden. Edgar Allan Poe erhielt den Auftrag, zwei Texte zu verfassen, „The Bells“ und „The Raven“ , von denen jeder, obwohl vielleicht weniger schön als die von Tennyson und Rossetti, einzigartig ist. „Ulalume“ ist zwar ebenso seltsam und einfallsreich, hat aber nicht die universelle Qualität, die Teil unseres Tests ist.
+
+Rein poetisch fällt der Rabe unter Stücke wie „Der Spukpalast“, „Die Stadt im Meer“, „Der Schläfer“ und „Israfel“. Ich vermute, dass der gesamte Text von anspruchsvollen Lesern gegen Passagen wie diese ausgetauscht werden würde:
+
+„Umher, der Wind vergaß,
+
+Resigniert unter dem Himmel
+
+Das melancholische Wasser lügt.
+
+Es kommen keine Strahlen vom heiligen Himmel herab
+
+In der langen Nacht dieser Stadt;
+
+Aber Licht aus dem grellen Meer
+
+Strömt lautlos die Türme hinauf –
+
+· · · · · · ·
+
+Auf vielen, vielen wunderbaren Schreinen
+
+Deren kranzgeschmückte Friese sind ineinander verschlungen
+
+Die Gambe, das Veilchen und die Rebe.
+
+· · · · · · ·
+
+Keine Schwellung deutet darauf hin, dass es Wind geben könnte
+
+Auf einem fernen, glücklicheren Meer –
+
+Keine Hebungen deuten darauf hin, dass es Wind gegeben hat
+
+Auf Meeren, die weniger abscheulich ruhig sind.
+
+Es fehlt die luftige Melodie des Dichters, dessen Herzstück die Laute ist:
+
+„Und sie sagen (der Sternenchor
+
+Und die anderen Dinge zum Zuhören)
+
+Das Feuer der Israelis
+
+Liegt an dieser Leier
+
+Dabei sitzt er und singt –
+
+Der zitternde lebende Draht
+
+Von diesen ungewöhnlichen Saiten.
+
+Aber The Raven empfiehlt sich wie „The Bells“ und „Annabel Lee“ den Vielen und den Wenigen. Ich habe an anderer Stelle gesagt, dass mir Poes seltenere Inszenierungen so vorkamen, „in denen es zumindest den Anschein von Spontaneität gibt – in denen er seinen Gefühlen nachgibt, während sterbende Stürze und die musikalischsten, melancholischsten Kadenzen unversehens von ihm kommen.“ Das ist immer noch mein Glaube; und doch beeindruckt es mich bei einem erneuten Studium dieses Gedichts mehr als jemals zuvor seit meiner Kindheit. Enge Bekanntschaft spricht für jedes wahre Kunstwerk. Bringen Sie den Mann, der weder Kunst kennt noch sich für sie interessiert, dazu, ein Gedicht oder Gemälde zu studieren, und wie schnell ergreift ihn dessen Kraft! Tatsächlich wird er den relativen Wert des ersten guten Werkes, das seine Aufmerksamkeit einigermaßen erregt hat, überbewerten. Auch der Rabe verfügt über konstante Eigenschaften, die selbst ein Experte bewundern muss. In keinem anderen Gedicht des Autors ist das Motiv deutlicher ausgeprägt. „The Haunted Palace“ ist für den ausgewählten Leser ebenso eindeutig, aber Poe hätte diese subtile Allegorie kaum für eine nackte Analyse gehalten. Der Rabe beschäftigt sich ausschließlich mit dem typischen Thema des Autors – dem unwiederbringlichen Verlust einer vergötterten und schönen Frau; aber auch aus anderen Gründen hat der öffentliche Instinkt recht, wenn er es für sein repräsentatives Gedicht hält.
+
+Ein genialer Mann erlangt in der Regel durch den Erfolg einer einzelnen Anstrengung Fuß, und dies ist nicht immer seine größte. Das Erkennen erfolgt umso augenblicklicher, als es aufgeschoben wurde. Er erwirbt es nicht wie das Vermögen eines Geizhalses Münze für Münze, sondern „überhaupt nicht oder alles in allem“. Und so verhält es sich mit anderen Ambitionen: Der Höfling, der Soldat, der Schauspieler – was auch immer ihre Rolle sein mag – jeder rechnet seinen Triumph mit einem glücklichen Zufall. Für Poe war der Rabe, trotz aller Vorzeichen, „der Vogel, der die Brise wehen ließ“. Der Dichter ließ sich im Winter 1844/45 in New York nieder, fand Arbeit an Willis‘ Aufsatz „The Evening Mirror“ und bestritt sein Einkommen durch Beiträge an anderer Stelle. Sechs Jahre lang war er ein aktiver Schriftsteller und genoss einen professionellen Ruf; wurde sowohl mit Respekt als auch mit Misstrauen bedacht und war um seinen Anteil am schlecht bezahlten Journalismus dieser Zeit nicht verlegen. Er hatte auch viele seiner allerbesten Werke geschrieben – Erzählungen wie „Ligeia“ und „Der Untergang des Hauses Usher“ (Letzteres enthielt das mystische Gegenstück zu Elihu Vedders „A Lost Mind“ in Versen), sowie analytische Meisterleistungen wie „The Gold Bug“ und „The Mystery of Marie Roget“. Er hatte im Ausland Proselyten gewonnen und einen dauerhaften Einfluss auf die französische Denkweise erlangt. Er hatte seine eigene Kraft und Schwäche kennengelernt und war auf dem Höhepunkt seiner Kräfte und nicht ohne einen gewissen Ruf. Aber er hatte nichts geschrieben, was in aller Munde war. Seltenen und delikaten Werken muss eine populäre Note hinzugefügt werden, um das breite Publikum seiner Zeit zu fesseln.
+
+Durch den Fleiß der aufeinanderfolgenden Poe-Biographen ist der Hit „ Der Rabe“ zu einer oft erzählten Geschichte geworden. Die junge Frau des Dichters, Virginia, verblasste vor seinen Augen, verweilte aber noch ein weiteres Jahr im Schatten des Todes. Die lange, niedrige Kammer in dem Haus in der Nähe der Bloomingdale Road ist so  berühmt als der Raum, in dem Rouget de l'Isle die Marseillaise komponierte. Alle haben gehört, dass das mit „Quarles“ signierte Gedicht in der „American Review“ erschien, mit einem pseudoredaktionellen Kommentar zu seiner Form; dass Poe dafür zehn Dollar erhielt; dass Willis, der freundlichste und am wenigsten neidische aller modischen Schiedsrichter, es mit einer Laudatio nachdruckte, die es sofort ins Stadtgespräch brachte. Alle Zweifel an seiner Urheberschaft wurden ausgeräumt, als Poe es selbst auf einer literarischen Versammlung rezitierte, und eine Zeit lang war er der angesehenste amerikanische Autor. Der Schlag stimulierte und ermutigte ihn. Wie ein anderer und stolzerer Satiriker fand auch er selbst „im Summen der Insekten“ „etwas Sommerliches“. Traurig genug, aber es vergingen drei Jahre – eine Zeit des Einflusses, des Stolzes, der Angst, aber immer der fantasievollen oder kritischen Arbeit – bis zur endgültigen Niederlage, bevor der Vorhang über ein Leben fiel, das für ihn in Wahrheit eine Tragödie war, und er „dem Eroberer-Wurm“ nachgab.
+
+„The American Review: A Whig Journal“ war für die damalige Zeit eine angesehene Zeitschrift, zweispaltig, auf gutem Papier mit klarer Schrift gedruckt und mit Mezzotinto-Porträts illustriert. Inmitten vieler Dinge, die unter dem gegenwärtigen Standard lagen, enthielt es einige, über die sich jeder Redakteur freuen würde. Der erste Band aus dem Jahr 1845 enthält Artikel von Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman und Whipple. Ralph Hoyts uriges Gedicht „Old“ erschien in diesem Band. Und hier sind drei Texte von Poe: „Die Stadt im Meer“, „Das Tal der Unruhe“ und „Der Rabe“ . Zwei davon wurden – so war es seine Art – aus früheren Studien zusammengestellt, aber das letztgenannte kam wie frisch komponiert heraus und fast so, wie wir es jetzt haben. Die Aussage, dass es später nicht überarbeitet wurde, ist falsch. Elf geringfügige Änderungen gegenüber dem Zeitschriftentext erscheinen in The Raven and Other Poems (1845), einem Buch, das der Dichter bald der Öffentlichkeit anbieten wollte. Dabei handelt es sich meist um Änderungen der Interpunktion oder einzelner Wörter, wobei letztere vorgenommen werden, um die Wirkung der Alliteration zu verstärken. In Mr. Langs hübscher Ausgabe von Poes Versen, die in der „Pergament Library“ herausgegeben wurde, hat er den Instinkt eines Gelehrten bewiesen und klug gehandelt, indem er auf den Text des gerade erwähnten Bandes zurückgegriffen hat, wie er in der Londoner Ausgabe von 1846 enthalten ist. Die „Standard“-Sammlung der Werke des Dichters in Griswold ist voller Fehler. Diese wurden von späteren Herausgebern wiederholt, die auch eigene Fehler machten. Aber der Text von „Der Rabe“ wurde von ihm aufgrund der an den Autor gerichteten Anfragen nach Manuskriptkopien noch weiter überarbeitet; Tatsächlich druckte er es kurz vor seinem Tod in Richmond, wobei er in der vierzehnten Strophe poetisch „Engel, deren leise Schritte fallen“ durch „Seraphim, deren Fuß fällt“ ersetzte. Unser vorliegender Text stammt daher im Wesentlichen aus dem Jahr 1845, wurde jedoch durch die spätere Lesart des Dichters etwas verändert und ist meiner Meinung nach die korrekteste und wirksamste Version dieses einzelnen Gedichts. Die radikalste Änderung gegenüber der frühesten Fassung erfolgte jedoch im Band von 1845; Die elfte Strophe enthielt ursprünglich diese Zeilen, die fehlerhaft im Reim waren und ansonsten einen Makel am Gedicht darstellten:
+
+„Gefangen von einem unglücklichen Herrn, der eine unbarmherzige Katastrophe erlitt
+
+Er folgte schnell und folgte schneller – also beschwor er, als Hope beschwor:
+
+Anstelle der süßen Hoffnung, die er zu beschwören wagte, kehrte die ernste Verzweiflung zurück –
+
+Diese traurige Antwort: ‚Niemals mehr!‘“
+
+Es wäre gut, wenn andere und berühmte Dichter genauso sicher sein könnten, dass ihre Änderungen immer auch zu Verbesserungen führen. Poe überarbeitete ständig seine dürftige Verskunst und verbesserte sie meist. Der Rabe war das erste der wenigen Gedichte, die er vor dem Druck fast fertigstellte. Es kann sein, dass diejenigen, die sich für Poesie interessieren, durch seinen Tod wenig verloren haben. Er sprach fließend Prosa und schrieb nie Verse, um daraus ein Gedicht zu machen. Als ihn ein Refrain eines Bildes verfolgte, war die daraus resultierende Lyrik, wie er selbst sagte, die Inspiration einer Leidenschaft, nicht eines Zwecks. Dies geschah in so seltenen Abständen, dass es fast die Fairfield-Theorie rechtfertigte, dass jeder das Ergebnis einer Nervenkrise war.
+
+Was gab dem Dichter dann den Hinweis auf „Der Rabe“ ? Von welchem ​​nebligen Fundament stieg es langsam zu einer Musik auf, die langsam atmete? Wie üblich floss mehr als eine Sache in die Entstehung eines so bemerkenswerten Gedichts ein. In Anbetracht der längeren Predigten, die oft über kurze und weniger anzügliche Texte gehalten werden, hoffe ich, dass man mir nicht die Schuld für diese Diskussion eines einzelnen Liedtextes gibt – insbesondere eines Textes, den ein Künstler wie Doré zum Thema verschwenderischer Illustrationen gemacht hat. Bis vor kurzem hatte ich angenommen, dass dieses Stück und einige, die sein Autor nach seinem Erscheinen komponierte, dadurch außergewöhnlich waren, dass sie in seinen jungenhaften Versen nicht aus Keimen hervorgegangen waren. Aber Mr. Fearing Gill hat mir einige unveröffentlichte Strophen von Poe gezeigt, die in seinem achtzehnten Lebensjahr geschrieben wurden und den Titel „Der Dämon des Feuers“ tragen. Das Manuskript scheint in der frühen Handschrift des Dichters zu stammen, und seine Echtheit wird von der Familie bestätigt, in deren Besitz es sich seit einem halben Jahrhundert befindet. Neben den einfachsten Grundzügen von „The Bells“ und „The Haunted Palace“ enthält es einige Zeilen, die etwas an den Anfang und das Ende von „The Raven“ erinnern. Was den Rhythmus unseres Gedichts betrifft, so zeigt ein Vergleich der Daten, dass dieser vom Rhythmus von „Lady Geraldine's Courtship“ beeinflusst wurde. Poe war einer der ersten, der Miss Barretts Genie würdigte; Er bezeichnete sie in seinen gesammelten Gedichten als „die Edelste ihres Geschlechts“ und war dabei  Sympathie für ihre lyrische Methode. Die Zeilen aus ihrem Liebesgedicht,
+
+„Mit einem murmelnden Rühren, unsicher in der Luft, der violette Vorhang
+
+Schwillt an und schwillt um ihre bewegungslosen blassen Brauen an.
+
+fand darin ein Echo:
+
+„Und das seidene, traurige, unsichere Rascheln jedes lila Vorhangs
+
+Hat mich begeistert – hat mich mit fantastischen Schrecken erfüllt, die ich noch nie zuvor gespürt habe.“
+
+Hier nahm sich Poe ein Privileg an, für das er Longfellow grob tadelte und das niemand auf seinem eigenen Gelände ohne schnelle Entdeckung und Bestrafung in Anspruch nahm. In Melodie und Strophenform werden wir sehen, dass sich die beiden Gedichte nicht unähnlich sind, aber im Motiv sind sie völlig unterschiedlich. Die großzügige Dichterin spürte nichts als die wahre Originalität des Dichters. „Diese lebendige Schrift!“ Sie rief aus: „Diese Kraft, die man spürt! ... Unser großer Dichter, Mr. Browning, Autor von ‚Paracelsus‘ usw., ist begeistert von seiner Bewunderung für den Rhythmus.“ Herr Ingram weist, nachdem er sich auf „Lady Geraldine“ bezieht, geschickt auf eine andere Quelle hin, die Poe möglicherweise einen Impuls gegeben hat. Im Jahr 1843 hatte Albert Pike, der halb Grieche, halb Grenzgänger und Dichter von Arkansas, in „The New Mirror“, für das Poe damals schrieb, einige Verse mit dem Titel „Isadore“ abgedruckt, die der Autor jedoch inzwischen überarbeitet und „The Widowed Heart“ genannt hatte. Ich wähle aus der Überarbeitung von Herrn Pike die folgende Strophe aus, deren Hauptmerkmale mit der Originalfassung übereinstimmen:
+
+„Ruhelos gehe ich in unseren einsamen Räumen auf und ab, ich spiele unsere Lieder nicht mehr,
+
+Die grelle Sonne scheint prachtvoll auf den ungekehrten Boden;
+
+Die Spottdrossel sitzt immer noch und singt: Oh melancholische Sorte!
+
+Denn mein Herz ist wie eine Herbstwolke, die vor Regen überströmt;
+
+Du bist für mich für immer verloren, Isadore!“
+
+Hier haben wir einen verlängerten Takt, einen ähnlichen Refrain und die Einführung eines Vogels, dessen Gesang die Trauer verstärkt. Es gibt noch andere Wege, denen Neugierige folgen können; insbesondere eine Passage, die Herr Ingram aus Poes letzter Rezension von „Barnaby Rudge“ auswählt:
+
+„Auch der Rabe könnte * * *, mehr als wir es jetzt sehen, zu einem Teil der Konzeption des fantastischen Barnaby gemacht worden sein. * * * Sein Charakter könnte in Bezug auf den Idioten ungefähr die gleiche Rolle gespielt haben wie in der Musik die Begleitung in Bezug auf die Luft.“
+
+Dennoch liegt der Wert dieses Gedichts nach dem Aufzeigen dieser Keime und Ähnlichkeiten immer noch in seiner Originalität. Die progressive Musik, die szenischen Details und der Kontrast von Licht und Schatten – vor allem die spirituelle Leidenschaft des Nocturners – machen es zum Werk eines inspirierenden Genies. Was den gruseligen Vogel betrifft, so ist er anders als alle anderen Raben seines Clans, von den „Twa Corbies“ und „Three Ravens“ der Balladen bis hin zu Barnabys zerknittertem „Grip“. Hier ist nichts von dem krächzenden Turm zu sehen, der die Türme der Vorfahren heimsucht und das Feld der Heraldik betritt; kein verheißungsvolles Phantom, von dem Tickell das sang, als,
+
+„dreimal an ihrem Fenster schreiend,
+
+Der Rabe schlug mit den Flügeln,
+
+Zu gut wusste das verliebte Mädchen Bescheid
+
+Der feierliche Klang.“
+
+Poes Rabe ist eine eigene Vorstellung; die Verkörperung der Qual und Hoffnungslosigkeit eines Trauernden; ein Zobel verkörperte die Erinnerung, der bleibende Chronist des Untergangs, eine Art Unwiederbringliches. Über den Styx geflohen, vom „nächtlichen Pluto-Ufer“, scheint er die abgebildete Seele des Fragestellers selbst zu sein – von ihm, der die freundliche Nepenthe nicht trinken kann und will, denn die Erinnerung an Lenore ist alles, was ihm geblieben ist, und mit dem Ende seines Kummers würde auch diese beiseite gelegt werden.
+
+Der Rabe kann auch als repräsentatives Gedicht seines Autors angesehen werden, da er alle seine Vorstellungen davon, was ein Gedicht sein sollte, veranschaulicht. Diese finden sich in seinen Aufsätzen über „Das poetische Prinzip“, „Die Begründung des Verses“ und „Die Philosophie der Komposition“. Poe erklärte: „In der Musik erreicht die Seele vielleicht am nächsten das große Ziel, für das sie, wenn sie vom poetischen Gefühl inspiriert wird, kämpft – die Erschaffung übernatürlicher Schönheit … Verse können nicht besser bezeichnet werden als als minderwertige oder weniger fähige Musik“; aber wiederum ist ein Vers, der in Wirklichkeit die „Poesie der Worte“ ist, „die rhythmische Schöpfung der Schönheit“ – dies und nichts weiter. Der Ton der höchsten Schönheit ist einer der Traurigkeit. Das melancholischste Thema ist der Tod. Dies muss mit Schönheit verbunden sein. „Der Tod einer schönen Frau ist also zweifellos das poetischste Thema der Welt – und ebenso steht es außer Zweifel, dass die Lippen, die für ein solches Thema am besten geeignet sind, die eines trauernden Liebhabers sind.“ Diese letzten Ausdrücke stammen aus Poes skurriler Analyse dieses Gedichts, sie zeigen jedoch genau die allgemeine Reichweite seines Verses. Der Höhepunkt von „The Bells“ ist die gedämpfte Monotonie der Ghule, die sich damit rühmen, das menschliche Herz niederzudrücken. „Lenore“, „ The Raven“ , „The Sleeper“, „To One in Paradise“ und „Ulalume“ bilden eine Tenebrose-Symphonie – und „Annabel Lee“, das zuletzt geschrieben wurde, zeigt, dass ihn ein Thema bis zum Ende beherrschte. Auch hier sind sie allesamt durch und durch musikalisch, und einige sind von jener Qualität des Phantastischen berührt, die ein Gefühl der Ehrfurcht weckt und der Qual selbst eine neue Angst verleiht. Durch alles ist undeutlich, unter einem schattigen Schleier, die ideale Liebe des Dichters zu erkennen, die andernorts so oft halb dargestellt wird: die begrabene Frau von Usher, die Lady Ligeia  Wahrheit das Gegenstück zu seiner eigenen Natur. Ich nehme an, dass die Liebe eines Künstlers zu jemandem „in der Form“ niemals ganz mit seiner Hingabe an ein Ideal mithalten kann. Die Frau in seiner Nähe muss ihre Zaubersprüche anwenden, abwechselnd sein und nicht lange, ihn mit unendlicher Vielfalt bezaubern oder sich damit zufrieden geben, auf einen Teil seiner Treue zu verzichten. Er muss vom Unerreichbaren angelockt werden, und das übersteigt ihn in seiner Leidenschaft für kreative Kunst stets.
+
+Poe erlebte wie Hawthorne den Niedergang der romantischen Schule, und niemand freute sich mehr als er, über ihr Unglück zu lachen. Doch sein Herz gehörte den Romantikern und ihren orientalischen oder gotischen Effekten. Sein Erfindungsreichtum, der in den Prosaerzählungen so reich war, schien ihn im Stich zu lassen, als er Verse schrieb; und sein Urteilsvermögen sagte ihm, dass lange romantische Gedichte mehr auf Ereignissen als auf Inspiration beruhen – und dass, um die Poesie der Romantik auszudrücken, Texte ausreichen würden. Daher seine Theorie, die eindeutig auf seine eigenen Grenzen passte, dass „ein ‚langes Gedicht‘ ein völliger Widerspruch in sich selbst ist.“ Die Bestandteile von „The Raven“ sind wenige und einfache: ein Mann, ein Vogel und die phantastische Erinnerung an eine Frau. Aber das Stück bietet eine schöne Darstellung romantischen Materials. Was haben wir? Die Mitternacht; die schattige Kammer mit ihren Wälzern vergessener Überlieferungen; der Student – ​​ein moderner Hieronymus; der Hahn des Raben auf den Fensterflügel; die winterliche Nacht und das erlöschende Feuer; die seidenen, windgepeitschten Vorhänge; die Träume und das vage Misstrauen gegenüber der widerhallenden Dunkelheit; der schwarze, unheimliche Vogel auf der blassen Büste; die Accessoires aus violettem Samt und die fröhliche Lampe. All dieser Bühneneffekt von Situation, Licht, Farbe und Ton ist rein romantisch und sogar melodramatisch, aber von einer poetischen Qualität, die Melodramen selten aufweisen, und spiegelt vollständig die „ewige Leidenschaft, den ewigen Schmerz“ des Dichters wider.
+
+Die rhythmische Struktur von The Raven hinterließ mit Sicherheit Eindruck. Reim, Alliteration, die Bürde, die Strophenform wurden mit einzigartiger Geschicklichkeit ausgedacht. Zweifellos war der Dichter beeindruckt von der Passung von Miss Barretts musikalischen Trochaiken in „Eights“ und insbesondere von dem Arrangement, das gegen Ende von „Lady Geraldine“ gewählt wurde:
+
+„‚Augen‘, sagte er, ‚jetzt pochen mich durch! Seid ihr Augen, die mich vernichtet haben?
+
+Leuchtende Augen, wie antike Juwelen, eingefasst in Parian-Statuenstein!
+
+Unter dieser ruhigen, weißen Stirn brennt ihr immer glühend heiß
+
+Über die trostlose Sandwüste meines Herzens und des zerstörten Lebens?‘“
+
+Seine künstlerische Einführung eines dritten Reims sowohl in der zweiten als auch in der vierten Zeile sowie die Hinzufügung einer fünften Zeile und eines letzten Refrains machten die Strophe von „The Raven“ aus. Die anhaltende Alliteration scheint mühelos zu erfolgen, und oft sind die Reime innerhalb der Zeilen verführerisch; während der Refrain oder die Belastung das gesamte Werk dominiert. Auch hier hatte er von Miss Barretts Studium der Balladen und Romanzen in ihrer eigenen und anderen Sprachen profitiert. Ein „Refrain“ ist die Verlockung, mit der ein Dichter oder Musiker das wandernde Ohr festhält – die wiederkehrende Sehnsucht der Natur nach der ersten Melodie. Ich habe immer die schönen Refrains der englischen Sängerin bewundert: „The Nightingales, the Nightingales“, „Margret, Margret“, „My Heart and I“, „Toll slow“, „The River floweth on“, „Pan, Pan is dead“ usw. Sie verwendete auch das, was ich „Repetend“ nenne, in dessen Gebrauch Poe alle Dichter übertroffen hat, seit Coleridge es so wiederbelebt hat:
+
+„O glückliches Lebewesen! Keine Zunge.“
+
+Ihre Schönheit könnte verkünden:
+
+Eine Quelle der Liebe sprudelte aus meinem Herzen,
+
+Und ich segnete sie, ohne es zu wissen:
+
+Sicherlich hatte mein gütiger Heiliger Mitleid mit mir,
+
+Und ich habe sie gesegnet, ohne es zu wissen.
+
+Poe schuf die fünfte Zeile seiner Strophe für den Zauber des Repetenten. In einigen späteren Gedichten – „Lenore“, „Annabel Lee“, „Ulalume“ und „For Annie“ – verließ er sich voll und ganz darauf. Ich habe gedacht, dass es durch die „süßen Einflüsse“ der afrikanischen Bürden und Repetenzen, die ihm in seiner Kindheit vorgesungen wurden, eine wilde und melancholische Musik erhielt, die mit ihrer einheimischen Melodie die Stimme unseres südlichen Dichters in Einklang brachte.
+
+„The Philosophy of Composition“, seine Analyse von The Raven , ist eine technische Analyse seiner Methode und Struktur. Weder sein Eingeständnis der kaltblütigen Kunstfertigkeit noch sein späteres Eingeständnis gegenüber Freunden, dass die Aufdeckung dieser Kunstfertigkeit nur ein weiterer seiner intellektuellen Schwindel war, müssen voll und ganz gewürdigt werden. Wenn er das gesamte Werk im Voraus entworfen hätte, hätte er der köstlichen Melodie der zweiten Strophe kaum ein so hartes Vorspiel aus Rasselpfannenreimen gegeben – nicht einmal nach seiner Theorie des Phantastischen. Natürlich sieht ein Künstler, der ein Werk vollendet hat, wie der erste Künstler, dass es gut ist und warum es gut ist. Eine anschließende Analyse, verbunden mit einer Ablehnung jeglichen heiligen Feuers, kann ohne weiteres durchgeführt werden. Ich glaube, dass die erste Konzeption und der grobe Entwurf dieses Gedichts so entstanden, wie Inspiration immer kommt; dass sein Autor dann sah, wie es perfektioniert werden könnte, indem er ihm den letzten Schliff gab, der in seinem Kapitel über die Komposition beschrieben wurde, und dass letzteres daher weder völlig falsch noch völlig wahr ist. Der Schaden einer solchen Analyse besteht darin, dass sie einen Neuling zu der Vorstellung verleitet, dass künstliche Prozesse die Vorstellungskraft ersetzen könnten. Der Drang des Genies besteht darin, die Geheimnisse seiner kreativen Stunde zu bewahren. Einblicke in die Mühe und die verwirrenden Experimente, die einem Triumph vorausgehen, wie in den kürzlich ans Licht gebrachten Skizzen von Hawthorne, bieten dem aufrichtigen Künstler unschätzbare Belehrung und Ermutigung. Aber eins  Wer seine Muse freiwillig den Blicken aller Ankömmlinge aussetzt, sollte sich an das Schicksal von König Kandaules erinnern.
+
+Die Welt hält Poe immer noch für einen „glücklosen, genialen Mann“. Kürzlich habe ich gehört, dass er „jemand ist, den offenbar jeder falsch darstellt, verunglimpft oder verleumdet“. Aber es scheint mir, dass sein Unglück mit seinem bedauernswerten Tod endete und dass seine Verteidigung seitdem hartnäckig ist und er den Ruf eines so unerschütterlichen Wachstums genießt, wie es ein leidender und begabter Autor in seiner hoffnungsvollen Stunde nur erhoffen konnte. Griswolds Verunglimpfungen und Verleumdungen wendeten den Strom zu seinen Gunsten. Kritiker und Biographen haben sukzessive Widerlegungen, Hommagen an seinen Charakter und Neuausgaben seiner Werke vorgelegt. Seine eigenen Briefe und die kleinsten Ereignisse seiner Karriere liegen vor uns; Die Bilanz, ob gut oder schlecht, ist weithin bekannt. Kein Berufungskläger hat ein sanfteres und nachsichtigeres Urteil erhalten. Seine Missgeschicke im Leben gehörten zu seiner Region und Zeit, vielleicht noch mehr zu seiner eigenen Willensschwäche. Zweifellos war seine Umgebung nicht dazu geeignet, eine feinkörnige, unausgeglichene Natur vor äußeren und inneren Gefahren zu schützen. Sein stärkster Wille, Herr über sich selbst zu sein, verschaffte ihm „das Erbe des Leids“. Er bekannte sich selbst zum unglücklichen Herrn des Vogels, zum leidenden Leidenden dieses Gedichts. Aber er hatte durchaus Anteil an jener dramatischen Stimmung, die sich über die Vorahnung ihres eigenen Untergangs freut. Es ist eine Freude, seine hohe Rolle zu spielen: Wir sind alle Gladiatoren und rufen „Ave Imperator“! Um Burkes Sachverhalt zu zitieren: „In der Trauer steht das Vergnügen immer noch im Vordergrund, und das Leid, das wir erleiden, hat keine Ähnlichkeit mit absolutem Schmerz, der immer abscheulich ist und den wir so schnell wie möglich abzuschütteln versuchen.“ Poe ging noch einen Schritt weiter und blieb selbst in der Tragödie seiner Karriere ein Künstler. Wenn nach seiner eigenen Überzeugung Traurigkeit und das Verschwinden der Schönheit die höchsten poetischen Themen und poetisches Gefühl das schärfste irdische Vergnügen sind, dann waren das Leid und die Dunkelheit seines zerbrochenen Lebens nicht ohne häufige Kompensation.
+
+Auf den folgenden Seiten sehen wir ein neues Beispiel für die Genialität eines Künstlers, der seine Interpretation eines berühmten Gedichts charakterisiert. Gustave Doré, dessen letztes Bleistiftwerk vor uns liegt, war weder der Maler noch der Zeichner für Realisten, die Wahrheit in Ton, Figur und Perfektion forderten. Solche Dinge beschäftigten ihn weniger, als dass er Form und Entfernung, Licht und Schatten seinem Ziel nützen sollte – nämlich die Seele, die Vorstellungskraft des Betrachters anzuregen. Dies tat er, indem er durch wunderbare und oft erhabene Vorstellungen von Dingen, die unaussprechlich und voller Düsternis oder Herrlichkeit waren, unser Gefühl der Ehrfurcht weckte. Man sagt mit Fug und Recht, dass seine Werke, auch wenn sie keine großartigen Gemälde waren, als Bilder in der Tat großartig sind. Als „literarischer Künstler“, und das war er, stand seine Kraft in direktem Zusammenhang mit der dramatischen Erfindungskraft seines Autors, mit der mutigen Kühnheit des Geistes, der seinen eigenen entfachte. Daher sein Erfolg mit Rabelais, mit „Le Juif-Errant“, „Les Contes Drolatiques“ und „Don Quixote“ und daher umgekehrt sein Versäumnis, die Schönheit von Tennysons Idyllen, von „Il Paradiso“, den hebräischen Pastoralen und anderen Texten auszudrücken, die Erhöhung oder Süße und Ruhe erfordern. Er war ein geborener Meister des Grotesken und konnte aufgrund seiner besonderen Einsicht die Gespenster eines heimgesuchten Gehirns darstellen. Wir sehen Gegenstände so, wie seine Persönlichkeiten sie sahen, und zwar mit den Augen des umherziehenden Juden, des verwirrten Don oder der Goldschmiedstochter, deren Fantasie den König im Laden am Pont-au-Change so sehr verherrlicht. Es lag in der Natur der Sache, dass er sich zu jedem Meisterwerk der Verse oder Prosa hingezogen fühlte, das ich als einzigartig bezeichnete. Die unteren Königreiche wurden in seinen Dienst berufen; Seine Felsen, Bäume und Berge, der Himmel selbst sind voller Motive und Diablerie. Hätte er noch gelebt, um Shakespeare zu illustrieren, hätten wir in „Lear“ eine bemerkenswerte Behandlung von Caliban, den Hexen und dem Sturm gesehen; aber zweifellos hätte er seine Ideale von Imogen oder Miranda in Frage stellen sollen. Die pure und einfache Schönheit und ihre vollkommene Exzellenz schien er selten zu begreifen.
+
+Dennoch liegt in seinen Entwürfen für den „Ancient Mariner“ Schönheit, so unwirklich sie auch sind, und eine Kontinuität, die in einer Serie von Doré selten vorkommt. Der Raureif bot ihm eine ausgedehnte Geschichte mit vielen Szenenwechseln. In „The Raven“ bleiben Klang und Farbe monoton und es gibt keinen Orts- oder Anlasswechsel. Was ist das Ergebnis? Doré bietet eine Reihe von Variationen des von ihm konzipierten Themas „Das Rätsel des Todes und die Halluzination einer untröstlichen Seele“. In einigen dieser Zeichnungen sind seine Fehler offensichtlich; andere offenbaren seine kraftvolle Originalität und die besten Qualitäten, in denen er als Zeichner einzigartig war. Offensichtlich gab es zwischen den Arbeitsstimmungen von Poe und Doré etwas gemeinsam. Dies würde deutlicher erscheinen, wenn dieser sich an den „Geschichten vom Grotesken und Arabesken“ versucht hätte. Beide griffen oft in das Elfenland der Fantasie und Romantik zurück. In melodramatischen Kunststücken mieden beide durch ihre Beherrschung des Übernatürlichen die Gefahrengrenze zwischen dem Ideal und dem Absurden. Poe war der treuere Verehrer des Schönen; Seine Liebe dazu war eine weihende Leidenschaft, und hier trennt er sich von seinem Illustrator. Ob Dichter oder Künstler, der Tod verwandelt endlich alle: Im Schatten seines schwarzen Vorboten stellt Vedders symbolischer Buntstift sie treffend gegenüber, umhüllt sie jedoch mit dem Mantel unsterblicher Weisheit und Macht. Eine Amerikanerin hat mit der letzten Fackel das Bild eines sternenäugigen Genies geschaffen, den exquisiten Anschein einer Person, deren Vision die Geheimnisse eines Landes jenseits der „Tür eines sagenumwobenen Grabes“ erblickt, deren Lippen sie aber nicht aussprechen dürfen.
+
+Edmund C. Stedman.
+
+DAS GEDICHT.
+
+Abbildung 1
+
+DER RABE.
+
+Es war einmal eine trostlose Mitternacht, während ich schwach und müde nachdachte,
+
+Über viele urige und merkwürdige Bände vergessener Überlieferungen,
+
+Während ich nickte und fast ein Nickerchen machte, ertönte plötzlich ein Klopfen.
+
+Als würde jemand sanft an meine Zimmertür klopfen.
+
+„Es ist ein Besucher“, murmelte ich, „der an meine Zimmertür klopft –
+
+Nur dies und nichts weiter.“
+
+Ah, ich erinnere mich genau daran, dass es im trostlosen Dezember war,
+
+Und jede einzelne sterbende Glut erzeugte ihren Geist auf dem Boden.
+
+Ich wünschte mir sehnsüchtig den Morgen: – vergeblich hatte ich versucht, etwas zu borgen
+
+Aus meinen Büchern: Ende der Trauer – Trauer um die verlorene Lenore –
+
+Für die seltene und strahlende Jungfrau, die die Engel Lenore nennen –
+
+Für immer hier namenlos.
+
+Und das seidene, traurige, unsichere Rascheln jedes lila Vorhangs
+
+Hat mich begeistert – hat mich mit fantastischen Schrecken erfüllt, die ich noch nie zuvor gespürt habe;
+
+Um meinen Herzschlag zu beruhigen, stand ich nun da und wiederholte es
+
+„Es ist ein Besucher, der an meiner Zimmertür um Einlass bittet
+
+Ein verspäteter Besucher bittet um Einlass an meiner Zimmertür; –
+
+Das ist es und nichts weiter.“
+
+Jetzt wurde meine Seele stärker; Dann zögere nicht länger,
+
+„Herr“, sagte ich, „oder meine Dame, ich flehe wirklich um Ihre Vergebung an;
+
+Aber Tatsache ist, dass ich ein Nickerchen gemacht habe und du so sanft geklopft hast,
+
+Und so leise klopftest du an meine Kammertür,
+
+Dass ich kaum sicher war, dass ich dich gehört habe“ – hier öffnete ich die Tür weit; –
+
+Dort ist es dunkel und nichts weiter.
+
+Tief in diese Dunkelheit spähend, stand ich lange da und fragte mich, fürchtete mich,
+
+Zweifelnde, träumende Träume, die noch nie ein Sterblicher zu träumen gewagt hat;
+
+Aber die Stille war ungebrochen, und die Dunkelheit gab kein Zeichen,
+
+Und das einzige Wort, das dort gesprochen wurde, war das geflüsterte „Lenore!“
+
+Das flüsterte ich, und ein Echo murmelte das Wort „Lenore!“ zurück.
+
+Nur dies und nichts weiter.
+
+Zurück in die Kammer, die sich dreht, meine ganze Seele in mir brennt,
+
+Bald hörte ich erneut ein Klopfen, etwas lauter als zuvor.
+
+„Sicherlich“, sagte ich, „sicherlich ist das etwas an meinem Fenstergitter;
+
+Lassen Sie mich also sehen, was da ist, und dieses Geheimnis erforschen –
+
+Lass mein Herz einen Moment still sein und dieses Geheimnis erforschen;-
+
+Es ist der Wind und nichts weiter!“
+
+Hier öffnete ich den Verschluss, als ich mit vielem Flirten und Flattern
+
+Dorthin trat ein stattlicher Rabe aus den heiligen Tagen von einst.
+
+Er zeigte nicht die geringste Ehrerbietung; keine Minute blieb er stehen oder blieb;
+
+Aber, mit der Miene eines Herrn oder einer Dame, über meiner Kammertür sitzend –
+
+Sitzt auf einer Pallas-Büste direkt über meiner Kammertür –
+
+Hingesetzt und gesessen, und nichts weiter.
+
+Dann verführt dieser ebenholzfarbene Vogel meine traurige Fantasie zum Lächeln,
+
+Durch den ernsten und strengen Anstand des Gesichts, das es trug,
+
+„Obwohl dein Kamm geschoren und rasiert ist, du“, sagte ich, „bist sicher kein Feigling,
+
+Ein grässlicher, grimmiger und uralter Rabe, der vom nächtlichen Ufer wandert –
+
+Sage mir, wie dein herrschaftlicher Name an der plutonischen Nachtküste lautet!“
+
+Sagte der Rabe: „Niemals mehr.“
+
+Ich wunderte mich sehr darüber, dass dieses ungelenke Geflügel den Reden so deutlich zuhörte.
+
+Auch wenn die Antwort wenig Bedeutung hatte – wenig Relevanz;
+
+Denn wir können nicht anders, als zuzustimmen, dass es keinen lebenden Menschen gibt
+
+War jemals mit dem Anblick eines Vogels über seiner Kammertür gesegnet –
+
+Vogel oder Tier auf der skulpturalen Büste über seiner Kammertür,
+
+Mit einem Namen wie „Nevermore“.
+
+Aber der Rabe, der einsam auf der ruhigen Büste saß, sprach nur
+
+Dieses eine Wort, als ob seine Seele in diesem einen Wort ergoss.
+
+Nichts weiter, als er aussprach – keine Feder, als er flatterte –
+
+Bis ich kaum mehr als murmelte: „Andere Freunde sind schon einmal geflogen …“
+
+Am nächsten Morgen wird er mich verlassen, wie meine Hoffnungen schon zuvor verflogen waren.
+
+Dann sagte der Vogel: „Nevermore.“
+
+Erschrocken über die Stille, die durch die so treffend gesprochene Antwort unterbrochen wurde,
+
+„Zweifellos“, sagte ich, „was es ausspricht, ist sein einziger Vorrat und Vorrat,
+
+Gefangen von einem unglücklichen Herrn, der eine unbarmherzige Katastrophe erlitt
+
+Er folgte schnell und immer schneller, bis seine Lieder nur noch eine Last trugen –
+
+Bis zu den Klageliedern seiner Hoffnung, die diese melancholische Last trug
+
+Von ‚Niemals – nie mehr‘.“
+
+Aber der Rabe verführt immer noch meine ganze traurige Seele zum Lächeln,
+
+Geradeaus rollte ich einen gepolsterten Sitz vor Vogel, Büste und Tür;
+
+Dann, als der Samt sank, begann ich mit dem Verknüpfen
+
+Phantasie zu Fantasie, darüber nachdenkend, was dieser unheilvolle Vogel von einst –
+
+Was für ein grimmiger, unbeholfener, grässlicher, hagerer und bedrohlicher Vogel von einst
+
+Gemeint ist das krächzende „Nevermore“.
+
+Ich saß da ​​und war damit beschäftigt, zu raten, aber keine Silbe auszudrücken
+
+Zu dem Vogel, dessen feurige Augen sich jetzt in den Kern meiner Brust brannten;
+
+Dies und noch mehr saß ich da und prophezeite, den Kopf entspannt zurückgelehnt
+
+Auf dem Samtfutter des Kissens, über das sich das Lampenlicht freute,
+
+Aber dessen samtiges violettes Futter über dem sich das Lampenlicht freut
+
+Sie wird drücken, ach, nie mehr!
+
+Dann, so dachte ich, wurde die Luft dichter und duftete nach einem unsichtbaren Räuchergefäß
+
+Von Seraphim geschwungen, deren Schritte auf dem büscheligen Boden klirrten.
+
+„Elender“, schrie ich, „dein Gott hat dich geliehen – durch diese Engel hat er dich gesandt.“
+
+Ruhe – Ruhe und nepenthe von deinen Erinnerungen an Lenore!
+
+Quaff, oh quaff, diese nette Nepenthe, und vergiss diese verlorene Lenore!“
+
+Sagte der Rabe: „Niemals mehr.“
+
+"Prophet!" sagte ich: „Ding des Bösen! – Prophet immer noch, ob Vogel oder Teufel! –
+
+Ob der Versucher dich schickte oder ob der Sturm dich hier an Land warf,
+
+Trostlos und doch unerschrocken, in diesem verzauberten Wüstenland –
+
+In diesem Haus, das vom Grauen heimgesucht wird – sag es mir wahrhaftig, ich flehe –
+
+Gibt es – gibt es Balsam in Gilead? – Sag es mir – Sag es mir, ich flehe!“
+
+Sagte der Rabe: „Niemals mehr.“
+
+"Prophet!" sagte ich, „Ding des Bösen – immer noch ein Prophet, sei es ein Vogel oder ein Teufel!“
+
+Bei diesem Himmel, der sich nach oben beugt, bei diesem Gott, den wir beide anbeten –
+
+Sage dieser mit Trauer beladenen Seele, ob im fernen Aidenn
+
+Es soll eine heilige Jungfrau umarmen, die die Engel Lenore nennen –
+
+Umarme eine seltene und strahlende Jungfrau, die die Engel Lenore nennen.
+
+Sagte der Rabe: „Niemals mehr.“
+
+„Sei dieses Wort unser Zeichen des Abschieds, Vogel oder Unhold!“ Ich schrie empört –
+
+„Geh zurück in den Sturm und an die plutonische Küste der Nacht!
+
+Hinterlasse keinen schwarzen Federbusch als Zeichen der Lüge, die deine Seele gesprochen hat!
+
+Lass meine Einsamkeit ungebrochen! – verlasse die Büste über meiner Tür!
+
+Nimm deinen Schnabel aus meinem Herzen und nimm deine Gestalt von meiner Tür!“
+
+Sagte der Rabe: „Niemals mehr.“
+
+Und der Rabe, der nie umherflattert, sitzt immer noch, sitzt immer noch
+
+Auf der blassen Büste von Pallas direkt über meiner Kammertür;
+
+Und seine Augen sehen aus wie die eines träumenden Dämons,
+
+Und das Lampenlicht, das über ihn strömt, wirft seinen Schatten auf den Boden;
+
+Und meine Seele aus dem Schatten, der auf dem Boden schwebt
+
+Wird aufgehoben – niemals mehr!
+
