@@ -1,0 +1,570 @@
+The Project Gutenberg eBook of The Raven, Edgar Allan Poe.
+
+The Project Gutenberg eBook of The Raven
+
+Tato e-kniha je určena k použití komukoli kdekoli ve Spojených státech a většině ostatních částí světa bez jakýchkoli nákladů a téměř bez jakýchkoli omezení. Můžete ji zkopírovat, darovat nebo znovu použít za podmínek licence Project Gutenberg, která je součástí této elektronické knihy, nebo online na www.gutenberg.org . Pokud se nenacházíte ve Spojených státech, budete si muset před použitím této elektronické knihy ověřit zákony země, kde se nacházíte.
+
+Název : Havran
+
+Autor : Edgar Allan Poe
+
+Komentátor : Edmund Clarence Stedman
+
+Ilustrátor : Gustave Doré
+
+Datum vydání : 30. listopadu 2005 [elektronická kniha #17192] Naposledy aktualizováno: 13. prosince 2020
+
+Jazyk : angličtina
+
+Kredity : Produkce Jason Isbell, Melissa Er-Raqabi a The Online Distribuovaný tým korektur na https://www.pgdp.net.
+
+*** ZAČÁTEK PROJEKTU GUTENBERG EBOOK THE RAVEN ***
+
+Zadní kryt
+
+KRAVAN
+
+Podle
+
+EDGAR ALLAN POE
+
+ILUSTROVANÝ Autor: GUSTAVE DORÉ
+
+Titulní obrázek
+
+S KOMENTÁŘEM EDMUND C. STEDMANA
+
+NEW YORK
+
+HARPER & BROTHERS, VYDAVATELÉ, FRANKLIN SQUARE
+
+1884
+
+Zapsána podle zákona Kongresu v roce 1883
+
+HARPER & BRATŘI,
+
+V kanceláři knihovníka Kongresu ve Washingtonu.
+
+Všechna práva vyhrazena.
+
+Přepisovatelovy poznámky
+
+V Seznamu ilustrací jsem obnovil chybějící jediný citát po Lenore! jak je uvedeno níže:
+
+„Ubožáku,“ zvolal jsem, „půjčil ti tvůj Bůh – prostřednictvím těchto andělů tě poslal Odpočinek – oddech a nepenthe ze svých vzpomínek na Lenore!“
+
+Seznam ilustrací používá výraz „návštěvník“, kde báseň a skutečná ilustrace používají výraz „návštěvník“.
+
+SEZNAM ILUSTRACÍ
+
+Se jmény rytců
+
+Titulní strana, design Elihu Vedder.
+
+Frederick Juengling.
+
+"Už nikdy."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claudius.
+
+"Kdysi o půlnoci bezútěšný, když jsem přemýšlel, slabý a unavený, Přes mnoho kuriózních a zvláštních svazků zapomenutých tradic."
+
+RA Muller.
+
+"Ach, jasně si vzpomínám, bylo to v ponurém prosinci, A každý jednotlivý umírající uhlík vytvořil svůj duch na podlaze."
+
+RG Tietze.
+
+„Dychtivě jsem si přál zítřek; marně jsem hledal půjčku Z mých knih příval smutku – smutek za ztracenou Lenore."
+
+H. Claudius.
+
+"Smutek za ztracenou Lenore."
+
+W. Zimmermann.
+
+„Pro vzácnou a zářivou dívku, kterou andělé jmenují Lenore – Bezejmenný tady navždy."
+
+Frederick Juengling.
+
+"Je to nějaký návštěvník, který žádá vstup u dveří mé komnaty - Nějaký pozdní návštěvník žádající o vstup u dveří mé komory."
+
+W. Zimmermann.
+
+-"Tady jsem otevřel dveře dokořán;-Tam je tma a nic víc."
+
+H. Claudius.
+
+"Pochybování, snít sny se žádný smrtelník nikdy předtím neodvážil snít."
+
+FS Král.
+
+„Jistě,“ řekl jsem, „to je jistě něco na mé okenní mříži; Nech mě tedy vidět, co tam je, a prozkoumat toto tajemství."
+
+Frederick Juengling.
+
+"Otevři tady, mrštil jsem závěrkou."
+
+T. Johnson.
+
+-"Vznešený Havran dávných svatých dnů. Nepřiměla ho ani sebemenší poklona; ani minutu nezastavil nebo nezůstal."
+
+R. Staudenbaur.
+
+„Usazený na bustě Pallas těsně nad dveřmi mé komnaty – Posadil se, seděl a nic víc."
+
+RG Tietze.
+
+"Putování z nočního pobřeží."
+
+Frederick Juengling.
+
+„Dokud jsem sotva zamumlal: ‚Jiní přátelé už létali… Zítra mě opustí , jak mé naděje letěly dříve.'“
+
+Frank French.
+
+„Potom, když se samet potopil, jsem se dal na spojování Přemýšlejte do fantazie."
+
+R. Schelling.
+
+„Ale jehož sametově fialové lemování se skvělým světlem lampy Bude tlačit, ach, už nikdy!"
+
+George Kruell.
+
+„Ubožáku,“ zvolal jsem, „půjčil ti tvůj Bůh – prostřednictvím těchto andělů tě poslal Odpočinek – oddech a nepenthe ze svých vzpomínek na Lenore!“
+
+Viktor Bernstrom.
+
+"V tomto domě straší hrůzou."
+
+R. Staudenbaur.
+
+"'Řekni mi doopravdy, prosím - Je tam - je v Gileadu balzám? - řekni mi - řekni mi, prosím!"
+
+W. Zimmermann.
+
+„Řekni této duši se zármutkem, pokud ve vzdáleném Aidennu Bude sevřít svatou dívku, kterou andělé jmenují Lenore."
+
+FS Král.
+
+"Buď to slovo naším znamením rozchodu, ptáku nebo ďábla!" zaječel jsem povzneseně."
+
+W. Zimmermann.
+
+"'Dostaň tě zpět do bouře a na Noční plutonské pobřeží!"
+
+Robert Hoskin.
+
+„A moje duše z toho stínu, který leží a vznáší se na podlaze Budu zvednut — už nikdy!"
+
+RG Tietze.
+
+Tajemství Sfingy.
+
+R. Staudenbaur.
+
+KOMENTÁŘ K BÁSNI.
+
+Tajemství básně, ne méně než prosperita vtipu, spočívá v uchu toho, kdo ji slyší. Podlehněte jeho kouzlu, přijměte básníkovu náladu: na to ostatně odpovídají mudrci, když se jich ptáte na její hodnotu. I když vám básník sám ve své jiné náladě říká, že jeho umění je pouhou chytrostí, jídlem jeho potravinářského kouzelníka, a nabízí vám, že vám ukáže trik, – nevěřte mu. Počkejte na jeho prorockou hodinu; pak se oddejte jeho vášni, jeho radosti nebo bolesti. "Dnes jsme v rukou lásky!" zpívá Gautier, v bujné parafrázi Swinburne, — a od rána do západu slunce jsme uneseni na bouřlivém moři: je jen jedna láska, jeden máj, jeden květinový pramen. Láska je věčná, všechno ostatní neskutečné a odložené. Vize má konec, scéna se mění; ale něco jsme získali, vzpomínku na kouzlo. Kolik básníků, tolik kouzel. Je tu kouzlo Evanescence, to, co propůjčuje nejvyšší krásu a půvab aureole Pathos. Podělte se s Landorem o jeho jednu „noc vzpomínek a vzdechů“ pro Rose Aylmerovou, a máte to naplno.
+
+A nyní vezmi ruku pěvce z nového světa, zabloudilého z nějakého vhodného prostředí do té hrubé a disonantní Ameriky, která, jak Baudelaire viděl, „byla pro Poea jen obrovským vězením, jímž pobíhal sem a tam s horečnatým vzrušením bytosti stvořené, aby dýchala v čistším světě“, a kde „jeho vnitřní život byl duchovní, dokonce i jako opilec opilý, duchovní. antipatická atmosféra." Sevřete citlivou ruku utrápeného zpěváka, který se tak zahalil, a podělte se s ním o podnebí, ve kterém našel – nikdy přes den, vždy v noci – když ne Atlantidu, odkud se toulal, alespoň útočiště před hranicemi, v nichž byl ve dne uvězněn.
+
+Pouze do jedné země má moc vás vést a jen na jednu noc můžete sdílet jeho sen. Traktát ani Země, ani Nebe: „Země nikoho“, mimo vesmír, mimo čas. Zde jsou ti rozrušení, jejichž očima, stejně jako očima Cenciů, nachází duše okna, ačkoli mysl je omámená; zde jsou duchové, tápající po cestě, která vede do Věčnosti, zastaveni a zdrženi. Je to limbo „planetárních duší“, ve kterých jsou všechny nejistoty měsíčního svitu, všechny ztracené lásky a iluze. Zde jsou někteří fixováni v transu, jediném dosažitelném oddechu; ostatní
+
+"pohybuj se fantasticky
+
+Na nesouhlasnou melodii:"
+
+zatímco všude jsou
+
+„Plněné vzpomínky na minulost –
+
+Zahalené formy, které startují a vzdychají
+
+Když míjejí tuláka."
+
+Taková je země a na jednu noc do ní vstoupíme – noc astrálních fází a opakujících se zvonění. Jeho monodiemi je dvanáct básní, jejichž hudba se snaží měnit, ale stále je stejná. Jeden po druhém znějí, jako odbíjení mosazných a ebenových hodin, v „Maska rudé smrti“, která přiměla valčíky zastavit se „znepokojeností, chvěním a meditací“, tak často, jak se blížila hodina.
+
+Ze všech těchto mystických kadencí zapůsobila na vnější svět hlavně pláč Havrana , vibrující portálem. Co všechno se děje při tvorbě básně – a jak pravdivé v této, stejně jako ve většině ostatních, té rase, která své bardy pojmenovala „tvůrci“? Dílo je voláno z prázdnoty. Tam, kde nic nebylo, to zůstává – nové stvoření, součást pokladu lidstva. A několik výjimečných textů, více než jiné, které jsou stejně kreativní, nás nutí znovu přemýšlet, jak statečně básníkovo pero mění věci na neznámé
+
+„tvaruje a nedává vzdušnému nic
+
+Místní obydlí a jméno."
+
+Každý vypadá bez prototypu, přesto nás všechny fascinují prvky vyrvanými ze stínu nadpřirozena. Nyní se nejvyšší představivost zabývá duší věcí; může nebo nemusí inspirovat fantazii, že lidé s obrazy jsou meziměsíční vágní. Přesto na nás jeden z těchto textů ve své menší míře působí pocitem výjimečnosti, stejně jistě jako vznešenější díla nadpřirozeného obsazení – Marloweův „Faustus“, „Faust“ Goetha, „Manfred“ nebo dokonce ta éterická mistrovská díla „The Tempest“ a „A Sen noci svatojánské“. Více než jeden, i když jinak jedinečný, má nějaké  břemeno nebo refrén, který pronásleduje vzpomínku – jednou slyšený, nikdy nezapomenutý, jako tón zřídka používané, ale výrazné varhanní zastávky. Pozoruhodná je mezi nimi Bürgerova „Lenore“, ta přízračná a zvučná balada, lákadlo a podraz překladatelů. Málokdo bude popírat, že Coleridgeův úžasný "Rime of the Ancient Mariner" stojí v jejich samotném čele. „Le Juif-Errant“ by tvrdil, kdyby byl Beranger větší básník; a, ale pro jejich odlehlost od lidových sympatií, „The Lady of Shalott“ a „The Blessed Damozel“ by mohly být přidány do seznamu. Edgar Allan Poe dostal za úkol vytvořit dva texty, „The Bells“ a The Raven , z nichž každý, i když možná méně krásný než texty Tennysona a Rossettiho, je jedinečný. "Ulalume", i když je stejně zvláštní a nápaditý, nemá univerzální kvalitu, která je součástí našeho testu.
+
+Havran v naprostých poetických složkách spadá pod takové skladby jako „Strašidelný palác“, „Město v moři“, „Spáč“ a „Israfel“. Tuším, že by to celé vyměnili čtenáři s náročným obsazením za takové pasáže, jako jsou tyto:
+
+"Okolo, zvednutím větru zapomněli,
+
+Rezignovaně pod nebem
+
+Melancholické vody leží.
+
+Žádné paprsky ze svatého nebe nespadají dolů
+
+Za dlouhé noci toho města;
+
+Ale světlo z odporného moře
+
+Tiše proudí do věží –
+
+· · · · · ·
+
+Nahoře mnoho a mnoho podivuhodná svatyně
+
+Čí věnečky vlysy se proplétají
+
+Fialka, fialka a vinná réva.
+
+· · · · · ·
+
+Žádné otoky nenaznačují, že by mohly být větry
+
+Na nějakém daleko šťastnějším moři –
+
+Žádné zvednutí nenaznačuje, že by byly větry
+
+Na mořích méně příšerně klidných."
+
+Postrádá vzdušnou melodii básníka, jehož srdeční struny jsou loutnou:
+
+"A oni říkají (hvězdný sbor
+
+A další poslechové věci)
+
+Ten Israfeliho oheň
+
+Je to díky té lyře
+
+U kterého sedí a zpívá –
+
+Chvějící se živý drát
+
+Z těch neobvyklých strun."
+
+Ale The Raven , stejně jako "The Bells" a "Annabel Lee", se doporučuje mnoha a nemnohým. Na jiném místě jsem řekl, že Poeovy vzácnější inscenace mi připadaly „takové, ve kterých je alespoň zdání spontánnosti – ve kterých se poddává svým citům, zatímco umírá, padá a kadence nejmuzikálnější, nejmelancholičtější, pochází od něj nevědomky“. To je stále moje přesvědčení; a přesto na mě po novém prostudování této básně zapůsobí víc než kdy jindy od mého dětství. Blízká známost vypovídá ve prospěch každého skutečného uměleckého díla. Přimějte člověka, který umění nezná ani se o něj nestará, aby prozkoumal nějakou báseň nebo obraz, a jak brzy se ho zmocní jeho síla! Ve skutečnosti přecení relativní hodnotu prvního dobrého díla, které upoutalo jeho pozornost. Raven má také stálé vlastnosti, které musí obdivovat i odborník. V žádné jiné autorčině básní není motiv hmatatelněji definován. „Strašidelný palác“ je pro vybraného čtenáře stejně jednoznačný, ale Poe by tuto rafinovanou alegorii stěží vzal k plešaté analýze. Havran je zcela zaměstnán autorovým typickým tématem – nenávratnou ztrátou zbožňované a krásné ženy; ale také z jiných důvodů má veřejný instinkt pravdu, když ji považuje za svou reprezentativní báseň.
+
+Geniální muž obvykle získá pevnou půdu pod nohama s úspěchem nějakého jediného úsilí, a to není vždy jeho největší. Uznání je tím bezprostřednější, že bylo odloženo. Nezískává ho, jako lakomec, minci po minci, ale „vůbec ne nebo vůbec“. A tedy s jinými ambicemi: dvořan, voják, herec – ať už jsou jejich součástí jakékoli – každý počítá svůj triumf od nějaké šťastné rány. Poe's Raven, navzdory předzvěsti, pro něj byl „pták, který rozfoukal vánek“. Básník se usadil v New Yorku v zimě 1844-1845, našel práci na Willisově papíru „The Evening Mirror“ a svůj příjem si vydělával příspěvky jinde. Šest let byl aktivním spisovatelem a měl profesionální pověst; byl držen v úctě i pochybách a neztratil se za svůj podíl na špatně placené žurnalistice té doby. Odvedl také mnoho ze svých nejlepších prací – takové příběhy jako „Ligeia“ a „Pád domu Usherů“ (poslední jmenovaný obsahuje onen mystický protějšek ve verších Elihu Veddera „Ztracená mysl“), takové analytické počiny jako „Zlatý brouk“ a „Záhada Marie Roget“. Získal proselyty v zahraničí a získal trvalou kontrolu nad francouzskou myslí. Naučil se své vlastní síle a slabosti a byl na vrcholu, a ne bez jisté pověsti. Ale nenapsal nic, co by měli všichni na jazyku. K vzácné a delikátní práci je třeba přidat nějaký oblíbený nádech, aby bylo možné zachytit široké publikum své doby.
+
+Prostřednictvím průmyslu Poeových po sobě jdoucích životopisců se hit The Raven stal často vyprávěným příběhem. Básníkova mladá manželka Virginia před jeho očima bledla, ale ve stínu smrti se zdržela další rok. Dlouhá, nízká komora v domě poblíž Bloomingdale Road je jako  proslulá jako místnost, kde Rouget de l'Isle složil Marseillaisu. Všichni slyšeli, že báseň podepsaná „Quarles“ se objevila v „American Review“ s pseudoredakčním komentářem k její formě; že Poe za to dostal deset dolarů; že Willis, nejlaskavější a nejméně závistivý z módních arbitrů, to přetiskl s chvalozpěvem, který z toho okamžitě udělal řeč. Všechny pochybnosti o jeho autorství byly rozptýleny, když jej Poe sám recitoval na literárním shromáždění, a na čas byl nejvýraznějším z amerických autorů. Zásah ho povzbudil a povzbudil. Jako jiný a hrdější satirik i on našel „něco léta“ dokonce „v hučení hmyzu“. Dost smutné, ale uplynuly tři roky – období vlivu, pýchy, úzkosti, a přesto vždy plné imaginativní a kritické práce – před konečnou porážkou, než spadla opona za životem, který pro něj byl ve skutečnosti tragédií, a on se poddal „Červu dobyvateli“.
+
+„The American Review: A Whig Journal“ byl na svou dobu uznávaným časopisem, dvousloupcovým, tištěným na dobrém papíře jasným písmem a ilustrovaný mezzotintovými portréty. Uprostřed hmoty pod současným standardem obsahovala některé, které by každý editor rád přijal. Počáteční svazek z roku 1845 obsahuje články od Horace Greeleyho, Donalda Mitchella, Waltera Whitmana, Marshe, Tuckermana a Whipplea. V tomto svazku se objevila zvláštní báseň Ralpha Hoyta „Stará“. A zde jsou tři texty od Poea: „Město v moři“, „Údolí neklidu“ a Havran . Dvě z nich byly vytvořeny – takový byl jeho způsob – z dřívějších studií, ale poslední jmenovaný vyšel jako čerstvě složený a téměř tak, jak ho máme nyní. Tvrzení, že nebyl dodatečně revidován, je chybné. Jedenáct nepatrných změn oproti textu časopisu se objevuje v The Raven and Other Poems , 1845, knize, kterou básník brzy cítil povzbuzen nabídnout veřejnosti. Jedná se většinou o změny interpunkce nebo jednotlivých slov, druhý druh se provádí za účelem zvýšení účinku aliterace. V krásném vydání Poeových veršů pana Langa, vydaném v „Pergamenové knihovně“, ukázal instinkt učence a udělal moudře, když se vrátil k textu právě zmíněného svazku, jak je uvedeno v londýnském čísle z roku 1846. „Standardní“ Griswoldova sbírka básníkových děl je plná chyb. To bylo opakováno pozdějšími editory, kteří se také dopustili vlastních chyb. Ale text Havrana , dlužení k žádosti vznesené k autorovi pro kopie rukopisu, byl ještě dále revidován jím; ve skutečnosti ji otiskl v Richmondu těsně před svou smrtí s poetickou záměnou „serafínů, jejichž nohy padají“ za „anděly, jejichž slabé nohy padají“, ve čtrnácté sloce. Náš současný text, i když je podstatně text z roku 1845, je tedy poněkud pozměněn pozdější básníkovou četbou a je, myslím, nejsprávnější a nejefektivnější verzí této jediné básně. Nejradikálnější změna oproti nejstarší verzi se však objevila ve svazku v roce 1845; jedenáctá sloka původně obsahovala tyto řádky, chybné v rýmu a jinak vada na básni:
+
+„Chycený od nějakého nešťastného pána, který nemilosrdně neštěstí
+
+Následoval rychle a následoval rychleji – takže když Hope zaklínal,
+
+Stern zoufalství se vrátilo, místo sladké naděje, kterou se odvážil zapřísahat –
+
+Ta smutná odpověď: 'Už nikdy!'“
+
+Bylo by dobré, kdyby si jiní a slavní básníci mohli být tak jisti, že své změny vždy vylepší. Poe neustále předělával svou skrovnou ukázku veršů a obvykle je vylepšoval. Havran byl první z mála básní, které před tiskem téměř dokončil. Je možné, že ti, kteří se starají o poezii, ztratili jeho smrtí málo. Plynulý v próze, nikdy nepsal verše, aby vytvořil báseň. Když ho pronásledoval refrén obrazu, vzniklá lyrika byla, jak sám řekl, inspirací vášně, nikoli účelu. To bylo v intervalech tak vzácné, že to téměř ospravedlnilo Fairfieldovu teorii, že každý byl produktem nervové krize.
+
+Co tedy dalo básníkovi vodítko k Havranovi ? Z jakého zamlženého základu se pomalu zvedl k hudbě pomalu dýchající? Jako obvykle šlo do stavby tak pozoruhodné básně více než jedno. Vezmeme-li v úvahu delší kázání, která se často káží o krátkých a méně sugestivních textech, doufám, že nebudu obviňován z této diskuse o jediné lyrice, zvláště té, kterou umělec jako Doré učinil předmětem marnotratné ilustrace. Donedávna jsem se domníval, že tato skladba a některé z nich, které její autor složil po svém uvedení, jsou výjimečné tím, že v jeho chlapeckém verši nevyrostly ze zárodků. Ale pan Fearing Gill mi ukázal některé nepublikované sloky od Poea, napsané v jeho osmnácti letech a nazvané "Démon ohně." Rukopis je patrně v raném básníkově rukopisu a za jeho pravost ručí rodina, v jejímž držení zůstal po půl století. Kromě nejprostších zárodků "The Bells" a "The Haunted Palace" obsahuje několik řádků, které poněkud připomínají začátek a konec Havrana . Pokud jde o rytmus naší básně, srovnání dat ukazuje, že to bylo ovlivněno rytmem „Námluvy lady Geraldiny“. Poe byl jedním z prvních, kdo ocenil genialitu slečny Barrettové; zapsal jí své sebrané básně jako „nejušlechtilejší z jejího pohlaví“ a byl in  sympatie s její lyrickou metodou. Řádky z její milostné básně,
+
+„S šumivým pohybem nejistě ve vzduchu fialová opona
+
+Nafukuje se a vytéká kolem jejího nehybného bledého obočí."
+
+našel ozvěnu v těchto:
+
+„A hedvábné smutné nejisté šustění každého fialového závěsu
+
+Vzrušilo mě to - naplnilo fantastickými hrůzami, jaké jsem nikdy předtím nepocítil."
+
+Zde Poe převzal privilegium, za které Longfellowa hrubě odsuzoval a o které nikdo nikdy nehledal v jeho vlastních prostorách bez rychlého odhalení a potrestání. V melodii a slokové formě uvidíme, že obě básně nejsou nepodobné, ale motivem jsou zcela odlišné. Velkorysá básnířka necítila nic jiného než skutečnou originalitu básníka. "Tohle živé psaní!" zvolala: "tato síla, která je cítit!... Náš velký básník, pan Browning, autor 'Paracelsus' atd., je nadšený z obdivu k rytmu." Pan Ingram po zmínce o „Lady Geraldine“ chytře poukazuje na další zdroj, ze kterého mohl Poe zachytit impuls. V roce 1843 Albert Pike, napůl řecký, napůl hraničář, básník z Arkansasu, otiskl v „The New Mirror“, pro který Poe tehdy psal, některé verše nazvané „Isadore“, ale od té doby byly revidovány a nazvány „Ovdovělé srdce“. Z revize pana Pikea vybírám následující sloku, jejíž hlavní rysy odpovídají původní verzi:
+
+"Neklidně přecházím po našich osamělých pokojích, už nehraju naše písně,
+
+Křiklavé slunce okázale svítí na nezametenou podlahu;
+
+Výsměch pták stále sedí a zpívá, ó melancholické napětí!
+
+Neboť mé srdce je jako podzimní mrak, který přetéká deštěm;
+
+Jsi pro mě navždy ztracen, Isadore!"
+
+Zde máme prodloužený takt, podobnost refrénu a představení ptáka, jehož zpěv umocňuje smutek. Existují další stezky, které mohou zvědavci následovat; zejména pasáž, kterou si pan Ingram vybral z Poeovy závěrečné recenze "Barnaby Rudge":
+
+"Také havran, * * * mohl být vytvořen, více, než ho nyní vidíme, součástí koncepce fantastického Barnabyho. * * * Jeho postava mohla hrát, s ohledem na postavu idiota, téměř stejnou roli jako v hudbě, doprovod ve vzduchu."
+
+Po poukázání na tyto zárodky a podobnosti však hodnota této básně stále spočívá v její originalitě. Progresivní hudba, scénické detaily a kontrastní světlo a stín – především duchovní vášeň nokturna, z něj dělají dílo informujícího génia. Pokud jde o příšerného ptáka, je na rozdíl od všech ostatních havranů svého klanu, od „twa corbies“ a „tří havranů“ baladistů až po Barnabyho pomačkaný „Grip“. Není zde ani zdání krákání věže, která pronásleduje věžičky předků a šlape po poli heraldiky; žádný bodující fantom, o kterém Tickell zpíval, když,
+
+"Třikrát zakřičela na okno,
+
+Havran mával křídlem,
+
+Láska ztrápená dívka to příliš dobře věděla
+
+Slavnostní znamení."
+
+Poeův havran je odlišné pojetí; inkarnace truchlící agónie a beznaděje; sobol ztělesněný Memory, trvalý kronikář zkázy, typ Nenapravitelného. Když unikl přes Styx, z „Nočního plutonského břehu“, zdá se, že je obraznou duší samotného tazatele – toho, kdo nemůže, neudělá laskavou nepenthe, protože vzpomínka na Lenore je vše, co mu zbylo, a s přívalem jeho smutku by i to bylo odloženo.
+
+Havran může být také považován za reprezentativní báseň svého autora, protože je příkladem všech jeho představ o tom, čím by báseň měla být. Ty se nacházejí v jeho esejích na téma „Poetický princip“, „Odůvodnění verše“ a „Filozofie kompozice“. Poe prohlásil, že „v hudbě snad duše téměř dosáhne velkého cíle, o který, když je inspirována Poetickým citem, zápasí – vytvoření nadpozemské Krásy... Verš nemůže být označen lépe než jako podřadná nebo méně schopná hudba“; ale znovu, verš, který je ve skutečnosti „Poezií slov“, je „Rytmické stvoření krásy“ – toto a nic víc. Tón nejvyšší Krásy je tónem Smutku. Nejmelancholičtějším tématem je Smrt. To musí být spojeno s Krásou. "Smrt krásné ženy je tedy nepochybně nejpoetičtějším tématem na světě - a stejně tak je nepochybné, že rty se k takovému tématu nejlépe hodí rty zhrzeného milence." Tyto poslední výrazy jsou citovány z Poeovy náladové analýzy právě této básně, ale naznačují přesně obecný rozsah jeho veršů. Vrcholem "The Bells" je tlumený monotón ghúlů, kteří se chlubí tím, že tíží lidské srdce. „Lenore“, The Raven , „The Sleeper“, „To One in Paradise“ a „Ulalume“ tvoří tenebrózní symfonii – a „Annabel Lee“, napsaná jako poslední, ukazuje, že ho jedno téma ovládalo až do konce. Opět platí, že to všechno není nic, pokud ne hudební, a některé jsou dojaty tou kvalitou Fantastického, která probouzí pocit úžasu a přidává nový strach do samotné agónie. Vše se matně rýsuje, pod stínem stínu, básníkova ideální láska – tak často jinde napůl zobrazovaná – pohřbená manželka Ushera, lady Ligeia, v  pravda, protějšek jeho vlastní povahy. Předpokládám, že umělcova láska k jednomu „ve formě“ se nikdy nemůže zcela vyrovnat jeho oddanosti nějakému ideálu. Žena v jeho blízkosti musí používat svá kouzla, být střídavě a nic dlouhého, okouzlit ho nekonečnou rozmanitostí nebo se spokojit s tím, že se zřekne podílu jeho věrnosti. Musí se nechat zlákat Nedosažitelným, a to je v jeho vášni pro kreativní umění vždy nad jeho síly.
+
+Poe, stejně jako Hawthorne, přišel s úpadkem romantické školy a nikoho nepotěšilo víc než jeho smích nad její pohromou. Přesto jeho srdce patřilo romancím a jejich orientálním nebo gotickým efektům. Jeho vynález, tak bohatý na příběhy v próze, jako by ho opustil, když psal verše; a jeho úsudek mu řekl, že dlouhé romantické básně závisí více na události než na inspiraci – a že k vyslovení poezie romantiky by stačily texty. Odtud jeho teorie, jasně přizpůsobená jeho vlastním omezením, že „dlouhá báseň“ je plochý protimluv. Součásti Havrana je málo a jsou jednoduché: muž, pták a fantazmální vzpomínka na ženu. Ale kousek nabízí jemnou ukázku romantického materiálu. co máme? Půlnoc; temná komnata se svazky zapomenuté tradice; student, moderní Hieronymus; havranův poklep na křídlo; zimní noc a uhasínající oheň; hedvábné větrem ošlehané závěsy; sny a nejasná nedůvěra v ozvěnu temnoty; černý, podivný pták na bledém poprsí; doplňky z fialového sametu a chvějící se lampy. Celý tento jevištní efekt situace, světla, barvy, zvuku je čistě romantický a dokonce melodramatický, ale má poetickou kvalitu, kterou melodrama vykazuje jen zřídka, a důkladně odráží básníkovu „věčnou vášeň, věčnou bolest“.
+
+Rytmická struktura The Raven určitě udělala dojem. Rým, aliterace, zátěž, sloková forma byly navrženy s neobyčejnou obratností. Básník byl nepochybně ohromen trefností hudební trochaiky slečny Barrettové, v „osmičkách“, a zejména aranžmá přijatým v závěru „Lady Geraldine“:
+
+"'Oči," řekl, "teď mnou pulzují! Jsi oči, které mě rozrušily?"
+
+Zářící oči, jako starožitné šperky zasazené do parijského sochařského kamene!
+
+Pod tím klidným bílým čelem vždy hoříš
+
+Je pustá písečná poušť mého srdce a života zničena?'“
+
+Jeho umělecké zavedení třetího rýmu ve druhém a čtvrtém řádku a přidání pátého řádku a závěrečného refrénu vytvořilo sloku Havrana . Zdá se, že vytrvalá aliterace přichází bez námahy a často jsou rýmy v řádcích svůdné; přičemž celému dílu dominuje refrén či zátěž. Zde také těžil ze studia balad a romancí slečny Barrettové v jejím vlastním a jiném jazyce. „Refrén“ je návnada, kterou básník nebo hudebník drží toulavé ucho – opakující se touha přírody po počátečním napětí. Vždy jsem obdivoval krásné refrény anglické zpěvačky – „The Nightingales, the Nightingales“, „Margret, Margret“, „Moje srdce a já“, „Mýtno pomalu“, „Řeka teče dál“, „Pan, Pan je mrtev“ atd. Použila také to, čemu říkám Repetend, v jehož používání Poe exceloval u všech básníků od Coleridge:
+
+"Ó šťastné živé tvory! žádný jazyk."
+
+Jejich krása by mohla prozradit:
+
+Z mého srdce vytryskl pramen lásky,
+
+A požehnal jsem jim nevědomky:
+
+Můj milý svatý se nade mnou jistě slitoval,
+
+A požehnal jsem jim nevědomky."
+
+Poe vytvořil pátý řádek své sloky pro magii opakování. V několika pozdějších básních se na to maximálně spoléhal – „Lenore“, „Annabel Lee“, „Ulalume“ a „For Annie“. Získalo divokou a melancholickou hudbu, pomyslel jsem si, ze „sladkých vlivů“ afrických břemen a repetendů, které se mu zpívaly v dětství, a ladily s jejich rodnou melodií hlas našeho jižanského básníka.
+
+„Filozofie kompozice“, jeho analýza Havrana , je technickou pitvou její metody a struktury. Ani jeho vyznání chladnokrevnosti, ani jeho následné vyznání přátelům, že odhalení tohoto podvodu bylo jen dalším z jeho intelektuálních podvodů, není třeba plně přičítat. Kdyby celé dílo navrhl předem, stěží by udělal tak drsnou předehru chrastivých rýmů k lahodné melodii druhé sloky – ani na jeho teorii fantastičnosti. Samozřejmě umělec, který dílo zdokonalil, vidí jako první umělec, že ​​je dobré, a vidí, proč je dobré. Následnou analýzu spojenou s odmítnutím jakéhokoli posvátného ohně lze snadno provést. Věřím, že první koncepce a hrubý návrh této básně přišel jako inspirace vždy; že jeho autor pak viděl, jak by mohl být zdokonalen, dal mu poslední úpravy popsané v jeho kapitole o Kompozici, a že to druhé tedy není ani zcela nepravdivé, ani zcela pravdivé. Škodou takové analýzy je, že nováčka svádí k představě, že umělé procesy mohou nahradit představivost. Impulsem génia je střežit tajemství své tvůrčí hodiny. Letmé pohledy na dřinu, zmatené experimenty, které předcházejí triumfu, jako v Hawthornově náčrtku, který nedávno vyšel na světlo, poskytují upřímnému umělci neocenitelné poučení a povzbuzení. Ale jeden  kdo svou Múzu dobrovolně vystaví pohledům všech příchozích, měl by si připomenout osud krále Candaulese.
+
+Svět si stále myslí o Poeovi jako o „nešťastném geniálním muži“. Nedávno jsem ho slyšel zmiňovat jako "ten, o kterém se zdá, že je každý oprávněn zkreslovat, odsuzovat nebo pomlouvat." Ale zdá se mi, že jeho smůla skončila jeho politováníhodnou smrtí a že od té doby je jeho obrana vytrvalá a jeho sláva neochvějného růstu, o který se mohl ve své nadějné hodině modlit, trpící a nadaný autor. Griswoldovo pomluvy a pomluvy obrátily proud v jeho prospěch. Kritici a životopisci přicházejí s postupnými vyvraceními, s poctou jeho postavě a s novými vydáními jeho děl. Před námi jsou jeho vlastní dopisy a nepatrné incidenty z jeho kariéry; záznam, dobrý i špatný, je všeobecně známý. Žádný odvolatel nezískal něžnější a shovívavější rozsudek. Jeho životní neštěstí patřily k jeho kraji a období, možná ještě více k jeho vlastní slabosti vůle. Jeho prostředí bezpochyby nepatřilo k tomu, aby chránilo jemnozrnnou, nevyrovnanou přírodu před nebezpečím vně i uvnitř. Jeho nejsilnější vůle, být pánem sama sebe, pro něj získala „to dědictví bědy“. Přiznal se jako nešťastný ptačí pán, který trpí touto básničkou. Ale jeho byl plný podíl na té dramatické náladě, která jásá předzvěstí vlastní zkázy. Je potěšením hrát svou vysokou roli: všichni jsme gladiátoři, pláčeme Ave Imperator! Abychom citovali Burkovu věc: "Ve zármutku je potěšení stále na prvním místě a utrpení, které trpíme, nemá žádnou podobnost s absolutní bolestí, která je vždy odporná a kterou se snažíme co nejdříve setřást." Poe šel dále a byl umělcem i v tragédii své kariéry. Jestliže jsou podle jeho vlastního přesvědčení nejvyššími básnickými tématy smutek a mizení krásy a básnické cítění nejprudším pozemským potěšením, pak smutek a temnota jeho zlomeného života nebyly bez jejich časté kompenzace.
+
+Na následujících stránkách máme čerstvou ukázku umělcova génia charakterizujícího jeho interpretaci slavné básně. Gustave Doré, jehož poslední práce tužkou je před námi, nebyl malířem, ba dokonce ani kreslířem pro realisty požadující pravdivost tónu, postavy a dokonalosti. Takové záležitosti se ho netýkaly méně než to, aby tvar a vzdálenost, světlo a stín pomohly jeho záměru – což bylo vzrušit duši a představivost toho, kdo se dívá. Dělal to tak, že vzbuzoval náš pocit úcty prostřednictvím podivuhodných a často vznešených pojetí věcí nevyslovitelných a plných temnoty nebo slávy. Říká se, že pokud jeho díla nebyla velkými obrazy, jako obrazy jsou skutečně skvělé. Jakožto „literární umělec“ a takový byl, byla jeho síla v přímé úměře s dramatickou invencí jeho autora, se statečnou troufalostí ducha, která rozněcovala jeho vlastního. Odtud jeho úspěch s Rabelaisem, s „Le Juif-Errant“, „Les Contes Drolatiques“ a „Don Quijote“, a proto naopak jeho neschopnost vyjádřit krásu Tennysonových idyl, „Il Paradiso“, hebrejských pastorálů a dalších textů vyžadujících povznesení nebo sladkost a odpočinek. Byl rozeným mistrem grotesky a zvláštním vhledem dokázal vykreslit přízraky strašidelného mozku. Vidíme předměty tak, jak je viděly jeho osoby, a očima potulného Žida, zmateného Dona nebo zlatnické dcery, jejíž fantazie tak zvelebuje krále v obchodě na Pont-au-Change. Bylo to v povaze věcí, že by ho mělo přitahovat každé mistrovské dílo verše nebo prózy, které jsem nazval jedinečným. Dolní království byla povolána do jeho služeb; jeho skály, stromy a hory, samotná obloha, jsou oživené motivem a umem. Kdyby žil, aby ilustroval Shakespeara, měli bychom vidět pozoruhodné zpracování Kalibána, čarodějnic, bouře v „Learovi“; ale nepochybně měl zpochybnit své ideály Imogen nebo Mirandy. Čistá a prostá krása a její dokonalá dokonalost, jak se zdálo, jen zřídka chápal.
+
+Přesto je v jeho návrzích pro „Ancient Mariner“ krása, i když jsou neskutečné, a návaznost vzácná v sérii od Doré. Rime mu poskytl dlouhý příběh s mnoha posuny scény. V The Raven si zvuk a barva zachovávají svou monotónnost a nemáme žádnou změnu místa nebo příležitosti. jaký je výsledek? Doré nabízí řadu variací na téma, jak jej pojal, „záhada smrti a halucinace bezútěšné duše“. Na některých z těchto kreseb jsou patrné jeho chyby; jiní odhalují jeho mocnou originalitu a nejlepší vlastnosti, v nichž jako kreslíř stál sám. Mezi pracovními náladami Poea a Doré bylo zjevně něco společného. To by se jevilo jasněji, kdyby si ten druhý vyzkoušel „Příběhy grotesky a arabesky“. Oba se často uchýlili do elfí země fantazie a romantiky. V melodramatických skutcích se oba díky ovládání nadpřirozena vyhýbali nebezpečné hranici mezi ideálem a absurditou. Poe byl opravdovějším ctitelem Krásné; jeho láska k němu byla zasvěcenou vášní a zde se dělí se svým ilustrátorem. Básník nebo umělec, Smrt konečně proměňuje vše: ve stínu jeho sobolí předzvěsti je Vedderova symbolická pastelka vhodně postaví tváří v tvář, ale zahalí je do pláště nesmrtelné moudrosti a síly. Americká žena vytvořila obraz génia s hvězdnýma očima s poslední pochodní, vynikající zdání toho, jehož vize spatří, ale jehož rty možná nevysloví, tajemství země za „dveřemi legendární hrobky“.
+
+Edmund C. Stedman.
+
+BÁSNĚ.
+
+Ilustrace 1
+
+KRAVAN.
+
+Kdysi o půlnoci ponuré, když jsem přemýšlel, slabý a unavený,
+
+Přes mnoho kuriózních a kuriózních svazků zapomenutých tradic,
+
+Zatímco jsem skoro usínal přikývl, najednou se ozvalo zaklepání,
+
+Jako když někdo jemně klepe, klepe na dveře mé komory.
+
+„To je nějaký návštěvník,“ zamumlal jsem a „klepal na dveře své komnaty –
+
+Jen tohle a nic víc."
+
+Ach, jasně si vzpomínám, že to bylo v ponurém prosinci,
+
+A každý jednotlivý umírající uhlík vytvořil na podlaze svého ducha.
+
+Dychtivě jsem si přál zítřek: — marně jsem hledal půjčku
+
+Z mých knih příval smutku – smutek za ztracenou Lenore –
+
+Pro vzácnou a zářivou dívku, kterou andělé jmenují Lenore –
+
+Bezejmenný tady navždy.
+
+A hedvábné smutné nejisté šustění každého fialového závěsu
+
+Vzrušovalo mě – naplňovalo fantastickými hrůzami, jaké jsem nikdy předtím nepocítil;
+
+Takže teď, abych tišil tlukot svého srdce, jsem stál a opakoval
+
+"T je nějaký návštěvník, který žádá vstup u dveří mé komnaty."
+
+Nějaký pozdní návštěvník naléhá na vchod u dveří mé komory;-
+
+Tohle je a nic víc."
+
+Nyní má duše zesílila; váhat pak už ne,
+
+"Pane," řekl jsem, "nebo paní, opravdu vás prosím o odpuštění;
+
+Ale faktem je, že jsem si zdřímnul a ty jsi tak jemně rapoval,
+
+A tak slabě jsi zaklepal, zaklepal na dveře mé komory,
+
+Stěží jsem si byl jistý, že jsem tě slyšel" — tady jsem otevřel dveře dokořán;—
+
+Je tam tma a nic víc.
+
+Hluboko do té temnoty jsem se díval, dlouho jsem tam stál a přemýšlel, bál se,
+
+Pochybování, snové sny se žádný smrtelník nikdy neodvážil snít;
+
+Ale ticho bylo nepřerušené a temnota nedala žádnou známku,
+
+A jediné slovo, které tam bylo vysloveno, bylo zašeptané slovo: "Lenore!"
+
+To jsem zašeptal a ozvěna zamumlala slovo: "Lenore!"
+
+Jen tohle a nic víc.
+
+Zpátky do komory se otáčí, celá má duše ve mně hoří,
+
+Brzy jsem znovu uslyšel klepání, poněkud hlasitější než předtím.
+
+"Jistě," řekl jsem, "to je jistě něco na mé okenní mříži;
+
+Dovolte mi tedy vidět, co tam je, a prozkoumat toto tajemství –
+
+Nechť mé srdce na chvíli ztichne a prozkoumá toto tajemství;—
+
+"To je vítr a nic víc!"
+
+Otevři tady, odhodil jsem okenici, když s mnoha flirtováním a třepotáním
+
+Vstoupil tam majestátní Raven z dávných svatých dnů.
+
+Nepřiměla ho ani nejmenší poklona; ani minutu nezastavil nebo nezůstal;
+
+Ale s výrazem lorda nebo dámy, posazený nad dveřmi mé komnaty –
+
+Posazený na bustu Pallas těsně nad dveřmi mé komnaty –
+
+Posadil se, seděl a nic víc.
+
+Pak tento ebenový pták přivedl mou smutnou fantazii k úsměvu,
+
+Při hrobě a přísném dekoru obličeje, který měl na sobě,
+
+"Ačkoli je tvůj hřeben ostříhaný a oholený, ty," řekl jsem, "nejsi jistě žádný zbabělec,
+
+Příšerně ponurý a starověký Havran putující z Nočního pobřeží,—
+
+Řekni mi, jak se jmenuješ vznešeně na Nočním plutonském pobřeží!"
+
+Quoth the Raven, "Nikdy."
+
+Velmi jsem se divil tomuto nemotornému kuřatovi, když jsem slyšel řeč tak jasně,
+
+I když její odpověď má malý význam – malou relevanci nese;
+
+Neboť nemůžeme se ubránit souhlasu, že žádná živá lidská bytost
+
+Byl ještě požehnán tím, že viděl ptáka nad dveřmi své komnaty –
+
+Pták nebo zvíře na vytvarované bustě nad dveřmi jeho komnaty,
+
+S takovým názvem jako "Nikdy."
+
+Ale Havran, sedící osaměle na klidném poprsí, jen mluvil
+
+To jediné slovo, jako by jeho duše v tom jediném slově vylila.
+
+Nic dalšího pak nevyslovil – ani pírko, pak zamával –
+
+Dokud jsem sotva zamumlal: "Jiní přátelé už létali...
+
+Zítra mě opustí , jak mé naděje letěly předtím."
+
+Pak pták řekl: "Už nikdy."
+
+Překvapen klidem narušeným odpovědí tak trefně vyslovenou,
+
+"Bezpochyby," řekl jsem, "to, co říká, je jeho jediný sklad a sklad,
+
+Chycen od nějakého nešťastného pána, kterého nemilosrdná katastrofa
+
+Následoval rychle a následoval rychleji, dokud jeho písně nesly jedno břemeno –
+
+To melancholické břemeno neslo až do žalozpěvů jeho Naděje
+
+'Nikdy – nikdy více'.“
+
+Ale Havran stále láká celou mou smutnou duši k úsměvu,
+
+Rovnou jsem na kolečkových sedadlech před ptákem, poprsím a dveřmi;
+
+Potom, po sametovém potopení, jsem se dal na spojování
+
+Přemýšlejte o fantazii, přemýšlejte o tom, co tento zlověstný pták z dávných dob –
+
+Co ten ponurý, nemotorný, příšerný, vyzáblý a zlověstný pták z dávných dob
+
+Míněno v kvákání "Nikdy."
+
+Seděl jsem a hádal, ale nevyjadřoval jsem slabiku
+
+K drůbeži, jehož ohnivé oči se nyní zapálily do jádra mého poprsí;
+
+To a ještě více jsem seděl a věštil s hlavou v klidu sklopené
+
+Na sametové podšívce polštáře, na kterou se lesklo světlo lampy,
+
+Ale jehož sametově fialová podšívka se skvělým světlem lampy
+
+Bude tlačit, ach, už nikdy!
+
+Pak, pomyslel jsem si, vzduch zhoustl, navoněný neviditelnou kadidelnicí
+
+Rozhoupal ho serafín, jehož nohy cinkaly na chomáčové podlaze.
+
+"Ubohý," zvolal jsem, "tvůj Bůh ti půjčil - skrze tyto anděly tě poslal
+
+Oddech – oddech a nepenthe ze svých vzpomínek na Lenore!
+
+Quaff, oh, quaff tento druh nepenthe, a zapomeň na tuhle ztracenou Lenore!"
+
+Quoth the Raven, "Nikdy."
+
+"Prorok!" Řekl jsem: "Zlá věc! - stále prorok, jestli pták nebo ďábel!"
+
+Ať už tě pokušitel poslal, nebo tě bouře svrhla sem na břeh,
+
+Opuštěná a přesto neohrožená, v této pouštní zemi okouzlené –
+
+V tomto domě straší hrůzou – řekněte mi to opravdu, prosím –
+
+Je tam - je v Gileádu balzám? - řekni mi - řekni mi, prosím!"
+
+Quoth the Raven, "Nikdy."
+
+"Prorok!" Řekl jsem: „Věc zla – stále prorok, jestli pták nebo ďábel!
+
+Tím Nebem, které se sklání nad námi – tím Bohem, kterého oba zbožňujeme –
+
+Řekni této duši se zármutkem, jestli ve vzdáleném Aidennu,
+
+Sepne svatou pannu, kterou andělé jmenují Lenore –
+
+Sepni vzácnou a zářivou dívku, kterou andělé jmenují Lenore."
+
+Quoth the Raven, "Nikdy."
+
+"Buď to slovo naším znamením rozchodu, ptáku nebo ďábla!" zaječel jsem, popudlivě –
+
+„Vrať se do bouře a na Noční plutonské pobřeží!
+
+Nenechávej žádný černý chochol jako důkaz té lži, kterou tvá duše promluvila!
+
+Nechte mou osamělost nezlomenou! – opusťte tu bustu nad mými dveřmi!
+
+Vezmi svůj zobák z mého srdce a vezmi svou podobu z mých dveří!"
+
+Quoth the Raven, "Nikdy."
+
+A havran, který se nikdy nepohybuje, stále sedí, stále sedí
+
+Na bledé bustě Pallas těsně nad dveřmi mé komnaty;
+
+A jeho oči vypadají jako démonovy, který sní,
+
+A světlo lampy nad ním proudící vrhá jeho stín na podlahu;
+
+A moje duše z toho stínu, který se vznáší na podlaze
+
+Bude zvednut — nikdy více!
+

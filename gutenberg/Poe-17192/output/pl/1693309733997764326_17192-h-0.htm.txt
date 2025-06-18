@@ -1,0 +1,570 @@
+EBook Projektu Gutenberg „Kruk” autorstwa Edgara Allana Poe.
+
+EBook Projektu Gutenberg pt. Kruk
+
+Z tego e-booka może korzystać każdy, gdziekolwiek w Stanach Zjednoczonych i większości innych części świata, bezpłatnie i prawie bez żadnych ograniczeń. Możesz go kopiować, rozdawać lub ponownie wykorzystywać zgodnie z warunkami Licencji Projektu Gutenberg dołączonej do tego ebooka lub w Internecie pod adresem www.gutenberg.org . Jeśli nie mieszkasz w Stanach Zjednoczonych, przed skorzystaniem z tego e-booka będziesz musiał sprawdzić przepisy obowiązujące w kraju, w którym się znajdujesz.
+
+Tytuł : Kruk
+
+Autor : Edgar Allan Poe
+
+Komentator : Edmund Clarence Stedman
+
+Ilustrator : Gustave Doré
+
+Data wydania : 30 listopada 2005 [eBook nr 17192] Ostatnia aktualizacja: 13 grudnia 2020 r
+
+Język : angielski
+
+Twórcy : wyprodukowany przez Jasona Isbella, Melissę Er-Raqabi i Online Zespół ds. korekty rozproszonej pod adresem https://www.pgdp.net.
+
+*** START PROJEKTU GUTENBERGA EBOOK KRUK ***
+
+Tylna okładka
+
+KRUK
+
+Przez
+
+EDGARA ALLANA POE
+
+ILUSTROWANY GUSTAVE DORÉ
+
+Obraz tytułowy
+
+Z KOMENTARZEM EDMUNDA C. STEDMANA
+
+NOWY JORK
+
+HARPER I BRACIA, WYDAWCY, PLAC FRANKLINA
+
+1884
+
+Wpisana zgodnie z Ustawą Kongresu w roku 1883 przez
+
+HARPER I BRACIA,
+
+W Biurze Bibliotekarza Kongresu w Waszyngtonie.
+
+Wszelkie prawa zastrzeżone.
+
+Notatki tłumacza
+
+W Liście Ilustracji przywróciłem brakujący pojedynczy cytat po Lenore! jak pokazano poniżej:
+
+„Nieszczęśniku” – zawołałem – „pożyczył ci Bóg twój – przez tych aniołów wysłał ci Wytchnienie — wytchnienie i nepenthe od twoich wspomnień o Lenore!”
+
+W Wykazie Ilustracji używane jest słowo „gość”, podczas gdy w wierszu i rzeczywistej ilustracji używa się słowa „gość”.
+
+WYKAZ ILUSTRACJI
+
+Z nazwiskami rytowników
+
+Strona tytułowa, zaprojektowana przez Elihu Veddera.
+
+Fryderyka Juenglinga.
+
+"Nigdy więcej."
+
+H. Klaudiusz, GJ Buechner.
+
+ANANKA.
+
+H. Klaudiusz.
+
+„Pewnego razu o północy, gdy rozmyślałem, słaby i zmęczony, Ponad wiele osobliwych i ciekawych tomów zapomnianej wiedzy.”
+
+RA Mullera.
+
+„Ach, doskonale pamiętam, było to w ponury grudzień, I każdy oddzielny dogasający żar pozostawił ducha na podłodze.”
+
+RG Tietze.
+
+„Z zapałem pragnąłem jutra, na próżno starałem się pożyczyć Z moich książek koniec smutku – żalu po utraconej Lenore.
+
+H. Klaudiusz.
+
+„Smutek z powodu utraconej Lenore”.
+
+W. Zimmermanna.
+
+„Dla rzadkiej i promiennej Dziewicy, której aniołowie nadają imię Lenore – Bezimienny tutaj na zawsze.”
+
+Fryderyka Juenglinga.
+
+„To jakiś gość proszący o wejście przez drzwi mojej komnaty… Jakiś spóźniony gość proszący o wejście przez drzwi mojej komnaty.
+
+W. Zimmermanna.
+
+— „Tu otworzyłem szeroko drzwi; — Tam ciemność i nic więcej”.
+
+H. Klaudiusz.
+
+„Wątpiąc i śniąc sny, których żaden śmiertelnik nie odważył się nigdy wcześniej śnić”.
+
+Król FS.
+
+„Na pewno”, powiedziałem, „na pewno to coś za kratą mojego okna; Pozwól mi zatem zobaczyć, co tam jest, i zbadać tę tajemnicę.
+
+Fryderyka Juenglinga.
+
+„Otwórz tutaj, rzuciłem okiennicę”.
+
+T. Johnsona.
+
+— „Dostojny Kruk z dawnych, świętych dni. Nie złożył najmniejszego hołdu; ani na minutę go nie zatrzymał ani nie zatrzymał”.
+
+R. Staudenbaura.
+
+„Umieszczony na popiersiu Pallasa tuż nad drzwiami mojej komnaty… Siedział i siedział, i nic więcej.”
+
+RG Tietze.
+
+„Wędrówka od Nocnego brzegu”.
+
+Fryderyka Juenglinga.
+
+„Dopóki nie wymamrotałem: «Inni przyjaciele już latali... Jutro mnie opuści , tak jak poprzednio straciłem nadzieję.'”
+
+Frank Francuz.
+
+„Potem, gdy aksamit zatonął, zabrałem się za łączenie Fantazja za fantazją.”
+
+R. Schellinga.
+
+„Ale którego aksamitna fioletowa podszewka lśni w świetle lampy Ona będzie naciskać, och, nigdy więcej!”
+
+Jerzego Kruella.
+
+„Nieszczęśniku” – zawołałem – „pożyczył ci Bóg twój – przez tych aniołów wysłał ci Wytchnienie — wytchnienie i nepenthe od twoich wspomnień o Lenore!”
+
+Wiktora Bernstroma.
+
+„W tym domu przez Horror nawiedzony”.
+
+R. Staudenbaura.
+
+„Powiedz mi szczerze, błagam… Czy jest… czy jest balsam w Gilead?… powiedz mi… powiedz mi, błagam!”
+
+W. Zimmermanna.
+
+„Powiedz tej duszy obciążonej smutkiem, jeśli w odległym Aidenn Będzie obejmował świętą dziewczynę, której aniołowie nadadzą imię Lenore.
+
+Król FS.
+
+„Niech to słowo będzie naszym znakiem rozstania, ptak czy szatan!” Krzyknęłam, podnosząc się na duchu.”
+
+W. Zimmermanna.
+
+„Zabierz się z powrotem w burzę i na plutoński brzeg Nocy!”
+
+Roberta Hoskina.
+
+„I moja dusza z cienia, który leży na podłodze Zostanie podniesiony — nigdy więcej!”
+
+RG Tietze.
+
+Sekret Sfinksa.
+
+R. Staudenbaura.
+
+KOMENTARZ DO WIERSZA.
+
+Sekret wiersza, nie mniej niż pomyślność żartu, leży w uchu tego, kto go słucha. Poddaj się jego czarowi, zaakceptuj nastrój poety: w końcu tak odpowiadają mędrcy, gdy pytasz ich o wartość. Choć sam poeta w innym nastroju powie ci, że jego sztuka to tylko sztuczka, jego jedzenie dla zaklinaczy jedzenia i zaproponuje, że pokaże ci sztuczkę – nie wierz mu. Poczekaj na jego proroczą godzinę; potem oddaj się jego pasji, jego radości i bólowi. „Dziś jesteśmy w rękach Miłości!” – śpiewa Gautier w pogodnej parafrazie Swinburne’a – i od rana do zachodu słońca unosimy się na wzburzonym morzu: miłość jest tylko jedna, jeden maj, jedna nić kwiatowa. Miłość jest wieczna, wszystko inne jest nierealne i odłożone na bok. Wizja się kończy, scena się zmienia; ale coś zyskaliśmy, wspomnienie uroku. Ilu poetów, tyle uroków. Istnieje urok ulotności, który nadaje najwyższemu pięknu i wdziękowi aureolę Patosu. Podziel się z Landorem jego jedyną „nocą wspomnień i westchnień” dla Rose Aylmer, a będziesz mieć to w całości.
+
+A teraz weź za rękę minstrela nowego świata, który zabłąkał się z jakiegoś właściwego środowiska do tej prymitywnej i dysharmonijnej Ameryki, która, jak widział Baudelaire, „była dla Poego jedynie ogromnym więzieniem, przez które biegał tu i tam z gorączkowym poruszeniem istoty stworzonej do oddychania czystszym światem” i gdzie „jego życie wewnętrzne, duchowe jak poeta, duchowe nawet jak pijak, było tylko jedną nieustanną próbą ucieczki przed wpływem tego antypatycznego atmosfera.” Uchwyć wrażliwą dłoń zmartwionego piosenkarza, który odczuwa w ten sposób swoją dziwność, i podziel się z nim klimatem, w którym znalazł – nigdy w ciągu dnia, zawsze w nocy – jeśli nie Atlantydę, skąd wędrował, to przynajmniej miejsce schronienia przed granicami, w których był zamknięty w dzień.
+
+Tylko do jednej krainy ma moc poprowadzić cię i tylko przez jedną noc możesz dzielić jego sen. Obszar ani Ziemi, ani Nieba: „Ziemia Niczyja” poza Przestrzenią, poza Czasem. Oto ci, którzy są zaniepokojeni, przez których oczy, podobnie jak Cenci, dusza odnajduje okna, chociaż umysł jest oszołomiony; tutaj duchy poszukujące ścieżki prowadzącej do Wieczności zostają zatrzymane i opóźnione. Jest to otchłań „duch planetarnych”, w której kryje się cała niepewność światła księżyca, wszystkie utracone miłości i złudzenia. Tutaj niektórzy pogrążeni są w transie, jedynym możliwym wytchnieniu; inni
+
+„poruszaj się fantastycznie
+
+Do niezgodnej melodii:”
+
+podczas gdy wszędzie są
+
+„Ukryte wspomnienia z przeszłości —
+
+Okryte formy, które drżą i wzdychają
+
+Gdy mijają wędrowca.”
+
+Taka jest kraina i wkraczamy do niej na jedną noc – noc faz astralnych i powtarzających się dzwonków. Jego monodie to dwanaście wierszy, których muzyka stara się zmieniać, ale zawsze jest taka sama. Wybrzmiewają jeden po drugim, jak bicie mosiężnego i hebanowego zegara w „Masce czerwonej śmierci”, co powodowało, że walcowcy zatrzymywali się z „niepokojem, drżeniem i zadumą” tak często, jak wybiła godzina.
+
+Ze wszystkich tych mistycznych rytmów, skarga Kruka wibrująca w portalu wywarła największe wrażenie na świecie zewnętrznym. Jakie elementy składają się na powstanie wiersza i jak prawdziwa jest w tym przypadku, podobnie jak w większości innych, tej rasy, która nazywała swoich bardów „twórcami”? Dzieło zostaje wywołane z próżni. Tam, gdzie nie było niczego, pozostaje – nowe stworzenie, część skarbu ludzkości. A kilka wyjątkowych tekstów, bardziej niż inne równie twórcze, zmusza do przemyślenia na nowo, jak odważnie pióro poety zmienia nieznane
+
+„kształtuje i daje zwiewne nic
+
+Lokalne mieszkanie i nazwa.
+
+Każdy wydaje się pozbawiony prototypu, a jednak wszystkie fascynują nas elementami wyrwanymi z cienia Nadprzyrodzonego. Teraz najwyższa wyobraźnia troszczy się o duszę rzeczy; może, ale nie musi, inspirować Fantazję zaludniającą obrazy międzyksiężycowe. Mimo to jeden z tych tekstów, na swój mniejszy sposób, wywiera na nas wrażenie wyjątkowości, tak samo jak wysublimowane dzieła w nadprzyrodzonej obsadzie – „Faust” Marlowe’a, „Faust” Goethego, „Manfred” czy nawet te ulotne arcydzieła, „Burza” i „Sen nocy letniej”. Więcej niż jeden, choć poza tym wyjątkowy, ma jakieś  ciężar lub refren, który nawiedza pamięć – raz usłyszany, nigdy nie zapomniany, jak ton rzadko używanej, ale charakterystycznej nuty organowej. Wśród nich godna uwagi jest „Lenore” Bürgera, ta upiorna i dźwięczna ballada, która jest przynętą i udaremnieniem tłumaczy. Niewielu zaprzeczy, że na ich czele stoi cudowna „Szron starożytnego marynarza” Coleridge’a. „Le Juif-Errant” miałby roszczenia, gdyby Beranger był większym poetą; i gdyby nie fakt, że były one odległe od powszechnej sympatii, do listy można by dodać „Pani z Shalott” i „Błogosławiony Damozel”. Edgarowi Allanowi Poe powierzono zadanie napisania dwóch tekstów: „The Bells” i „The Raven” , z których każdy, choć być może mniej piękny niż teksty Tennysona i Rossettiego, jest wyjątkowy. „Ulalume”, choć równie dziwny i pomysłowy, nie ma tej uniwersalnej jakości, która jest częścią naszego testu.
+
+Kruk pod względem czysto poetyckim ustępuje takim utworom jak „Nawiedzony pałac”, „Miasto w morzu”, „Śpiący” i „Izrafel”. Podejrzewam, że czytelnicy o wybrednej obsadzie wymieniliby całość na takie fragmenty jak ten:
+
+„Dookoła, niosąc wiatry, zapomniałem,
+
+Z rezygnacją pod niebem
+
+Melancholijne wody kłamią.
+
+Żadne promienie ze świętego nieba nie spadają
+
+W długą noc tego miasta;
+
+Ale światło z ponurego morza
+
+Bezszelestnie wspina się po wieżach —
+
+· · · · · · · ·
+
+W górze wiele, wiele cudownych sanktuariów
+
+Którego zwieńczone fryzy przeplatają się
+
+Wiola, fiołek i winorośl.
+
+· · · · · · · ·
+
+Żadne obrzęki nie wskazują, że może wiać wiatr
+
+Na jakimś odległym, szczęśliwszym morzu —
+
+Żadne falowania nie wskazują, że wiał wiatr
+
+Na morzach mniej okropnie spokojnych.”
+
+Brakuje w nim powietrznej melodii poety, którego struny serca są lutnią:
+
+„I mówią (chór gwiaździsty
+
+I inne rzeczy do słuchania)
+
+Ten ogień Izraelelego
+
+To zasługa tej liry
+
+Przy którym siedzi i śpiewa –
+
+Drżący żywy drut
+
+Z tych niezwykłych sznurków.”
+
+Ale The Raven , podobnie jak „The Bells” i „Annabel Lee”, poleca się zarówno wielu, jak i nielicznym. Powiedziałem gdzie indziej, że rzadsze przedstawienia Poego wydały mi się „te, w których pojawia się przynajmniej pozór spontaniczności – w których poddaje się on swoim uczuciom, podczas gdy umieranie spada i rytmy najbardziej muzyczne i najbardziej melancholijne pochodzą od niego nieświadomie”. Nadal w to wierzę; a jednak po ponownym przestudiowaniu tego wiersza robi on na mnie większe wrażenie niż kiedykolwiek od czasów dzieciństwa. Bliska znajomość przemawia na korzyść każdego prawdziwego dzieła sztuki. Nakłonić człowieka, który nie zna sztuki i nie interesuje się nią, aby przyjrzał się jakiemuś wierszowi lub obrazowi i jakże szybko pochłonie go jego siła! W rzeczywistości przecenia względną wartość pierwszego dobrego dzieła, które przykuło jego uwagę. Kruk ma również stałe cechy, które nawet ekspert musi podziwiać. W żadnym innym wierszu autora motyw nie jest tak wyraźnie zdefiniowany. „Nawiedzony Pałac” jest równie definitywny dla wybranego czytelnika, ale Poe raczej nie wziąłby tej subtelnej alegorii do łysej analizy. Kruk jest całkowicie zajęty typowym dla autora tematem – bezpowrotną utratą ubóstwianej i pięknej kobiety; ale także z innych powodów instynkt publiczny ma rację, sądząc, że jest to jego poemat reprezentatywny.
+
+Człowiek genialny zwykle zyskuje pewność dzięki sukcesowi jednego wysiłku, choć nie zawsze jest to jego największy sukces. Uznanie następuje szybciej, gdy zostało odroczone. Nie zdobywa jej jak fortunę skąpca, moneta za monetą, ale „w ogóle lub wcale”. I tak w przypadku innych ambicji: dworzanin, żołnierz, aktor – jakakolwiek jest ich rola – każdy liczy swój triumf od jakiegoś szczęśliwego trafu. Kruk Poego, mimo wróżb, był dla niego „ptakiem, który wiał wiatr”. Poeta osiadł w Nowym Jorku zimą 1844-1845, znajdując pracę w gazecie Willisa „The Evening Mirror” i zarabiając na datkach gdzie indziej. Przez sześć lat był aktywnym pisarzem i cieszył się dobrą opinią zawodową; cieszył się zarówno szacunkiem, jak i wątpliwościami, i nie poniósł straty z powodu swojej części źle opłacanego dziennikarstwa tamtych czasów. Stworzył także wiele ze swoich najlepszych dzieł – takich jak opowieści „Ligeia” i „Upadek domu Usherów” (ta ostatnia zawierała mistyczny odpowiednik wierszem „Zagubionego umysłu” Elihu Veddera”), a także wyczyny analityczne, jak „Złoty robak” i „Tajemnica Marie Roget”. Pozyskał prozelitów za granicą i zyskał trwałą pozycję w umysłach Francuzów. Poznał własną moc i słabość, był w doskonałej formie i nie bez pewnej reputacji. Ale nie napisał niczego, co byłoby na języku wszystkich. Do rzadkich i delikatnych dzieł należy dodać trochę popularnego akcentu, aby uchwycić publiczność swoich czasów.
+
+Dzięki przemysłowi kolejnych biografów Poego hit Kruka stał się często opowiadaną opowieścią. Młoda żona poety, Virginia, blakła na jego oczach, lecz przez kolejny rok pozostawała w cieniu śmierci. Długa, niska komnata w domu niedaleko Bloomingdale Road to tzw  znany jako pokój, w którym Rouget de l'Isle skomponował Marsyliankę. Wszyscy słyszeli, że wiersz podpisany „Quarles” ukazał się w „American Review” z pseudoredakcyjnym komentarzem co do formy; że Poe otrzymał za to dziesięć dolarów; że Willis, najmilszy i najmniej zazdrosny z modnych arbitrów, przedrukował go z pochwałą, od której natychmiast zrobiło się głośno. Wszelkie wątpliwości co do jego autorstwa rozwiały się, gdy Poe sam go wyrecytował na spotkaniu literackim i przez pewien czas był najbardziej rozpoznawalnym autorem amerykańskim. To uderzenie pobudziło go i dodało otuchy. Podobnie jak inny, bardziej dumny satyryk, także i on odnalazł „coś z lata” nawet w „brzęczeniu owadów”. To dość smutne, ale minęły trzy lata – okres wpływów, dumy i udręki, ale zawsze pełen wyobraźni i krytycznej pracy – przed ostateczną porażką, zanim opadła kurtyna nad życiem, które było dla niego w rzeczywistości tragedią, i poddał się „Robakowi Zdobywcy”.
+
+„The American Review: A Whig Journal” był jak na tamte czasy magazynem renomowanym, dwukolumnowym, drukowanym na dobrym papierze, wyraźną czcionką i ilustrowanym portretami mezzotintowymi. Wśród wielu spraw poniżej obecnego standardu zawierał takie, które każdy redaktor byłby zadowolony, gdyby je otrzymał. Pierwszy tom, za rok 1845, zawiera artykuły Horace'a Greeleya, Donalda Mitchella, Waltera Whitmana, Marsha, Tuckermana i Whipple'a. W tym tomie ukazał się osobliwy wiersz Ralpha Hoyta „Stary”. A oto trzy teksty Poego: „The City in the Sea”, „The Valley of Unrest” i „The Raven” . Dwa z nich powstały – tak to sobie wyobrażał – na podstawie wcześniejszych badań, ale ostatni z nich wyszedł jakby świeżo skomponowany i prawie taki, jaki mamy teraz. Twierdzenie, że nie zostało ono później zmienione, jest błędne. Jedenaście drobnych zmian w tekście magazynu pojawia się w Kruku i innych wierszach , 1845, książce, którą poeta wkrótce poczuł się zachęcony do zaprezentowania publiczności. Są to przeważnie zmiany interpunkcji lub pojedynczych wyrazów, przy czym ten drugi rodzaj ma na celu wzmocnienie efektu aliteracji. W ładnym wydaniu wierszy Poego, wydanym w „Bibliotece Pergaminowej”, pan Lang pokazał instynkt uczonego i postąpił mądrze, wracając do tekstu ze wspomnianego właśnie tomu, podanego w londyńskim numerze z 1846 r. „Standardowy” zbiór dzieł poety Griswolda obfituje w błędy. Powtórzyli je późniejsi redaktorzy, którzy również popełnili własne błędy. Jednak tekst Kruka , w związku z prośbami autora o kopie rękopisu, był przez niego jeszcze bardziej poprawiany; w rzeczywistości wydrukował go w Richmond tuż przed śmiercią, dokonując poetyckiego zastąpienia w czternastej zwrotce słów „serafini, których stopa opada” na „anioły, których stopy słabną”. Dlatego też nasz obecny tekst, chociaż zasadniczo pochodzi z 1845 r., został nieco zmodyfikowany w wyniku późniejszej lektury poety i jest, jak sądzę, najbardziej poprawną i skuteczną wersją tego pojedynczego wiersza. Najbardziej radykalna zmiana w stosunku do wersji najwcześniejszej nastąpiła jednak w tomie z 1845 r.; zwrotka jedenasta pierwotnie zawierała następujące wersety, z błędami w rymach i poza tym skazą na wierszu:
+
+„Złapany od jakiegoś nieszczęśliwego pana, którego bezlitosna Katastrofa
+
+Szedł szybko i szedł szybciej – więc kiedy Nadzieja się zaklął,
+
+Powróciła surowa rozpacz, zamiast słodkiej nadziei, którą ośmielił się przywołać…
+
+Ta smutna odpowiedź: „Nigdy więcej!”
+
+Byłoby dobrze, gdyby inni, znani poeci mogli mieć pewność, że ich zmiany będą zawsze ulepszane. Poe nieustannie poprawiał swój skąpy pokaz wierszy i zwykle go poprawiał. Kruk był pierwszym z nielicznych wierszy, które prawie ukończył przed drukiem. Być może ci, którzy interesują się poezją, niewiele stracili na jego śmierci. Biegle władał prozą, nigdy nie pisał wierszy dla samego poematu. Kiedy nawiedzał go refren obrazu, powstały w ten sposób tekst był inspiracją, jak sam powiedział, z pasji, a nie celu. Zdarzało się to czasami tak rzadko, że prawie uzasadniało teorię Fairfielda, że ​​każdy z nich był skutkiem kryzysu nerwowego.
+
+Co zatem dało poecie wskazówkę dotyczącą Kruka ? Z jakiego mglistego fundamentu wzrosło to powoli do muzyki, która powoli oddychała? Jak zwykle na zbudowanie tak znakomitego wiersza poszło nie tylko jedno. Biorąc pod uwagę dłuższe kazania, często wygłaszane w oparciu o krótkie i mniej sugestywne teksty, mam nadzieję, że nie zostanę obwiniony za dyskusję na temat jednego tekstu – zwłaszcza takiego, który artysta taki jak Doré uczynił przedmiotem marnotrawnych ilustracji. Do niedawna przypuszczałem, że ten utwór oraz kilka, które jego autor skomponował po jego ukazaniu się, wyróżniał się tym, że w jego chłopięcym wierszu nie wyrósł z zarazków. Ale pan Fearing Gill pokazał mi kilka niepublikowanych zwrotek Poego, napisanych w jego osiemnastym roku życia i zatytułowanych „Demon ognia”. Rękopis wydaje się być napisany wczesnym pismem poety, a za jego autentyczność odpowiada rodzina, w której posiadaniu znajdował się przez pół wieku. Oprócz najzwyklejszych zalążków „Dzwonów” i „Nawiedzonego Pałacu”, zawiera kilka wersów nieco sugerujących początek i koniec Kruka . Jeśli chodzi o rytm naszego wiersza, porównanie dat wskazuje, że miał na niego wpływ rytm „Zalotów Lady Geraldine”. Poe był jednym z pierwszych, którzy uhonorowali geniusz panny Barrett; wpisał jej zebrane wiersze jako „najszlachetniejsze z jej płci” i zgodził się  sympatię dla jej metody lirycznej. Wiersze z jej wiersza miłosnego,
+
+„Z szmerem niepewnym poruszeniem w powietrzu fioletowa kurtyna
+
+Puchnie i puchnie wokół jej nieruchomych, bladych brwi.
+
+znalazłem w nich echo:
+
+„I jedwabisty, smutny, niepewny szelest każdej fioletowej zasłony
+
+Zachwyciło mnie - napełniło fantastycznym strachem, którego nigdy wcześniej nie czułem.
+
+W ten sposób Poe przyjął przywilej, za który z grubsza potępił Longfellowa i którego nikt nigdy nie szukał na swoim własnym terenie bez szybkiego wykrycia i ukarania. Jeśli chodzi o melodię i strofę, zobaczymy, że oba wiersze nie są od siebie podobne, ale w motywie są całkowicie różne. Hojna poetka nie czuła nic poza prawdziwą oryginalnością poety. „To żywe pismo!” — wykrzyknęła — „ta moc, którą się czuje!... Nasz wielki poeta, pan Browning, autor „Paracelsusa” itd., z entuzjazmem podziwia rytm. Pan Ingram, nawiązując do „Lady Geraldine”, sprytnie wskazuje na inne źródło, z którego Poe mógł zaczerpnąć impuls. W 1843 roku Albert Pike, pół-Grek, półpogranicznik, poeta z Arkansas, opublikował w „The New Mirror”, dla którego pisał wówczas Poe, kilka wersetów zatytułowanych „Isadore”, ale poprawionych przez autora i zatytułowanych „Wdowite serce”. Z wersji pana Pike'a wybieram następującą zwrotkę, której główne cechy odpowiadają wersji oryginalnej:
+
+„Niespokojny krążę po naszych samotnych pokojach, nie gram już naszych piosenek,
+
+Jaskrawe słońce świeci dumnie na niezamiecioną podłogę;
+
+Przedrzeźniacz wciąż siedzi i śpiewa, o smutny szczepu!
+
+Bo serce moje jest jak chmura jesienna, zalewająca deszcz;
+
+Straciłeś mnie na zawsze, Isadore!”
+
+Mamy tu przedłużony takt, podobieństwo refrenu i wprowadzenie ptaka, którego śpiew wzmaga smutek. Istnieją inne szlaki, którymi mogą podążać ciekawscy; w szczególności fragment, który pan Ingram wybiera z końcowej recenzji Poe „Barnaby Rudge”:
+
+„Również kruk * * * mógł stać się, bardziej niż obecnie to widzimy, częścią koncepcji fantastycznego Barnaby'ego. * * * Jego postać mogła odegrać w porównaniu z postacią idioty tę samą rolę, jaką w muzyce odgrywa akompaniament w stosunku do powietrza.
+
+Niemniej jednak, po wskazaniu tych zarazków i podobieństw, wartość tego wiersza nadal opiera się na jego oryginalności. Progresywna muzyka, detale sceniczne oraz kontrastujące światło i cień, a przede wszystkim duchowa pasja nokturnu sprawiają, że jest to dzieło informującego geniuszu. Jeśli chodzi o tego makabrycznego ptaka, różni się on od wszystkich pozostałych kruków z jego klanu, od „dwóch corbie” i „trzech kruków” balladystów po pomięty „Grip” Barnaby’ego. Nie ma tu ani śladu kraczącej wieży, która nawiedza wieżyczki przodków i kroczy po polu heraldyki; żadnego przepowiadającego widma, o którym śpiewał Tickell, kiedy
+
+„wrzeszcząc trzy razy do okna,
+
+Kruk zatrzepotał skrzydłem,
+
+Zbyt dobrze zrozpaczona miłością dziewczyna wiedziała
+
+Uroczysty, wróżący dźwięk.”
+
+Kruk Poego to odrębna koncepcja; wcielenie agonii i beznadziei żałobnika; sobolowa ucieleśniona Pamięć, niezmienny kronikarz zagłady, typ Nieodwracalnego. Uciekł przez Styks, z „plutońskiego brzegu Nocy”, wydaje się być wyobrażoną duszą samego pytającego – tego, który nie może i nie chce pić tego rodzaju nepenthe, ponieważ pamięć o Lenore jest wszystkim, co mu pozostało, a wraz z ustaniem smutku nawet to zostanie odłożone na bok.
+
+Kruka można również uznać za reprezentatywny wiersz jego autora, ze względu na egzemplifikację wszystkich jego wyobrażeń na temat tego, czym powinien być wiersz. Można je znaleźć w jego esejach zatytułowanych „Zasada poetycka”, „Racjonalne uzasadnienie wersetu” i „Filozofia kompozycji”. Poe oświadczył, że „być może w muzyce dusza prawie osiąga wielki cel, o który walczy, inspirowana sentymentem poetyckim - stworzenie boskiego piękna… Wiersz nie może być lepiej określony niż muzyka gorsza lub mniej zdolna ”; ale znowu werset, który jest w rzeczywistości „Poezją słów”, to „Rytmiczne tworzenie piękna” – to i nic więcej. Tonem najwyższego Piękna jest Smutek. Najbardziej melancholijnym tematem jest Śmierć. To musi być powiązane z pięknem. „Zatem śmierć pięknej kobiety jest niewątpliwie najbardziej poetyckim tematem na świecie – i nie ulega wątpliwości, że usta najlepiej nadają się do takiego tematu, to usta pogrążonego w żałobie kochanka”. Te ostatnie wyrażenia pochodzą z żartobliwej analizy Poego na temat tego właśnie wiersza, ale wskazują właśnie na ogólny zakres jego wiersza. Punktem kulminacyjnym „The Bells” jest stłumiona monotonność upiorów, które szczycą się obciążaniem ludzkich serc. „Lenore”, „ Kruk ”, „Śpiący”, „Do jednego w raju” i „Ulalume” tworzą symfonię tenebrose, a „Annabel Lee”, napisana jako ostatnia, pokazuje, że jeden temat zawładnął nim do końca. Ponownie, wszystkie te utwory są po prostu muzyczne, a niektóre są poruszone tą cechą Fantastyki, która budzi poczucie podziwu i dodaje nowy strach samej agonii. Przez wszystko widać niewyraźnie, pod cienistą zasłoną, idealną miłość poety – tak często na wpół przedstawianą gdzie indziej – pochowaną żonę Ushera, Lady Ligeię, w  prawda, odpowiednik jego własnej natury. Przypuszczam, że miłość artysty do tego, co „w formie”, nigdy nie może w pełni dorównać jego oddaniu jakiemuś ideałowi. Kobieta obok niego musi rzucać zaklęcia, działać na zmianę i nic długiego, oczarowywać go nieskończoną różnorodnością lub zadowolić się rezygnacją z części jego lojalności. Musi dać się zwabić Nieosiągalnemu, a to zawsze przekracza jego pasję do sztuki twórczej.
+
+Poe, podobnie jak Hawthorne, pojawił się wraz z upadkiem szkoły romantycznej i nikt nie cieszył się bardziej niż on, gdy śmiał się z jej nieszczęść. Jednak jego serce było przy romansach i ich orientalnych lub gotyckich efektach. Jego inwencja, tak bogata w opowieści prozatorskie, zdawała się go opuszczać, gdy pisał wiersze; a jego osąd podpowiadał mu, że długie wiersze romantyczne opierają się bardziej na zdarzeniu niż natchnieniu i że do wyrażenia poezji romantycznej wystarczą teksty. Stąd jego teoria, wyraźnie dostosowana do jego własnych ograniczeń, że „„ długi wiersz ”jest płaską sprzecznością samą w sobie”. Składniki Kruka są nieliczne i proste: mężczyzna, ptak i fantazmatyczne wspomnienie kobiety. Ale utwór ten stanowi doskonały pokaz romantycznego materiału. Co mamy? północ; mroczna komnata z tomami zapomnianej wiedzy; uczeń – współczesny Hieronim; pukanie kruka w skrzydło; zimowa noc i dogasający ogień; jedwabne, owiane wiatrem zasłony; sny i niejasna nieufność odbijającej się echem ciemności; czarny, niesamowity ptak na bladym popiersiu; dodatki z fioletowego aksamitu i radosna lampa. Cały ten sceniczny efekt sytuacji, światła, koloru, dźwięku jest czysto romantyczny, a nawet melodramatyczny, ale ma charakter poetycki, który melodramat rzadko wykazuje i całkowicie odzwierciedla „wieczną namiętność, wieczny ból” poety.
+
+Konstrukcja rytmiczna The Raven z pewnością zrobiła wrażenie. Rym, aliteracja, ciężar i forma strofowa zostały obmyślone ze szczególną zręcznością. Zapewne poetę uderzyła trafność muzycznych trochaików panny Barrett w „ósemkach”, a zwłaszcza układ przyjęty pod koniec „Lady Geraldine”:
+
+„Oczy” – powiedział – „teraz pulsują we mnie! Czy jesteście oczami, które mnie zgubiły?
+
+Lśniące oczy, jak antyczne klejnoty osadzone w kamieniu-posągu Parian!
+
+Pod tym spokojnym, białym czołem zawsze płoniecie
+
+Nad opuszczoną piaskową pustynią mojego serca i utraconego życia?”
+
+Jego artystyczne wprowadzenie trzeciego rymu w drugim i czwartym wersie oraz dodanie piątego wersu i końcowego refrenu stworzyło zwrotkę Kruka . Wydaje się, że uporczywa aliteracja nie wymaga wysiłku, a rymy w wierszach są często uwodzicielskie; podczas gdy refren lub ciężar dominuje nad całym dziełem. Tutaj także odniósł korzyść z studiowania przez pannę Barrett ballad i romansów w jej własnym i innych językach. „Refren” to przynęta, za pomocą której poeta lub muzyk trzyma wędrujące ucho – powtarzająca się tęsknota Natury za początkowym napięciem. Zawsze podziwiałem piękne refreny angielskiej śpiewaczki: „Słowiki, słowiki”, „Margret, Margret”, „Moje serce i ja”, „Toll slow”, „Rzeka płynie dalej”, „Pan, Pan nie żyje” itd. Posługiwała się także tym, co nazywam Powtórzeniem, w użyciu którego Poe prześcignął wszystkich poetów, odkąd Coleridge wskrzesił go w ten sposób:
+
+„O szczęśliwe istoty żyjące! żadnego języka
+
+Ich piękno mogłoby deklarować:
+
+Z serca mego wytrysnęło źródło miłości,
+
+I pobłogosławiłem ich nieświadomie:
+
+Jasne, mój miły święty zlitował się nade mną,
+
+I pobłogosławiłem ich nieświadomie.”
+
+Poe stworzył piątą linijkę swojej zwrotki dla magii powtórzenia. W pełni na nim polegał w kilku późniejszych wierszach: „Lenore”, „Annabel Lee”, „Ulalume” i „For Annie”. Zyskał dziką i melancholijną muzykę, jak sądzę, dzięki „słodkim wpływom” afrykańskich ciężarów i powtórzeń, które śpiewano mu w dzieciństwie, dopasowując się do ich rodzimej melodii głosu naszego południowego poety.
+
+„Filozofia kompozycji”, jego analiza Kruka , stanowi techniczną analizę jego metody i struktury. Ani jego wyznanie o zimnokrwistym oszustwie, ani późniejsze wyznanie przyjaciołom, że ujawnienie tego podstępu było tylko kolejnym z jego intelektualnych oszustw, nie muszą być w pełni uznane. Gdyby zawczasu zaprojektował całe dzieło, z trudem stworzyłby tak ostre preludium z rymów na grzechotce do rozkosznej melodii drugiej zwrotki – nawet w oparciu o swoją teorię fantastyczności. Oczywiście artysta, udoskonaliwszy dzieło, widzi, podobnie jak pierwszy Artysta, że ​​jest ono dobre, i widzi, dlaczego jest dobre. Można łatwo przeprowadzić późniejszą analizę połączoną z wyparciem się jakiegokolwiek świętego ognia. Wierzę, że pierwsza koncepcja i wstępny szkic tego wiersza pojawiły się wraz z natchnieniem; że jego autor dostrzegł wówczas, jak można go udoskonalić, nadając mu ostatnie poprawki opisane w jego rozdziale o kompozycji, i że zatem ta ostatnia nie jest ani całkowicie fałszywa, ani całkowicie prawdziwa. Szkodliwość takiej analizy polega na tym, że kusi nowicjusza, aby wyobrażał sobie, że sztuczne procesy mogą zastąpić wyobraźnię. Impulsem geniuszu jest strzec tajemnic swojej twórczej godziny. Uzyskane przebłyski trudu i zaskakujących eksperymentów, które poprzedzają triumf, jak w niedawno wydobytym na światło dzienne szkicu Hawthorne'a, dostarczają bezcennych wskazówek i zachęty szczeremu artyście. Ale jeden  który dobrowolnie wystawia swą Muzę na spojrzenie wszystkich przybyszów, powinien przypomnieć sobie los króla Candaulesa.
+
+Świat wciąż uważa Poego za „nieszczęsnego geniusza”. Niedawno usłyszałem, jak wspomniano o nim jako o „tym, którego wszyscy, jak się wydaje, mają obowiązek przedstawiać fałszywe informacje, potępiać lub oczerniać”. Wydaje mi się jednak, że jego nieszczęście skończyło się wraz z godną pożałowania śmiercią i że od tego czasu jego obrona jest nieustanna, a jego sława wynika z tak stałego wzrostu, o jaki mógł się modlić cierpiący i utalentowany autor w swojej godzinie nadziei. Potępienie i oszczerstwa Griswolda odwróciły prąd na jego korzyść. Krytycy i biografowie wysuwają kolejne obalenia, hołdy dla jego postaci, nowe wydania jego dzieł. Przed nami są jego własne listy i najdrobniejsze wydarzenia z jego kariery; płyta, dobra i zła, jest powszechnie znana. Żaden apelujący nie otrzymał bardziej czułego i wyrozumiałego wyroku. Jego niepowodzenia życiowe wynikały z jego regionu i okresu, a być może jeszcze bardziej z jego własnej słabości woli. Bez wątpienia jego środowisko nie chroniło drobnoziarnistej, niezrównoważonej natury przed niebezpieczeństwami zewnętrznymi i wewnętrznymi. Jego najsilniejsza wola, aby być panem samego siebie, zyskała dla niego „to dziedzictwo nieszczęścia”. Przyznał się, że jest nieszczęśliwym panem ptaka, dotkniętym cierpieniem tego wiersza. Miał jednak pełny udział w tym dramatycznym usposobieniu, które raduje się z zapowiedzi własnej zagłady. Granie swojej roli jest rozkoszą: wszyscy jesteśmy gladiatorami, wołający: Ave Imperator! Cytując fakt Burke'a: „W żałobie przyjemność jest nadal najważniejsza, a cierpienie, którego doświadczamy, w niczym nie przypomina absolutnego bólu, który jest zawsze wstrętny i z którego staramy się jak najszybciej się otrząsnąć”. Poe poszedł dalej i był artystą nawet w obliczu tragedii swojej kariery. Jeśli według jego własnego przekonania smutek i zanik piękna są najwyższymi tematami poetyckimi, a poetyckie uczucie najżywszą ziemską przyjemnością, to smutek i ciemność jego rozbitego życia nie były pozbawione częstej rekompensaty.
+
+Na kolejnych stronach mamy świeży przykład geniuszu artysty charakteryzujący jego interpretację słynnego wiersza. Gustave Doré, ostatnie dzieło, którego ołówek mamy przed sobą, nie był malarzem ani nawet rysownikiem dla realistów domagających się prawdy o tonie, figurze i doskonałości. Sprawy te zajmowały go mniej niż uczynienie kształtu i odległości, światła i cienia wspomaganiem jego celu, którym było pobudzenie duszy i wyobraźni patrzącego. Uczynił to, wzbudzając w nas strach poprzez cudowne i często wzniosłe koncepcje rzeczy niewysłowionych, pełnych mroku i chwały. Słusznie powiedziane jest, że jeśli jego prace nie były wielkimi obrazami, to jako obrazy są rzeczywiście wielkie. Jako „artysta literacki”, a taki był, jego siła była bezpośrednio powiązana z dramatyczną inwencją jego autora, z odważną śmiałością ducha, który rozpalił jego własną. Stąd jego sukces z Rabelaism, z „Le Juif-Errant”, „Les Contes Drolatiques” i „Don Kichot”, i stąd, na odwrót, jego niepowodzenie w wyrażeniu piękna Idyli Tennysona, „Il Paradiso”, hebrajskich pastorałów i innych tekstów wymagających egzaltacji, słodyczy i spokoju. Był urodzonym mistrzem groteski i dzięki szczególnemu przeniknięciu potrafił ukazywać widma nawiedzonego mózgu. Widzimy przedmioty tak, jak widziały je jego osobistości, oczami Wędrującego Żyda, oszołomionego Dona lub córki złotnika, których wyobraźnia tak wywyższa króla w sklepie na Pont-au-Change. Leży to w naturze rzeczy, że powinno go przyciągać każde arcydzieło wiersza lub prozy, które nazwałem wyjątkowym. Niższe królestwa zostały powołane na jego służbę; jego skały, drzewa i góry, samo niebo, są ożywione motywem i diabelstwem. Gdyby żył, by zilustrować Szekspira, widzielibyśmy niezwykłe potraktowanie Kalibana, czarownic i burzy w „Learze”; niewątpliwie jednak powinien był zakwestionować swoje ideały dotyczące Imogen i Mirandy. Piękno czyste i proste oraz jego doskonała doskonałość rzadko pojmował.
+
+Jednak w jego projektach „Starożytnego marynarza” jest piękno, choć są one nierealne, a ciągłość rzadka w seriach Doré. Rym zapewnił mu dłuższą historię z wieloma zmianami w scenie. W The Raven dźwięk i kolor zachowują swoją monotonność i nie zmieniamy miejsca ani okazji. Jaki jest wynik? Doré przedstawia szereg wariacji na temat jego pojmowania, czyli „zagadki śmierci i halucynacji niepocieszonej duszy”. Na niektórych z tych rysunków jego wady są oczywiste; inne ujawniają jego potężną oryginalność i najlepsze cechy, którymi wyróżniał się jako rysownik. Najwyraźniej było coś wspólnego między nastrojami w pracy Poego i Doré. Stałoby się to wyraźniejsze, gdyby ten ostatni spróbował swoich sił w „Opowieściach groteskowych i arabeskowych”. Obaj często uciekali się do elfiej krainy fantazji i romansu. W melodramatycznych wyczynach obaj, dzięki panowaniu nad przyrodą, uniknęli niebezpiecznej granicy między ideałem a absurdem. Poe był prawdziwym czcicielem Pięknego; jego miłość do tego była pasją konsekracyjną i niniejszym rozstaje się ze swoim ilustratorem. Poeta czy artysta, Śmierć w końcu przemienia wszystko: w cieniu swego sobolowego zwiastuna symboliczna kredka Veddera trafnie ustawia ich twarzą w twarz, ale otacza ich płaszczem nieśmiertelnej mądrości i mocy. Pewna Amerykanka stworzyła wizerunek geniusza o gwiaździstych oczach z ostatnią pochodnią, niezwykłego wyglądu człowieka, którego wzrok dostrzega, ale którego usta nie mogą wypowiedzieć, tajemnice krainy znajdującej się za „drzwiami legendarnego grobowca”.
+
+Edmunda C. Stedmana.
+
+POEMAT.
+
+Ilustracja 1
+
+KRUK.
+
+Pewnego razu o północy, gdy rozmyślałem, słaby i zmęczony,
+
+Ponad wiele osobliwych i ciekawych tomów zapomnianej wiedzy,
+
+Kiedy kiwałem głową, prawie drzemiąc, nagle rozległo się pukanie:
+
+Jakby ktoś delikatnie pukał, pukał do drzwi mojej komnaty.
+
+„To jakiś gość” – mruknąłem, „pukający do drzwi mojej komnaty…
+
+Tylko to i nic więcej.”
+
+Ach, doskonale pamiętam, że to było w ponury grudzień,
+
+I każdy oddzielny dogasający żar pozostawił ducha na podłodze.
+
+Gorąco pragnąłem jutra: — na próżno starałem się pożyczyć
+
+Z moich książek koniec smutku – żalu za utraconą Lenore –
+
+Dla rzadkiej i promiennej Dziewicy, której aniołowie nadają imię Lenore –
+
+Bezimienny tutaj na zawsze.
+
+I jedwabisty, smutny, niepewny szelest każdej fioletowej zasłony
+
+Zachwyciło mnie – napełniło fantastycznym strachem, którego nigdy wcześniej nie czułem;
+
+Tak że teraz, aby uspokoić bicie mojego serca, stałem i powtarzałem
+
+„To jakiś gość proszący o wejście przez drzwi mojej komnaty
+
+Jakiś spóźniony gość proszący o wejście przez drzwi mojej komnaty;
+
+To jest to i nic więcej.”
+
+Wkrótce moja dusza stała się silniejsza; już się nie waham,
+
+„Panie” – powiedziałem – „albo Madam, naprawdę błagam o przebaczenie;
+
+Ale faktem jest, że drzemałem, a ty tak delikatnie przyszedłeś rapować,
+
+I tak słabo pukałeś, pukałeś do drzwi mojej komnaty,
+
+Że ledwo byłem pewien, że cię słyszę” – tutaj otworzyłem szeroko drzwi; –
+
+Ciemność i nic więcej.
+
+Wpatrując się głęboko w tę ciemność, długo tam stałem, zastanawiając się, bojąc się,
+
+Wątpiąc i śniąc sny, których żaden śmiertelnik nie odważył się nigdy wcześniej śnić;
+
+Ale cisza nie została przerwana, a ciemność nie dała żadnego znaku,
+
+I jedynym słowem, które tam wypowiedziano, było szeptane słowo: „Lenore!”
+
+Wyszeptałem to, a echo odpowiedziało mi słowami: „Lenore!”
+
+Tylko to i nic więcej.
+
+Wracam do komnaty, cała moja dusza płonie,
+
+Po chwili znowu usłyszałem pukanie, nieco głośniejsze niż poprzednio.
+
+„Na pewno”, powiedziałem, „na pewno to coś za kratą mojego okna;
+
+Pozwól mi zatem zobaczyć, co tam jest, i zbadać tę tajemnicę…
+
+Niech moje serce uspokoi się na chwilę i zgłębi tę tajemnicę;
+
+„T to wiatr i nic więcej!”
+
+Otworzyłem tutaj, zatrzasnąłem okiennicę, gdy wśród wielu flirtów i trzepotań,
+
+Wszedł tam dostojny Kruk ze świętych dni z dawnych czasów.
+
+Nie okazywał najmniejszego pokłonu; ani na minutę się nie zatrzymał ani nie pozostał;
+
+Ale z miną pana lub damy, siedzący nad drzwiami mojej komnaty…
+
+Umieszczony na popiersiu Pallasa tuż nad drzwiami mojej komnaty…
+
+Siedział, siedział i nic więcej.
+
+Wtedy ten hebanowy ptak wprawia moją smutną fantazję w uśmiech,
+
+Przez grób i surową przyzwoitość oblicza, które nosił,
+
+„Chociaż twój grzebień jest ostrzyżony i ogolony, ty” – powiedziałem – „z pewnością nie jesteś tchórzliwy,
+
+Upiornie ponury i starożytny Kruk wędrujący od Nocnego brzegu —
+
+Powiedz mi, jakie jest twoje władcze imię na plutońskim brzegu Nocy!”
+
+Powiedz Kruk: „Nigdy więcej”.
+
+Bardzo się dziwiłem temu niezdarnemu ptakowi, że tak wyraźnie słyszy mowę,
+
+Chociaż jego odpowiedź ma niewielkie znaczenie – trochę nudzi;
+
+Nie możemy bowiem zgodzić się z tym, że nie ma żywej istoty ludzkiej
+
+Ever Yet został pobłogosławiony widokiem ptaka nad drzwiami swojej komnaty…
+
+Ptak lub bestia na rzeźbionym popiersiu nad drzwiami jego komnaty,
+
+O takim tytule jak „Nigdy więcej”.
+
+Ale Kruk, siedzący samotnie na spokojnym popiersiu, mówił tylko
+
+To jedno słowo, jakby jego dusza w tym jednym słowie wylała.
+
+Nic więcej nie powiedział – ani pióra, po czym zatrzepotał –
+
+Aż ledwie wymamrotałem: „Inni przyjaciele latali już wcześniej…
+
+Jutro mnie opuści , tak jak poprzednio straciłem nadzieję.”
+
+Wtedy ptak powiedział: „Nigdy więcej”.
+
+Zaskoczony ciszą przerwaną tak trafnie wypowiedzianą odpowiedzią,
+
+„Bez wątpienia”, powiedziałem, „to, co wypowiada, jest jego jedynym zasobem i magazynem,
+
+Złapany przez jakiegoś nieszczęśliwego pana, którego bezlitosna Katastrofa
+
+Podążał szybko i podążał coraz szybciej, aż jego piosenki znudziły się jednym ciężarem –
+
+Aż do żałoby jego Nadziei niosło to melancholijne brzemię
+
+O „Nigdy – nigdy więcej”.
+
+Ale Kruk wciąż czaruje całą moją smutną duszę do uśmiechu,
+
+Prosto potoczyłem wyściełane siedzenie przed ptakiem, popiersiem i drzwiami;
+
+Następnie, gdy aksamit opadł, zabrałem się za łączenie
+
+Fantazjuj bez przerwy, myśląc, co ten złowieszczy ptak z dawnych czasów…
+
+Cóż to za ponury, niezgrabny, upiorny, wychudzony i złowieszczy ptak z dawnych czasów
+
+Miało na myśli rechotanie „Nigdy więcej”.
+
+Siedziałem zajęty zgadywaniem, ale bez wyrażania sylab
+
+Do ptactwa, którego ogniste oczy płonęły teraz w głębi mojego łona;
+
+To i jeszcze więcej siedziałem, wróżąc, z opuszczoną głową
+
+Na aksamitnej podszewce poduszki, którą oświetlało światło lampy,
+
+Ale którego aksamitna fioletowa podszewka lśni w świetle lampy
+
+Ona będzie naciskać, ach, nigdy więcej!
+
+Potem, pomyślałem, powietrze stało się gęstsze, pachnące niewidzialną kadzielnicą
+
+Huśtany przez serafina, którego stopy brzęczały na pikowanej podłodze.
+
+„Nieszczęsny” – zawołałem – „pożyczył ci Bóg twój, przez tych aniołów wysłał ci
+
+Wytchnienie – wytchnienie i nepenthe od twoich wspomnień o Lenore!
+
+Quaff, och, quaff tego rodzaju nepenthe i zapomnij o tej utraconej Lenore!
+
+Powiedz Kruk: „Nigdy więcej”.
+
+"Prorok!" — rzekłem — rzecz zła! — prorok, czy to ptak, czy diabeł! —
+
+Czy kusiciel cię posłał, czy burza wyrzuciła cię tu na brzeg,
+
+Opuszczony, ale nieustraszony, na tej pustynnej krainie zaczarowany –
+
+W tym domu nawiedzonym przez Horror – powiedz mi szczerze, błagam –
+
+Czy jest — czy jest balsam w Gilead? — powiedz mi, powiedz mi, błagam!
+
+Powiedz Kruk: „Nigdy więcej”.
+
+"Prorok!" powiedziałem, „rzecz zła – nadal prorok, czy to ptak, czy diabeł!
+
+Na to Niebo, które pochyla się nad nami – na tego Boga, którego oboje uwielbiamy –
+
+Powiedz tej duszy obciążonej smutkiem, jeśli w odległym Aidenn,
+
+Obejmie świętą dziewczynę, której aniołowie nadadzą imię Lenore –
+
+Obejmij rzadką i promienną dziewczynę, którą aniołowie nazywają Lenore.
+
+Powiedz Kruk: „Nigdy więcej”.
+
+„Niech to słowo będzie naszym znakiem rozstania, ptak czy szatan!” Wrzasnąłem, podnosząc się na duchu…
+
+„Wracaj z powrotem do burzy i na Plutoński brzeg Nocy!
+
+Nie zostawiaj czarnego pióra jako znaku kłamstwa, które wypowiedziała twoja dusza!
+
+Zostaw moją samotność nienaruszoną! – skończ z popiersiem nad moimi drzwiami!
+
+Zabierz swój dziób z mojego serca i zabierz swoją postać z moich drzwi!”
+
+Powiedz Kruk: „Nigdy więcej”.
+
+A Kruk, nigdy nie latając, wciąż siedzi, wciąż siedzi
+
+Na bladym popiersiu Pallasa tuż nad drzwiami mojej komnaty;
+
+A jego oczy wyglądają jak śniące demony,
+
+A światło lampy nad nim rzuca jego cień na podłogę;
+
+I moja dusza z cienia, który leży na podłodze
+
+Zostanie podniesiony — nigdy więcej!
+

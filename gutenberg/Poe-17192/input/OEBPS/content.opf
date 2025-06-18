@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier opf:scheme="URI" id="id">http://www.gutenberg.org/17192</dc:identifier>
+    <dc:creator opf:file-as="Poe, Edgar Allan">Edgar Allan Poe</dc:creator>
+    <dc:contributor opf:role="cmm" opf:file-as="Stedman, Edmund Clarence">Edmund Clarence Stedman</dc:contributor>
+    <dc:contributor opf:role="ill" opf:file-as="Doré, Gustave">Gustave Doré</dc:contributor>
+    <dc:title>The Raven</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Ravens -- Poetry</dc:subject>
+    <dc:subject>Fantasy poetry, American</dc:subject>
+    <dc:date opf:event="publication">2005-11-30</dc:date>
+    <dc:date opf:event="conversion">2025-06-07T15:21:44.372372+00:00</dc:date>
+    <dc:source>https://www.gutenberg.org/files/17192/17192-h/17192-h.htm</dc:source>
+    <meta name="cover" content="id-1830429957054070713"/>
+  </metadata>
+  <manifest>
+    <!--Image: 235 x 295 size=15743 -->
+    <item href="2798900747107181479_cover-th.jpg" id="id-1830429957054070713" media-type="image/jpeg"/>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <item href="0.css" id="item2" media-type="text/css"/>
+    <!--Chunk: size=61048 Split on div-->
+    <item href="1693309733997764326_17192-h-0.htm.html" id="pg-header" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=30862 Split on div.section-->
+    <item href="1693309733997764326_17192-h-1.htm.html" id="item3" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19690-->
+    <item href="1693309733997764326_17192-h-2.htm.html" id="pg-footer" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.html" id="coverpage-wrapper" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage-wrapper" linear="yes"/>
+    <itemref idref="pg-header" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
+    <itemref idref="pg-footer" linear="yes"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="wrap0000.html"/>
+  </guide>
+</package>

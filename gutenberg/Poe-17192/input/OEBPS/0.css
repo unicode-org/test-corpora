@@ -1,0 +1,207 @@
+p {
+    margin-top: 0.75em;
+    text-align: justify;
+    margin-bottom: 0.75em
+    }
+a:link {
+    font-weight: normal;
+    text-decoration: none
+    }
+a:visited {
+    text-decoration: none
+    }
+a:hover {
+    color: black;
+    text-decoration: none
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    clear: both
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+.pagenum {
+    font-size: smaller;
+    text-align: right;
+    color: gray
+    }
+.blockquot {
+    margin-left: 5%;
+    margin-right: 10%;
+    font-size: smaller
+    }
+.sidenote {
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    margin-left: 1em;
+    clear: right;
+    margin-top: 1em;
+    font-size: smaller;
+    color: black;
+    background: #eee;
+    border: dashed 1px
+    }
+.bb {
+    border-bottom: solid 2px
+    }
+.bl {
+    border-left: solid 2px
+    }
+.bt {
+    border-top: solid 2px
+    }
+.br {
+    border-right: solid 2px
+    }
+.bbox {
+    border: solid 1px;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em
+    }
+.center {
+    text-align: center
+    }
+.right {
+    text-align: right
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.u {
+    text-decoration: underline
+    }
+img {
+    border: none
+    }
+.hang {
+    text-indent: -3em;
+    margin-left: 3em
+    }
+.narrow {
+    margin-left: 20%;
+    margin-right: 20%
+    }
+.tnote {
+    font-size: 90%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-top: thin dotted;
+    border-bottom: thin dotted;
+    border-left: thin dotted;
+    border-right: thin dotted;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em
+    }
+.caption {
+    font-weight: bold;
+    font-size: smaller
+    }
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+.figleft {
+    clear: left;
+    margin-left: 0;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 1em;
+    padding: 0;
+    text-align: center
+    }
+.figright {
+    clear: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 0;
+    padding: 0;
+    text-align: center
+    }
+.footnotes {
+    border: dashed 1px
+    }
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em
+    }
+.footnote .label {
+    text-align: right
+    }
+.fnanchor {
+    vertical-align: super;
+    font-size: 0.8em;
+    text-decoration: none
+    }
+.indent {
+    display: block;
+    margin-left: 3em
+    }
+.poem {
+    margin-left: 25%;
+    text-indent: 0%
+    }
+.poem .stanza {
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+.poem br {
+    display: none
+    }
+.poem span.i0 {
+    display: block;
+    margin-left: 0;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i2 {
+    display: block;
+    margin-left: 2em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i4 {
+    display: block;
+    margin-left: 4em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i1 {
+    display: block;
+    margin-left: 1em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i3 {
+    display: block;
+    margin-left: 3em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i10 {
+    display: block;
+    margin-left: 10em;
+    padding-left: 3em;
+    text-indent: -3em
+    }

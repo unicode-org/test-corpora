@@ -1,0 +1,570 @@
+Gutenberg loyihasi, Edgar Allan Po tomonidan yozilgan Qarg'aning elektron kitobi.
+
+Qarg'aning Gutenberg loyihasi elektron kitobi
+
+Ushbu elektron kitob Qo'shma Shtatlardagi va dunyoning boshqa qismlarida hech qanday to'lovsiz va deyarli hech qanday cheklovlarsiz har kim foydalanishi mumkin. Siz uni nusxalashingiz, berishingiz yoki ushbu elektron kitobga kiritilgan Project Gutenberg litsenziyasi shartlariga muvofiq yoki www.gutenberg.org saytida onlayn tarzda qayta foydalanishingiz mumkin. Agar siz Qo'shma Shtatlarda bo'lmasangiz, ushbu elektron kitobdan foydalanishdan oldin siz joylashgan mamlakat qonunlarini tekshirishingiz kerak bo'ladi.
+
+Sarlavha : Qarg'a
+
+Muallif : Edgar Allan Poe
+
+Sharhlovchi : Edmund Klarens Stedman
+
+Tasvirchi : Gustav Dore
+
+Chiqarilgan sana : 2005 yil 30-noyabr [ebook #17192] Eng so'nggi yangilangan: 2020 yil 13 dekabr
+
+Til : ingliz
+
+Kreditlar : Jeyson Isbell, Melissa Er-Raqabi va Onlayn tomonidan ishlab chiqarilgan Https://www.pgdp.net saytida tarqatilgan tahrirlash guruhi.
+
+*** GUTENBERG ELEKTRON KITOBI LOYIHAsining BOSHLANISHI ***
+
+Orqa qopqoq
+
+QARG'A
+
+tomonidan
+
+EDGAR ALLAN PO
+
+TASSIRLANGAN GUSTAVE DORÉ tomonidan
+
+Sarlavha tasviri
+
+EDMUND C. STEDMAN MUHAMMASI BILAN
+
+Nyu-York
+
+HARPER & Brothers, noshirlar, FRANKLIN SQUARE
+
+1884 yil
+
+Kongress qonuniga ko'ra, 1883 yilda kiritilgan
+
+HARPER VA AKALAR,
+
+Vashingtondagi Kongress kutubxonachisi idorasida.
+
+Barcha huquqlar himoyalangan.
+
+Transkriptatorning eslatmalari
+
+Rasmlar ro'yxatida men Lenoredan keyin etishmayotgan bitta tirnoqni tikladim! quyida ko'rsatilgandek:
+
+"Bechora! Muhlat - muhlat va Lenore haqidagi xotiralaringizdan uzoqlashing!
+
+Rasmlar roʻyxatida “mehmon” soʻzi qoʻllaniladi, bunda sheʼr va haqiqiy illyustratsiya “mehmon” soʻzidan foydalaniladi.
+
+RASMLAR RO'YXATI
+
+Gravürchilar ismlari bilan
+
+Elixu Vedder tomonidan ishlab chiqilgan sarlavha sahifasi.
+
+Frederik Juengling.
+
+"Hech qachon."
+
+X. Klavdiy, GJ Buxner.
+
+ANANKE.
+
+X. Klavdiy.
+
+"Bir kuni yarim tunda g'amgin edi, men o'ylayotganimda, zaif va charchagan holda, Ko'plab g'ayrioddiy va g'aroyib kitoblar unutilgan."
+
+RA Myuller.
+
+"Oh, aniq eslayman, bu qorong'u dekabrda edi, Va har bir alohida o'layotgan cho'g o'z sharpasini polga aylantirdi."
+
+RG Titze.
+
+"Men ertangi kunni orzu qilardim; behuda qarz olishga intildim Mening kitoblarimdan qayg'u bor - yo'qolgan Lenore uchun qayg'u."
+
+X. Klavdiy.
+
+"Yo'qolgan Lenore uchun qayg'u."
+
+V. Zimmermann.
+
+"Farishtalar Lenore deb atagan noyob va yorqin qiz uchun - Bu erda abadiy nomsiz."
+
+Frederik Juengling.
+
+— Mening xonam eshigidan kirishga kelgan mehmon... Kech kelgan mehmon mening xonam eshigiga kirishni iltimos qilmoqda.
+
+V. Zimmermann.
+
+-"Mana men eshikni keng ochdim;- U erda zulmat va boshqa hech narsa yo'q."
+
+X. Klavdiy.
+
+"Shubhali, tush ko'ruvchi orzular ilgari hech bir odam tush ko'rishga jur'at etmagan."
+
+FS King.
+
+"Albatta, - dedim men, - bu mening derazamning panjarasidagi narsadir; Keling, bu erda nima borligini va bu sirni o'rganishga ruxsat bering.
+
+Frederik Juengling.
+
+— Bu yerda oching, men deklanşörü uloqtirdim.
+
+T. Jonson.
+
+-"O'tgan avliyo kunlarning ulug'vor qarg'asi. U zarracha sajda qilmagan, bir daqiqa ham to'xtamagan yoki to'xtamagan".
+
+R. Staudenbaur.
+
+"Mening xonam eshigi tepasida Pallas byusti ustiga o'rnatilgan ... O'tirdi va o'tirdi va boshqa hech narsa yo'q."
+
+RG Titze.
+
+"Tungi qirg'oqdan sarson."
+
+Frederik Juengling.
+
+"Toki men g'o'ldiradigandan ko'ra," Boshqa do'stlarim oldin uchib ketishgan ... Ertaga u meni tashlab ketadi, xuddi ilgari umidlarim uchib ketgandek.”
+
+Frank frantsuz.
+
+"Keyin, baxmal cho'kib ketganda, men bog'lanishga kirishdim O'zgacha."
+
+R. Shelling.
+
+"Ammo kimning baxmal binafsharang astarli chiroq chirog'i porlab turadi U bosadi, hech qachon!"
+
+Jorj Kruell.
+
+"Bechora! Muhlat - muhlat va Lenore haqidagi xotiralaringizdan uzoqlashing!
+
+Viktor Bernstrom.
+
+"Bu uyda dahshat tomonidan ta'qib qilingan."
+
+R. Staudenbaur.
+
+"Menga rostini ayting, iltimos qilaman, Giladda balzam bormi ? - Ayting-chi, ayting-chi!
+
+V. Zimmermann.
+
+“Ayting bu qalbga qaygʻu toʻla, agar uzoq Aidenn ichida, U farishtalar Lenore deb atagan avliyo qizni quchoqlaydi.”
+
+FS King.
+
+"Bu so'z bizning ajralish belgisi bo'lsin, qushmi yoki shayton!" Men qichqirib yubordim.
+
+V. Zimmermann.
+
+""Bo'ron va tungi Plutoniya qirg'og'iga qayting!"
+
+Robert Xoskin.
+
+"Va mening jonim erda suzayotgan o'sha soyadan Ko'tariladi - hech qachon!"
+
+RG Titze.
+
+Sfenksning siri.
+
+R. Staudenbaur.
+
+SHE'RGA Izoh.
+
+She’rning siri, hazilning farovonligidan kam bo‘lmagan, eshitgan qulog‘ida yotadi. Uning afsuniga bo‘ysun, shoirning kayfiyatini qabul qil: axir, uning qadrini so‘rasangiz, donishmandlar shunday javob beradilar. Garchi shoirning o‘zi boshqa kayfiyatda uning san’ati chaqqonlik, afsungar taomi ekanligini aytib, uning nayrangini ko‘rsatishni taklif qilsa ham, — ishonmang. Uning bashoratli soatini kuting; keyin o'zingizni uning ehtirosiga, quvonchiga yoki dardiga bering. "Biz bugun Muhabbatning qo'lidamiz!" — deb kuylaydi Gotier, Suinbernning jo‘shqin iborasi bilan, — va tongdan to kun botguncha biz shiddatli dengizda to‘lqinlanib ketamiz: faqat bitta sevgi bor, bir may, bitta gulli tola. Sevgi abadiydir, qolgan hamma narsa haqiqiy emas va bir chetga surib qo'ying. Ko'rishning oxiri bor, sahna o'zgaradi; lekin biz bir narsaga ega bo'ldik, jozibaning xotirasi. Qanchalik shoirlar, shunchalik jozibalar. Evanessensiyaning jozibasi bor, u Patos aureolasini yuksak go'zallik va inoyatga bag'ishlaydi. Landor bilan Rose Aylmer uchun "xotiralar va xo'rsinishlar kechasi"ni baham ko'ring va siz buni to'liq bilasiz.
+
+Endi esa, qandaydir yashash joyidan o‘sha qo‘pol va nomutanosib Amerikaga adashib qolgan yangi dunyo qo‘shiqchisining qo‘lidan tuting, u Bodler ko‘rganidek, “Po uchun u yerdan u yerga va u yerga, toza dunyoda nafas olish uchun yaratilgan va hatto ma’naviy hayot kabi jo‘shqin hayajon bilan yuguradigan ulkan qamoqxona edi”. bu antipatik atmosferaning ta'siridan qochish uchun doimiy harakat." O'zining g'alati qiyofasini o'ynagan notinch qo'shiqchining nozik qo'lini mahkam ushlang va u bilan hech qachon kun bo'yi, har doim tunda - u aylanib yurgan Atlantis bo'lmasa, hech bo'lmaganda kunduzi o'zi to'sqinlik qiladigan chegaralardan panoh topadigan iqlimni baham ko'ring.
+
+Bir mamlakatga faqat u sizni olib borishga qodir va faqat bir kecha uchun siz uning orzusini baham ko'rishingiz mumkin. Na Yerning, na Osmonning trakti: "Hech kim bo'lmagan yer", Kosmosdan, Vaqtdan tashqarida. Mana, xafa bo'lganlar, ularning ko'zlari, xuddi Cencining ko'zlari kabi, aqli dovdirab qolgan bo'lsa ham, ruh derazalarni topadi; Bu erda abadiyatga olib boradigan yo'lni izlayotgan ruhlar to'xtab, kechiktiriladi. Bu "sayyora ruhlari" ning chegarasi bo'lib, unda oy yorug'idagi barcha noaniqliklar, barcha yo'qolgan sevgilar va illyuziyalar mavjud. Bu erda ba'zilari trans holatiga tushib qolishadi, bu esa erishish mumkin bo'lgan yagona muhlatdir; boshqalar
+
+"fantastik harakat
+
+Mos kelmaydigan ohangga:"
+
+hamma joyda bo'lganda
+
+"O'tmishdagi xotiralar -
+
+Boshlovchi va xo'rsinib turadigan kafanlangan shakllar
+
+Ular sarson-sargardonni o'tib ketayotganlarida."
+
+Mana shunday er va biz unga bir kecha-kunduz kiramiz - astral fazalar va takrorlanuvchi qo'ng'iroqlar kechasi. Uning monodiyalari o'n ikkita she'rdan iborat bo'lib, ularning musiqasi o'zgarishga intiladi, lekin hech qachon bir xil. Ular “Qizil o‘lim maskasi”dagi qora va qora soatlarning jiringlashiga o‘xshab birin-ketin yangraydilar, bu esa valslarni “xavotir, titroq va mulohaza” bilan to‘xtab turishiga sabab bo‘ladi, har doim soat o‘tgan sayin.
+
+Ushbu mistik kadenslar ichida portal orqali tebranib turgan Qarg'a tekisligi, asosan, tashqi dunyoni hayratda qoldirdi. She'rning yaratilishiga nimalar kiradi va bu, boshqa ko'pchilikda bo'lgani kabi, bardlarini "yaratuvchi" deb atagan poyga qanchalik to'g'ri? Ish bo'sh joydan chaqiriladi. Hech narsa bo'lmagan joyda u qoladi - yangi ijod, insoniyat xazinasining bir qismi. Yana bir nechta ajoyib lirikalar, boshqalardan ko'ra ko'proq, shoir qalami noma'lum narsalarni qanday jasorat bilan aylantirayotgani haqida bizni yangidan o'ylashga majbur qiladi.
+
+"shakl beradi va havodorga hech narsa bermaydi
+
+Mahalliy turar joy va nom."
+
+Ularning har biri prototipsiz ko'rinadi, ammo barchasi bizni g'ayritabiiylik soyasidan olingan elementlar bilan hayratda qoldiradi. Endi eng oliy tasavvur narsalarning ruhi bilan bog'liq; Bu odamlarning oylararo noaniq tasvirlari haqidagi Fantaziyani ilhomlantirishi yoki ilhomlantirmasligi mumkin. Shunday bo'lsa-da, bu lirikalardan biri, xuddi Marloning "Faust", Gyotening "Fausti", "Manfred" yoki hattoki o'sha efir durdonalari, "Bo'ron" va "Yozning o'rtasi" kabi g'ayritabiiy aktyorlarning yuksak asarlari kabi bizga o'ziga xoslik hissi bilan ta'sir qiladi. Bir nechta, ammo noyob bo'lsa-da, ba'zilari bor  xotirani ta'qib qiladigan yuk yoki nafrat - bir marta eshitilgan, hech qachon unutilmaydi, kamdan-kam ishlatiladigan, lekin o'ziga xos organ-stop ohangi kabi. Ular orasida Burgerning "Lenore" tarjimonlarning jozibasi va jozibasi bo'lgan o'sha sharpali va jarangdor balladasi diqqatga sazovordir. Kolerijning ajoyib "Qadimgi dengizchi rime" asari ularning boshida turganini kam odam inkor etadi. Agar Beranjer buyukroq shoir bo'lganida, "Le Juif-Errant" da'vo qilgan bo'lardi; va, lekin xalqning hamdardligidan uzoqligi uchun "Shalott xonimi" va "Muborak Damozel" ro'yxatiga qo'shilishi mumkin. Bu Edgar Allan Poga "Qo'ng'iroqlar" va Qarg'aning ikkita qo'shig'ini yaratish uchun berilgan, ularning har biri Tennison va Rossettinikidan kamroq go'zal bo'lsa ham, noyobdir. "Ulalume" bir xil darajada g'alati va tasavvurga ega bo'lsa-da, bizning sinovimizning bir qismi bo'lgan universal sifatga ega emas.
+
+Qarg'a aniq she'riy tarkibda "Arvohlar saroyi", "Dengizdagi shahar", "Uyquchi" va "Isrofil" kabi asarlardan pastga tushadi. O'ylaymanki, bularning barchasi, menimcha, o'qiydigan o'quvchilar tomonidan quyidagi qismlarga almashtiriladi:
+
+"Atrofda, shamollarni ko'tarish orqali unutdi,
+
+Itoat bilan osmon ostida
+
+G'amgin suvlar yolg'on.
+
+Muqaddas osmondan nurlar tushmaydi
+
+O'sha shaharning uzoq tunida;
+
+Ammo tiniq dengizdan yorug'lik
+
+Minoralarni jimgina oqadi -
+
+· · · · · · · ·
+
+Ko'p va ko'plab ajoyib ziyoratgoh
+
+Kimning gulchambarlari bir-biriga bog'langan
+
+Viol, binafsha va tok.
+
+· · · · · · · ·
+
+Hech qanday shishlar shamol bo'lishi mumkinligini aytmaydi
+
+Olisdagi baxtli dengizda -
+
+Hech qanday ko'tarilish shamol bo'lganiga ishora qilmaydi
+
+Dengizlarda unchalik jirkanch darajada tinch emas."
+
+Unda yurak torlari leyta bo‘lgan shoirning havo ohangi yetishmaydi:
+
+"Va deyishadi (yulduzli xor
+
+Va boshqa tinglovchi narsalar)
+
+O‘sha Israfelining olovi
+
+Bu lira tufayli
+
+U o'tirib, qo'shiq aytadi -
+
+Titrayotgan tirik sim
+
+Bu g'ayrioddiy torlardan."
+
+Ammo Raven , xuddi "Qo'ng'iroqlar" va "Annabel Li" kabi, o'zini ko'pchilik va ozchilik uchun maqtadi. Men boshqa joyda aytgan edimki, Poning kamdan-kam asarlari menga "hech bo'lmaganda, o'z-o'zidan paydo bo'lgan, u o'z his-tuyg'ulariga bo'ysunadigan, o'layotgan paytda yiqilib tushadigan eng musiqiy, eng g'amgin ritmlar esa undan bexabar paydo bo'lgan" bo'lib tuyuldi. Bu hali ham mening ishonchim; va shunga qaramay, bu she'rni yangi o'rganib chiqqach, u menda bolaligimdan beri har qachongidan ham ko'proq taassurot qoldirdi. Yaqin tanishish har bir haqiqiy san'at asarining foydasiga aytadi. San'atni bilmaydigan va unga e'tibor bermaydigan odamni qandaydir she'r yoki rasmni o'rganishga undang va uning kuchi uni qanchalik tez egallaydi! Darhaqiqat, u o'zining diqqatini jalb qilgan birinchi yaxshi ishning nisbiy qiymatini oshirib yuboradi. Qarg'a , shuningdek, hatto mutaxassis ham hayratga tushishi kerak bo'lgan izchil fazilatlarga ega. Muallifning boshqa hech bir she'rlarida motiv aniqroq aniqlanmagan. “Arvohlar saroyi” ham tanlangan kitobxon uchun aniq, ammo Po bu nozik allegoriyani kal tahlili uchun qabul qilmasa kerak. Qarg'a butunlay muallifga xos mavzu bilan band - butparast va go'zal ayolni qaytarib bo'lmaydigan yo'qotish; lekin boshqa asoslarga ko'ra, shuningdek, jamoat instinkti uning vakili she'rini o'ylashda to'g'ri.
+
+Dohiy odam odatda biron bir harakatning muvaffaqiyati bilan o'z pog'onasini egallaydi va bu har doim ham uning eng kattasi emas. E'tirof etish kechiktirilganligi uchun tezroq bo'ladi. U bu pulni, miskinning boyligi kabi, tangadan keyin tanga emas, balki "umuman yoki umuman emas". Shunday qilib, boshqa ambitsiyalar bilan: saroy a'zosi, askar, aktyor - ularning qismlari qanday bo'lishidan qat'iy nazar - har biri o'z g'alabasini qandaydir omadli zarba bilan hisoblaydi. Poning qarg'asi, g'ayrioddiy bo'lishiga qaramay, uning uchun "shabadani esadigan qush" edi. Shoir 1844-45-yillarning qishida Nyu-Yorkda joylashdi va Uillisning "Kechki ko'zgu" gazetasiga ish topdi va boshqa joylardan o'z daromadlarini topdi. Olti yil davomida u faol yozuvchi edi va professional obro'ga ega edi; hurmat va shubha ostida bo'lgan va o'sha kungi yomon haq to'lanadigan jurnalistikada o'z ulushini yo'qotmagan. Shuningdek, u o'zining eng yaxshi asarlarini - "Ligeya" va "Usher uyining qulashi" kabi ertaklarini (ikkinchisida Elixu Vedderning "Adashgan aql" mistik muqobili) "Oltin xato" va "Mari Rojetning siri" kabi tahliliy qahramonliklarni ham qilgan. U chet elda prozelitlarni qabul qildi va frantsuz ongini doimiy ravishda egallab oldi. U o'zining kuchli va zaif tomonlarini o'rgandi va o'zining eng yuqori cho'qqisida edi, lekin ma'lum bir obro'ga ega emas edi. Lekin u hammaning tiliga tushadigan hech narsa yozmagan. Noyob va nozik ishlarga o'z davrining umumiy auditoriyasini jalb qilish uchun ba'zi mashhur teginishlar qo'shilishi kerak.
+
+Poning ketma-ket biograflari sanoati orqali The Raven tomonidan yaratilgan xit tez-tez aytiladigan ertakga aylandi. Shoirning yosh rafiqasi Virjiniya uning ko'z o'ngida so'nib borardi, lekin o'lim soyasida yana bir yil qolib ketdi. Bloomingdale yo'li yaqinidagi uydagi uzun, past xona kabi  Rouje de l'Isle "Marsel" asarini yaratgan xona sifatida mashhur. “Kvarlz” imzosi bilan yozilgan she’r “American Review”da uning shakliga soxta tahririy izoh bilan chiqqanini hamma eshitgan; Po buning uchun o'n dollar olgani; Moda hakamlarining eng mehribon va eng kam havaslisi bo'lgan Uillis uni maqtash bilan qayta nashr etdi va shu zahotiyoq uni shaharcha muhokamasiga aylantirdi. Po uni adabiy yig'ilishda o'qiganida uning muallifligiga bo'lgan barcha shubhalar barham topdi va bir muncha vaqt u amerikalik mualliflarning eng ko'zga ko'ringaniga aylandi. Bu zarba uni rag'batlantirdi va ruhlantirdi. Boshqa va mag'rurroq satirik kabi u ham "hasharotlarning g'ichirlashida" ham "yozning bir narsasini" topdi. Achinarlisi shundaki, uch yil o'tdi - ta'sir, mag'rurlik, iztirob, lekin doimo xayoliy yoki tanqidiy mehnat davri - yakuniy mag'lubiyatdan oldin, uning uchun haqiqatan ham fojia bo'lgan hayot pardasi ochilgunga qadar va u "G'olib qurt"ga bo'ysundi.
+
+"The American Review: A Whig Journal" o'sha vaqt uchun ishonchli jurnal bo'lib, ikki ustunli, yaxshi qog'ozga aniq qog'ozda chop etilgan va mezzotint portretlari bilan tasvirlangan. Mavjud me'yordan pastroq bo'lgan ko'p narsalar orasida, har qanday muharrir mamnuniyat bilan qabul qiladigan ba'zi narsalarni o'z ichiga oladi. 1845 yilga mo'ljallangan dastlabki jildida Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Takerman va Whipplning maqolalari mavjud. Ushbu jildda Ralf Xoytning "Qadimgi" nomli g'aroyib she'ri paydo bo'ldi. Va bu erda Poning uchta qo'shig'i: "Dengizdagi shahar", "Tinchlik vodiysi" va Qarg'a . Ulardan ikkitasi, — uning yoʻli ham, — avvalgi tadqiqotlaridan qurilgan edi, lekin oxirgi ismlilar goʻyo yangi yaratilgandek va deyarli hozir bizda boʻlgani kabi chiqdi. Keyinchalik qayta ko'rib chiqilmaganligi haqidagi bayonot noto'g'ri. Jurnal matnidagi o'n bitta arzimas o'zgarishlar 1845 yildagi "Qarg'a va boshqa she'rlar" kitobida paydo bo'ldi, bu kitobni shoir qisqa vaqt ichida ommaga taqdim etishga undadi. Bular asosan tinish belgilarining yoki yakka so'zlarning o'zgarishi, ikkinchisi alliteratsiya ta'sirini kuchaytirish uchun qilingan. Janob Langning "Pergament kutubxonasi"da chop etilgan Po she'rining go'zal nashrida u olimning instinktini ko'rsatdi va 1846 yil London sonida keltirilganidek, hozirgina tilga olingan jildidagi matnga qaytishda oqilona ish qildi. "standart" Grisvoldning shoir asarlarining xatolari to'plami juda ko'p. Bularni keyingi muharrirlar ham takrorlagan, ular ham o'z xatolariga yo'l qo'ygan. Ammo "Qarg'a" ning matni muallifdan qo'lyozma nusxalarini olish uchun qilingan iltimoslar tufayli u tomonidan hali ham ko'proq qayta ko'rib chiqilgan; aslida, u Richmondda, o'limidan oldin, o'n to'rtinchi baytdagi "oyoqlari zaif farishtalar" o'rniga "oyoqlari tushadigan serafim" ni she'riy almashtirish bilan bosgan. Shunday ekan, bizning hozirgi matnimiz 1845 yilgi matn bo‘lsa-da, shoirning keyingi o‘qishlari natijasida biroz o‘zgartirilgan va menimcha, bu bitta she’rning eng to‘g‘ri va ta’sirchan variantidir. Eng qadimgi versiyadan eng tub o'zgarish 1845 yilda jildda paydo bo'ldi; O'n birinchi baytda dastlab qofiya noto'g'ri bo'lgan va she'rdagi nuqsonli satrlar mavjud edi:
+
+"Baxtsiz xo'jayin tomonidan qo'lga olindi, u shafqatsiz ofat
+
+Tezroq ergashdi va tezroq ergashdi - shuning uchun Umid aytganida,
+
+Qattiq Despair qaytib keldi, u shirin umid o'rniga u adashtirishga jur'at etdi ...
+
+O'sha achinarli javob: "Hech qachon!"
+
+Boshqa va mashhur shoirlar o'z o'zgarishlarini doimo takomillashtirib borishlariga ishonch hosil qilishsa yaxshi bo'lardi. Po o'zining arzimagan she'rlarini doimiy ravishda qayta ko'rib chiqar va odatda uni yaxshilagan. Qarg'a u chop etishdan oldin deyarli tugatgan bir nechta she'rlarning birinchisi edi. Balki she’riyatga mehr qo‘yganlar uning o‘limidan ozgina yutqazgandir. Nasrda ravon, she’r qilish uchun she’r yozmagan. Tasvirning qaytarilishi uni ta'qib qilganda, lirika, uning o'zi aytganidek, maqsad emas, balki ehtirosning ilhomi edi. Bu juda kam vaqt oralig'ida sodir bo'ldi, chunki har biri asab inqirozining mahsuli bo'lgan Feyrfild nazariyasini oqlash uchun.
+
+Xo'sh, shoirga "Qarg'a" ga nima yordam berdi? U qanday tumanli poydevordan asta-sekin nafas oladigan musiqaga ko'tarildi? Odatdagidek, bunday e'tiborli she'rning binosiga bir nechta narsa bordi. Ko'pincha qisqa va unchalik qiziq bo'lmagan matnlarda va'z qilinadigan uzunroq va'zlarni hisobga olsak, men bitta lirikaning, ayniqsa Dore kabi rassomning g'alati illyustratsiya mavzusiga aylangani haqidagi bu muhokamada ayblanmaslikka umid qilaman. Yaqin-yaqingacha men bu asar va uning muallifi paydo bo'lganidan keyin tuzgan ba'zi asarlar o'zining bolalik she'rida mikroblardan o'smaganligi bilan ajralib turadi deb o'ylardim. Ammo janob Fearing Gill menga Poning o‘n sakkizinchi yoshida yozilgan va “Olov iblisi” deb nomlangan nashr etilmagan baytlarini ko‘rsatdi. Qo‘lyozma shoirning dastlabki qo‘lyozmasida bo‘lgan ko‘rinadi va uning haqiqiyligini yarim asrdan beri qo‘lida bo‘lgan oila tasdiqlaydi. "Qo'ng'iroqlar" va "Arvohlar saroyi" ning eng oddiy mikroblaridan tashqari, u "Qarg'a" ning ochilishi va yopilishini ko'rsatadigan bir nechta satrlarni o'z ichiga oladi. She’rimizning ritmiga kelsak, sanalarni taqqoslash shuni ko‘rsatadiki, bunga “Jeraldin xonimning uchrashishi” ritmi ta’sir qilgan. Po miss Barretning dahosini birinchilardan bo‘lib ulug‘lagan; u o'zining to'plangan she'rlarini unga "uning jinsining eng olijanobi" deb yozib qo'ydi va unda edi  uning lirik uslubiga hamdardlik. Uning sevgi she'ridagi satrlar,
+
+“Havoda binafsha parda noaniq shovqin bilan
+
+Uning harakatsiz oqargan qoshlari atrofida shishib, shishib ketadi "
+
+bularda aks-sado topildi:
+
+"Va har bir binafsha pardaning shoyi g'amgin noaniq shitirlashi
+
+Meni hayajonga soldi - meni ilgari hech qachon bo'lmagan dahshatli dahshatlarga to'ldirdi."
+
+Bu erda Po sharafga ega bo'ldi, buning uchun u Longfellowni qo'pol qoraladi va hech kim hech qachon tezda aniqlanmasdan va jazolanmasdan o'z uyida qidirib topmagan. Ohang va stanzaik shaklda biz ikkala she'rning bir-biriga o'xshamasligini ko'ramiz, lekin motiv jihatidan ular butunlay farqlanadi. Saxovatli shoira shoirning asl o‘ziga xosligidan boshqa hech narsani his qilmadi. "Bu yorqin yozuv!" — deb xitob qildi u, — bu sezilayotgan kuch!... Bizning buyuk shoirimiz, «Parasels» va boshqalar muallifi janob Brauning ritmga hayratda. Janob Ingram “Ledi Jeraldin”ga ishora qilib, Po impuls olgan bo‘lishi mumkin bo‘lgan yana bir manbani mohirlik bilan ko‘rsatadi. 1843 yilda yarim yunon, yarim chegarachi, Arkanzas shoiri Albert Pike Po yozayotgan "Yangi oyna"da "Izador" deb nomlangan, ammo muallif tomonidan qayta ko'rib chiqilgan va "Beva yurak" deb nomlangan ba'zi she'rlarni chop etgan. Men janob Pikening tahriridan quyidagi baytni tanlayman, ularning asosiy xususiyatlari asl nusxaga mos keladi:
+
+"Men yolg'iz xonalarimizni bezovta qilyapman, qo'shiqlarimizni boshqa ijro etmayman,
+
+Supurilmagan polda g'aroyib quyosh porlaydi;
+
+Masxara qiluvchi qush hamon o‘tirib qo‘shiq aytadi, ey g‘amgin taranglik!
+
+Chunki mening yuragim yomg'irdan to'lib toshgan kuz bulutiga o'xshaydi;
+
+Sen mendan abadiy yo'qolding, Isador!"
+
+Bu erda biz uzoq davom etgan chora-tadbirlar, nafrat o'xshashligi va qo'shig'i qayg'uni kuchaytiradigan qushning kiritilishiga egamiz. Qiziquvchanlar kuzatib borishlari mumkin bo'lgan boshqa yo'llar ham bor; Xususan, janob Ingram Poning "Barnabi Rudj" haqidagi yakuniy sharhidan tanlagan parcha:
+
+"Qarg'a ham, biz hozir ko'rib turganimizdan ko'ra, * * * fantastik Barnabi tushunchasining bir qismi bo'lgan bo'lishi mumkin edi. * * * Uning xarakteri, ahmoqnikiga nisbatan, musiqada havoga jo'r bo'lgani kabi rol o'ynagan bo'lishi mumkin."
+
+Shunga qaramay, bu mikrob va o'xshashliklarni ko'rsatgandan keyin ham bu she'rning qadr-qimmati uning o'ziga xosligida topiladi. Ilg'or musiqa, manzarali tafsilotlar va qarama-qarshi yorug'lik va soya, eng avvalo, tunning ruhiy ishtiyoqi uni ma'lumot beruvchi dahoning ishiga aylantiradi. Dahshatli qushga kelsak, u o'z urug'ining boshqa barcha qarg'alariga o'xshamaydi: balladachilarning "twa corbies" va "uch qarg'a"laridan tortib, Barnabiyning "Grip" ga qadar. Bu yerda ajdodlar minoralarini ta’qib etuvchi va geraldika maydonini bosib o‘tadigan arqonning hech qanday o‘xshashi yo‘q; Tickell kuylagan hech qanday hayolsiz, qachon,
+
+"Uch marta derazaga qichqirdi,
+
+Qarg'a qanot qoqdi,
+
+Muhabbatga berilib ketgan qiz juda yaxshi bilardi
+
+Tantanali ovoz."
+
+Poning qarg'asi alohida tushunchadir; motam tutuvchi iztirob va umidsizlikning mujassamlanishi; samur mujassamlangan Xotira, halokatning abadiy yilnomachisi, tuzatib bo'lmaydiganning bir turi. Stiks bo'ylab, "Tungi Plutoniya qirg'og'idan" qochib ketgan, u so'roq qiluvchining o'zi - mehribon nepentheni ravo ko'ra olmaydigan va befarq bo'lmagan odamning ruhiga o'xshab ko'rinadi, chunki Lenorening xotirasi unga qolgan va uning qayg'usi bilan bu ham chetga surilgan.
+
+Qarg'ani , shuningdek, she'r qanday bo'lishi kerakligi haqidagi barcha tushunchalarini misol qilib keltirganligi uchun uning muallifining vakillik she'ri sifatida qabul qilinishi mumkin. Bular uning “She’riy asos”, “Nazm asosi”, “Bozuv falsafasi” kabi ocherklarida uchraydi. Po e'lon qildi: "Musiqada, ehtimol, ruh she'riy tuyg'udan ilhomlanib, u uchun kurashadigan buyuk maqsadga erishadi - g'ayrioddiy go'zallikni yaratish .... Oyatni past yoki kamroq qobiliyatli musiqa sifatida yaxshiroq belgilash mumkin emas"; Ammo yana, "So'zlar she'riyati" bo'lgan misra "Go'zallikning ritmik yaratilishi" - bu va boshqa hech narsa emas. Eng yuksak go'zallikning ohangi - qayg'u. Mavzular ichida eng g'amgin - O'lim. Bu go'zallik bilan bog'liq bo'lishi kerak. "Demak, go'zal ayolning o'limi, shubhasiz, dunyodagi eng she'riy mavzudir va shu bilan birga, bunday mavzuga eng mos keladigan lablar o'lik sevgilining lablari ekanligi shubhasizdir." Bu so'nggi iboralar Poning aynan shu she'rni g'aroyib tahlilidan iqtibos keltirgan bo'lsa-da, ular uning she'rlarining umumiy doirasini aniq ko'rsatadi. "Qo'ng'iroqlar" ning eng yuqori cho'qqisi - bu inson qalbini og'irlashtirish bilan ulug'lanadigan arvohlarning bo'g'iq monotonligi. "Lenore", " Qarg'a" , "Uyquchi", "Jannatda birovga" va "Ulalume" tenebroz simfoniyasini tashkil qiladi va eng oxirida yozilgan "Annabel Li" bir mavzu uni oxirigacha egallaganligini ko'rsatadi. Shunga qaramay, bularning barchasi musiqiy bo'lmasa, hech narsa emas va ba'zilari hayrat tuyg'usini uyg'otadigan va azobning o'ziga yangi qo'rquv qo'shadigan Fantastik sifati bilan ta'sirlanadi. Hammasi xira ko'rinishda, soyalar ostida shoirning ideal sevgisi - ko'pincha boshqa joylarda yarim tasvirlangan - Usherning dafn etilgan rafiqasi Ligeya xonim.  haqiqat o'z tabiatining o'xshashi. O‘ylaymanki, san’atkorning “shakldagi”ga bo‘lgan muhabbati uning qandaydir idealga bo‘lgan sadoqatiga hech qachon to‘liq tenglasha olmaydi. Uning yonida bo'lgan ayol o'z afsunlarini bajarishi, navbatma-navbat va uzoq davom etishi, uni cheksiz xilma-xillik bilan o'ziga jalb qilishi yoki uning sodiqligidan voz kechishga rozi bo'lishi kerak. Uni erishib bo'lmaydigan narsa o'ziga jalb qilishi kerak va bu uning ijodiy san'atga bo'lgan ishtiyoqidan ham oshib ketadi.
+
+Po ham Hawthorne singari, romantik maktabning tanazzulga uchrashi bilan keldi va hech kim uning musibatidan kulishdan xursand bo'lmadi. Shunga qaramay, uning yuragi romanslar va ularning sharqona yoki gotika effektlari bilan edi. Uning nasriy ertaklarga boy ixtirosi she'r yozganida uni tark etgandek edi; va uning hukmi unga uzoq ishqiy she'rlar ilhomdan ko'ra ko'proq voqeaga bog'liqligini va romantik she'rni aytish uchun qo'shiq matni kifoya qilishini aytdi. Shuning uchun uning nazariyasi, ya'ni, o'z chegaralariga aniq mos keladi, "uzoq she'r" atamalarda bir tekis qarama-qarshilikdir. Qarg'aning tarkibiy qismlari juda kam va oddiy: erkak, qush va ayoldagi hayoliy xotira. Ammo bu asar romantik materialning ajoyib namoyishini beradi. Bizda nima bor? Yarim tun; unutilgan ilm-fan to'plamlari bilan soyali xona; talaba, - zamonaviy Ieronim; qarg'aning g'ilofga tegishi; qish kechasi va o'layotgan olov; ipak shamol osgan osmalar; sado beruvchi zulmatga tushlar va noaniq ishonchsizlik; xira büst ustidagi qora, g'ayrioddiy qush; binafsha kadife aksessuarlari va gloating chiroq. Vaziyat, yorug'lik, rang, tovushning barcha sahna effektlari sof romantik va hatto melodramatik, ammo melodrama kamdan-kam namoyon bo'ladigan poetik xususiyatga ega va shoirning "abadiy ehtiros, abadiy dard"ini har tomonlama aks ettiradi.
+
+Qarg'aning ritmik tuzilishi albatta taassurot qoldirdi. Qofiya, alliteratsiya, yuk, stanzaik shakllar o‘ziga xos mahorat bilan yaratilgan. Shubhasiz, shoir Miss Barrettning "sakkizlik" musiqiy troxaikasining o'ziga xosligi va ayniqsa, "Ledi Jeraldin" ning yakuniga yaqin qabul qilingan aranjirovkadan hayratda qoldi:
+
+"Ko'zlar, - dedi u, "endi ichimdan titrayapti! Sizlar, meni buzib tashlagan ko'zlarmisiz?
+
+Parian haykali-toshiga o'rnatilgan antiqa taqinchoqlar kabi porlab turgan ko'zlar!
+
+O'sha sokin oppoq peshonaning ostida sizlar har doim yonib ketasizmi?
+
+Yuragim va hayotimning kimsasiz qumli cho'li yo'qmi?"
+
+Uning ikkinchi va to‘rtinchi misralarda uchinchi qofiyani badiiy muqaddimasi, beshinchi misra va so‘nggi nakarat qo‘shishi “Qarg‘a” misrasini yaratdi. Doimiy alliteratsiya hech qanday kuch sarflamasdan kelganga o'xshaydi va ko'pincha satrlar ichidagi qofiyalar jozibali; nafrat yoki yuk butun ishda hukmronlik qiladi. Bu erda u miss Barrettning o'z va boshqa tillarda ballada va romauntlarni o'rganishidan ham foyda oldi. “Refrein” bu shoir yoki musiqachining adashib yurgan qulog'ini ushlab turadigan jozibasi, tabiatning dastlabki zo'ravonlikka qayta-qayta intilishi. Men har doim ingliz qo'shiqchisining go'zal naqoratlariga qoyil qolganman: "Bulbullar, bulbullar", "Margret, Margret", "Yuragim va men", "Asta-sekin", "Daryo oqadi", "Pan, Pan o'ldi" va boshqalar.
+
+“Ey baxtli tirik mavjudotlar, til yo'q
+
+Ularning go'zalligi e'lon qilishi mumkin:
+
+Yuragimdan sevgi bahori otildi,
+
+Va men ularni bexabar duo qildim:
+
+Albatta, mening mehribon avliyom menga rahm qildi,
+
+Va men ularga bexabar duo qildim”.
+
+Po o'z bandining beshinchi qatorini takrorlash sehri uchun yaratdi. U keyinchalik bir nechta she'rlarida - "Lenore", "Annabel Li", "Ulalume" va "Enni uchun" she'rlarida unga to'liq tayangan. Menimcha, unga bolalik chog‘ida aytilgan afrika yuklari va takrorlarining “shirin ta’sirlari”dan vahshiy va g‘amgin musiqa orttirib, janublik shoirimiz ovoziga o‘z ohangiga moslashgan.
+
+"Kompozitsiya falsafasi", uning "Raven" ni tahlil qilish usuli va tuzilishining texnik tahlilidir. Uning sovuq qonli hunarmandchilikni tan olishi ham, keyinchalik do'stlariga bu hunarmandchilikni fosh qilish uning intellektual yolg'onlarining navbatdagisi ekanligini ta'kidlagani ham to'liq hisoblanmaydi. Agar u to'liq asarni oldindan tayyorlagan bo'lsa, u ikkinchi baytning mazali ohangiga, hatto fantastik nazariyasiga ham shunday qo'pol muqaddima yaratmagan bo'lardi. Albatta, rassom asarni mukammallashtirgandan so'ng, xuddi birinchi Rassom singari, uning yaxshi ekanligini ko'radi va nima uchun yaxshi ekanligini ko'radi. Har qanday muqaddas olovni inkor etish bilan birgalikda keyingi tahlil qilish osonlik bilan amalga oshirilishi mumkin. Mening ishonchim komilki, bu she'rning birinchi tushunchasi va qo'pol loyihasi ilhom doimo kelganda paydo bo'lgan; Uning muallifi uning qanday takomillashtirilishi mumkinligini ko'rgan va unga "Tarkib" bo'limida tasvirlangan so'nggi teginishlarni bergan va shuning uchun ikkinchisi na to'liq yolg'on, na to'liq haqiqatdir. Bunday tahlilning zarari shundaki, u yangi boshlanuvchini sun'iy jarayonlar xayolotning o'rnini bosishi mumkin degan tasavvurga vasvasaga soladi. Dahoning turtki - uning ijodiy soati sirlarini saqlash. Hawthornening yaqinda paydo bo'lgan eskiz asarida bo'lgani kabi, mashaqqatli mashaqqat, g'alabadan oldingi hayratlanarli tajribalar samimiy ijodkorga bebaho nasihat va dalda bo'ladi. Lekin bitta  ixtiyoriy ravishda o'z Musosini barcha xohlovchilar nigohiga ochib qo'ygan shoh Kandaules taqdirini eslashi kerak.
+
+Dunyo hali ham Poni “baxtsiz daho odam” deb hisoblaydi. Yaqinda men uni "hamma noto'g'ri talqin qilish, qoralash yoki tuhmat qilish huquqiga ega bo'lgan odam" deb tilga olinganini eshitdim. Ammo menimcha, uning baxtsizligi uning ayanchli o'limi bilan tugadi va o'shandan beri uning himoyasi qat'iyatli bo'lib, azob-uqubat va iste'dodli muallif kabi barqaror o'sish shon-sharafi umidli soatlarida ibodat qilishi mumkin edi. Grisvoldning qoralashi va tuhmati oqimni uning foydasiga aylantirdi. Tanqidchilar va biograflar ketma-ket raddiyalar, uning xarakterini hurmat qilish, asarlarining yangi nashrlari bilan chiqishdi. Uning o'z maktublari va faoliyatidagi daqiqali voqealar oldimizda; rekord, yaxshi va yomon, keng ma'lum. Hech bir da'vogar ko'proq yumshoq va kechirimli hukm olmagan. Uning hayotidagi baxtsiz hodisalar o'z mintaqasi va davriga tegishli bo'lsa, ehtimol ko'proq o'z irodasining zaifligi bilan bog'liq. Shubhasiz, uning muhiti nozik, noto'g'ri muvozanatli tabiatni tashqi va ichki xavf-xatarlardan himoya qiladigan muhit emas edi. Uning eng kuchli irodasi, o'ziga xo'jayin bo'lish, unga "o'sha voy merosini" qo'lga kiritdi. U o'zini qushning baxtsiz xo'jayini, bu she'rdan azob chekkan deb tan oldi. Ammo o'z halokatidan xursand bo'lgan o'sha dramatik kayfiyatning to'liq ulushi unga tegishli edi. O'z rolini o'ynashning zavqi bor: biz hammamiz gladiatormiz, yig'layotgan Ave Imperator! Berkning haqiqatdan iqtibos keltirish uchun: "G'am-qayg'uda zavq hali ham eng yuqori va biz chekayotgan azob-uqubatlar har doim jirkanch bo'lgan va biz imkon qadar tezroq silkitishga harakat qiladigan mutlaq og'riqga o'xshamaydi". Po uzoqroqqa bordi va hatto karerasi fojiasida ham rassom edi. Agar uning fikricha, g'amginlik va go'zallikning yo'qolishi eng yuqori she'riy mavzu bo'lsa va she'riy tuyg'u eng o'tkir dunyoviy zavq bo'lsa, uning singan hayotining qayg'u va zulmatlari tez-tez qoplanmagan.
+
+Keyingi sahifalarda san’atkorning mashhur she’r talqinini tavsiflovchi dahosining yangi namunasini ko‘ramiz. Qalami oldimizda turgan so‘nggi asari bo‘lgan Gustav Dore ohang, shakl va mukammallikni talab qiluvchi realistlar uchun rassom, hatto chizmachi ham emas edi. Bu kabi masalalar uni shakl va masofani, yorug'lik va soyani yaratish, maqsadiga yordam berishdan ko'ra ko'proq qiziqtirdi, bu esa tomoshabinning qalbini, tasavvurini hayajonga soldi. U buni so'zlab bo'lmaydigan va g'am-g'ussa yoki shon-shuhratga to'la bo'lgan ajoyib va ​​ko'pincha yuksak tasavvurlar orqali bizda qo'rquv tuyg'usini uyg'otish orqali qildi. Yaxshi aytilganki, agar uning asarlari ajoyib rasmlar bo'lmasa, ular rasm kabi ajoyibdir. “Adabiy ijodkor” sifatida uning kuchi muallifining dramatik ixtirosi, o‘zinikini yoqqan ruhning jasur jasorati bilan bevosita mutanosib edi. Shuning uchun uning Rabelais, "Le Juif-Errant", "Les Contes Drolatiques" va "Don Kixot" bilan muvaffaqiyati, va demak, aksincha, uning Tennison Idillari, "Il Paradiso", ibroniy cho'ponlari va boshqa matnlar go'zalligini ifoda eta olmaganligi, yoki ulug'vorlik va zavqlanishni talab qiladi. U groteskning tug'ma ustasi edi va o'zgacha tushunchaga ko'ra, hayajonlangan miya hayollarini tasvirlay olardi. Biz buyumlarni uning siymolari ko'rgandek ko'ramiz va Pont-o-Changedagi do'konda adashgan yahudiyning, dovdirab qolgan Donning yoki zardo'z qizining ko'zlari bilan podshohni shu qadar ulug'laydi. Men o‘ziga xos deb atagan har bir she’r yoki nasrning har bir durdona asarini o‘ziga tortadigan narsa tabiatan edi. Quyi shohliklar uning xizmatiga chaqirildi; uning toshlari, daraxtlari va tog'lari, osmonning o'zi motiv va diabler bilan jonlanadi. Agar u Shekspirni tasvirlash uchun yashaganida edi, biz "Lir"da Kaliban, jodugarlar, bo'ronning ajoyib muomalasini ko'rishimiz kerak edi; lekin, shubhasiz, uning Imogen yoki Miranda ideallariga shubha qilish kerak edi. Sof va sodda go'zallikni va uning mukammalligini u kamdan-kam tushunardi.
+
+Shunga qaramay, uning "Qadimgi dengizchi" uchun dizaynlarida go'zallik bor, ular qanchalik haqiqiy bo'lmasin va Dore seriyasida kamdan-kam ketma-ketlik bor. Rime unga sahnaning ko'p o'zgarishi bilan uzoq hikoyani taqdim etdi. The Raven -da ovoz va rang o'zlarining monotonligini saqlaydi va bizda joy yoki vaziyat o'zgarmaydi. Natija qanday? Dore mavzu bo'yicha bir qator o'zgarishlarni taklif qiladi, chunki u "o'lim jumbog'i va tinchlanmaydigan ruhning gallyutsinatsiyasi". Ushbu chizmalarning ba'zilarida uning xatolari aniq; boshqalar uning qudratli o'ziga xosligini va chizmachi sifatida yolg'iz turgan eng yaxshi fazilatlarini ochib beradi. Po va Dorening ishchan kayfiyatlari o'rtasida umumiylik borligi aniq. Agar u "Grotesk va Arabesk ertaklari"da o'zini sinab ko'rganida, bu aniqroq namoyon bo'ladi. Ikkalasi ham fantaziya va romantikaning elf mamlakatiga tez-tez murojaat qilishdi. Melodramatik jasoratlarda ikkalasi ham g'ayritabiiylikka bo'ysunish orqali ideal va absurd o'rtasidagi xavf chizig'idan qochishdi. Po go'zalga ko'proq sig'inuvchi edi; unga bo'lgan sevgisi muqaddas ehtiros edi va bu erda u o'z illyustratori bilan sherik bo'ldi. Shoir yoki rassom, O'lim nihoyat hamma narsani o'zgartiradi: Vedderning ramziy qalami o'zining sable xabarchisi soyasida ularni juda mos ravishda yuzma-yuz qo'yadi, lekin ularni o'lmas donolik va kuch libosi bilan o'rab oladi. Amerikalik ayol so'nggi mash'al bilan yulduz ko'zli daho obrazini yaratdi, u ko'rish qobiliyatiga ega, ammo lablari "afsonaviy qabr eshigi" ortidagi yurtning sirlarini ko'ra oladigan kishining ajoyib qiyofasini yaratdi.
+
+Edmund C. Stedman.
+
+SHE'R.
+
+Tasvir 1
+
+QARG'A.
+
+Bir kuni yarim tunda g'amgin, o'ylayotganimda, zaif va charchagan holda,
+
+Ko'plab g'alati va qiziqarli unutilgan ilmlar,
+
+Men bosh irg'ab, uxlab yotganimda, to'satdan taqillagan ovoz eshitildi:
+
+Kimdir mening xonam eshigini ohista tepib, tepmoqda.
+
+— Bu mehmon, — deb g‘o‘ldiradim men, — xonam eshigini taqillatib...
+
+Faqat bu va boshqa hech narsa."
+
+Oh, aniq eslayman, bu qorong'u dekabrda edi,
+
+Va har bir alohida o'layotgan cho'g o'z sharpasini polga aylantirdi.
+
+Ertangi kunni intiqlik bilan orzu qilardim: — behuda qarz olishga intilgan edim
+
+Mening kitoblarimdan qayg'u - yo'qolgan Lenore uchun qayg'u -
+
+Farishtalar Lenore deb atagan noyob va yorqin qiz uchun -
+
+Bu erda abadiy nomsiz.
+
+Va har bir binafsha pardaning shoyi g'amgin noaniq shitirlashi
+
+Meni hayajonga soldi - meni ilgari hech qachon bo'lmagan dahshatli dahshatlarga to'ldirdi;
+
+Shunday qilib, yuragim urayotganicha, men takrorlashni davom ettirdim
+
+"'T mening palatam eshigiga kirishni so'ragan mehmon
+
+Kech kelgan mehmon mening xonam eshigiga kirishni iltimos qilmoqda;—
+
+Bu shunday va boshqa hech narsa emas."
+
+Hozir qalbim kuchayib ketdi; endi ikkilanmasdan,
+
+— Janob, — dedim men, — yoki xonim, sizdan kechirim so‘rayman;
+
+Gap shundaki, men uxlab yotgan edim va siz juda muloyimlik bilan rap aytdingiz,
+
+Shunday qilib, siz mening xonam eshigini sekin urib, taqillatib keldingiz,
+
+Men sizni eshitganimga ishonchim komil edi" - bu erda men eshikni ochdim; -
+
+U erda zulmat va boshqa hech narsa.
+
+O'sha zulmatning tubiga qarab, uzoq vaqt o'sha erda hayron bo'lib, qo'rqib turdim,
+
+Shubhali, tush ko'rgan orzular ilgari hech bir odam tush ko'rishga jur'at etmagan;
+
+Ammo sukunat buzilmadi va zulmat hech qanday alomat bermadi,
+
+Va u erda aytilgan yagona so'z shivirlangan so'z edi: "Lenore!"
+
+Buni men pichirladim va aks-sado “Lenore!” degan so'zni qaytardi.
+
+Faqat bu va boshqa hech narsa.
+
+Xonaga qaytib, butun jonim yonmoqda,
+
+Ko'p o'tmay, yana bir bor taqillatishni eshitdim, avvalgidan ham balandroq.
+
+- Albatta, - dedim men, - bu mening derazamning panjarasidagi narsadir;
+
+Keling, nima borligini ko'raylik va bu sirni o'rganaman -
+
+Yuragim bir lahza bo'lsin va bu sirni o'rganing;—
+
+"T - shamol va boshqa hech narsa!"
+
+Bu yerni ochib, men deklanşöre irg'itdim, ko'p noz-karashmalar bilan,
+
+U erda qadimgi avliyo kunlardagi ulug'vor Qarg'a qadam tashladi.
+
+U hech qanday ta'zim qilmadi; bir daqiqa ham to'xtamadi yoki turmadi;
+
+Ammo, mening xonam eshigi tepasida o'tirgan lord yoki xonim bilan ...
+
+Mening xonam eshigi tepasida Pallas byusti ustiga o'rnatilgan -
+
+O'tirdi va o'tirdi va boshqa hech narsa yo'q.
+
+Keyin bu qora qush mening g'amgin xayolimni jilmayishga undadi,
+
+Qasamki, u kiyingan yuzning qabr va qattiq odob-axloqi bilan,
+
+"Garchi ustingiz qirqib olingan bo'lsa ham, - dedim men, - shubhasiz, o'yinchi emassiz.
+
+Dahshatli va qadimiy qarg'a tungi qirg'oqdan aylanib yuribdi,
+
+Ayting-chi, tungi Pluton qirg'og'ida sening noming nima!"
+
+Qarg'aning so'zi: "Hech qachon".
+
+Men bu bema'ni qushning nutqini ochiq-oydin eshitishidan hayratda qoldim.
+
+Garchi uning javobi unchalik ma'nosiz bo'lsa-da, unchalik muhim emas;
+
+Chunki biz tirik odam yo'q degan fikrga qo'shila olmaymiz
+
+Uning xonasi eshigi tepasida qushni ko'rish hali ham baraka topdi -
+
+Palata eshigi ustidagi haykaltarosh büstü ustidagi qush yoki hayvon,
+
+"Hech qachon" kabi nom bilan.
+
+Ammo sokin büstda yolg'iz o'tirgan Qarg'a faqat gapirdi
+
+O'sha bir so'z, go'yo o'sha bir so'zda uning ruhi to'kilgandek.
+
+Keyin u hech narsa aytmadi - bir pat ham emas, u qaltirashdi -
+
+Men zo'rg'a ming'irladim: "Avval boshqa do'stlar uchib ketishgan ...
+
+Ertaga u meni tark etadi, xuddi ilgari umidlarim uchib ketgan.
+
+Shunda qush: “Hech qachon”, dedi.
+
+Shunchalik toʻgʻri aytilgan javobdan sokinlik buzilganidan hayratda qoldim,
+
+"Shubhasiz, - dedim men, - bu uning yagona zaxirasi va do'konidir.
+
+Ba'zi baxtsiz xo'jayindan ushlangan, kimga shafqatsiz ofat
+
+Tezroq ergashdi va qo'shiqlarini bir yuk ko'tarmaguncha tezroq ergashdi -
+
+O'sha g'amgin yuk ko'targan Umidining nolalarigacha
+
+"Hech qachon - hech qachon".
+
+Ammo qarg'a hanuzgacha butun g'amgin qalbimni tabassumga jalb qilmoqda,
+
+Men to'g'ridan-to'g'ri yostiqli o'rindiqni qush, büst va eshik oldiga o'tkazdim;
+
+Keyin, baxmal cho'kib ketgandan so'ng, men bog'lanishga kirishdim
+
+Qadimgi bu dahshatli qush nima deb o'ylab ko'ring -
+
+Qadimgi qush qanday qo'rqinchli, noma'qul, dahshatli, o'tkir va dahshatli qush
+
+"Hech qachon" degan qichqiriqni anglatadi.
+
+Bu men taxmin qilish bilan mashg'ul bo'ldim, lekin bo'g'in ifoda etmadi
+
+Olovli ko‘zlari endi bag‘rimning o‘zagiga kirib ketgan parrandaga;
+
+Bu va yana men boshimni bemalol suyangancha fol ochdim
+
+Yostiqning baxmal astarida chiroq chirog'i yonib turardi.
+
+Lekin kimning baxmal binafsha astarli chiroq chirog'i porlab turardi
+
+U bosadi, hech qachon!
+
+Keyin, o'yladim, havo ko'zga ko'rinmas tutatqidan xushbo'y hidlanib, zichroq bo'ldi
+
+Oyog'i to'qilgan polda jiringlayotgan serafim tomonidan tebrandi.
+
+"Bechora, - deb xitob qildim, - Xudong senga qarz berdi - u seni farishtalar orqali yubordi.
+
+Muhlat - Lenore haqidagi xotiralaringizdan dam oling!
+
+Quaff, ey bu mehribon nepentheni quf, va bu yo'qolgan Lenorni unut!"
+
+Qarg'aning so'zi: "Hech qachon".
+
+"Payg'ambar!" — dedim men, — yovuzlik! — payg'ambar, qushmi, iblismi!—
+
+Vasvasachi yubordimi yoki bo'ron sizni bu yerga uloqtirdimi,
+
+Bu sahroda vayrona, ammo jasoratsiz, sehrlangan ...
+
+Dahshatli bu uyda - menga rostini ayting, iltimos qilaman -
+
+Giladda balzam bormi ? — Ayting-chi, ayting-chi, iltimos qilaman!
+
+Qarg'aning so'zi: "Hech qachon".
+
+"Payg'ambar!" — dedim men, — yovuzlik — payg‘ambar, qushmi, iblismi!
+
+Osmonga qasamki, biz - Xudoga qasamki, ikkalamiz ham sajda qilamiz -
+
+Agar uzoqdagi Aidenn ichida, qayg'uga to'lgan bu qalbga ayting.
+
+U farishtalar Lenore deb atagan avliyo qizni quchoqlaydi.
+
+Farishtalar Lenore deb ism qo'yadigan noyob va yorqin qizni quchoqlang."
+
+Qarg'aning so'zi: "Hech qachon".
+
+"Bu so'z bizning ajralish belgisi bo'lsin, qushmi yoki yovuz!" Men qichqirdim, boshlanib...
+
+"Bo'ronga va tungi Pluton qirg'og'iga qayting!
+
+Sizning qalbingiz aytgan yolg'onning alomati sifatida hech qanday qora shilimshiq qoldirmang!
+
+Yolg'izligimni buzmasdan qoldiring!
+
+Yuragimdan tumshug'ingni olib, eshigimdan o'z qiyofangni ol!"
+
+Qarg'aning so'zi: "Hech qachon".
+
+Va qarg'a hech qachon uchmaydi, o'tiradi, o'tiradi
+
+Pallasning pallid byustida, palatam eshigi tepasida;
+
+Uning ko‘zlarida esa tush ko‘rayotgan jinning ko‘rinishi bor.
+
+Chiroq nuri uning soyasini polga tashlaydi;
+
+Va mening jonim polda suzayotgan o'sha soyadan
+
+Ko'tariladi - hech qachon!
+

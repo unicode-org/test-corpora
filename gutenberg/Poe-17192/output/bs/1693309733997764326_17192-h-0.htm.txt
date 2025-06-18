@@ -1,0 +1,570 @@
+The Project Gutenberg eBook of The Raven, Edgar Allan Poe.
+
+The Project Gutenberg eBook of The Raven
+
+Ova e-knjiga je za korištenje bilo koga bilo gdje u Sjedinjenim Državama i većini drugih dijelova svijeta bez ikakvih troškova i gotovo bez ikakvih ograničenja. Možete je kopirati, pokloniti ili ponovo koristiti pod uslovima licence Project Gutenberg uključene u ovu e-knjigu ili na mreži na www.gutenberg.org . Ako se ne nalazite u Sjedinjenim Državama, morat ćete provjeriti zakone zemlje u kojoj se nalazite prije korištenja ove e-knjige.
+
+Naslov : Gavran
+
+Autor : Edgar Allan Poe
+
+Komentator : Edmund Clarence Stedman
+
+Ilustrator : Gustave Doré
+
+Datum objave : 30. novembar 2005. [eBook #17192] Posljednje ažurirano: 13. decembra 2020
+
+Jezik : engleski
+
+Zasluge : Producirali Jason Isbell, Melissa Er-Raqabi i The Online Distribuirani tim za lekturu na https://www.pgdp.net.
+
+*** POČETAK PROJEKTA GUTENBERG E-KNJIGA GAVRAN ***
+
+Back Cover
+
+THE RAVEN
+
+By
+
+EDGAR ALLAN POE
+
+ILLUSTRATED Autor: GUSTAVE DORÉ
+
+Naslov slike
+
+UZ KOMENTAR EDMUND C. STEDMAN
+
+NEW YORK
+
+HARPER & BROTHERS, IZDAVAČI, FRANKLIN SQUARE
+
+1884
+
+Unesen u skladu sa aktom Kongresa, 1883. godine, od
+
+HARPER & BRAĆA,
+
+U Uredu Kongresnog bibliotekara u Washingtonu.
+
+Sva prava pridržana.
+
+Bilješke prepisivača
+
+Na Listi ilustracija vratio sam jedan citat koji nedostaje nakon Lenore! kao što je prikazano ispod:
+
+'Bednik', povikao sam, 'tvoj Bog ti je pozajmio - preko ovih anđela te je poslao Odmor — predah i nepenthe od svojih sjećanja na Lenore!'"
+
+Lista ilustracija koristi 'posjetilac', gdje pjesma i stvarna ilustracija koriste 'posjetilac'.
+
+LISTA ILUSTRACIJA
+
+Sa imenima gravera
+
+Naslovnu stranicu, dizajnirao Elihu Vedder.
+
+Frederick Juengling.
+
+"Nikad više."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claudius.
+
+"Jednom u ponoćnu turobnu, dok sam razmišljao, slab i umoran, Preko mnogih čudnih i čudnih svezaka zaboravljene predaje."
+
+RA Muller.
+
+"Ah, jasno se sjećam, bilo je to sumornog decembra, I svaki zaseban umirući žar iskovao je svoj duh na podu."
+
+RG Tietze.
+
+„Željno sam poželeo sutra; uzalud sam tražio da pozajmim Iz mojih knjiga naslutiti tugu - tugu za izgubljenom Lenore."
+
+H. Claudius.
+
+"Tuga za izgubljenom Lenore."
+
+W. Zimmermann.
+
+„Za rijetku i blistavu djevojku kojoj anđeli daju ime Lenore— Bezimeni ovdje zauvijek."
+
+Frederick Juengling.
+
+„T je neki posetilac koji moli da uđe na vrata moje odaje... Neki zakašnjeli posjetilac moli da uđe na vrata moje odaje."
+
+W. Zimmermann.
+
+— „Ovde sam širom otvorio vrata;— Tamo tama, i ništa više.“
+
+H. Claudius.
+
+"Sumnjati, sanjati snove koje se nijedan smrtnik nije usudio sanjati prije."
+
+FS King.
+
+'Sigurno', rekao sam, 'sigurno je to nešto na mojoj prozorskoj rešetki; Da vidim, dakle, šta je tu, i da istražim ovu misteriju."
+
+Frederick Juengling.
+
+"Otvori ovdje, bacio sam kapak."
+
+T. Johnson.
+
+— „Veličan Gavran svetih dana davnine. Ni najmanje ga je poklonio; ni minute nije stao niti ostao."
+
+R. Staudenbaur.
+
+„Stavljen na Paladinu bistu tik iznad vrata moje odaje— Sjeo, sjedio i ništa više."
+
+RG Tietze.
+
+"Lutajući sa Noćne obale."
+
+Frederick Juengling.
+
+„Sve dok nisam jedva promrmljao: 'Drugi prijatelji su već leteli... Sutradan će me napustiti, jer su moje nade već poletele."
+
+Frank French.
+
+„Onda, kada je somot potonuo, krenuo sam u povezivanje Od mašte do mašte."
+
+R. Schelling.
+
+„Ali čija je baršunasta ljubičasta podstava sa svetlošću lampe koja likuje nad njima Ona će pritisnuti, ah, nikad više!"
+
+George Kruell.
+
+'Bednik', povikao sam, 'tvoj Bog ti je pozajmio - preko ovih anđela te je poslao Odmor — predah i nepenthe od svojih sjećanja na Lenore!'"
+
+Victor Bernstrom.
+
+"U ovoj kući uklet Horror."
+
+R. Staudenbaur.
+
+"'Reci mi zaista, preklinjem - ima li - ima li balzama u Gileadu? - reci mi - reci mi, preklinjem!"
+
+W. Zimmermann.
+
+„Reci ovoj duši opterećenoj tugom ako u dalekom Aidenu, Zagrliće svetu devojku kojoj anđeli daju ime Lenore.'"
+
+FS King.
+
+"'Budi ta riječ naš znak rastanka, ptica ili đavo!' vrisnula sam, iznova krenula."
+
+W. Zimmermann.
+
+"'Vratite se u oluju i noćnu plutonsku obalu!"
+
+Robert Hoskin.
+
+„I moja duša iz te senke koja lebdi na podu Biće ukinuto - nikad više!"
+
+RG Tietze.
+
+Tajna Sfinge.
+
+R. Staudenbaur.
+
+KOMENTAR PJESMU.
+
+Tajna pesme, ništa manje od prosperiteta šale, leži u uhu onoga ko je čuje. Prepustite se njegovoj čaroliji, prihvatite pjesnikovo raspoloženje: ovo je, uostalom, ono što mudraci odgovaraju kada ih pitate za njegovu vrijednost. Iako vam sam pjesnik, u svom drugom raspoloženju, kaže da je njegova umjetnost samo spretnost, hrana njegovog čarobnjaka u hrani, i nudi da vam pokaže trik u tome, - ne vjerujte mu. Čekaj njegov proročki čas; onda se predaj njegovoj strasti, njegovoj radosti ili boli. "Danas smo u ljubavnoj ruci!" pjeva Gautier, u Svinburnovoj živahnoj parafrazi, — i od jutra do zalaska sunca lebdimo na silovitom moru: postoji samo jedna ljubav, jedan maj, jedan cvjetni pramen. Ljubav je vječna, sve ostalo nestvarno i ostavljeno po strani. Vizija ima kraj, scena se menja; ali smo nešto stekli, sjećanje na šarm. Koliko pesnika, toliko i čari. Postoji šarm Evanescence, ono što daje vrhunsku lepotu i gracioznost oreol Patosa. Podijelite sa Landorom njegovu jednu "noć uspomena i uzdaha" za Rose Aylmer, i imate ovo u potpunosti.
+
+A sada uzmite ruku novosvjetskog ministranta, zalutalog iz nekog pravog staništa u onu grubu i disonantnu Ameriku koja je, kako je vidio Bodler, "za Poea bila samo golemi zatvor kroz koji je trčao, amo-tamo, uz grozničavu uznemirenost bića stvorenog da udiše čistiji svijet", i gdje je "kao po jedan duhovni život, čak i kao po drunk, bio duhovni život". neprestani napor da se izbegne uticaj ove antipatične atmosfere." Uhvatite osjetljivu ruku problematičnog pjevača koji tako drema svoju čudaku i podijeli s njim podneblje u kojem je našao, - nikad po danu, uvijek noću - ako ne Atlantidu odakle je zalutao, barem mjesto utočišta od granica u kojima je danju bio zazidan.
+
+Samo u jednu zemlju on ima moć da te odvede, i samo za jednu noć možeš podijeliti njegov san. Traktat ni Zemlje ni Neba: "Ničija zemlja", van Svemira, van Vremena. Evo onih uznemirenih, kroz čije oči, poput onih u Cencima, duša nalazi prozore iako je um ošamućen; ovdje se duhovi, pipajući za stazom koja vodi u Vječnost, zaustavljaju i odlažu. To je limb "planetarnih duša", u kojem su sve neizvjesnosti mjesečine, sve izgubljene ljubavi i iluzije. Ovdje su neki fiksirani u transu, jedinom mogućem predahu; drugi
+
+"kretati se fantastično
+
+Na neskladnu melodiju:"
+
+dok su svuda
+
+„Uspomenuta sećanja na prošlost—
+
+Zastrte forme koje počinju i uzdišu
+
+Dok prolaze pored lutalice."
+
+Takva je zemlja i na jednu noć ulazimo u nju - noć astralnih faza i ponavljajućih zvona. Njegove monodije su dvanaest pesama, čija muzika teži da se promeni, ali je uvek ista. Jedan po jedan zvuče, poput zvona mjedenog i ebanovinog sata, u "Maski Crvene smrti", zbog čega su valceri zastali uz "snemirenost, drhtanje i meditaciju", koliko god bi se čas približavao.
+
+Od svih ovih mističnih kadenca, plašta Gavran , koja vibrira kroz portal, uglavnom je impresionirala vanjski svijet. Koje stvari idu u nastajanje pjesme, i koliko je istinito u ovoj, kao iu većini drugih, onoj rasi koja je svoje bardove nazvala "tvorcima"? Djelo se poziva iz praznine. Tamo gde nije bilo ničega, ostaje, nova tvorevina, deo blaga čovečanstva. I nekoliko izuzetnih stihova, više od drugih jednako kreativnih, tjera nas da iznova razmislimo kako hrabro pjesnikovo pero okreće nepoznate stvari
+
+"oblici, a prozračnom ništa ne daje
+
+Lokalno naselje i ime."
+
+Svaki izgleda bez prototipa, ali nas svi fasciniraju elementima izvučenim iz sjene Natprirodnog. Sada je najviša mašta zabrinuta za dušu stvari; može, ali i ne mora, inspirisati fantaziju da narodi sa slikama međumesečnim nejasnim. Ipak, jedan od ovih tekstova, na svoj manji način, utječe na nas osjećajem jedinstvenosti, jednako sigurno kao i uzvišenija djela natprirodne glumačke ekipe — Marloweov "Faustus", "Faust" Getea, "Manfred", ili čak ona eterična remek-djela, "The Tempest" i "A Midsummer Night". Više od jednog, iako je inače jedinstveno, ima neke  teret ili refren koji opsjeda sjećanje, - jednom čuo, nikad zaboravljen, poput tona rijetko korištenog, ali prepoznatljivog orgulja. Među njima je istaknuta Bürgerova "Lenore", ta sablasna i rezonantna balada, mamac i folija za prevodioce. Malo ko će poreći da Coleridgeov čudesni "Rime of the Ancient Mariner" stoji na samom njihovom čelu. "Le Juif-Errant" bi tvrdio da je Beranger bio veći pjesnik; i, bez njihove udaljenosti od popularnih simpatija, "The Lady of Shalott" i "The Blessed Damozel" bi se mogle dodati na listu. Edgar Allan Poe je dobio dva stiha, "The Bells" i The Raven , od kojih je svaki, iako je možda manje ljepotan od Tennysonovih i Rossettijevih, jedinstven. "Ulalume", iako podjednako čudan i maštovit, nema univerzalni kvalitet koji je dio našeg testa.
+
+Gavran u čistim poetskim sastavnicama pada ispod komada kao što su "Ukleta palata", "Grad u moru", "Spavač" i "Izrafel". Cijelu bi to, pretpostavljam, zamijenili čitaoci izbirljive glumačke ekipe za takve odlomke kao što su ovi:
+
+"Uokolo, podizanjem vjetrova zaboravio,
+
+Rezignirano ispod neba
+
+Melanholične vode leže.
+
+Nikakve zrake sa svetog neba ne silaze
+
+U dugoj noći tog grada;
+
+Ali svjetlost iz jezivog mora
+
+Nečujno struji uz kupole -
+
+· · · · · · ·
+
+Gore mnoge i mnoge čudesne svetinje
+
+Čiji se vijenasti frizovi prepliću
+
+Viola, ljubičica i loza.
+
+· · · · · · ·
+
+Nema otoka da bi moglo biti vjetrova
+
+Na nekom daleko sretnijem moru -
+
+Nema nagoveštaja da je bilo vetrova
+
+Na morima manje užasno spokojnim."
+
+Nedostaje mu vazdušna melodija pesnika čije su srčane žice lauta:
+
+„I kažu (zvezdani hor
+
+I ostale stvari za slušanje)
+
+Ta Israfelijeva vatra
+
+To je zahvaljujući toj liri
+
+Uz koje sjedi i pjeva -
+
+Drhtava živa žica
+
+Od tih neobičnih žica."
+
+Ali The Raven , poput "The Bells" i "Annabel Lee", preporučuje se mnogima i malobrojnima. Na drugom mestu sam rekao da su mi Poove ređe predstave izgledale „one u kojima postoji pojava, u najmanju ruku, spontanost, – u kojima se prepušta svojim osećanjima, dok umiranje pada i kadenca većina muzičkih, najmelanholičnih, dolazi od njega nesvesno. Ovo je još uvijek moje uvjerenje; a opet, nakon novog proučavanja ove pjesme, impresionira me više nego ikad od mog djetinjstva. Blisko poznanstvo govori u prilog svakom pravom umjetničkom djelu. Navedite čovjeka, koji niti poznaje umjetnost niti se za nju brine, da ispita neku pjesmu ili sliku, i kako brzo ga njena sila obuzme! U stvari, on će precijeniti relativnu vrijednost prvog dobrog djela kojim je njegova pažnja prilično privučena. Gavran , takođe, ima dosledne kvalitete kojima se čak i stručnjak mora diviti. Ni u jednoj drugoj pesmi njenog autora motiv nije opipljivije definisan. "Ukleta palata" je isto tako definitivna za odabranog čitaoca, ali Po jedva da bi tu suptilnu alegoriju uzeo za ćelavu analizu. Gavran je u potpunosti zaokupljen autorovom tipičnom temom - nepovratnim gubitkom idolizirane i lijepe žene; ali i po drugim osnovama, javni instinkt je ispravan što je smatra svojom reprezentativnom pjesmom.
+
+Genijalan čovjek obično se učvrsti uspjehom nekog napora, a to nije uvijek njegov najveći. Priznanje je više momentalno za odgađanje. Ne stiče ga, poput škrtca, novčić za novčićem, već „nemalo ili sve u svemu“. I tako sa drugim ambicijama: dvorjanin, vojnik, glumac, - bez obzira na njihovu ulogu, - svaki broji svoj trijumf nekim srećnim potezom. Poov gavran, uprkos predznakom, za njega je bio "ptica koja je naterala povetarac da duva". Pesnik se nastanio u New-Yorku, u zimu 1844-'45, pronalazeći rad na Willisovom listu "The Evening Mirror" i svoj prihod stekao od doprinosa na drugom mestu. Šest godina je bio aktivan pisac i uživao je profesionalnu reputaciju; bio je držan i u poštovanju i u nedoumici, i nije bio na gubitku zbog svog dijela loše plaćenog novinarstva tog dana. Napravio je i većinu svojih najboljih radova — poput priča kao što su „Ligeia“ i „Pad kuće Usher“ (posljednja sadrži taj mistični pandan, u stihovima, Elihua Vedderovog „Izgubljenog uma“), kao što su „Zlatna buba“ i „Misterija Marie Roget“. Postigao je prozelite u inostranstvu i trajno je zavladao francuskim umom. Naučio je vlastitu moć i slabost, i bio je na vrhuncu, i to ne bez određene reputacije. Ali nije napisao ništa što bi svima bilo na jeziku. Rijetkim i delikatnim radovima mora se dodati neki popularni štih kako bi se uhvatila opšta publika vlastitog vremena.
+
+Kroz industriju uzastopnih Poeovih biografa, hit koji je napravio Gavran postao je često pričana priča. Pesnikova mlada supruga, Virdžinija, bledela je pred njegovim očima, ali se zadržala još godinu dana u senci smrti. Duga, niska odaja u kući blizu Bloomingdale Roada je kao  poznata kao soba u kojoj je Ruže de l'Isle komponovao Marseljezu. Svi su čuli da se pjesma, potpisana s "Quarles", pojavila u "American Review", sa pseudouredničkim komentarom na njenu formu; da je Poe za to dobio deset dolara; da ga je Willis, najljubazniji i najmanje zavidan od modernih arbitra, preštampao uz hvalospjev koji je istog trena učinio da se priča o njemu. Sva sumnja u njegovo autorstvo raspršena je kada ju je Poe sam izrecitovao na jednom književnom skupu, a jedno vrijeme je bio i najistaknutiji američki pisac. Udarac ga je stimulisao i ohrabrio. Poput drugog i ponosnijeg satiričara, i on je pronašao "nešto od ljeta" čak i "u zujanju insekata". Žalosno, ali prošle su tri godine – period uticaja, ponosa, tjeskobe, ali uvijek maštovitog ili kritičnog rada – prije konačnog poraza, prije nego što se spustila zavjesa na život koji je za njega zapravo bio tragedija, i on se prepustio „Crvu osvajaču“.
+
+"The American Review: A Whig Journal" bio je ugledan časopis za to vrijeme, sa dvostrukim stupcima, štampan na dobrom papiru jasnim slovima i ilustrovan portretima mecotinte. Usred mnogo stvari ispod sadašnjeg standarda, sadržavao je neke koje bi svaki urednik rado primio. Početni tom, za 1845. godinu, sadrži članke Horacea Greeleya, Donalda Mitchella, Waltera Whitmana, Marsha, Tuckermana i Whipplea. U ovom svesku pojavila se neobična pjesma Ralpha Hoyta, "Stari". A evo tri Poeova stiha: "Grad u moru", "Dolina nemira" i Gavran . Dve od njih su izgrađene, - takav je bio njegov način, - iz ranijih studija, ali je poslednji izašao kao sveže komponovan, i skoro kao što ga imamo sada. Tvrdnja da nije naknadno revidirana je pogrešna. Jedanaest beznačajnih izmjena u odnosu na tekst časopisa pojavljuje se u Gavran i druge pjesme , 1845., knjizi koju je pjesnik ubrzo osjetio ohrabrenim da ponudi javnosti. Uglavnom se radi o promjenama interpunkcije ili pojedinačnih riječi, ova druga vrsta je napravljena da se pojača efekat aliteracije. U lijepom izdanju Poeovog stiha gospodina Langa, objavljenom u "Biblioteci pergamenta", on je pokazao instinkt učenjaka, i učinio je mudro, vraćajući se na tekst u tek spomenutoj svesci, kao što je dato u londonskom izdanju iz 1846. "Standardna" Griswoldova zbirka pjesnikovih djela obiluje greškama. To su ponovili kasniji urednici, koji su takođe napravili svoje greške. Ali tekst Gavrana , zbog zahtjeva upućenih autoru za kopije rukopisa, on je još dalje revidirao; u stvari, on ga je štampao u Ričmondu, neposredno pre svoje smrti, sa poetskom zamenom „serafima čije stope” za „anđele čije slabe stope”, u četrnaestoj strofi. Naš sadašnji tekst, dakle, iako je suštinski onaj iz 1845. godine, donekle je modifikovan pesnikovim kasnijim čitanjem, i mislim da je to najispravnija i najefikasnija verzija ove pojedinačne pesme. Najradikalnija promjena u odnosu na najraniju verziju pojavila se, međutim, u svesci 1845.; jedanaesta strofa je prvobitno sadržavala ove redove, neispravne u rimi i inače mrlju na pjesmi:
+
+„Uhvaćen od nekog nesretnog gospodara, kome je nemilosrdna Katastrofa
+
+Pratio brzo i pratio sve brže - pa, kada bi Hope zakleo,
+
+Vraćao se strogi očaj, umjesto slatke nade koju se usudio zakleti...
+
+Taj tužan odgovor: "Nikad više!"
+
+Bilo bi dobro kada bi drugi i poznati pjesnici mogli biti sigurni da će njihove promjene uvijek biti poboljšane. Poe je stalno obnavljao svoju oskudnu emisiju stihova i obično je poboljšavao. Gavran je bila prva od nekoliko pjesama koje je skoro dovršio prije štampanja. Možda su oni koji brinu o poeziji malo izgubili njegovom smrću. Tečno govori prozu, nikada nije pisao stihove radi stvaranja pesme. Kada ga je proganjao refren slike, lirika koja je nastala bila je inspiracija, kako je sam rekao, strasti, a ne svrhe. To je u intervalima bilo toliko rijetko da je gotovo opravdalo Fairfieldovu teoriju da je svaka od njih bila proizvod nervne krize.
+
+Šta je onda pesniku dalo trag za Gavranom ? Iz kojeg se maglovitog temelja polako uzdizao do muzike koja je polako disala? Kao i obično, više od jedne stvari je otišlo u izgradnju tako značajne pjesme. Uzimajući u obzir duže propovijedi koje se često propovijedaju na kratkim i manje sugestivnim tekstovima, nadam se da neću biti kriv za ovu raspravu o jednom stihu, posebno onoj koju je umjetnik poput Doréa učinio predmetom rasipnih ilustracija. Donedavno sam pretpostavljao da su ovaj komad, i nekoliko koje je njegov autor komponovao nakon njegovog pojavljivanja, izuzetni po tome što nisu izrasli iz klica u njegovom dječačkom stihu. Ali gospodin Fearing Gill mi je pokazao neke neobjavljene Poeove strofe, napisane u njegovoj osamnaestoj godini i naslovljene, "Demon vatre". Čini se da je rukopis napisan pesnikovim ranim rukopisom, a za njegovu originalnost jamči porodica u čijem je vlasništvu već pola veka. Osim najobičnijih klica "The Bells" i "The Haunted Palace" sadrži nekoliko redova koji donekle sugeriraju početak i zatvaranje The Raven . Što se tiče ritma naše pjesme, poređenje datuma pokazuje da je na to utjecao ritam "Udvaranja lady Geraldine". Poe je bio jedan od prvih koji je odao počast genijalnosti gospođice Barrett; upisao joj je svoje sabrane pjesme kao "najplemenitiju njenog spola" i bio je tu  simpatije prema njenoj lirskoj metodi. Redovi iz njene ljubavne pesme,
+
+„Sa žamorom nesigurnim, u vazduhu, ljubičasta zavesa
+
+Nabubri i nabubri oko njenih nepomičnih bledih obrva."
+
+našao odjek u ovim:
+
+„I svilenkasto tužno nesigurno šuštanje svake ljubičaste zavjese
+
+Oduševio me – ispunio me fantastičnim užasima koji nikada prije nisam osjetio."
+
+Ovdje je Poe preuzeo privilegiju za koju je grubo osudio Longfellowa, a koju niko nikada nije tražio u njegovim vlastitim prostorijama bez brzog otkrivanja i kažnjavanja. Po melodiji i strofi vidjet ćemo da dvije pjesme nisu različite, ali po motivu potpuno različite. Velikodušna pjesnikinja nije osjećala ništa osim istinske originalnosti pjesnika. "Ovo živopisno pisanje!" uzviknula je, — „ova moć koja se oseća!... Naš veliki pesnik, gospodin Brauning, autor 'Paracelzusa', i tako dalje, oduševljen je svojim divljenjem ritmu." Gospodin Ingram, nakon što se osvrnuo na "Lady Geraldine", pametno ističe još jedan izvor iz kojeg je Poe možda uhvatio impuls. Godine 1843. Albert Pajk, polu-Grk, napola graničar, pjesnik Arkanzasa, štampao je u "Novom ogledalu", za koje je Poe tada pisao, neke stihove pod naslovom "Isadore", ali ih je autor prepravio i nazvali "Srce udovica". Iz revizije gospodina Pikea biram sljedeću strofu, čije glavne karakteristike odgovaraju originalnoj verziji:
+
+"Nemirno koračam našim usamljenim sobama, ne sviram više naše pesme,
+
+Sjajno sunce sjajno sija na nepometenom podu;
+
+Ptica rugalica i dalje sjedi i pjeva, o melanholični sojo!
+
+Jer moje je srce kao jesenji oblak koji se prelijeva od kiše;
+
+Zauvijek si izgubljen za mene, Isadore!"
+
+Ovdje imamo produženu mjeru, sličnost refrena i uvođenje ptice čiji pjev pojačava tugu. Postoje i druge staze koje mogu pratiti znatiželjnici; posebno, odlomak koji gospodin Ingram bira iz Poeove završne recenzije "Barnaby Rudge":
+
+"Gavran je, također, * * * mogao biti učinjen, više nego što ga sada vidimo, dio koncepcije fantastičnog Barnabyja. * * * Njegov lik je, u odnosu na idiota, mogao imati gotovo istu ulogu kao što to čini, u muzici, pratnja u pogledu zraka."
+
+Ipak, nakon ukazivanja na ove klice i sličnosti, vrijednost ove pjesme i dalje se nalazi u njenoj originalnosti. Progresivna muzika, scenski detalji i kontrastno svjetlo i sjena, - iznad svega, duhovna strast noćnog dana, čine ga djelom genija za informisanje. Što se tiče jezive ptice, on je drugačiji od svih ostalih gavrana iz njegovog klana, od "twa corbies" i "tri gavrana" baladista do Barnabyjevog zgužvanog "Gripa". Ovdje nema privida topa koji graka koji proganja kule predaka i kroči poljem heraldike; bez slutnog fantoma o kojem je Tickell pjevao kad,
+
+"triput vrisnuvši na njen prozor,
+
+Gavran je zamahnuo svojim krilom,
+
+Previše je dobro znala ljubavlju opterećena djevojka
+
+Svečani zvuk slutnje."
+
+Poov gavran je posebna koncepcija; inkarnacija ožalošćene agonije i beznađa; Memorija utjelovljena samura, stalni hroničar propasti, vrsta Nepopravljivog. Pobegavši ​​preko Stiksa, sa "noćne plutonske obale", on izgleda kao slika duše samog ispitivača - onoga koji ne može, neće da popije ljubazni nepenthe, jer je sećanje na Lenore sve što mu je preostalo, a uz nastavak njegove tuge i to bi bilo ostavljeno po strani.
+
+Gavran se takođe može uzeti kao reprezentativna pesma njenog autora, jer predstavlja primer svih njegovih predstava o tome šta bi pesma trebalo da bude. Oni se nalaze u njegovim esejima o "Poetskom principu", "Razlogovanju stiha" i "Filozofiji kompozicije". Poe je izjavio da "u muzici, možda, duša skoro postiže veliki cilj za koji se, kada je inspirisana poetskim osećanjem, bori - stvaranje natprirodne lepote... Stih se ne može bolje označiti kao inferiorna ili manje sposobna muzika"; ali opet, stih koji je zapravo "Poezija riječi" je "Ritmičko stvaranje ljepote", - ovo i ništa više. Ton najviše Ljepote je Tuga. Najmelankoličnija tema je Smrt. Ovo mora biti povezano sa ljepotom. „Smrt lijepe žene je, dakle, nesumnjivo najpoetičnija tema na svijetu, a isto tako je nesumnjivo da su usne koje su najprikladnije za takvu temu usne ožalošćenog ljubavnika. Ovi posljednji izrazi citirani su iz Poove hirovite analize upravo ove pjesme, ali oni upravo ukazuju na opći raspon njegovog stiha. Vrhunac "Zvona" je prigušena monotona ghoul-a, koji se slave opterećivanjem ljudskog srca. "Lenore", Gavran , "Spavač", "To One in Paradise" i "Ulalume" čine simfoniju tenebroze, a "Annabel Lee", napisana posljednja, pokazuje da ga je jedna tema opsjedala do kraja. Opet, sve ovo nije ništa ako ne i muzikalno, a neki su dirnuti onim kvalitetom Fantastičnog koji budi osjećaj strahopoštovanja i dodaje novi strah samoj agoniji. Kroz sve je nejasno ocrtana, ispod zasjenjene mrlje, pjesnikova idealna ljubav, – tako često napola prikazana na drugim mjestima, – pokopana supruga Ushera, lady Ligeia, u  istina pandan njegovoj sopstvenoj prirodi. Pretpostavljam da ljubav umetnika prema onom "u obliku" nikada ne može u potpunosti da parira njegovoj odanosti nekom idealu. Žena u njegovoj blizini mora vježbati svoje čini, biti naizmjenično i ništa dugo, šarmirati ga beskrajnom raznolikošću ili se zadovoljiti time da se odrekne dijela njegove odanosti. Mora biti namamljen Nedostižnim, a to je uvijek iznad njega u njegovoj strasti za kreativnom umjetnošću.
+
+Poe je, kao i Hawthorne, došao sa opadanjem romantičarske škole, i niko nije više od njega uživao da se nasmije njenoj nesreći. Ipak, njegovo srce je bilo s romansima i njihovim orijentalnim ili gotičkim efektima. Njegov izum, tako bogat proznim pričama, kao da ga je napustio kada je pisao stihove; i njegov sud mu je rekao da duge romantične pesme više zavise od incidenta nego inspiracije, i da bi, da bi se izgovorila poezija romantike, tekstovi bili dovoljni. Otuda njegova teorija, jasno usklađena s njegovim vlastitim ograničenjima, da je "'duga pjesma' ravna kontradikcija u terminima." Komponente Gavrana su malobrojne i jednostavne: muškarac, ptica i fantazmalno sjećanje na ženu. Ali komad pruža fini prikaz romantičnog materijala. šta imamo? Ponoć; zasjenjena odaja sa svojim knjigama zaboravljene predaje; učenik, moderni Hijeronim; gavranova slavina na krilu; zimska noć i umiruća vatra; svilene vjetar zavjese; snovi i nejasno nepovjerenje u tamu koja odjekuje; crna, neobična ptica na blijedom poprsju; pribor od ljubičastog baršuna i likujuća lampa. Sav taj scenski efekat situacije, svjetlosti, boje, zvuka, čisto je romantičan, pa čak i melodramatičan, ali poetskog kvaliteta kakav melodrama rijetko ispoljava, a u potpunosti odražava pjesnikovu "vječnu strast, vječni bol".
+
+Ritmička struktura Gavrana sigurno je ostavila utisak. Rima, aliteracija, teret, forma strofe osmišljeni su s posebnom spretnošću. Nesumnjivo je pjesnik bio zapanjen prikladnošću muzičkih trohaika gospođice Barrett, u "osmicama", a posebno aranžmanom usvojenim pred kraj "Lady Geraldine":
+
+„'Oči', rekao je, 'sada pulsiraju kroz mene! Jeste li vi oči koje su me poništile?
+
+Sjajne oči, poput antičkih dragulja postavljenih u parijanski kip-kamen!
+
+Ispod tog mirnog bijelog čela, da li ste ikada gorjeli
+
+Nad pustom peščanom pustinjom mog srca i nesvršenim životom?"
+
+Njegovo umjetničko uvođenje treće rime u drugi i četvrti red, te dodavanje petog reda i završnog refrena, načinilo je strofu Gavrana . Čini se da uporna aliteracija dolazi bez napora, a često su rime unutar redova zavodljive; dok refren ili teret dominira cijelim djelom. Ovdje je također profitirao proučavanjem balada i romana gospođice Barrett na njenom i drugim jezicima. "Refren" je mamac kojim pesnik ili muzičar drži lutajuće uho - ponavljajuća čežnja Prirode za početnim naporom. Oduvijek sam se divio prekrasnim refrenima engleske pjevačice - "The Nightingales, the Nightingales", "Margret, Margret", "My Heart and I", "Toll slowly", "The River floweth on", "Pan, Pan is dead" itd. Ona je takođe koristila ono što ja nazivam Repetend, što je Poets od tada koristilo ex Colvi recell:
+
+„O srećna živa bića! bez jezika
+
+Njihova ljepota bi mogla reći:
+
+Iz mog srca izvire vrelo ljubavi,
+
+I blagoslovio sam ih nesvjesno:
+
+Sigurno se moj ljubazni svetac sažalio na mene,
+
+I blagoslovio sam ih nesvjesno."
+
+Poe je stvorio peti red svoje strofe za magiju ponavljanja. Na nju se do krajnosti oslanjao u nekoliko kasnijih pjesama - "Lenore", "Annabel Lee", "Ulalume" i "For Annie". Dobio je divlju i melanholičnu muziku, mislio sam, od "slatkih uticaja" afričkih bremena i repeticija koje su mu pevane u detinjstvu, usklađujući sa svojom zavičajnom melodijom glas našeg južnjačkog pesnika.
+
+"Filozofija kompozicije", njegova analiza Gavrana , tehnička je disekcija njegove metode i strukture. Niti njegovo priznanje hladnokrvne izmišljotine, kao ni njegovo naknadno priznanje prijateljima da je razotkrivanje ove izmišljotine bila samo još jedna od njegovih intelektualnih prevara, ne treba u potpunosti pripisati priznanje. Da je unapred osmislio kompletno delo, teško da bi napravio tako oštar uvod rime zvečke u slasnu melodiju druge strofe, čak ni na osnovu svoje teorije fantastičnog. Naravno, umjetnik, usavršivši djelo, vidi, kao i prvi umjetnik, da je dobro, i vidi zašto je dobro. Naknadna analiza, zajedno sa odricanjem od bilo koje svete vatre, može se vrlo lako napraviti. Vjerujem da je prva koncepcija i grubi nacrt ove pjesme nastao kao inspiracija uvijek dolazi; da je njen autor tada uvideo kako se to može usavršiti, dajući mu završne detalje opisane u njegovom poglavlju o kompoziciji, i da ovo poslednje, prema tome, nije ni potpuno lažno ni potpuno istinito. Šteta takve analize je u tome što početnike dovodi u iskušenje da zamišljaju da umjetni procesi mogu zamijeniti maštu. Impuls genija je da čuva tajne svog stvaralačkog časa. Pogledi dobijeni na trud, zbunjeni eksperimenti, koji prethode trijumfu, kao u nedavno otkrivenom skicu Hawthornea, pružaju neprocjenjive upute i ohrabrenje iskrenom umjetniku. Ali jedan  koji dobrovoljno izlaže svoju muzu pogledima svih koji dolaze, treba da se prisjeti sudbine kralja Candaulesa.
+
+Svijet i dalje misli o Poeu kao o "nesrećnom genijalnom čovjeku". Nedavno sam čuo da ga spominju kao "onog koga su svi, čini se, ovlašteni da lažno predstavlja, osuđuje ili kleveta." Ali čini mi se da se njegova nesreća završila njegovom žalosnom smrću, i da je od tada njegova odbrana bila uporna, a njegova slava o postojanom rastu za koji se patnički i nadareni pisac mogao moliti u času pune nade. Griswoldova osuda i kleveta okrenuli su struju u njegovu korist. Kritičari i biografi istupili su sa uzastopnim opovrgavanjem, odavanjem počasti njegovom liku, sa novim izdanjima njegovih dela. Pred nama su njegova vlastita pisma i sitni događaji iz njegove karijere; rekord, dobar i loš, nadaleko je poznat. Nijedan žalilac nije dobio nježniju i oproštajuću presudu. Njegove životne nezgode pripadale su njegovom kraju i periodu, možda još više njegovoj vlastitoj slabosti volje. Bez sumnje, njegovo okruženje nije bilo od onih koji bi čuvali finu, neuravnoteženu prirodu od opasnosti izvana i iznutra. Njegova najjača volja, da bude gospodar samog sebe, zadobila mu je "to naslijeđe jada". Priznao je sebe kao nesrećnog gospodara ptice, pogođenog patnika ove pjesme. Ali njegov je bio pun dio tog dramatičnog temperamenta koji veliča predznakom vlastite propasti. Uživanje je u igranju svoje visoke uloge: svi smo gladijatori, plačući Ave Imperator! Da citiram Burkeovu činjenicu: "U tuzi je zadovoljstvo i dalje najviše, a nevolja koju trpimo nema nikakve sličnosti sa apsolutnim bolom, koji je uvijek odvratan i kojeg se trudimo da se otresemo što je prije moguće." Poe je otišao dalje i bio je umjetnik čak iu tragediji svoje karijere. Ako su, po njegovom sopstvenom uverenju, tuga i nestajanje lepote najviše poetske teme, a pesničko osećanje najžešći ovozemaljski užitak, onda tuga i tama njegovog slomljenog života nisu bili bez njihove česte nadoknade.
+
+Na sljedećim stranicama imamo svjež primjer umjetnikovog genija koji karakterizira njegovu interpretaciju poznate pjesme. Gustave Doré, čije je posljednje djelo olovke pred nama, nije bio slikar, pa čak ni crtač, za realiste koji traže istinu tona, figure i savršenstva. Takve stvari su ga se manje ticale nego stvaranje oblika i udaljenosti, svjetlosti i sjene, pomoći njegovoj svrsi - koja je bila da uzbudi dušu, maštu promatrača. To je učinio tako što je pobudio naš osjećaj strahopoštovanja, kroz čudesne i često uzvišene koncepcije stvari koje su neizrecive i pune tmine ili slave. Dobro je rečeno da ako njegova djela nisu bila velike slike, kao slike su zaista velike. Kao "književni umetnik", a takav je bio, njegova snaga je bila u direktnom odnosu sa dramskim izumom njegovog autora, sa hrabrom smelošću duha koji je rasplamsao njegov sopstveni. Otuda njegov uspjeh sa Rabelaisom, sa "Le Juif-Errant", "Les Contes Drolatiques" i "Don Quijote", i otuda, obrnuto, njegov neuspjeh da izrazi ljepotu Tennysonovih idila, "Il Paradiso", hebrejskih pastorala i drugih tekstova koji zahtijevaju slatkoću i uzvišenost. Bio je rođeni majstor groteske i posebnim uvidom mogao je prikazati sablaste ukletog mozga. Predmete vidimo onako kako su ih videle njegove ličnosti, i samim očima Lutajućeg Jevrejina, zbunjenog Dona ili ćerke zlatara čija mašta tako veliča kralja u radnji na Pont-au-Changeu. Bilo je u prirodi stvari da ga treba privući svako remek djelo stiha ili proze koje sam nazvao jedinstvenim. Niža kraljevstva su pozvana u njegovu službu; njegove stene, drveće i planine, samo nebo, oživljeni su motivom i dijablerijom. Da je doživio da ilustruje Shakespearea, trebali smo vidjeti izvanredan tretman Kalibana, Vještica, oluje u "Liru"; ali je nesumnjivo trebao dovesti u pitanje njegove ideale Imogen ili Miranda. Čistu i jednostavnu ljepotu i njenu savršenu izvrsnost rijetko je shvatio.
+
+Ipak, ima ljepote u njegovim nacrtima za "Drevni moreplovac", nestvarni kakvi jesu, a uzastopnost rijetka u Doréovoj seriji. Rime mu je pružio produženu priču, sa mnogo pomeranja scene. U The Ravenu zvuk i boja čuvaju monoton i nemamo promjenu mjesta ili prilike. Šta je rezultat? Doré nudi niz varijacija na temu kako ju je zamislio, "enigma smrti i halucinacija neutješne duše". Na nekim od ovih crteža vidljive su njegove greške; drugi otkrivaju njegovu moćnu originalnost i najbolje osobine u kojima je, kao crtač, stajao sam. Očigledno je bilo nečeg zajedničkog između radnih raspoloženja Poea i Dorea. Ovo bi izgledalo jasnije da se ovaj okušao u "Pričama o groteski i arabeski". Obojica su često posezali za vilenjačkom zemljom fantazije i romantike. U melodramatskim podvizima obojica su, svojim vladanjem nadnaravnim, izbjegli granicu opasnosti između idealnog i apsurda. Poe je bio istinski obožavalac Lepog; njegova ljubav prema tome bila je strast posvećena, i tu se rastaje sa svojim ilustratorom. Pjesnik ili umjetnik, Smrt konačno sve preobražava: u sjeni njegovog vijećnika od samura, Vedderova simbolična bojica prikladno ih postavlja licem u lice, ali ih obavija plaštom besmrtne mudrosti i moći. Jedna Amerikanka je iskovala lik zvjezdanog Genija sa završnom bakljom, izuzetnim izgledom onoga čija vizija gleda, ali čije usne možda ne izgovaraju, misterije zemlje iza "vrata legendarne grobnice".
+
+Edmund C. Stedman.
+
+THE POEM.
+
+Ilustracija 1
+
+THE RAVEN.
+
+Jednom u ponoćnoj turobnoj, dok sam razmišljao, slab i umoran,
+
+Preko mnogih neobičnih i čudnih svezaka zaboravljene predaje,
+
+Dok sam klimnuo glavom, skoro dremajući, odjednom se začulo tapkanje,
+
+Kao da neko nežno lupa, lupa po vratima moje sobe.
+
+„T je neki posetilac“, promrmljao sam, „kucajući na vratima moje odaje—
+
+Samo ovo i ništa više."
+
+Ah, jasno se sećam da je to bilo u tmurnom decembru,
+
+I svaki zaseban umirući žar iskovao je svoj duh na podu.
+
+Željno sam poželio sutrašnji dan: - uzalud sam tražio da pozajmim
+
+Iz mojih knjiga naslutiti tugu - tugu za izgubljenom Lenore -
+
+Za rijetku i blistavu djevojku kojoj anđeli daju ime Lenore—
+
+Bezimeni ovdje zauvijek.
+
+I svileno tužno nesigurno šuštanje svake ljubičaste zavjese
+
+Oduševio me – ispunio me fantastičnim užasima koji nikada prije nisam osjetio;
+
+Tako da sam sada, da utišam otkucaje svog srca, stajao i ponavljao
+
+„To je neki posetilac koji moli da uđe na vrata moje sobe
+
+Neki zakašnjeli posetilac moli da uđe na vrata moje odaje;—
+
+To je to, i ništa više."
+
+Sada je moja duša ojačala; ne oklevajući onda više,
+
+„Gospodine“, rekoh ja, „ili gospođo, zaista vas molim za oproštaj;
+
+Ali činjenica je da sam ja drijemao, a ti si tako nežno došao da repuješ,
+
+I tako si tiho došao tapkajući, kuckajući po vratima moje odaje,
+
+Da sam jedva bio siguran da sam te čuo"—ovde sam širom otvorio vrata;—
+
+Tamo je tama, i ništa više.
+
+Duboko u tu tamu vireći, dugo sam stajao tamo pitajući se, plašeći se,
+
+Sumnja, sanjanje snova koje se nijedan smrtnik nije usudio sanjati prije;
+
+Ali tišina je bila neprekidna, a tama nije davala znak,
+
+I jedina riječ koja je tamo izgovorena bila je prošaptana riječ, "Lenore!"
+
+Ovo sam prošaptao, a eho je promrmljao nazad na reč: "Lenore!"
+
+Samo ovo i ništa više.
+
+Natrag u odaju se okreće, sva moja duša u meni gori,
+
+Ubrzo sam ponovo čuo tapkanje, nešto glasnije nego prije.
+
+„Sigurno“, rekao sam, „sigurno je to nešto na mojoj prozorskoj rešetki;
+
+Onda da vidim šta je tu i istražim ovu misteriju -
+
+Neka moje srce bude mirno i ova misterija istražuje;—
+
+'T je vjetar i ništa više!"
+
+Otvori ovde, bacio sam kapak, kad, uz mnogo flerta i lepršanja,
+
+Tamo je zakoračio veličanstven Gavran iz davnina svetaca.
+
+Ni najmanje se nije odavao; ni minute nije stao ni ostao;
+
+Ali, s minom lorda ili dame, postavljenim iznad vrata moje sobe -
+
+Smeštena na Paladinoj bisti tik iznad vrata moje odaje -
+
+Sjeo, sjedio, i ništa više.
+
+Onda ova ptica ebanovina mami moju tužnu maštu da se nasmejem,
+
+Po grobnom i strogom ukrasu lica koje je nosilo,
+
+"Iako ti je grb ošišan i obrijan, ti," rekao sam, "siguran nisi žudljiv,
+
+Užasno mračni i drevni Gavran koji luta sa Noćne obale,—
+
+Reci mi kako je tvoje gospodsko ime na obali Noćnog Plutona!"
+
+Gavran je rekao: "Nikad više."
+
+Mnogo sam se čudio ovoj nespretnoj živini kad sam tako jasno čuo govor,
+
+Iako njegov odgovor ima malo smisla - mala relevantnost dosadi;
+
+Jer ne možemo a da se ne složimo da nijedno živo ljudsko biće
+
+Još uvijek je bio blagoslovljen time što je vidio pticu iznad vrata svoje odaje -
+
+Ptica ili zvijer na isklesanoj bisti iznad vrata njegove odaje,
+
+Sa imenom "Nevermore."
+
+Ali Gavran, koji je sjedio usamljen na mirnoj bisti, samo je govorio
+
+Ta jedna riječ, kao da mu je duša u toj jednoj riječi izlila.
+
+Ništa dalje od toga nije izgovorio - ni pero onda je zalepršao -
+
+Sve dok nisam promrmljao: "Drugi prijatelji su već letjeli...
+
+Sutradan će me napustiti, jer su se moje nade već preletele."
+
+Tada je ptica rekla: "Nikad više."
+
+Zaprepašten tišinom narušenom tako prikladno izgovorenim odgovorom,
+
+"Nesumnjivo", rekao sam, "ono što izgovara je njegova jedina zaliha i prodavnica,
+
+Uhvaćen od nekog nesretnog gospodara kome je nemilosrdna Katastrofa
+
+Pratio brzo i pratio sve brže dok njegove pesme jedan teret nije nosio -
+
+Sve dok je njegova nada nije nosila taj melanholični teret
+
+Od 'Nikad—nikad više'."
+
+Ali Gavran i dalje mami svu moju tužnu dušu da se osmehne,
+
+Pravo sam okrenuo sjedalo s jastucima ispred ptice, poprsja i vrata;
+
+Onda, kada je somot potonuo, krenuo sam u povezivanje
+
+Fantazija do mašte, misleći šta je ova zloslutna ptica davno...
+
+Kakva je ovo mračna, nespretna, jeziva, mršava i zloslutna ptica davnina
+
+Mislio na graktanje "Nevermore."
+
+Ovo sam sjedio angažovan u pogađanju, ali bez izražavanja slogova
+
+Za živinu čije su vatrene oči sada gorjele u jezgro mojih njedara;
+
+Ovo i još mnogo toga sjedio sam i gatao, s opušteno zavaljenom glavom
+
+Na somotnoj podstavi jastuka kojom je likovala svjetlost lampe,
+
+Ali čija je baršunasta ljubičasta podstava sa svjetlošću lampe koja likuje nad njima
+
+Ona će pritisnuti, ah, nikad više!
+
+Tada je, pomislio sam, vazduh postao gušći, mirisan od nevidljive kadionice
+
+Zamahnuo serafima čiji su padovi zveckali po čupavom podu.
+
+"Jadniče", povikao sam, "tvoj Bog ti je pozajmio - preko ovih anđela te je poslao
+
+Odmor—odmor i nepenthe od svojih sjećanja na Lenore!
+
+Quaff, o quaff this kind nepenthe, i zaboravi ovu izgubljenu Lenore!"
+
+Gavran je rekao: "Nikad više."
+
+"Prorok!" rekao sam, "zla stvar! - još prorok, ptica ili đavo! -
+
+Da li je Tempter poslao, ili da li te je oluja izbacila ovamo na obalu,
+
+Pusto, ali sav neustrašiv, na ovoj pustinjskoj zemlji začaranoj -
+
+U ovom domu ukletom užasom—reci mi iskreno, preklinjem—
+
+Ima li — ima li melema u Gileadu? — recite mi — recite mi, molim vas!“
+
+Gavran je rekao: "Nikad više."
+
+"Prorok!" rekoh ja, "stvar zla - još prorok, ako ptica ili đavo!
+
+Po tom nebu koje se savija iznad, mi - po tom Bogu koje oboje obožavamo -
+
+Reci ovoj duši opterećenoj tugom ako, unutar dalekog Aidena,
+
+Zagrliće svetu devojku kojoj anđeli daju ime Lenore—
+
+Zakopčajte rijetku i blistavu djevojku kojoj anđeli daju ime Lenore."
+
+Gavran je rekao: "Nikad više."
+
+"Budi ta riječ naš znak rastanka, ptica ili đavo!" vrisnula sam, iznova krenula—
+
+„Vratite se u oluju i noćnu plutonsku obalu!
+
+Ne ostavljajte crni perjanik kao znak te laži koju je vaša duša izgovorila!
+
+Ostavi moju samoću neprekinutom!—ostavi bistu iznad mojih vrata!
+
+Izvadi svoj kljun iz mog srca i uzmi svoj lik s mojih vrata!"
+
+Gavran je rekao: "Nikad više."
+
+A Gavran, nikad ne leti, još uvijek sjedi, još uvijek sjedi
+
+Na blijedoj Paladinoj bisti odmah iznad vrata moje odaje;
+
+I njegove oči izgledaju kao demona koji sanja,
+
+A svjetlost lampe iznad njega baca njegovu sjenu na pod;
+
+I moja duša iz te senke koja lebdi na podu
+
+Biće ukinuto - nikad više!
+

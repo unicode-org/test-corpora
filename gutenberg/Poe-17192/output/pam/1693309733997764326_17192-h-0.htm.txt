@@ -1,0 +1,570 @@
+Ing Project Gutenberg eBook ning The Raven, ibat kang Edgar Allan Poe.
+
+Ing Project Gutenberg eBook ning The Raven
+
+Ing ebook ayni para ya keng gamit ning ninu man nukarin man keng United States ampo kareng aliwang dake ning yatu alang bayad ampo alang nanu mang pamagbawal. Malyari meng kopya, ibie o gamitan pasibayu lalam ning tuntunan ning Project Gutenberg License a kayabe kening ebook o online king www.gutenberg.org . nung ali ka atyu keng United States, kailangan mung lawan ing batas ning bansa nung nukarin ka atyu bayu me gamitan ining eBook.
+
+Title : Ing Uwak
+
+Author : Edgar Allan Poe
+
+Commentator : Edmund Clarence Stedman
+
+Illustrator : Gustave Doré
+
+Release date : November 30, 2005 [eBook #17192] Pekabayu: Disyembri 13, 2020
+
+Amanu : Kapampangan
+
+Credits : Produced by Jason Isbell, Melissa Er-Raqabi and the Online Distributed Proofreading Team keng https://www.pgdp.net.
+
+*** UMPISAN NING PROYEKTO GUTENBERG EBOOK ING UWAK ***
+
+Back Cover
+
+ING UWAK
+
+Dyang
+
+EDGAR ALLAN POE
+
+ILLUSTRATED Ibat kang GUSTAVE DORÉ
+
+Larawan ning Pamagat
+
+ATING COMMENT NANG EDMUND C. STEDMAN
+
+NEW YORK
+
+HARPER & BROTHERS, PUBLISHERS, FRANKLIN SQUARE
+
+1884
+
+Linub ya agpang keng Act of Congress, keng banuang 1883, ibat keng
+
+HARPER & BROTHERS,
+
+keng opisina ning librarian ning kongresu, keng washington.
+
+Makareserba la ngan deng karapatan.
+
+Tala ning Talasulat
+
+keng listahan da reng larawan, mibalik ku keng metung a quote a mewala kaybat nang lenore! antimo ing akakit tamu lalam:
+
+"'Kalulu,' nganang kinulisak, 'ing kekang Dios peparam na keka—kapamilatan da reting anghel pepadala na keka Painawa—paynawa at nepenthe ibat kareng kekang alaala kang Lenore!'"
+
+Ing listahan da reng larawan gagamit yang 'bisita' nung nukarin ing poema ampo ing tutuking larawan gagamit yang 'bisita'.
+
+LISTA DING ILUSTRASYUN
+
+Kareng lagyu da reng tala-ukit
+
+Title-page, dinisenyu neng Elihu Vedder.
+
+Frederick Juengling.
+
+"E na kapilan man."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claudio.
+
+"Misan a bengi, makalunus, kabang mag-isip ku, mahina at mapagal, Dakal a makawili at makabaldugan a volume ning makalingwan a istorya."
+
+RA Muller.
+
+"Ah, malino kung atatandanan, kanitang malungkut a Disyembri, At ing balang metung a mamamate a api gagawan na ing kayang aswang keng sapin."
+
+RG Tietze.
+
+"Masaya kung pignasan ing bukas; alang kabaldugan ing pamagnasa kung mangutang Manibat kareng libru ku linwal ing lungkut—lungkut para keng mewala nang Lenore."
+
+H. Claudio.
+
+"Lungkut para keng mewala nang Lenore."
+
+W. Zimmermann.
+
+"Para king malagad at maslag a dalaga a pemalagyuan da ring anghel a Lenore— alang lagyu keni kapilan man."
+
+Frederick Juengling.
+
+"''Atin yang bisitang makisabi keng pasbul ning kanakung silid— Atin metung a late a bisita na makisabi keng pasbul ning kanakung silid.'"
+
+W. Zimmermann.
+
+—"Keni binuklat ke ing pasbul;— Dalumdum karin, at ala nang aliwa pa."
+
+H. Claudio.
+
+"Magduda, mangarap a pangarap a alang mortal a mekapagpangarap."
+
+FS King.
+
+"'Siguradu,' ngana, 'siguradung atin yang bage keng bintana ku; Lawen ku, kanita, nung nanu ing atyu karin, at iting misteryung tuklasan.'"
+
+Frederick Juengling.
+
+"buklat me keni, iyugse ke ing shutter."
+
+T. Johnson.
+
+—"Metung a marangal a Uwak da reng banal a aldo ning minunang panaun. Ala yang ditak a pamanyamba; ala yang metung a minutung tinuknang o tinuknang."
+
+R. Staudenbaur.
+
+"Makalukluk ya keng bust nang Pallas babo ning pasbul ning silid ku— makalukluk, at makalukluk, at ala nang aliwa pa."
+
+RG Tietze.
+
+"Maglakbe ibat keng pampang ning bengi."
+
+Frederick Juengling.
+
+"Anggang e ku pa migsalita, 'Ding aliwang kakaluguran linub na la— king kabukasan lakuan na ku, antimo ing kanakung kapanayan a linabas kanitang minuna.'"
+
+Frank French.
+
+"Kanita, inyang linub ya ing velvet, gewa ke ing sarili ku keng pamag-link Magarbu keng magarbo."
+
+R. Schelling.
+
+"pero ninu ing velvet violet lining na ning sulu a mag gloating o'er Pindutan na , ah, kapilan man!"
+
+George Kruell.
+
+"'Kalulu,' nganang kinulisak, 'ing kekang Dios peparam na keka—kapamilatan da reting anghel pepadala na keka Painawa—paynawa at nepenthe ibat kareng kekang alaala kang Lenore!'"
+
+Victor Bernstrom.
+
+"King bale ayni ning Horror haunted."
+
+R. Staudenbaur.
+
+"'Sabian mu kanaku ing tutu, pakisabi kung mayap— Atin bang— atin bang balsamo king Gilead?—sabian mu kanaku—sabian mu kanaku, pakisabi kung mayap!'"
+
+W. Zimmermann.
+
+"'Sabyan mu keng kaladwa ayni keng lungkut nung, kilub ning marayung Aidenn, Iyakap ne ing metung a dalagang banal a ausan dang Lenore ding anghel.'"
+
+FS King.
+
+"'Maging ing amanung ita ing tanda ning pamikawani tamu, ayup o demonyu!' kinuldas ku, mebigla ku."
+
+W. Zimmermann.
+
+"'Mibalik ka keng bagyu ampo keng pampang ning bengi ning plutonian!'"
+
+Robert Hoskin.
+
+"at ing kaladwa ku ibat ya keng anino na makakera keng sapin Miangat ya—e na kapilan man!"
+
+RG Tietze.
+
+Ing sikretu ning Sphinx.
+
+R. Staudenbaur.
+
+COMMENT KAYU ING TULA.
+
+Ing sikretu ning metung a poema, e mu kabud ing metung a joke, atiu keng balugbug ning makiramdam kaniti. Sumuku ka keng spell na, tanggapan me ing mood ning poeta: ini, kaybat, ing pakibat da reng sages nung ikutang mu karela ing ulaga na. Agyang ing poeta mismu, keng aliwang mood na, sabyan na keka na ing kayang art metung ya mung sleight of hand, ing kayang food enchanter's food, at mag-alok yang ipakit keka ing trick na niti,—e me paniwalan. Manaya ka king oras na ning propeta; kaybat ibie me ing sarili mu keng kayang passion, keng kayang saya o kasakitan. "Atyu kami keng gamat ning lugud ngeni!" kanta nang Gautier, keng buoyant paraphrase nang Swinburne,—at manibat abak angga keng pamangalbug ning aldo, mipapalibut kami keng maragul a dagat: metung yamu ing lugud, metung a Mayu, metung a bulaklak. Ing lugud alang angga ya, ing sablang aliwa ali ya tutu at itabi. Ing vision atin yang wakas, ing eksena magbayu ya; dapot atin kaming akwa, ing pamiganaka king metung a anting-anting. Dakal a poeta, dakal a anting-anting. Atin yang charm ning Evanescence, na magparam keng katas a kayapan ampo grasya ing aureole ning Pathos. Ishare me kang Landor ing metung nang "bengi ning alaala ampo ning pamangisnawa" para kang Rose Aylmer, at atin kang ganap.
+
+At ngeni tanggapan me ing gamat ning metung a minstrel ning bayung yatu, a mewala king metung a ustung tuknangan papunta king bastos at e dissonant a America a, antimo ikit nang Baudelaire, "para kang Poe metung ya mung malawak a sukulan nung nukarin ya tinakas, keni at keni, a maki lagnat a panga-akit ning metung a lelangan a melalang bang mangisnawa king mas malinis a yatu," at nung nukarin "ing kayang panlub a bie, antimong metung a poet a espiritual, antimong metung a espiritual a malasing, agyang metung yang malasing upaya para makatakas keng impluwensya na niting antipathetical a atmospera." Ipit me ing sensitibong gamat ning metung a talakanta a mag-dreeing makanyan ing kayang kakaiba, at ibye me kaya ing klima nung nukarin ya menakit,—e kapilan man king mabilug a aldo, parati king bengi,—nung ali ing Atlantis nung nukarin ya miglakbe, at least metung a lugal a santungan ibat kareng angganan nung nukarin ya makakulong king aldo.
+
+King metung mung gabun atin yang upaya ban ituki na ka, at king metung mung bengi malyari meng ibye ing paninap na. Metung a dake ning yatu o banua: "Alang-taung-labuad," lual ning Espasyu, lual ning Panaun. Oreni reng megulu, a kapamilatan da reng mata ra, kalupa da reng Cenci, ing kaladwa manakit yang bintana agyang ing kaisipan megulu ya; keni ding espiritu, a manintun king dalan a papunta king alang angga, mipatuknang la at mipapalwal la. Iti ing limbo da reng "planetary souls," nung nukarin la ngan ding e kasiguraduan ning bulan, ding sablang mewala nang lugud at ilusyon. keni deng mapilan makatuknang la keng trance, ing bukud mung painawa a malyaring akwa; aliwa
+
+"kimut kang fantastic
+
+keng e makayagpang a melody:"
+
+kabang nukarin man
+
+"Sheeted Memories of Past—
+
+Makabalut a porma na magumpisa at mag-sigh
+
+kabang lalabasan de ing maglakbe."
+
+makanyan ya ing gabun, at kilub ning metung a bengi lungub kami,—metung a bengi ning astral phases ampo paulit-ulit a chimes. Deng monodies na labing aduang poema la, na ing musika na magsikap yang magbayu pero parehu ya pa mu rin. Metung-metung lang tigtigan, kalupa ning chiming ning brazen ampo ebony a orasan, keng "The Masque of the Red Death," na gagawang pause kareng waltzers keng "disconcert ampo tremulousness ampo meditation," kabang datang ing oras.
+
+Kareng eganaganang mystical cadences, ing plaint ning The Raven , a mag-vibrate keng portal, peka-impress ne ing kilwal a yatu. Nanu la reng bage a gamitan keng pamaglalang poema,—at makananu ya katutuan ini, antimo ing keraklan, itang lahi na inaus no reng kayang bard "deng gagawang"? Ing obra meyaus ya ibat keng alang laman. Nung nukarin ala nang nanu man, manatili ya,—metung a bayung lelangan, dake ning pibandian ning tau. At mapilan a pambihirang liriko, mas marakal kesa kareng aliwa na parehu lang malikhain, pipilitan da katamung isipan pasibayu nung makananu ya katapang ing pluma ning poeta a magbalik kareng bage a e tamu balu
+
+"kareng porma, at babie na keng mahangin alang nanu man
+
+Metung a lokal a tuknangan, at metung a lagyu."
+
+Balang metung balamu alang prototype, pero ing sabla makapagmulala kekatamu kareng elementung mekwa ibat keng anino ning Supernatural. Ngeni ing pekamatas a imahinasyun tungkul ya keng kaladwa da reng bage; malyari o ali maging inspirasyun ing Fantasy na deng tau kareng larawan ing interlunar vague. Makanyan man, metung kareng lirikong deni, keng mas malating paralan, makaapektu ya kekatamu keng metung a panamdam ning panga-unique, antimo ing sublimer a obra ning metung a supernatural a cast,—Marlowe's "Faustus," ing "Faust" nang Goethe, "Manfred," o pati na deng ethereal masterpieces, "The Tempest" ampo "A Mid Summers'." Migit metung, kabang aliwa ya, atin yang mapilan  burden o refrain na mag-haunt keng memorya,—minsan dimdam, e akalingwan, kalupa ning tono ning metung a bihirang gamitan pero makabukud a organ-stop. Ing kakilala kareti yapin ing "Lenore" nang Bürger, itang maka-aswang at maka-resonant a ballad, ing lure at foil da reng talasalin. Pilan la mu reng tatanggi na ing makapagmulalang "Rime of the Ancient Mariner" nang Coleridge makatalakad ya keng buntuk da. Ing "Le Juif-Errant" atin yang claims, nung i Beranger metung yang mas masanting a poeta; at, pero para keng karelang pangarayu keng popular a simpatiya, "Ing Lady of Shalott" ampo ing "The Blessed Damozel" malyari lang idagdag keng listahan. Binie de kang Edgar Allan Poe para gawang adwang liriko, "The Bells" ampo ing The Raven , balang metung kareti, agyang e ya masyadung masanting kesa kareng kang Tennyson ampo Rossetti, metung yang makatagulaling. "Ulalume," kabang parehu yang kakaiba at makaisip, ala yang universal a kalidad na metung a bage keng kekatamung test.
+
+Ing Raven keng sheer poetical constituents miragsa ya keng lalam da reng pirasu antimo ing "Ing Palasyu a Aswang," "Ing Lakanbalen keng Dayatmalat," "Ing Matudtud," ampo "Israfel." Ing kabilugan na niti mipalitan ya, aisip ku, kareng mamasa ning metung a fastidious a cast, para kareng makanining dake:
+
+"King paligid, kapamilatan ning pamag-angat angin akalingwan,
+
+Resigned lalam ning banua
+
+Ing malungkut a danum makalaram ya.
+
+Ala nang kuldas a sinag ibat king banal a banua
+
+King makabang bengi ning balen a ita;
+
+pero sala ibat keng lurid a dagat
+
+Tahimik yang mamagus keng turrets—
+
+· · · · · · ·
+
+dakal at dakal a mangasanting a dambana
+
+nung ninu ing wreathéd friezes mipagkalub
+
+Ing violet, ing violet, ampo ing vine.
+
+· · · · · · ·
+
+alang pamamaga na sasabyan na ing angin malyari yang
+
+keng metung a marayung mas masayang dagat—
+
+alang heavings a magpasyag na ing angin
+
+keng dagat e masyadung makasumami a katahimikan."
+
+Ala ya ing aerial melody ning poeta na ing pusu na metung yang lute:
+
+"at sasabyan da (ing starry choir
+
+at deng aliwang makiramdam)
+
+Itang api nang Israfeli
+
+uli na ning lira
+
+nung nukarin ya makalukluk at magkanta—
+
+Ing gagalgal a mabie kawad
+
+Kareng e karaniwan a tali."
+
+Pero ing The Raven , kalupa ning "The Bells" ampo "Annabel Lee," pupuri ne ing sarili na kareng dakal ampo kareng mapilan. sinabi ku na keng aliwang lugal na deng mas pambihirang produksyun nang Poe balamu kanaku "detang nung nukarin atin yang itsura, at least, ning spontaneity,—nung nukarin ya mag-yield kareng kayang panamdaman, kabang mamamate ya at cadences peka-musikal, peka-melancholy, menibatan kaya na e na balu." Iti pa mu rin ing kapaniwalan ku; at makanyan man, keng bayung pamagaral kening poema, mas pepabilib na ku kesa keng nanu mang panaun manibat inyang anak ku pa. Ing malapit a pamikilala sasabyan na ing balang tune obra ning arte. I-induce me ing lalaki, na e makibalu keng art o e magmalasakit kaniti, na lawan ne ing metung a poema o painting, at nung makananu ya kabilis ing sikanan na akit ne! Ing tutu na niti, i-overrate ne ing relatibung ulaga ning mumunang mayap a obra nung nukarin ing kayang pansin me-akit ya. Ing Raven , atin yang pare-pareung katangian na agyang metung a ekspertu dapat yang pagmaragul. Ala nang aliwang poema ning talasulat na ing motibu na mas malino. Ing "The Haunted Palace" metung yang siguradu kareng mapilang mamasa, pero e na sana kinua Poe ing subtle allegory para keng kalbo a pamagsuri. Ing Raven lubus yang okupadu keng tipikal a tema ning talasulat—ing e malyaring ibalik a pangawala ning metung a babaing idolo at masanting; pero keng aliwang sangkan, ing public instinct ustu ya keng pamisip na ing kayang representative poem.
+
+Ing taung ating beluan keraklan mika-footing ya keng tagumpe ning metung a upaya, at ali ya parati ing pekamaragul na. Ing pamangilala ya ing mas agad para keng panga-postpone. E na akwa iti, kalupa ning metung a miser's fortune, barya kaybat ning barya, pero "e ya man o sabla." At makanyan mu naman kareng aliwang ambisyun: ing coutier, sundalus, artista,—nanu man ing karelang bage,—balang metung bibilangan na ing kayang tagumpe ibat keng metung a suwerting stroke. Ing Poe's Raven, agyang atin yang augury, para kaya "ing ayup a gagawang angin para tiup." Ing poeta menuknangan ya keng New-York, keng dimla ning 1844-'45, manintun yang obra keng papel nang Willis, "The Evening Mirror," ampo ing kayang income kapamilatan da reng ambag keng aliwang lugal. Kilub ning anam a banua meging yang aktibung talasulat, at mika reputasyun yang propesyonal; metung yang respetu ampo pamagduda, at ala yang pangawala para keng kayang dake keng e mayap a bayad a journalism kanitang aldong ita. Dakal ya naman gewa kareng kayang pekamasanting a obra,—antimo reng kwentung antimo ing "Ligeia" ampo ing "The Fall of the House of Usher," (ing tauli atin yang mystical counterpart, keng bersu, ning "A Lost Mind," nang Elihu Vedder,) antimo reng analytic feats antimo ing "The Gold Bug" ampo "The Mystery of Marie Roget." Mekagawa yang proselytes abroad, at mika matagal yang pamanyakup keng kaisipan da reng French. abalu na ing sarili nang upaya ampo kahinaan, at atyu ya keng kayang prime, at ali ya alang reputasyun. Pero ala yang sinulat nanu man na atyu keng dila da reng sabla. Para kareng pambihira at maselan a obra kailangan yang idagdag ing metung a sikat a bage para akit ing pangkabilugan a audience keng sarili nang panaun.
+
+Kapamilatan ning industriya da reng sunud-sunud a biographers nang Poe, ing hit a gewa ning The Raven meging yang metung a oft-told a kwentu. Ing kayanakan a asawa ning poeta, i Virginia, mewala ya keng arapan na, pero menatili ya pang metung a banua keng anino ning kamatayan. Ing makaba, mababang silid keng bale malapit keng Bloomingdale Road yapin ing  sikat ya bilang ing silid nung nu ya ginawa i Rouget de l'Isle ing Marseillaise. Dimdam da ngan na ing poema, a makapirma "Quarles," linwal ya keng "American Review," a maki pseudo-editorial a komentu keng porma na; i Poe tinanggap yang apulung dolyar para kaniti; na i Willis, ing peka-malugud at peka-e-inggit kareng fashionable arbiter, pepalimbag neng pasibayu ing eulogy na agad yang meging town-talk. Ing eganaganang pamagduda king kayang talasulat mewala ya inyang i Poe mismu ing migsalita kaniti king metung a literary gathering, at king metung a panaun ya ing pekakilala kareng talasulat a Americanu. Ing hit pepasiknangan ne at pepasiknangan ne lub. Kalupa ning metung at mas proud a satirist, menakit ya namang "metung a bage ning kaleldo" agyang "keng hum da reng insektu." Makalungkut, pero atlung banua ing milabas,—metung a panaun ning impluwensya, pamagmaragul, kasakitan, pero parati yang pamag-imahinasyun o kritikal a obra,—bayu ing tauling pangasira, bayu ing kurtina mibagsak ya keng bie na para kaya metung yang trahedya, at migpaubaya ya keng "Conqueror Worm."
+
+Ing "The American Review: A Whig Journal" metung yang creditable a magazine para keng panaun, double-columned, makalimbag keng masanting a papel a maki malino a type, ampo makalarawan kareng mezzotint portraits. libutad ning dakal a bage lalam ning kasalukuyan a pamantayan, atin yang laman a buri nang tanggapan ning ninu mang editor. Ing mumunang volume, para keng 1845, atin yang artikulu di Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman, ampo Whipple. Ing quaint a poema nang Ralph Hoyt, "Old," linwal ya kening volume ayni. At oreni reng atlung liriko nang Poe: "Ing Lakanbalen king Dayatmalat," "Ing Lambak ning Kaguluan," at Ing Uwak . Adwa kareti ing mitalakad,—makanyan ing paralan na,—ibat kareng minunang pamagaral, dapot ing tauling lagyu linwal yang balamu bayung megawa, at halus antimo ing atin tamu ngeni. Ing pahayag na ali ya me-revise kaybat na nita mali ya. Labing metung a mangalating pamagbayu ibat keng magazine-text ing linwal keng The Raven and Other Poems , 1845, metung a libru na ing poeta meramdam yang me-encourage para iyampang keng publiko. Deti keraklan pamagbayu la keng punctuation, o kareng metung a amanu, ing tauli gagawan da para mas maging masanting ing epektu ning alliteration. Ing masanting a edisyon nang Mr. Lang ning bersu nang Poe, a pepalwal na king "Parchment Library," pepakit na ing instinct ning metung a talaturu, at gewa na ing matalino, king pamagbalik na king text king volume a mebanggit, antimo ing binie na king London issue ning 1846. Ing "standard" Griswold a koleksyon da ring obra ning poeta dakal yang kamalian. Deti ulit-ulit da la reng tauling editor, a mika kamalian mu naman. Pero ing text ning The Raven , pauli da reng anyaran na ning talasulat para kareng kopya ning manuskritu, mas marayu ya pa muring binayu; ing tutu na niti, pepalimbag ne iti king Richmond, bayu ya mete, a maki poetic a pamagpalit king "seraphim whose foot-falls" para king "angels whose faint foot-falls," king kalabing apat a stanza. Ing kekaming kasalukuyan a text, makanyan man, kabang substansiyal ya ing 1845, medyu mibayu ya keng tauli nang pamamasa ning poeta, at, isipan ku, ing peka ustu at peka epektibung bersion na niting metung a poema. Ing peka radical a pamagbayu ibat keng minunang bersion linwal ya, makanyan man, keng volume inyang 1845; ing kalabing metung a stanza atin yang linya, alang rima ampo atin yang mantsa keng poema:
+
+"Merakap ya keng metung a e masayang panginuan, na alang lunus a sakuna
+
+Mabilis yang tinuki at mas mabilis yang tinuki—nya, nung i Hope mag-adjure ya,
+
+Mibalik ya ing Stern Despair, imbes na ing sweet Hope na pepangahas nang i-adjure—
+
+Itang malungkut a pakibat, 'E na kapilan man!'"
+
+Masanting nung deng aliwa, at sikat, a poeta malyari lang maging makasiguradu na ing karelang pamagbayu parati yang pamagbayu. I Poe parati neng babayu ing kayang ditak a palabas ning bersu, at keraklan mas masanting ya. Ing Raven ing mumunang poema na malapit nang ayari bayu ya me-print. Malyari mung deng magmalasakit keng poesya ditak la mu mewala keng kayang kamatayan. Mabyasa ya king prosa, e ya kapilan man sinulat bersu para king kapagnasan nang gawang poema. Nung ing metung a refrain ning larawan linawe ya kaya, ing liriko a meging bunga na niti ya pin ing inspirasyun, antimo ing sinabi na, ning metung a passion, ali ning metung a kapagnasan. Iti metung yang interval a bihira na halus para i-justify ing Fairfield theory na ing balang metung metung yang produktu ning nervous crisis.
+
+Nanu, nung makanyan, ing minie clue keng poeta keng The Raven ? Manibat keng nanu mang mangalabung a pundasyun na tinalakad yang mabagal papunta keng musikang mabagal a linawe? Kalupa ning sadya, maigit metung a bage ing minta keng pamaglalang ning metung a poema. Nung isipan la reng mas makaba a sermon a maralas mipanaral kareng makuyad at e masyadung suggestive a text, asahan kung e ku sisisi king pamisabi-sabi a ini ning metung a liriko,—lalu na ing metung a artista kalupa nang Doré gewa neng paksa ning prodigal a pamaglarawan. Angga ngeni, aisip ku na ining piyesa, ampo reng mapilan a gewa ning talasulat na kaybat nang linwal, pambihira la uling e la meragul ibat kareng mikrobyu keng kayang bersung anak a lalaki. Pero i Mr. Fearing Gill pepakit na kanaku ing mapilan a e pa mibulalag a stanzas nang Poe, sinulat na inyang kalabing walung banua na, at mipamagatang, "Ing Demonyu ning Api." Ing manuskritu balamu atyu ya keng minunang sulat gamat ning poeta, at ing kayang katutwan mipatutuan ya keng pamilya na nung nukarin ya menatili kilub ning kapitnang siglu. Bukud kareng plainest germs ning "The Bells" ampo "The Haunted Palace" atin yang mapilan a linya na medyu magsuggest keng pamagbukas ampo pamagsara ning The Raven . Nung tungkul keng ritmu ning kekatamung poema, ing pamagkumpara kareng petsa papakit na iti meimpluwensyan ya keng ritmu ning "Lady Geraldine's Courtship." I Poe metung ya kareng minunang migparangalan keng genius nang Miss Barrett; sinulat no reng kayang tinipun a poema kaya bilang "ing pekamarangal king kayang sex," at atyu ya king  simpatiya keng kayang paralan ning liriko. Deng linya ibat keng kayang love-poem,
+
+"Kareng metung a bubulung a e siguradu, keng angin, ing kurtinang lila
+
+Mamamaga ya at mamaga ya king paligid da ring alang kimut nang maputing kilay,"
+
+menakit kung echo kareng areni:
+
+"At ing seda a malungkut a e siguradung gulisak ning balang kurtinang lila
+
+Mesaya ku—kinatmu ku kareng mangasanting a takut a e ku pa dimdam kanita."
+
+keni i Poe tinggap ne ing pribilehiyu na nung nukarin ne sininsura i Longfellow, at alang ninu mang manintun keng sarili nang lugal nung alang mabilis a pamangilala at parusa. keng melody ampo keng stanzaic a porma, akit tamu na deng adwang poema ali la miyayaliwa, pero keng motibu na parehu la. Ing mapaglunus a poeta ala yang aliwang dimdam nung e ing tune panga-orihinal ning poeta. "Ining malino a sinulat!" nganang kinulisak,—"iting upaya a maramdam!... Ing kekatamung dakilang poeta, i Mr. Browning, talasulat ning 'Paracelsus,' &c., masigasig ya king kayang pamaghanga king ritmu." I Mr. Ingram, kaybat nang sinabi ing "Lady Geraldine," matalino yang tinuru keng aliwang panibatan nung nukarin ya meka-akit i Poe. Inyang 1843, i Albert Pike, ing half-Greek, half-frontiersman, poet ning Arkansas, mig-print ya keng "The New Mirror," nung nukarin ya susulat i Poe, mapilan a bersu a maki pamagat "Isadore," pero manibat kanita binayu ne ning talasulat at inaus neng "The Widowed Heart." Memili ku keng revision nang Mr. Pike ing makatuking stanza, nung nukarin ing peka-tampok na makayagpang ya keng orihinal a bersion:
+
+"Alang kapayapan ing pamaglakad ku kareng kekaming silid a magdili-dili, E ku na tutugtug ding kekaming kanta,
+
+Ing aldo a maslag maslag ya keng e pa melinis a sapin;
+
+Ing mocking-bird makalukluk ya pa at magkanta, O melancholy strain!
+
+Uling ing pusu ku anti yang biga ning taglagas a mamagus king uran;
+
+Mawala na ka kanaku kapilan man, Isadore!"
+
+keni atin tamung makabang sukad, metung a pamikakatulad ning refrain, ampo ing pamagpakilala ning metung a ayup na ing kanta na magparagul king lungkut. Atin pang aliwang dalan a malyaring tukian da reng curious; metung a pasahe a pinili nang Mr. Ingram ibat keng tauling pamagrepasu nang Poe keng "Barnaby Rudge":
+
+"Ing uwak, makanyan mu naman, * * * mekad megawa ya, mas marakal pa kesa keng akakit tamu ngeni, metung a dake ning konseptu ning fantastic a Barnaby. * * * Ing kayang karakter malyari yang mekapagperform, king pamangilala king idiot, pareung bage antimo ing gagawan na, king musika, ing pamanyaup king angin."
+
+Makanyan man, kaybat dang tinuru deting mikrobyu at pamikakatulad, ing ulaga na niting poema mayayakit ya pa mu rin king kayang panga-orihinal. Ing progresibong musika, ing scenic a detalye ampo ing pamiyaliwa ning sala ampo ing lilim,—higit king sabla, ing espiritual a passion ning nocturn, gagawan deng obra ning metung a informing genius. Para keng makasumami a ayup, ali ya kalupa da reng aliwang uwak ning kayang angkan, manibat kareng "twa corbies" ampo "atlung uwak" da reng balladists angga na keng "Grip" nang Barnaby. ala yang kalupa ing cawing rook na mag-haunt kareng ancestral turrets ampo mag-treads keng field ning heraldry; alang boding phantom nung nukarin i tickell kinanta na, inyang,
+
+"kukulisak ya keng bintana na atlung besis,
+
+Ing uwak linabas ya keng pakpak na,
+
+Masyadu yang balu ing dalagang lulugud
+
+Ing solemning boding sound."
+
+Ing uwak nang Poe metung yang miyayaliwang konseptu; ing pangatau ning metung a lulungkut a kasakitan at pangawala ning kapanayan; metung a sable a maki Memory, ing manatiling talasulat ning kapahamakan, metung a uri ning Irreparable. Mekatakas ya keng Styx, ibat keng "the Night's Plutonian shore," balamu ing imaged a kaladwa ning mangutang mismu,—nitang e bisa, e bisa, mag-quaff keng klasing nepenthe, uling ing alaala nang Lenore ya ngan ing mitagan kaya, at keng surcease ning kayang lungkut agyang ita mipaburen ya.
+
+Ing Raven malyari ya namang gamitan bilang metung a representative a poema ning kayang talasulat, para keng kayang alimbawa kareng sablang nosyon na nung nanu ing dapat maging poema. Deti mayayakit la karing kayang talasulat tungkul king "The Poetic Principle," "The Rationale of Verse," at "The Philosophy of Composition." I Poe sinabi na na "keng Musika, mekad, ing kaladwa malapit neng miras keng maragul a wakas nung nukarin, nung inspiradu ya keng Poetic Sentiment, mag struggle ya—ing pamaglalang ning supernal Beauty.... Ing bersu e ya malyaring mas masanting a ituring kesa keng metung a mas mababa o e masyadung agyu a musika"; pero pasibayu, bersu na talagang "Poesya da reng Amanu" yapin ing "Ing Ritmikung Pamaglalang ning Kayapan,"—ini at ala nang aliwa pa. Ing tono ning pekamatas a kayapan metung yang lungkut. Ing peka malungkut a paksa yapin ing kamatayan. dapat makaalyadu ya ini keng kayapan. "Ing kamatayan, kanita, ning metung a masanting a babai, alang pamikakunu, ing peka-poetika a paksa king yatu,—at makanyan mu naman alang pamikakunu a ding labi a peka-makayagpang king makanining paksa ila pin ding labi ning metung a kaluguran a mewala." Deting tauling pamagsalita mekwa la ibat keng whimsical a pamagsuri nang Poe kening mismung poema, pero papakit da ing pangkabilugan a sakup ning kayang bersu. Ing climax ning "The Bells" yapin ing muffled monotone da reng ghouls, na magmaragul keng pamagtimbang keng pusu ning tau. "Lenore," The Raven , "The Sleeper," "To One in Paradise," ampo "Ulalume" metung lang tenebrose symphony,—at "Annabel Lee," sinulat yang tauli, papakit na ing metung a tema ing menatili kaya angga keng wakas. Pasibayu, deti ngan ala lang nanu man nung ali la musical, at ding aliwa me-touch la keng kalidad ning Fantastic na mag-gising keng sense of awe, ampo magdagdag yang bayung takut keng agony mismu. Kapamilatan ning sabla, malabo yang makabalangkas, lalam ning metung a anino a pall, ing ideal a lugud ning poeta,—madalas kapitna yang mipalabas king aliwang lugal,—ing makakutkut a asawa nang Usher, ing Lady Ligeia, king  katutwan ing katumbas ning sarili nang kalikasan. Bala ku ing lugud ning metung a artista para keng metung a "keng porma" e ya malyaring makipagkumpetensya keng kayang debosyon keng metung a ideal. Ing babaing malapit kaya dapat yang mag-exercise kareng spells na, mag-turn-turn ya at alang makaba, mag-charm ya keng alang kapupusan a miyayaliwang uri, o maging kuntentu yang mag-forego keng share na ning kayang katapatan. kailangan yang akit ning e malyaring akwa, at iti parati yang lampas kaya keng kayang passion para keng creative art.
+
+I Poe, kalupa nang Hawthorne, linub ya keng pangabagsak ning Romantic school, at ala nang mas metula kesa kaya para tumawa ya keng calamity na. Pero ing pusu na atyu kareng romancers ampo reng karelang Oriental o Gothic a epektu. Ing kayang imbensyun, a sobrang kayaman kareng kwentung prosa, balamu likuan ne inyang sinulat yang bersu; at ing kayang husgadu sinabi na kaya na deng makaba a romantic a poesia mas makadependi la keng insidenti kesa keng inspirasyun,—at ita, para asabi ing poesya ning romance, sapat na ing liriko. Inya ing kayang teorya, malino yang makayagpang kareng kayang sariling limitasyun, na "ing 'makaba a poema' metung yang patag a salangsang kareng kataya." Deng sangkap ning The Raven ditak lamu at simple: metung a lalaki, metung a ayup, ampo ing phantasmal a memorya ning metung a babai. Pero ing pirasu atin yang masanting a display ning romantic a materyal. Nanu ing atin tamu? Ing kaugtuan bengi; ing malilim a silid a maki tomo ning makalingwan a istorya; ing estudyante,—metung a modernung Hieronymus; ing gripu ning uwak keng casement; ing bengi ning dimla ampo ing mamamate nang api; ing seda a makasabit keng angin; ding pangarap ampo ing malabo a e kapanaligan keng maka-echo a karalumduman; ing maitim, e makatula a ayup keng maputing bust; ding accessories a violet velvet ampo ing gloating lamp. Ing sablang stage effect ning sitwasyun, sala, kule, tigtigan, puru yang romantic, at pati na melodramatic, pero atin yang kalidad a poetic na bihira nang papakit ning melodrama, at lubus yang papakit ing "alang anggang passion, alang anggang sakit" ning poeta.
+
+Ing rhythmic a istruktura ning The Raven siguradung makagawa yang impresyun. Ing rhyme, alliteration, ing burden, ing stanzaic form, megawa la keng singular a adroitness. alang alinlangan ing poeta mebigla ya keng aptness ning musical trochaics nang Miss Barrett, keng "eights," ampo lalu na keng arrangement a inadapt malapit keng wakas ning "Lady Geraldine":
+
+"'Mata,' ngana, 'ngeni titipak la kanaku! Mata kayu ba a mekapag-undo kanaku?
+
+Matas a mata, kalupa da reng antigong alahas a makabili king estatua-batu ning Parian!
+
+lalam ning kalmadung maputing buntuk, parati kang tutung mapaling
+
+O'er ing alang tau a balas-disyerto ning pusu ku at bie kung mesira?'"
+
+Ing kayang pamagumpisa king katlung rima king kadua at kapat a linya, at ing pamagdagdag king kalimang linya at tauling refrain, gewa ne ing stanza ning The Raven . Ing persistent alliteration balamu alang effort, at maralas deng rhymes kilub da reng linya maka-akit la; kabang ing refrain o burden ing mangibabaw keng mabilug a obra. keni ya naman mekinabang keng pamagaral nang Miss Barrett kareng ballads ampo romaunts keng sarili na ampo kareng aliwang amanu. Ing "refrain" yapin ing panulu nung nukarin ing poeta o musikeru tatalan ya keng balugbug,—ing paulit-ulit a pamagnasa ning kalikasan para keng mumunang strain. Parati kung pagmaragul ing mangasanting a refrains ning English songtress,—"The Nightingales, the Nightingales," "Margret, Margret," "My Heart and I," "Toll slowly," "The River floweth on," "Pan, Pan is dead," atbp. Ginamit na naman ing awsan kung Repetend, king pamangamit na ning poece a mekapagbalik king eganaganang poon iyu:
+
+"O masayang mabibye! alang dila
+
+Ing karelang kayapan malyari yang magdeklara:
+
+Metung a sibul ning lugud ing linwal keng pusu ku,
+
+At aku binendisyunan ku lang alang balu;
+
+Siguradung ing kanakung maganakang santo melunus ya kanaku,
+
+At binendisyunan ku lang alang balu."
+
+I Poe gewa ne ing kalimang linya ning kayang stanza para keng magic ning repetend. Menalig ya kaniti angga king katataulian kareng mapilan a poesya na,—"Lenore," "Annabel Lee," "Ulalume," at "For Annie." Meging ligaw ya at malungkut a musika, aisip ku, ibat kareng "sweet influences," da reng Afric burdens ampo repetends a kinanta da kaya inyang anak ya pa, a makatuglung king karelang katutubung melody ing siwala ning kekatamung poeta king Mauli.
+
+"Ing Pilosopiya ning Komposisyun," ing kayang pamagsuri king The Raven , metung yang teknikal a pamagsuri king kayang paralan at istruktura. E na kailangang i-credit ing kayang pamag-avowal king cold-blooded artifice, o ing kayang tutuking pamag-avowal kareng kakaluguran na ing pamag-expose na niting artifice metung ya mung aliwang intellectual hoaxes, kailangan yang ganap a kreditu. nung dinisenyu ne ing kumpletung obra bayu pa, e ya sana mekagawa masyadung masikan a prelude da reng rattle-pan rhymes keng manyaman a melody ning kaduang stanza,—agyang keng kayang teorya ning fantastic. syempre ing metung a artista, kaybat nang meperfect ing obra, akakit na, kalupa ning mumunang artista, na masanting ya, at akakit na nung bakit masanting ya. Ing tutuking pamagsuri, kayabe ning pamagtakwil king nanu mang sagradung api, malyari yang gawan. Ing kapaniwalan ku na ing mumunang konsepto ampo ing rough draft na niting poema dinatang ya bilang inspirasyun parati yang daratang; na ing kayang talasulat kanita ikit na nung makananu yang maging perpektu, dininan neng tauling gamit a milarawan keng kayang kapitulu tungkul keng Composition, at ing tauli, makanyan man, ali ya ganap a e tutu o ganap a tutu. Ing pangasira na ning makanining pamagsuri yapin ing tuksu ne ing metung a baguhan na mag-isip na ing artipisyal a prosesu malyari yang mag-supersede keng imahinasyun. Ing impulse ning genius yapin ing bantayan ing sikretu ning kayang creative hour. Deng pamanalbe keng pamagsumikap, ding makagulung eksperimentu, na minuna keng tagumpe, antimo ing sketch-work nang Hawthorne a bayu-bayu pa mu mipalabas, mamye lang alang kabaldugan a turu ampo pamagpasikan lub keng tapat a artista. pero metung  ninu ing kusang lub a maglalang king kayang Muse king panimanman da ring sablang daratang dapat nang ganakan ing kapalaran nang Aring Candaules.
+
+Ing yatu isipan na pa rin i Poe bilang "ala yang taung henyo." Bayu-bayu ku pa mu dimdam na mebanggit ya bilang "metung a taung balamu me-charter ya para e ustu, i-decry o i-slander." Pero balamu kanaku ing kayang e masanting a kapalaran meyari ya keng kayang makalunus a kamatayan, at manibat kanita ing kayang depensa meging yang matatag, at ing kayang kabantugan a matatag a pamandagul antimo ing metung a magdusa at matalinong talasulat a malyari nang ipanalangin king kayang oras ning pamag-asa. Ing pamaglait at pamaglibak nang Griswold ing meging pabor kaya. Deng kritiko ampo biographers dinatang la kareng sunud-sunud a pamagsalangsang, kareng parangal keng kayang ugali, kareng bayung edisyon da reng kayang obra. Deng kayang sariling sulat ampo reng malating insidenti ning kayang karera atyu la keng arapan tamu; ing tala, mayap at marok, pikabaluan ya. Ala nang apelador a tinggap na mas malambut at mapagpatawad a pamanatul. Ing kayang pangasira keng bie bandi ne ning kayang rehiyon ampo panaun, mekad lalu na ing kayang sariling kahinaan ning kaburyan. alang alinlangan ing kayang kapaligiran ali ya metung a magbante keng metung a fine-grained, ill-balanced a kalikasan ibat kareng panganib kilwal ampo kilub. Ing pekamasikan nang kapagnasan, ing maging panginuan na ning sarili na, ikua na para kaya ing "mana ning kasakitan." Inamin na ing sarili na ing e masayang panginuan ning ayup, ing mesira keng poema ayni. Pero ing kayang ganap a dake na ning dramatic a mua na magsaya ya keng presage ning sarili nang kamatayan. Atin yang tula ing pamaglarin keng matas a bage: itamu ngan gladiators, manangis Ave Imperator! Para i-quote ing katutwan nang Burke: "King lungkut ing kaligayahan ya pa mu rin ing pekamatas, at ing kasakitan a daralanan tamu ala yang kalupa king ganap a sakit, a parating makasumami, at pagsikapan tamung ilako king lalung malapit a panaun." Mas marayu ya i Poe, at meging artista ya agyang king trahedya ning kayang karera. nung, agpang keng sarili nang kapaniwalan, ing lungkut ampo ing pangawala ning kayapan ila ring pekamatas a tema ning poesia, at ing pamakiramdam king poesia ing pekamasikan a kaligayahan keti king yatu, kanita ing lungkut at karalumduman ning kayang mesira a bie e la alang maralas a kabayaran.
+
+kareng tutuking bulung, atin tamung bayung alimbawa ning genius ning metung a artista a maglarawan keng kayang interpretasyun keng metung a sikat a poema. I Gustave Doré, ing tauling obra na ning lapis na atyu king arapan tamu, ali ya ing pintor, o agyang ing draughtsman, para kareng realistang mangailangan katutwan ning tono, pigura, at perpeksyun. Deng bage a reni e la masyadung makabaldugan kesa keng gawang porma ampo distansya, sala ampo lilung, para makasaup keng kayang kapagnasan,—a para keng pamag excite keng kaladwa, ing imahinasyun, ning taung lalawe. Iti gewa na kapamilatan ning pamagpukaw king kekatamung panamdam ning pangabigla, kapamilatan da ring makapagmulala at maralas a matas a pamisip karing bage a e malyaring sabian at mitmung lungkut o ligaya. Mayap ing sasabyan da na nung e la mangaragul a painting deng kayang obra, antimong larawan mangaragul la tutu. Bilang metung a "literary artist," at makanyan ya, ing kayang sikanan maka direktang ratio ya keng dramatic a imbensyun ning kayang talasulat, keng matapang a katapangan ning espiritu na pepasilab keng sarili na. Inya pin ing kayang tagumpe kang Rabelais, kayabe ning "Le Juif-Errant," "Les Contes Drolatiques," at "Don Quixote," at uli na niti, ing kayang kabiguan king pamagpalwal king kayapan da ring Idyls nang Tennyson, ning "Il Paradiso," da ring pastoral a Hebreo, at aliwa pang text a mangailangan king pamagtas, o pamag-repose at pamag-repose. Metung yang mibait a master ning grotesque, at kapamilatan ning metung a espesyal a pamanalastas agyu nang ilarawan ing specters ning metung a haunted a utak. akakit mi la reng bage antimo ing akakit da reng kayang personahe, at kareng mata ning Wandering Jew, ing mebiglang Don, o ing anak nang babaing goldsmith na ing kayang fancy paparangalan ne ing Ari keng tindahan keng Pont-au-Change. Iti ing kalikasan da reng bage na dapat yang akit ing balang obra maestra ning bersu o prosa na inaus kung makabukud. Ding mas mababang kayarian inaus da la king kasuyuan na; ding kayang batu, dutung at bunduk, ing banua mismu, mabie la king motibu at diablerie. nung mebie ya para ilarawan i Shakespeare, dapat akit tamu ing metung a makabaldugan a pamagtrato kang Caliban, ding Witches, ing bagyu keng "Lear"; pero alang alinlangan dapat nang ikutang ing kayang ideals kang Imogen o kang Miranda. Ing kayapan a puru at simple, ampo ing perpektung kayapan na niti, bihira na mung aintindian.
+
+Pero atin yang kayapan ing kayang disenyu para keng "Ancient Mariner," agyang e la tutu, ampo ing consecutiveness a bihira keng serye nang Doré. Ing Rime dininan neng makabang istorya, a dakal a pamagbayu keng eksena. keng The Raven ing tigtigan ampo kule papanatilyan ing karelang monotone ampo ala tamung pamagbayu keng lugal o okasyun. Nanu ing resulta? I Doré mag offer yang serye da reng pamagbayu keng tema nung makananu neng aisip, "ing enigma ning kamatayan ampo ing hallucination ning metung a e makayagpang a kaladwa." kareng mapilan kareng drawing a reni malino la reng kayang kamalian; deng aliwa papakit da ing kayang masikan a panga-orihinal, ampo reng pekamasanting a katangian nung nukarin, bilang metung a draughtsman, tinalakad yang magdili-dili. Atin yang parehu ing mood da ri Poe ampo Doré. Mas malino ya nung ing tauli sinubukan ne ing "Tales of the Grotesque and Arabesque." Parehu lang pupunta keng elf-land ning pantasya ampo romansa. kareng melodramatic feats parehu la, kapamilatan ning karelang utus keng supernatural, iniwasan da ing danger-line pilatan ning ideal ampo ing absurd. I Poe ya ing tutu nang talasamba ning Masanting; ing lugud na para kaniti metung yang passion a magconsecrate, at keni ya mekiabe king kayang illustrator. Poeta o artista, ing kamatayan king tauli magbayu ya ngan: kilub ning anino ning kayang sable harbinger, ing symbolic crayon nang Vedder aptly ing makayarap karela, pero makabalut ya karela keng mantle ning immortal a kabiasnan ampo upaya. Metung a babaing Americanu ing ginawa king larawan ning metung a star-eyed Genius a maki tauling sulu, ing masanting a itsura ning metung a ing kayang panakit akakit na, dapot ding labi na e la malyaring magsalita, ding misteryu ning metung a gabun a lampas king "pasbul ning metung a legendadung kutkutan."
+
+Edmund C. Stedman.
+
+ING TULA.
+
+Larawan 1
+
+ING UWAK.
+
+Minsan keng kaugtuan ning bengi, kabang mag-isip ku, mahina at mapagal,
+
+Dakal a makawili at makabaldugan a volume ning makalingwan a istorya,
+
+Kabang tatangu ku, malapit na kung matudtud, bigla yang dinatang ing metung a tatak,
+
+Kalupa ning metung a maranun a mag-rap, mag-rap keng pasbul ning silid ku.
+
+"Atin yang bisita," nganang migsalita, "tataktak ya keng pasbul ning silid ku—
+
+Iti mu, at ala nang aliwa pa."
+
+Ah, malino kung atatandanan kanitang malungkut a Disyembri,
+
+At ing balang metung a mamamate a api gagawan na ing kayang aswang keng sapin.
+
+Sabik kung pignasan ing bukas:— alang kabaldugan ing pamagnasa kung mangutang
+
+Manibat kareng libru ku linwal ing lungkut—lungkut para keng mewala nang Lenore—
+
+Para keng pambihira at maslag a dalaga a pemalagyuan da reng anghel a Lenore—
+
+alang lagyu keni kapilan man.
+
+At ing seda a malungkut a e siguradung gulisak ning balang kurtinang lila
+
+Mesaya ku—kinatmu ku kareng mangasanting a takut a eku pa bitasang dimdam;
+
+Kaya ngeni, para patuknangan ing tibok ning pusu ku, tinalakad kung ulit-ulit
+
+"'T atin yang bisitang makisabing lungub keng pasbul ning silid ku
+
+Atin metung a late visitor a makisabi keng pasbul ning kanakung silid;—
+
+Iti na, at ala nang aliwa pa."
+
+Ngeni ing kaladwa ku meging masikan ya; mag-alangan kanita e na,
+
+"Ginu," ngana ku, "o Madam, tutu ing kekang kapatawaran aduan ku;
+
+Pero ing tutu na niti, matudtud ku, at sobrang malambut kang dinatang mag-rap,
+
+at sobrang malabo kang dinatang a tataktak, tatakpan me ing pasbul ning kanakung silid,
+
+na eku siguradu na dimdam daka"—keni binuklat ke ing pasbul;—
+
+Dalumdum karin, at ala nang aliwa pa.
+
+king malalam a karalumduman a makalawe, makaba kung makatalakad karin a magmulala, tatakut,
+
+Magduda, mangarap a alang mortal a mangarap a mangarap;
+
+Oneng ing katahimikan e ya mesira, at ing dalumdum e ya minie tanda,
+
+at ing metung mung amanung sinabi karin yapin ing binulong a amanu, "Lenore!"
+
+Iti ing binulong ku, at metung a echo ing migbalik keng amanu, "Lenore!"
+
+Ini mu at ala nang aliwa pa.
+
+mibalik ku keng silid, ing mabilug kung kaladwa kilub ku masilab ya,
+
+E miglambat dimdam ke pasibayu ing metung a pamakpak, medyu mas masikan kesa kanitang minuna.
+
+"siguradu," ngana ku, "siguradung atin yang bage keng bintana ku;
+
+Lawen ku, kanita, nung nanu ing atyu karin, at iting misteryung tuklasan—
+
+Paburen meng manahimik ing pusu ku at iting misteryung tuklasan;—
+
+'T ya ing angin at ala nang aliwa pa!"
+
+buklat keni, iyugse ke ing shutter, nung, kareng dakal a flirt ampo flutter,
+
+karin ya linub ing metung a marangal a uwak ning banal a aldo ning minunang panaun.
+
+E ya man migsakab ing gewa na; alang minutung tinuknang o menatili ya;
+
+Pero, keng mien ning ginu o ginang, makalukluk ya babo ning pasbul ning silid ku—
+
+makalukluk ya keng bust nang pallas babo ning pasbul ning silid ku—
+
+Makalukluk ya, at makalukluk ya, at ala nang aliwa pa.
+
+Kanita ining ayup a ebony linawe ne ing malungkut kung kagustuhan para manyaman,
+
+king makalunus at matapang a decorum ning lupa na susulud na,
+
+"Agyang ing kekang buntuk meputut ya at me-ahit, ika," ngana, "siguradung e ka mangmang,
+
+Makalunus a makalunus at makatua nang uwak a maglakbe ibat king pampang ning bengi,—
+
+Sabyan mu kanaku nung nanu ing lagyu mu keng pampang ning bengi ning plutonian!"
+
+sinabi na ning uwak, "e na kapilan man."
+
+Dakal kung mengapamulala kening mangalating ayup a makiramdam keng pamagsalita na malino,
+
+Agyang ditak mu ing kabaldugan na ning pakibat na—ditak mu ing kaugnayan na;
+
+uling e tamu agyung e makipagkasundu na alang mabie tau
+
+Ever yet mebendisyunan yang menakit ayup babo ning pasbul ning silid na—
+
+ayup o animal keng makaukit a bust babo ning pasbul ning silid na,
+
+Kareng lagyung "Nevermore."
+
+Pero ing Raven, makalukluk yang magdili-dili keng placid bust, migsalita ya mung
+
+Itang metung a amanu, balamu ing kaladwa na keng metung a amanu a ita linwal ya.
+
+Ala nang aliwa pang sinabi na—ala nang balahibo kanita ya mig-flutter—
+
+anggang e ku pa migsalita, "Ding aliwang kakaluguran linundag na la—
+
+King kabukasan lakuan na ku, antimo ing kanakung kapanayan a linabas kanitang minuna."
+
+Kanita ngana ning ayup, E na kapilan man.
+
+mebigla ku keng katahimikan a mesira keng pakibat a masanting a sinabi,
+
+"Alang pamagduda," ngana ku, "nung nanu ing sasabyan na yapin ing kayang stock at store,
+
+Merakap ya keng metung a e masayang panginuan na alang lunus a sakuna
+
+tinuki yang mabilis at tinuki yang mabilis anggang ing kayang kanta metung yang pabayat a migdala—
+
+angga na keng lungkut ning kayang pag asa na ing lungkut a darala na
+
+Ning 'E kapilan man—e kapilan man.'"
+
+Pero ing Uwak pa mu rin ing mag-akit keng malungkut kung kaladwa para manyaman,
+
+diretsu kung linawe keng maka-unan a luklukan keng arap ning ayup ampo ing bust ampo ing pasbul;
+
+Kanita, inyang linub ya ing velvet, gewa ke ing sarili ku keng pamag-link
+
+Magarbo keng magarbo, isipan mu nung nanu ining makasumaming ayup ning minunang panaun—
+
+Nanu ining makasumami, e makasumami, makasumaming, payat at makasumaming ayup ning minunang panaun
+
+Ing buri nang sabyan "E na."
+
+ini linukluk ku keng pamaghula, pero alang syllable a magpalwal
+
+Kareng manuk na ding mata nang api ngeni silab la keng pusu ning kanakung salu;
+
+ini at dakal pa linukluk kung maghula, ing buntuk ku makalukluk ya
+
+keng velvet lining ning cushion na ing sulu ning sulu,
+
+pero ninu ing velvet violet lining na ning sulu a mag gloating o'er
+
+Pindutan na , ah, kapilan man!
+
+Kanita, aisip ku, ing angin meging mas makapal ya, mebanglu ya ibat keng e mayayakit a insensaryu
+
+Iyugse da reng seraphim na ding bitis da kikimut la keng tufted a sapin.
+
+"Makalunus," nganang kinulisak, "ing Dios mu peparam na keka—kareng anghel a reni tinubud na keka
+
+Paynawa—paynawa at nepenthe ibat kareng kekang alaala kang Lenore!
+
+Quaff, oh quaff ining klasing nepenthe, at kalingwan me ining mewala nang Lenore!"
+
+sinabi na ning uwak, "e na kapilan man."
+
+"Propeta!" sinabi ku, "bagay ning marok!—propeta pa rin, nung ayup o demonyu!—
+
+Nung ing Tuksu tinubud na ka, o nung ing bagyu ing miyugse keka keti king pampang;
+
+alang tau pero alang takut, keng disyerto a gabun me enkantadu—
+
+Kening bale ayni ning Horror haunted—sabian mu kaku ing tutu, makisabi ku—
+
+Atin bang— atin bang balsamo king Gilead?—sabian mu kanaku—sabian mu kanaku, pakisabi kung mayap!”
+
+sinabi na ning uwak, "e na kapilan man."
+
+"Propeta!" sabi ku, “bagay ning marok—propeta pa mu rin, nung ayup o diablo!
+
+King kapamilatan na ning Banua a makalukluk babo, itamu—king Dios a ita parehu tamung samban—
+
+Sabyan mu keng kaladwa ayni na ating lungkut nung, kilub ning marayung Aidenn,
+
+Iyakap ne ing metung a santa a dalagang ausan dang Lenore ding anghel—
+
+Iyabut me ing metung a pambihira at maslag a dalaga a pemalagyuan da reng anghel a Lenore."
+
+sinabi na ning uwak, "e na kapilan man."
+
+"Ing amanung ita maging yang tanda ning pamikawani tamu, ayup o demonyu!" kinulisak ku, mebigla—
+
+"Mibalik ka keng bagyu ampo keng pampang ning bengi ning plutonian!
+
+E ka maglakwan kule maitim a pluma bilang tanda ning kalaraman a sinabi ning kekang kaladwa!
+
+paburen me ing kanakung pamagdili-dili!—tuknang me ing bust babo ning pasbul ku!
+
+Ilako me ing tutuk mu keng pusu ku, at ilako me ing porma mu keng pasbul ku!"
+
+sinabi na ning uwak, "e na kapilan man."
+
+At ing Uwak, e ya kapilan man maglipad, makalukluk ya pa mu rin, makalukluk ya pa mu rin
+
+keng pallid bust nang pallas babo ning pasbul ning silid ku;
+
+At ding mata na balamu anti lang demonyu a maninap;
+
+At ing sulu ning sulu babo na mamagus ya ing anino na keng sapin;
+
+at ing kaladwa ku ibat ya keng anino na makakera keng sapin
+
+Miangat ya—e na kapilan man!
+

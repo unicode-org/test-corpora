@@ -1,0 +1,570 @@
+The Project Gutenberg eBook of The Raven, de Edgar Allan Poe.
+
+O proxecto Gutenberg eBook of The Raven
+
+Este libro electrónico é para o uso de calquera parte dos Estados Unidos e da maioría das outras partes do mundo sen ningún custo e case sen restricións. Podes copialo, regalalo ou reutilizalo baixo os termos da licenza de Project Gutenberg incluída con este libro electrónico ou en liña en www.gutenberg.org . Se non estás nos Estados Unidos, terás que comprobar as leis do país onde te atopas antes de usar este libro electrónico.
+
+Título : The Raven
+
+Autor : Edgar Allan Poe
+
+Comentarista : Edmund Clarence Stedman
+
+Ilustrador : Gustave Doré
+
+Data de lanzamento : 30 de novembro de 2005 [eBook #17192] Última actualización: 13 de decembro de 2020
+
+Idioma : inglés
+
+Créditos : Producido por Jason Isbell, Melissa Er-Raqabi e The Online Equipo de corrección distribuído en https://www.pgdp.net.
+
+*** INICIO DO PROXECTO GUTENBERG EBOOK O CORVO ***
+
+Contraportada
+
+O CORVO
+
+Por
+
+EDGAR ALLAN POE
+
+ILUSTRADO Por GUSTAVE DORÉ
+
+Imaxe do título
+
+CO COMENTARIO DE EDMUND C. STEDMAN
+
+NOVA YORK
+
+HARPER & BROTHERS, EDITORAS, FRANKLIN SQUARE
+
+1884
+
+Ingresou segundo Acta do Congreso, no ano 1883, por
+
+HARPER E IRMANS,
+
+Na Oficina da Bibliotecaria do Congreso, en Washington.
+
+Todos os dereitos reservados.
+
+Notas do transcriptor
+
+Na Lista de ilustracións restaurei unha comiña simple que faltaba despois de Lenore! como se mostra a continuación:
+
+""Desgraciado", berrei, "o teu Deus prestouche, por estes anxos enviouche". Tregua, tregua e nepenthe dos teus recordos de Lenore!
+
+A Lista de Ilustracións usa "visitante" onde o poema e a ilustración real usan "visitante".
+
+RELACIÓN DE ILUSTRACIÓNS
+
+Con Nomes de Gravadores
+
+Páxina de título, deseñada por Elihu Vedder.
+
+Frederick Juengling.
+
+"Nunca máis".
+
+H. Claudio, GJ Buechner.
+
+ANANKE.
+
+H. Claudio.
+
+"Había unha media noite triste, mentres eu cavilaba, débil e canso, Sobre moitos volumes pintorescos e curiosos de tradición esquecida".
+
+RA Muller.
+
+"Ah, lembro claramente, foi no sombrío decembro, E cada brasa moribunda por separado forxou a súa pantasma no chan".
+
+RG Tietze.
+
+"Desexaba ansiosamente o día de mañá; en vano procurara pedir prestado Dos meus libros sursa a tristeza, a tristeza pola perdida Lenore".
+
+H. Claudio.
+
+"Tritura pola perdida Lenore".
+
+W. Zimmermann.
+
+"Para a rara e radiante doncela á que os anxos chaman Lenore... Sen nome aquí para sempre".
+
+Frederick Juengling.
+
+""Non é un visitante que pide entrar na porta da miña habitación... Algún visitante atrasado suplicando a entrada na porta da miña habitación'".
+
+W. Zimmermann.
+
+—"Aquí abrín de par en par a porta; —Alí escuridade, e nada máis".
+
+H. Claudio.
+
+"Dbidando, soñando soños ningún mortal se atreveu a soñar antes".
+
+FS Rei.
+
+"" Seguro", dixen eu, "seguramente iso é algo na celosía da miña fiestra; Permíteme ver, entón, o que hai, e explorar este misterio".
+
+Frederick Juengling.
+
+"Abre aquí, tirei a persiana".
+
+T. Johnson.
+
+-"Un corvo señorial dos tempos santos de outrora. Non fixo a menor reverencia; non se detivo nin un minuto.
+
+R. Staudenbaur.
+
+"Posado sobre un busto de Palas xusto encima da porta da miña habitación... Pousado, e sentado, e nada máis".
+
+RG Tietze.
+
+"Vagando dende a costa nocturna".
+
+Frederick Juengling.
+
+"Ata que apenas murmurei:" Outros amigos xa voaron antes... Ao día de mañá deixarame , xa que as miñas esperanzas voaron antes'".
+
+Francés Francés.
+
+"Entón, ao afundirse o veludo, empecei a enlazar Fantasía a fantasía".
+
+R. Schelling.
+
+"Pero cuxo forro violeta de veludo coa luz da lámpada regodeando Ela presionará, ah, nunca máis!"
+
+George Kruell.
+
+""Desgraciado", berrei, "o teu Deus prestouche, por estes anxos enviouche". Tregua, tregua e nepenthe dos teus recordos de Lenore!
+
+Víctor Bernstrom.
+
+"Nesta casa de Horror asombrada".
+
+R. Staudenbaur.
+
+"'Dime de verdade, imploro... Hai... hai bálsamo en Galaad?
+
+W. Zimmermann.
+
+""Dille a esta alma cargada de tristeza se, no afastado Aidenn, Agarrará unha doncela santa á que os anxos chaman Lenore.
+
+FS Rei.
+
+"'Sexa esa palabra o noso sinal de despedida, paxaro ou demonio!' berrei, advenedizo".
+
+W. Zimmermann.
+
+""Volve á tempestade e á costa plutoniana da Noite!"
+
+Robert Hoskin.
+
+"E a miña alma desa sombra que xace flotando no chan Será levantado, nunca máis!"
+
+RG Tietze.
+
+O segredo da Esfinxe.
+
+R. Staudenbaur.
+
+COMENTA O POEMA.
+
+O segredo dun poema, nada menos que a prosperidade dunha broma, está no oído de quen o escoita. Cede ao seu feitizo, acepta o estado de ánimo do poeta: isto, á fin e ao cabo, é o que responden os sabios cando lles preguntas polo seu valor. Aínda que o propio poeta, no seu outro estado de ánimo, che diga que a súa arte non é máis que un xogo de mans, o seu alimento de encantador de alimentos, e se ofrece a mostrarche o truco, non o creas. Agarda a súa hora profética; logo entrégate á súa paixón, á súa alegría ou á súa dor. "Hoxe estamos na man de Amor!" canta Gautier, na boiante paráfrase de Swinburne, e dende a mañá ata o solpor nos vemos sobre o mar violento: non hai máis que un amor, un maio, un fío florido. O amor é eterno, todo o demais é irreal e deixalo de lado. A visión ten un final, a escena cambia; pero gañamos algo, a lembranza dun encanto. Tantos poetas, tantos encantos. Está o encanto da Evanescence, aquilo que dá á beleza suprema e á graza unha aureola de Pathos. Comparte con Landor a súa única "noite de recordos e suspiros" para Rose Aylmer, e tes isto ao máximo.
+
+E agora toma a man dun joglar do novo mundo, desviado dun hábitat apropiado a esa América ruda e disonante que, como vía Baudelaire, "era para Poe só unha vasta prisión pola que corría, de aquí para alá, coa axitación febril dun ser creado para respirar nun mundo máis puro", e onde "a súa vida interior, espiritual, como poeta, influenciada e perpetua, aínda como un poeta e perpetuo, era un esforzo de escapar da influencia espiritual. esta atmosfera antipática". Prende a man sensible dun cantante con problemas que traza así o seu raro, e comparte con el o clima no que atopou, nunca durante o día, sempre de noite, se non a Atlántida por onde fora, polo menos un lugar de refuxio dos límites nos que o día estaba inmerso.
+
+A unha terra só el ten poder para dirixirte, e por unha noite só podes compartir o seu soño. Un tramo nin da Terra nin do Ceo: "Terra de ninguén", fóra do Espazo, fóra do Tempo. Velaí os perturbados, por cuxos ollos, coma os dos Cenci, a alma atopa fiestras aínda que a mente estea abraiada; aquí os espíritos, que buscan o camiño que leva á Eternidade, son detidos e atrasados. É o limbo das "almas planetarias", onde están todas as incertezas do luar, todos os amores e ilusións perdidos. Aquí algúns están fixados en transo, o único respiro alcanzable; outros
+
+"Moverse fantástico
+
+A unha melodía discordante:"
+
+mentres que en todas partes están
+
+"Memorias en follas do pasado -
+
+Formas envoltas que arrancan e suspiran
+
+Cando pasan o vagabundo".
+
+Así é a terra, e por unha noite entramos nela, unha noite de fases astrais e badaladas recorrentes. As súas monodias son doce poemas, cuxa música se esforza por cambiar pero sempre é a mesma. Un a un soan, como o repique do reloxo de bronce e ébano, en "A máscara da morte vermella", que fixo que os valses se detivesen con "desconcerto, tremor e meditación", tantas veces como chegaba a hora.
+
+De todas estas cadencias místicas, a queixa de The Raven , que vibra polo portal, impresionou principalmente ao mundo exterior. Que cousas son para facer un poema, e como é certo nisto, como na maioría das demais, aquela raza que chamou aos seus bardos "os creadores"? Unha obra chámase fóra do baleiro. Onde non había nada, permanece, unha nova creación, parte do tesouro da humanidade. E unhas cantas letras excepcionais, máis que outras igualmente creativas, obrígannos a pensar de novo con que valentía a pluma do poeta converte as cousas descoñecidas.
+
+"as formas, e non dá nada aireado
+
+Unha vivenda local e un nome".
+
+Cada un parece sen prototipo, aínda que todos nos fascinan con elementos arrancados da sombra do Sobrenatural. Agora a máis alta imaxinación preocúpase pola alma das cousas; pode ou non inspirar a Fantasía que os pobos con imaxes o interlunar vaga. Aínda así, unha destas letras, na súa forma máis pequena, aféctanos unha sensación de singularidade, tan seguramente como as obras máis sublimes dun elenco sobrenatural, o "Fausto" de Marlowe, o "Fausto" de Goethe, "Manfred" ou mesmo esas obras mestras etéreas, "A tempestade" e "O soño dunha noite de verán". Máis dun, aínda que é único, ten algúns  carga ou refrán que atormenta a memoria, unha vez escoitado, nunca esquecido, como o ton dun parado de órgano pouco usado pero distintivo. Destaca entre eles a "Lenore" de Bürger, esa balada fantasmal e resonante, o atractivo e a folla dos tradutores. Poucos negarán que o marabilloso "Rime of the Ancient Mariner" de Coleridge está na súa propia cabeza. "Le Juif-Errant" tería afirmacións, se Beranger fose un poeta maior; e, de non ser polo seu afastamento da simpatía popular, "A dama de Shalott" e "The Blessed Damozel" poderían engadirse á lista. Entregáronlle a Edgar Allan Poe a produción de dúas letras, "The Bells" e The Raven , cada unha das cales, aínda que quizais de menos beleza que as de Tennyson e Rossetti, é única. "Ulalume", aínda que é igualmente estraño e imaxinativo, non ten a calidade universal que é unha parte da nosa proba.
+
+O corvo en puros constituíntes poéticos cae por debaixo de pezas como "The Haunted Palace", "The City in the Sea", "The Sleeper" e "Israfel". Sospeito que a totalidade sería trocada por lectores dun elenco esixente, por pasaxes como estas:
+
+"Ao redor, ao levantar ventos esquecidos,
+
+Resignada debaixo do ceo
+
+As augas melancólicas xacen.
+
+Non baixan raios do ceo santo
+
+Na longa noite daquela vila;
+
+Pero luz do mar espantoso
+
+Corre as torres en silencio -
+
+· · · · · ·
+
+Arriba moitos e moitos un santuario marabilloso
+
+Cuxos frisos enrolados se entrelazan
+
+A viola, a violeta e a vide.
+
+· · · · · ·
+
+Ningunha inchazón indica que pode haber vento
+
+nalgún mar lonxano máis feliz...
+
+Ningunha insinuación de que houbera ventos
+
+En mares menos horriblemente serenos".
+
+Carece da melodía aérea do poeta cuxas cordas de corazón son un laúde:
+
+"E din (o coro estrelado
+
+E as outras cousas que escoitan)
+
+Ese lume de Israfeli
+
+É debido a esa lira
+
+polo que se senta e canta-
+
+O fío vivo tremente
+
+Desas cordas pouco habituais".
+
+Pero The Raven , como "The Bells" e "Annabel Lee", recoméndase a moitos e poucos. Xa dixen noutro lugar que as producións máis raras de Poe parecíanme «aquelas nas que hai a aparencia, polo menos, de espontaneidade, —nas que cede aos seus sentimentos, mentres morrendo caen e cadencias máis musicais, máis melancólicas, veñen del desprevenido». Esta é aínda a miña crenza; e aínda así, tras un novo estudo deste poema, impresioname máis que en ningún momento desde a miña nenez. Coñecemento próximo di a favor de toda verdadeira obra de arte. Induce ao home, que nin coñece a arte nin se preocupa por ela, a examinar algún poema ou pintura, e que pronto se apodera del a súa forza! De feito, sobrevalorará o valor relativo do primeiro bo traballo polo que a súa atención foi bastante captada. O Corvo , ademais, ten calidades consistentes que ata un experto debe admirar. En ningún outro poema do seu autor se define máis palpablemente o motivo. "O palacio encantado" é igual de definitivo para o lector selecto, pero Poe dificilmente tería tomado esa alegoría sutil para unha análise calva. O corvo está totalmente ocupado co tema típico do autor: a perda irrecuperable dunha muller idolatrada e fermosa; pero por outros motivos, tamén, o instinto público é correcto ao pensar que é o seu poema representativo.
+
+Un home de xenio adoita gañar un pé co éxito dun esforzo, e este non sempre é o seu maior. O recoñecemento é o máis inmediato por ter sido adiado. Non o adquire, como a fortuna dun avaro, moeda tras moeda, senón "nada ou nada". E así con outras ambicións: o cortesán, o soldado, o actor, -calquera que sexan as súas partes-, cada un conta o seu triunfo dalgún golpe afortunado. O corvo de Poe, malia os augurios, foi para el "o paxaro que facía soprar a brisa". O poeta instalouse en Nova York, no inverno de 1844-45, atopando traballo no artigo de Willis, "The Evening Mirror", e obtivo os seus ingresos con contribucións noutros lugares. Durante seis anos era un escritor activo, e gozaba dunha reputación profesional; foi mantido tanto con respecto como con dúbidas, e non perdeu a súa parte do xornalismo mal pagado daquela época. Tamén fixera gran parte do seu mellor traballo, como contos como "Ligeia" e "A caída da casa Usher", (este último contén esa contraparte mística, en verso, de "A Lost Mind" de Elihu Vedder), tales proezas analíticas como "The Gold Bug" e "The Mystery of Marie Roget". Fixera prosélitos no estranxeiro e gañou un dominio duradeiro na mente francesa. El aprendera o seu propio poder e debilidade, e estaba no seu mellor momento, e non sen certa reputación. Pero non escribira nada que estivese na lingua de todos. Aos traballos raros e delicados hai que engadir algún toque popular para captar o público xeral do propio tempo.
+
+A través da industria dos sucesivos biógrafos de Poe, o éxito de The Raven converteuse nun conto moi contado. A nova muller do poeta, Virxinia, esmorecía ante os seus ollos, pero permaneceu un ano máis na sombra da morte. A cámara longa e baixa da casa preto de Bloomingdale Road é como  famosa como a sala onde Rouget de l'Isle compuxo a Marsellesa. Todos escoitaron que o poema, asinado "Quarles", apareceu na "American Review", cun comentario pseudoeditorial sobre a súa forma; que Poe recibiu dez dólares por iso; que Willis, o máis amable e menos envexoso dos árbitros de moda, reimprimiuno cun eloxio que ao instante o fixo falar na cidade. Toda dúbida sobre a súa autoría foi disipada cando Poe o recitou el mesmo nunha tertulia literaria, e durante un tempo foi o máis marcado dos autores estadounidenses. O golpe animouno e animouno. Como outro satírico máis orgulloso, tamén atopou "algo de verán" mesmo "no zumbido dos insectos". Lamentablemente, pero pasaron tres anos, un período de influencia, orgullo, angustia, aínda que sempre de traballo imaxinativo ou crítico, antes da derrota final, antes de que caese o telón dunha vida que para el era en verdade unha traxedia, e cedese ante "o verme conquistador".
+
+"The American Review: A Whig Journal" foi unha revista acreditada para a época, de dúas columnas, impresa en bo papel con letras claras e ilustrada con retratos mediotintes. No medio de moita materia por debaixo do estándar actual, contiña algo que calquera editor estaría encantado de recibir. O volume inicial, de 1845, ten artigos de Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman e Whipple. O pintoresco poema de Ralph Hoyt, "Old", apareceu neste volume. E aquí tes tres letras de Poe: "The City in the Sea", "The Valley of Unrest" e The Raven . Dous destes foron construídos, tal era o seu xeito, de estudos anteriores, pero o último nomeado saíu como recén composto, e case como o temos agora. A afirmación de que non foi revisado posteriormente é errónea. Once insignificantes modificacións do texto da revista aparecen en O corvo e outros poemas , 1845, un libro que o poeta non tardou en sentirse animado a ofrecer ao público. Estes son na súa maioría cambios de puntuación, ou de palabras simples, este último tipo feito para aumentar o efecto da aliteración. Na fermosa edición do verso de Poe do señor Lang, publicada na "Biblioteca de Pergamiños", mostrou o instinto dun estudoso, e fixo con prudencia, ao volver ao texto do volume que acabamos de mencionar, como se dá no número de Londres de 1846. A colección "estándar" de Griswold das obras do poeta abunda en erros. Estes foron repetidos por editores posteriores, que tamén cometeron erros propios. Pero o texto de O corvo , debido ás solicitudes feitas ao autor de copias manuscritas, foi aínda máis revisado por el; de feito, imprimiuno en Richmond, xusto antes da súa morte, coa substitución poética de "serafines cuxos pés caen" por "anxos cuxos débiles pés caen", na estrofa décimo cuarta. O noso texto actual, polo tanto, aínda que substancialmente é o de 1845, está algo modificado pola lectura posterior do poeta, e é, coido, a versión máis correcta e eficaz deste único poema. O cambio máis radical respecto da versión máis antiga apareceu, porén, no volume en 1845; a undécima estrofa contiña orixinalmente estas liñas, defectuosas na rima e doutro xeito unha mancha no poema:
+
+"Capturado dalgún mestre infeliz, a quen un desastre implacable
+
+Seguiu rápido e seguiu máis rápido, así que, cando Hope axuraría,
+
+A Stern Desesperar volveu, en lugar da doce Esperanza que se atreveu a xurar...
+
+Esa triste resposta: 'Nunca máis'".
+
+Estaría ben que outros, e famosos, poetas puidesen estar tan seguros de facer os seus cambios sempre melloras. Poe volveu manexar constantemente o seu escaso espectáculo de versos, e normalmente o mellorou. O corvo foi o primeiro dos poucos poemas que case chegou a completar antes de imprimir. Pode ser que os que se preocupan pola poesía perderan pouco pola súa morte. Con fluidez na prosa, nunca escribiu versos por facer un poema. Cando un refrán de imaxe o perseguía, a letra que resultou foi a inspiración, como el mesmo dixo, dunha paixón, non dun propósito. Isto era a intervalos tan raros que case xustificaba a teoría de Fairfield de que cada un era o produto dunha crise nerviosa.
+
+Que lle deu entón ao poeta a súa pista sobre O corvo ? Desde que base brumosa subiu lentamente a unha música respirada lentamente? Como é habitual, máis dunha cousa foi para o edificio de tan notable poema. Tendo en conta os sermóns máis longos que adoitan predicar sobre textos breves e menos suxestivos, espero non ser culpado desta discusión dunha soa lírica, especialmente aquela que un artista como Doré fixo tema de ilustración pródiga. Ata hai pouco supuxera que esta peza, e algunhas que o seu autor compuxo despois da súa aparición, eran excepcionais por non ter medrado de xermes no seu verso de rapaz. Pero o señor Fearing Gill mostroume algunhas estrofas inéditas de Poe, escritas aos dezaoito anos e tituladas "O demo do lume". O manuscrito parece estar na letra inicial do poeta, e a súa autenticidade está avalada pola familia en cuxo poder permaneceu durante medio século. Ademais dos xermes máis sinxelos de "The Bells" e "The Haunted Palace", contén unhas liñas un tanto suxestivas da apertura e peche de The Raven . En canto ao ritmo do noso poema, unha comparación de datas indica que este estivo influenciado polo ritmo de "Lady Geraldine's Courtship". Poe foi un dos primeiros en honrar o xenio da señorita Barrett; inscribiu os seus poemas recollidos para ela como "a máis nobre do seu sexo", e estivo en  simpatía co seu método lírico. As liñas do seu poema de amor,
+
+"Cun murmuroso remexedo incerto, no aire, o telón roxo
+
+Incha e incha arredor das súas inmóbiles cellas pálidas ".
+
+atopou un eco nestes:
+
+"E a seda triste e incerta ruxir de cada cortina roxa
+
+Emocionoume, encheume de terrores fantásticos nunca antes sentidos".
+
+Aquí Poe asumiu un privilexio polo que censurou groseiramente a Longfellow, e que ninguén buscou nunca nas súas propias instalacións sen ser detectado e castigado rapidamente. Na melodía e na forma estrofe, veremos que os dous poemas non son diferentes, pero son totalmente distintos no motivo. A xenerosa poetisa non sentía máis que a verdadeira orixinalidade do poeta. "Esta escrita vívida!" ela exclamou: "este poder que se sente!... O noso gran poeta, o señor Browning, autor de Paracelso, etc., está entusiasmado coa súa admiración polo ritmo". O señor Ingram, despois de referirse a "Lady Geraldine", sinala intelixentemente outra fonte da que Poe puido coller un impulso. En 1843, Albert Pike, o poeta metade grego, metade fronteirizo, de Arkansas, imprimira en "O novo espello", para o que entón Poe escribía, algúns versos titulados "Isadore", pero desde entón revisados ​​polo autor e chamados "O corazón viúvo". Escollo da revisión do Sr. Pike a seguinte estrofa, da que as principais características corresponden á versión orixinal:
+
+"Inquieto paseo polas nosas habitacións solitarias, xa non toco as nosas cancións,
+
+O sol chispeante brilla con lucidez sobre o chan sen varrir;
+
+O paxaro burlón aínda está sentado e canta, ¡Oh melancólica cepa!
+
+Porque o meu corazón é coma unha nube de outono que reborda de choiva;
+
+¡Estás perdido para min para sempre, Isadore!
+
+Aquí temos unha medida prolongada, unha semellanza de refrán e a introdución dun paxaro cuxo canto realza a tristeza. Hai outros camiños que poden seguir os curiosos; en particular, unha pasaxe que o Sr. Ingram selecciona da crítica final de Poe sobre "Barnaby Rudge":
+
+"O corvo, tamén, * * * podería ter feito, máis do que agora o vemos, unha parte da concepción do fantástico Barnaby. * * * O seu personaxe podería ter realizado, no que respecta ao do idiota, máis ou menos a mesma parte que fai, na música, o acompañamento con respecto ao aire."
+
+Con todo, despois de sinalar estes xermes e semellanzas, o valor deste poema aínda se atopa na súa orixinalidade. A música progresiva, o detalle escénico e as luces e sombras contrastadas, sobre todo, a paixón espiritual do nocturno, fan que sexa obra dun xenio informador. En canto ao horripilante paxaro, é diferente de todos os outros corvos do seu clan, desde os "twa corbies" e os "tres corvos" dos baladistas ata o arrugado "Grip" de Barnaby. Aquí non hai ningunha aparencia da grazniña que persegue as torres ancestrais e pisa o campo da heráldica; ningún fantasma de presaxio do que Tickell cantase que, cando,
+
+"berrando na súa fiestra tres veces,
+
+O corvo bateu as súas ás,
+
+Demasiado ben o sabía a doncela do amor
+
+O son de augurio solemne".
+
+O corvo de Poe é unha concepción distinta; a encarnación da agonía e a desesperanza dun loito; un sable encarnaba a Memoria, o cronista permanente da perdición, un tipo do Irreparable. Fuxido a través do Styx, da "ribeira plutoniana da Noite", parece a alma imaxinada do propio interrogador, daquel que non pode, non quere, beber o amable nepenthe, porque o recordo de Lenore é o único que lle queda, e coa superación da súa tristeza ata iso quedaría de lado.
+
+O corvo tamén se pode tomar como un poema representativo do seu autor, pola súa exemplificación de todas as súas nocións do que debería ser un poema. Estes atópanse nos seus ensaios sobre "O principio poético", "A razón de ser do verso" e "A filosofía da composición". Poe declarou que "en Música, quizais, a alma máis preto alcanza o gran fin polo que, cando se inspira no Sentimento Poético, loita: a creación da Beleza suprema.... O verso non pode ser mellor designado que como unha música inferior ou menos capaz"; pero de novo, o verso que é realmente a "Poesía das palabras" é "A creación rítmica da beleza", isto e nada máis. O ton da Beleza máis elevada é o de Tristeza. O máis melancólico dos temas é a Morte. Isto debe ser aliado coa Beleza. "A morte dunha muller fermosa, pois, é, sen dúbida, o tema máis poético do mundo, e, igualmente, non cabe dúbida de que os beizos máis axeitados para tal tema son os dun amante dolo". Estas últimas expresións cítanse da caprichosa análise de Poe sobre este mesmo poema, pero indican precisamente o alcance xeral do seu verso. O clímax de "The Bells" é a monótona abafada dos ghouls, que se glorian en lastrar o corazón humano. "Lenore", The Raven , "The Sleeper", "To One in Paradise" e "Ulalume" forman unha sinfonía tenebrosa, e "Annabel Lee", escrita por último, demostra que un tema o posuíu ata o final. Unha vez máis, estes son nada máis que musicais, e algúns están tocados con esa calidade do Fantástico que esperta a sensación de admiración e engade un novo medo á propia agonía. A través de todo está vagamente perfilado, debaixo dun mantel sombrío, o amor ideal do poeta, tan a miúdo medio retratado noutro lugar, a esposa sepultada de Usher, a Lady Ligeia, en  verdade a contrapartida da súa propia natureza. Supoño que o amor dun artista por un "en forma" nunca pode rivalizar totalmente coa súa devoción por algún ideal. A muller que está preto del debe exercer os seus feitizos, ser todo por turnos e nada de longo, encantalo cunha variedade infinita ou contentarse con renunciar a unha parte da súa lealdade. Debe ser atraído polo Inalcanzable, e isto está sempre máis alá del na súa paixón pola arte creativa.
+
+Poe, como Hawthorne, entrou co declive da escola romántica, e ninguén se deleitou máis ca el ao rirse da súa calamidade. Con todo, o seu corazón estaba cos romances e os seus efectos orientais ou góticos. O seu invento, tan rico nos contos en prosa, parecía abandonalo cando escribía versos; e o seu criterio díxolle que os longos poemas románticos dependen máis do incidente que da inspiración, e que, para pronunciar a poesía do romance, bastaría con letras. De aí a súa teoría, claramente axustada ás súas propias limitacións, de que "un 'poema longo' é unha contradición plana nos termos". Os compoñentes de The Raven son poucos e sinxelos: un home, un paxaro e o recordo fantasmal dunha muller. Pero a peza ofrece unha boa exhibición de material romántico. Que temos? A medianoite; a cámara sombría cos seus tomos de tradición esquecida; o estudante, un moderno Hieronymus; a billa do corvo no marco; a noite invernal e o lume moribundo; as cortinas de seda varridas polo vento; os soños e a vaga desconfianza da escuridade que fai eco; o paxaro negro e misterioso sobre o pálido busto; os complementos de veludo violeta e a lámpada regodeante. Todo este efecto escénico de situación, luz, cor, son, é puramente romántico, e mesmo melodramático, pero dunha calidade poética que raramente exhibe o melodrama, e que reflexa a fondo a "eterna paixón, eterna dor" do poeta.
+
+A estrutura rítmica de The Raven seguramente causou unha impresión. A rima, a aliteración, a carga, a forma estrofe, foron ideadas con singular destreza. Sen dúbida, o poeta quedou impresionado coa idoneidade do trocaismo musical da señorita Barrett, en "oito", e especialmente polo arranxo adoptado preto do peche de "Lady Geraldine":
+
+"""Ollos", dixo, "agora palpitan a través de min! Son ollos que me desfaceron?
+
+Ollos brillantes, como xoias antigas engastadas en pedra de estatua pariana!
+
+Debaixo desa tranquila fronte branca, estás sempre ardendo tórrido
+
+Sobre o desolado deserto de area do meu corazón e a vida desfeita?
+
+A súa introdución artística dunha terceira rima tanto na segunda como na cuarta liñas, e a adición dunha quinta liña e un refrán final, fixeron a estrofa de The Raven . A aliteración persistente parece chegar sen esforzo, e moitas veces as rimas dentro das liñas son sedutoras; mentres que o refrán ou carga domina toda a obra. Aquí tamén se aproveitou do estudo da señorita Barrett sobre baladas e romanas na lingua propia e doutras linguas. Un "refraneiro" é o atractivo co que un poeta ou un músico sostén o oído errante, o anhelo recorrente da Natureza pola tensión inicial. Sempre admirei os fermosos refráns da cantante inglesa: "The Nightingales, the Nightingales", "Margret, Margret", "My Heart and I", "Toll slowly", "The River floweth on", "Pan, Pan is dead", etc.
+
+"Oh seres vivos felices! sen lingua
+
+A súa beleza podería declarar:
+
+Unha primavera de amor brotou do meu corazón,
+
+E bendiciinos sen saber:
+
+Seguro que o meu amable santo apiadeuse de min,
+
+E bendíxenos sen saber".
+
+Poe creou a quinta liña da súa estrofa para a maxia da repetición. Confiou nela ao máximo nalgúns poemas posteriores: "Lenore", "Annabel Lee", "Ulalume" e "For Annie". Gañou unha música salvaxe e melancólica, pensei, das "doces influencias", das cargas e repeticións africanas que lle cantaban na infancia, sintonizando coa súa melodía natal a voz do noso poeta sureño.
+
+"The Philosophy of Composition", a súa análise de The Raven , é unha disección técnica do seu método e estrutura. Nin a súa confesión do artificio a sangue frío, nin a súa posterior confesión ante os amigos de que a exposición deste artificio era só outro dos seus enganos intelectuais, deben ser acreditados totalmente. Se deseñara a obra completa con antelación, dificilmente tería feito un preludio tan duro de rimas de cascabel á deliciosa melodía da segunda estrofa, nin sequera sobre a súa teoría do fantástico. Claro que un artista, perfeccionando unha obra, ve, como o primeiro Artista, que é boa, e ve por que é boa. Pódese facer unha análise posterior, unida á negación de calquera lume sagrado. A miña crenza é que a primeira concepción e borrador deste poema xurdiu como sempre chega a inspiración; que o seu autor viu entón como se podía perfeccionar, dándolle os últimos retoques descritos no seu capítulo sobre Composición, e que este último, polo tanto, non é nin totalmente falso nin totalmente verdadeiro. O dano desta análise é que tenta a un novato a pensar que os procesos artificiais poden substituír á imaxinación. O impulso do xenio é gardar os segredos da súa hora creativa. Os vislumbres obtidos do traballo, os experimentos desconcertados, que preceden a un triunfo, como no traballo de debuxo de Hawthorne recentemente saído á luz, ofrecen unha instrución e un alento inestimables ao artista sincero. Pero un  quen voluntariamente expón á súa Musa á mirada de todos os que veñan debería recordar o destino do rei Candaules.
+
+O mundo aínda pensa en Poe como un "home de xenio desafortunado". Recentemente escoiteino mencionar como "aquel a quen todos parecen autorizados a tergiversar, criticar ou calumniar". Pero paréceme que a súa mala sorte rematou coa súa lamentable morte, e que desde entón a súa defensa foi persistente, e a súa fama de crecemento tan firme como podería rezar un autor sufrido e dotado na súa hora esperanzadora. A crítica e as calumnias de Griswold converteron a corrente ao seu favor. Críticos e biógrafos saíron adiante con sucesivas refutacións, con homenaxes ao seu personaxe, con novas edicións das súas obras. As súas propias cartas e os minuciosos incidentes da súa carreira están ante nós; o disco, bo e malo, é moi coñecido. Ningún apelante recibiu un xuízo máis tenro e indulgente. Os seus contratempos na vida pertencían á súa rexión e período, quizais aínda máis á súa propia enfermidade de vontade. Sen dúbida, o seu ambiente non era quen protexera unha natureza de gran fino e desequilibrada dos perigos por dentro e por dentro. A súa vontade máis forte, ser señor de si mesmo, gañou para el "esa herdanza de ai". Confesábase o infeliz amo do paxaro, o sofredor afectado deste poema. Pero o seu era unha parte plena dese temperamento dramático que exulta co presaxio da súa propia perdición. Hai unha delicia en xogar o seu papel: todos somos gladiadores, chorando Ave Imperator! Para citar o feito de Burke: "Na dor o pracer aínda é o máis alto, e a aflicción que sufrimos non ten ningunha semellanza coa dor absoluta, que sempre é odiosa, e que intentamos sacudir canto antes". Poe foi máis lonxe, e foi un artista mesmo na traxedia da súa carreira. Se, segundo a súa propia crenza, a tristeza e a desaparición da beleza son os temas poéticos máis elevados, e o sentimento poético o máis vivo pracer terrenal, entón a tristeza e a escuridade da súa vida rota non quedaron sen a súa frecuente compensación.
+
+Nas páxinas seguintes, temos un novo exemplo do xenio dun artista que caracteriza a súa interpretación dun poema famoso. Gustave Doré, a última obra de cuxo lapis está ante nós, non foi o pintor, nin sequera o debuxante, para os realistas que esixían verdade do ton, da figura e da perfección. Estes asuntos preocupaban menos que facer que a forma e a distancia, a luz e a sombra axudasen ao seu propósito, que era excitar a alma, a imaxinación do observador. Isto fíxoo espertando a nosa sensación de asombro, a través de concepcións marabillosas e moitas veces sublimes de cousas indecibles e cheas de penumbra ou gloria. Ben se di que se as súas obras non eran grandes cadros, como cadros son xeniais. Como "artista literario", e tal era, a súa forza estivo en relación directa coa invención dramática do seu autor, coas audaces bravas do espírito que acendeu o seu. De aí o seu éxito con Rabelais, con "Le Juif-Errant", "Les Contes Drolatiques" e "Don Quixote", e de aí, pola contra, o seu fracaso para expresar a beleza dos Idilos de Tennyson, de "Il Paradiso", das pastorais hebreas e outros textos que requiren exaltación, ou dozura e repouso. Era un mestre nato do grotesco, e por unha visión especial podía retratar os espectros dun cerebro embruxado. Vemos obxectos tal e como os viron os seus personaxes, e cos mesmos ollos do xudeu errante, do desconcertado Don ou da filla do ourive, cuxa fantasía tanto magnifica o rei na tenda de Pont-au-Change. Era a natureza das cousas que debería sentirse atraído por cada obra mestra do verso ou da prosa que definín única. Os reinos inferiores foron chamados ao seu servizo; as súas pedras, árbores e montañas, o propio ceo, están animados con motivos e diablerías. Se vivise para ilustrar a Shakespeare, teriamos visto un tratamento notable de Caliban, as Bruxas, a tempestade en "Lear"; pero sen dúbida debería ter cuestionado os seus ideais de Imogen ou Miranda. A beleza pura e simple, e a perfecta excelencia da mesma, raramente parecía comprender.
+
+Con todo, hai beleza nos seus deseños para o "Ancient Mariner", por irreais que sexan, e unha consecutividade rara nunha serie de Doré. The Rime proporcionoulle unha historia prolongada, con moitos cambios de escena. En The Raven o son e a cor conservan a súa monótona e non temos cambio de lugar nin de ocasión. Cal é o resultado? Doré ofrece unha serie de variacións sobre o tema tal e como o concibiu, "o enigma da morte e a alucinación dunha alma inconsolable". Nalgúns destes debuxos son evidentes os seus defectos; outros revelan a súa poderosa orixinalidade, e as mellores calidades nas que, como debuxante, estaba só. Evidentemente había algo en común entre os estados de ánimo de traballo de Poe e Doré. Isto aparecería máis claramente se este último probase a súa man cos "Contos do grotesco e do arabesco". Ambos recorreron a miúdo á terra dos elfos da fantasía e do romance. En proezas melodramáticas ambos, a través do seu dominio do sobrenatural, evitaron a liña de perigo entre o ideal e o absurdo. Poe era o máis verdadeiro adorador da Fermosa; o seu amor por ela foi unha paixón consagrada, e aquí se separa do seu ilustrador. Poeta ou artista, a morte por fin transfigura todo: á sombra do seu heraldo de sable, o lápiz simbólico de Vedder ponnos acertadamente cara a cara, pero envolveos co manto de sabedoría e poder inmortales. Unha muller estadounidense forxou a imaxe dun xenio de ollos estrelados co facho final, a exquisita apariencia daquela cuxa visión contempla, pero cuxos beizos poden non pronunciar, os misterios dunha terra máis aló da "porta dunha tumba lendada".
+
+Edmund C. Stedman.
+
+O POEMA.
+
+Ilustración 1
+
+O CORVO.
+
+Había unha media noite triste, mentres eu cavilaba, débil e canso,
+
+Sobre moitos volumes pintorescos e curiosos de tradición esquecida,
+
+Mentres asentía, case durmindo a sesta, de súpeto veu un golpeteo,
+
+Como alguén golpeando suavemente, golpeando na porta da miña habitación.
+
+"É un visitante", murmurei, "tocando na porta da miña habitación...
+
+Só isto e nada máis".
+
+Ah, lembro claramente que foi no sombrío decembro,
+
+E cada brasa moribunda por separado forxou a súa pantasma no chan.
+
+Desexaba con ansia o día seguinte: en balde procurara pedir prestado
+
+Dos meus libros surcese da tristeza, tristeza pola perdida Lenore.
+
+Para a rara e radiante doncela á que os anxos chaman Lenore...
+
+Sen nome aquí para sempre.
+
+E a seda triste e incerta ruxir de cada cortina roxa
+
+Emocionoume, encheume de terrores fantásticos nunca antes sentidos;
+
+Para que agora, para calmar o latexo do meu corazón, quedei repetindo
+
+"É un visitante que pide a entrada na porta da miña habitación
+
+Algún visitante tardío suplicando entrar na porta da miña habitación;
+
+Isto é, e nada máis".
+
+De momento a miña alma fíxose máis forte; xa non dubidando,
+
+"Señor", dixen eu, "ou señora, de verdade imploro o seu perdón;
+
+Pero o feito é que estaba durmindo a sesta, e tan suavemente viñeches rapeando,
+
+E tan débilmente viñeches tocando, tocando na porta da miña habitación,
+
+Que case non estaba seguro de que te oín" -aquí abrín de par en par a porta;-
+
+Escuridade alí, e nada máis.
+
+No fondo daquela escuridade mirando, estiven alí durante moito tempo preguntándome, temendo,
+
+Dubidando, soñando soños ningún mortal se atreveu a soñar antes;
+
+Pero o silencio foi ininterrompido, e a escuridade non deu mostra,
+
+E a única palabra que se falou foi a palabra murmurada: "Lenore!"
+
+Iso susurrei, e un eco murmurou a palabra: "Lenore!"
+
+Só isto e nada máis.
+
+De volta á cámara xirando, toda a miña alma dentro de min ardendo,
+
+Ao pouco tempo escoitei un golpeteo, algo máis forte que antes.
+
+"Seguramente", dixen eu, "seguramente iso é algo na celosía da miña fiestra;
+
+Déixame ver, entón, o que hai, e este misterio explora...
+
+Deixa que o meu corazón estea quieto un momento e explore este misterio;—
+
+"É o vento e nada máis!"
+
+Abre aquí que tirei a persiana, cando, con moitos ligar e aletear,
+
+Alí entrou un corvo señorial dos tempos santos de outrora.
+
+Non fixo a menor reverencia; nin un minuto parou nin quedou el;
+
+Pero, coa mirada de señor ou dama, pousada sobre a porta da miña habitación...
+
+Pousado sobre un busto de Palas xusto encima da porta da miña habitación...
+
+Pousado, e sentado, e nada máis.
+
+Entón este paxaro de ébano seduce a miña triste fantasía para que sorrí,
+
+Polo grave e severo decoro do rostro que levaba,
+
+"Aínda que a túa crista estea esquilada e rapada, ti", dixen, "seguro que non tes ningún cobarde,
+
+Corvo antigo e horripilante deambulando da costa nocturna,
+
+Dime cal é o teu nome de señor na costa plutoniana da Noite!"
+
+Dixo o corvo: "Nunca máis".
+
+Admirei moito esta ave desgarbada ao escoitar o discurso tan claramente,
+
+Aínda que a súa resposta ten pouco significado, pouca relevancia;
+
+Pois non podemos deixar de aceptar que ningún ser humano vivo
+
+Sempre tivo a bendición de ver un paxaro por riba da porta da súa habitación...
+
+Paxaro ou besta sobre o busto esculpido sobre a porta da súa habitación,
+
+Con nome como "Nunca máis".
+
+Pero o Corvo, sentado só sobre o plácido busto, só falaba
+
+Esa única palabra, coma se a súa alma derramara nesa única palabra.
+
+Nada máis lonxe do que pronunciou, nin unha pluma, entón aleteou.
+
+Ata que apenas murmurei: "Outros amigos xa voaron antes...
+
+Ao día de mañá deixarame , xa que as miñas esperanzas voaron antes".
+
+Entón o paxaro dixo: "Nunca máis".
+
+Sorprendido ante a quietude que rompeu pola resposta tan ben dita,
+
+"Sen dúbida", dixen, "o que pronuncia é a súa única reserva e almacén.
+
+Captado dalgún mestre infeliz a quen un desastre implacable
+
+Seguiu rápido e seguiu máis rápido ata que as súas cancións soportaban unha carga:
+
+Ata os cantos da súa Esperanza aquela carga melancólica levaba
+
+De 'Nunca, nunca máis'".
+
+Pero o Corvo aínda seduce a toda a miña alma triste para que sorrise,
+
+En liña recta rodei un asento acolchado diante do paxaro e do busto e da porta;
+
+Entón, ao afundirse o veludo, empecei a enlazar
+
+Fantasía en fantasía, pensando o que este ominoso paxaro de outrora...
+
+O que este paxaro sombrío, desgarbado, espantoso, demacrado e ominoso de outrora
+
+Significado en croar "Nunca máis".
+
+Este quedei dedicado a adiviñar, pero sen expresar sílabas
+
+Á ave cuxos ollos ardentes agora arderon no núcleo do meu peito;
+
+Iso e máis sentín adiviñando, coa cabeza a gusto reclinada
+
+Sobre o forro de veludo do coxín que a luz da lámpada regodeaba,
+
+Pero cuxo forro violeta de veludo coa luz da lámpada regodeando
+
+Ela presionará, ah, nunca máis!
+
+Entón, pensei, o aire fíxose máis denso, perfumado dun incensario invisible
+
+Balanceado por serafíns cuxos pés tinteaban no chan tupido.
+
+"Desgraciado", berrei, "o teu Deus prestouche; por estes anxos enviouche
+
+Tregua: tregua e nepenthe dos teus recordos de Lenore!
+
+¡Quéfa, oh, quéfame este amable nepenthe, e esquece esta Lenore perdida!
+
+Dixo o corvo: "Nunca máis".
+
+"Profeta!" dixen eu, "cousa do mal! - aínda profeta, se paxaro ou demo!-
+
+Se Tentador enviou, ou se a tempestade te arroxou aquí á terra,
+
+Desolado aínda que impertérrito, nesta terra desértica encantada...
+
+Nesta casa de Horror asombrada, dime de verdade, imploro...
+
+Hai... hai bálsamo en Galaad?
+
+Dixo o corvo: "Nunca máis".
+
+"Profeta!" dixen eu, "cousa do mal... profeta aínda, se paxaro ou demo!
+
+Por ese Ceo que se inclina arriba, nós -por ese Deus que adoramos os dous-
+
+Dille a esta alma cargada de tristeza se, no afastado Aidenn,
+
+Agarrará unha doncela santa á que os anxos chaman Lenore...
+
+Agarra unha doncela rara e radiante á que os anxos chaman Lenore".
+
+Dixo o corvo: "Nunca máis".
+
+"Sexa esa palabra o noso sinal de despedida, paxaro ou demonio!" berrei, advenedizo...
+
+"Volve á tempestade e á costa plutoniana da Noite!
+
+Non deixes penacho negro como mostra da mentira que falou a túa alma!
+
+Deixa intacta a miña soidade.
+
+Quita o teu peteiro do meu corazón e toma a túa forma da miña porta!"
+
+Dixo o corvo: "Nunca máis".
+
+E o Corvo, nunca voando, aínda está sentado, aínda está sentado
+
+No busto pálido de Pallas xusto enriba da porta da miña habitación;
+
+E os seus ollos teñen todo o aspecto dun demo que está soñando,
+
+E a luz da lámpada sobre el arroxa a súa sombra no chan;
+
+E a miña alma de fóra esa sombra que xace flotando no chan
+
+Será levantado, nunca máis!
+

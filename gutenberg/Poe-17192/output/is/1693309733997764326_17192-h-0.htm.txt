@@ -1,0 +1,570 @@
+The Project Gutenberg rafbók hrafnsins, eftir Edgar Allan Poe.
+
+The Project Gutenberg rafbók hrafnsins
+
+Þessi rafbók er til notkunar fyrir hvern sem er hvar sem er í Bandaríkjunum og flestum öðrum heimshlutum án kostnaðar og með nánast engum takmörkunum. Þú getur afritað það, gefið það eða endurnotað það samkvæmt skilmálum Project Gutenberg leyfisins sem fylgir þessari rafbók eða á netinu á www.gutenberg.org . Ef þú ert ekki staðsettur í Bandaríkjunum þarftu að athuga lög landsins þar sem þú ert staðsettur áður en þú notar þessa rafbók.
+
+Titill : Hrafninn
+
+Höfundur : Edgar Allan Poe
+
+Fréttaskýrandi : Edmund Clarence Stedman
+
+Myndskreytir : Gustave Doré
+
+Útgáfudagur : 30. nóvember 2005 [rafbók #17192] Síðast uppfært: 13. desember 2020
+
+Tungumál : Enska
+
+Inneign : Framleitt af Jason Isbell, Melissa Er-Raqabi og Online Dreift prófarkalestur á https://www.pgdp.net.
+
+*** UPPHAF VERKEFNIÐ GUTENBERG RABBÓK Hrafninn ***
+
+Bakhlið
+
+HRAAFNINN
+
+By
+
+EDGAR ALLAN POE
+
+MYNDATEXTI Eftir GUSTAVE DORÉ
+
+Titill mynd
+
+MEÐ ATHUGASEMD EDMUND C. STEDMAN
+
+NEW YORK
+
+HARPER & BROTHERS, ÚTGÁFA, FRANKLIN SQUARE
+
+1884
+
+Færð í samræmi við lög um þingið, árið 1883, af
+
+HARPER & BRÆÐUR,
+
+Á skrifstofu bókavarðar þingsins í Washington.
+
+Allur réttur áskilinn.
+
+Athugasemdir umritara
+
+Í listanum yfir myndskreytingar endurheimti ég eina tilvitnun sem vantaði eftir Lenore! eins og sýnt er hér að neðan:
+
+„Aumingja,“ hrópaði ég, „Guð þinn hefur lánað þér — fyrir þessa engla sendi hann þig Frestur — hvíld og njósna frá minningum þínum um Lenore!'"
+
+Listinn yfir myndskreytingar notar „gestur“ þar sem ljóðið og raunveruleg myndskreyting nota „heimsókn“.
+
+LISTI UM MYNDATEXTI
+
+Með nöfnum leturgröfta
+
+Titilsíða, hönnuð af Elihu Vedder.
+
+Frederick Jongling.
+
+"Aldrei meira."
+
+H. Claudius, GJ Buechner.
+
+ANANKE.
+
+H. Claudius.
+
+„Einu sinni var á miðnætti leiðinlegt, meðan ég hugsaði, veik og þreyttur, Yfir mörgum furðulegum og forvitnilegum bindum gleymdra fræða."
+
+RA Muller.
+
+„Ah, ég man greinilega, það var í myrka desember, Og hver aðskilin deyjandi glóð rak draug sinn á gólfið."
+
+RG Tietze.
+
+„Ég óskaði mér ákaft morgundagsins, ég hafði til einskis leitað að láni Frá bókum mínum kemur upp sorgaráhrif — sorg vegna hinnar týndu Lenore."
+
+H. Claudius.
+
+"Sorg yfir týnda Lenore."
+
+W. Zimmermann.
+
+„Fyrir sjaldgæfu og geislandi mær sem englarnir nefna Lenore— Nafnlaust hér að eilífu."
+
+Frederick Jongling.
+
+„Það er einhver gestur sem biður um innganginn við stofudyrnar mínar... Einhver seinn gestur sem biður um innganginn við stofudyrnar mínar.'"
+
+W. Zimmermann.
+
+— „Hér opnaði ég hurðina; — Myrkur þarna og ekkert meira.
+
+H. Claudius.
+
+"Að efast, dreyma drauma sem enginn dauðlegur maður þorði að dreyma áður."
+
+FS konungur.
+
+„Vissulega,“ sagði ég, „það er víst eitthvað við gluggagrindurnar mínar; Leyfðu mér þá að sjá hvað það er, og kanna þessa leyndardóm.'"
+
+Frederick Jongling.
+
+"Opnaðu hér, ég henti glugganum."
+
+T. Jónsson.
+
+— "Stóralegur Hrafn á helgum dögum fyrri tíma. Ekki síst hlýddi hann; ekki mínútu stoppaði eða dvaldi hann."
+
+R. Staudenbaur.
+
+„Settur á brjóstmynd af Pallas rétt fyrir ofan herbergisdyrnar mínar... Settist og sat og ekkert meira."
+
+RG Tietze.
+
+"Rafandi frá næturströndinni."
+
+Frederick Jongling.
+
+„Þar til ég var varla meira en muldraði: „Aðrir vinir hafa flogið áður... Á morgun mun hann yfirgefa mig, eins og vonir mínar hafa áður flogið.'“
+
+Frank French.
+
+„Þá, þegar flauelið sökk, ákvað ég að tengja Fínt til ímynda."
+
+R. Schelling.
+
+„En hvers flauelsfjólubláa fóður með lampaljósinu sem gleðst yfir Hún skal ýta, æ, aldrei meir!"
+
+George Krull.
+
+„Aumingja,“ hrópaði ég, „Guð þinn hefur lánað þér — fyrir þessa engla sendi hann þig Frestur — hvíld og njósna frá minningum þínum um Lenore!'"
+
+Victor Bernström.
+
+"Á þessu heimili með Horror reimt."
+
+R. Staudenbaur.
+
+"Segðu mér satt, ég bið - Er það - er smyrsl í Gíleað? - segðu mér - segðu mér, ég bið!"
+
+W. Zimmermann.
+
+„Segðu þessari sál með sorg hlaðinni ef, innan hins fjarlæga Aidenn, Það skal halda um heilaga mey sem englarnir nefna Lenore.'"
+
+FS konungur.
+
+"'Vertu það orð okkar skilnaðarmerki, fugl eða djöfull!' Ég öskraði, uppörvandi."
+
+W. Zimmermann.
+
+„Komdu þér aftur inn í storminn og Plútóníuströnd næturinnar!
+
+Róbert Hoskin.
+
+„Og sál mín úr skugganum sem svífur á gólfinu Skal lyfta — aldrei framar!"
+
+RG Tietze.
+
+Leyndarmál Sphinxsins.
+
+R. Staudenbaur.
+
+ATHUGIÐ VIÐ LJÓÐIÐ.
+
+Leyndarmál ljóðs, hvorki meira né minna en farsældar gríns, liggur í eyra þess sem heyrir það. Gefðu eftir álögum þess, sættu þig við skap skáldsins: þessu svara spekingarnir þegar þú spyrð þá um gildi þess. Jafnvel þótt skáldið sjálft, að öðru skapi, segi yður, að list hans sé aðeins slægð, matargaldramatur hans, og bjóðist til að sýna yður bragðið, — trúðu honum ekki. Bíð eftir spádómsstund hans; gefðu þig þá fyrir ástríðu hans, gleði hans eða sársauka. "Við erum í hendi ástarinnar í dag!" syngur Gautier, í sterkri orðræðu Swinburne, — og frá morgni til sólarlags er okkur sveif um ofsafenginn sjó: það er aðeins ein ást, einn maí, einn blómstrandi strengur. Ástin er eilíf, allt annað óraunverulegt og lagt til hliðar. Sýnin hefur endi, sviðsmyndin breytist; en við höfum fengið eitthvað, minningu um sjarma. Eins mörg skáld, svo margir heillar. Það er heilla Evanescence, það sem gefur æðstu fegurð og þokka aureole Pathos. Deildu með Landor eina „nótt minninga og andvarpa“ fyrir Rose Aylmer, og þú hefur þetta til fulls.
+
+Og taktu nú í hönd nýsheimssöngkonu, villtist frá einhverju réttu búsvæði til hinnar dónalegu og ósamræmdu Ameríku, sem, eins og Baudelaire sá, „var fyrir Poe aðeins víðfeðmt fangelsi sem hann hljóp í gegnum, hingað og þangað, með hitaþrungnum æsingi veru sem skapað var til að anda að hreinni heimi,“ og þar sem „innra líf hans, andlegt líf hans, andlegt sem skáld, var jafnvel andlegt sem skáld. áhrif þessa andstæðings andrúmslofts." Taktu saman viðkvæma hönd órótt söngvara, sem þráir að hann sé undarlegur, og deildu með honum loftslaginu sem hann fann í, - aldrei allan daginn, alltaf á nóttunni, - ef ekki Atlantis þaðan sem hann hafði villst, að minnsta kosti athvarf frá mörkunum þar sem hann var ósnortinn á daginn.
+
+Aðeins til eins lands hefur hann vald til að leiða þig, og aðeins eina nótt getur þú deilt draumi hans. Hluti af hvorki jörðu né himni: „Enginn-mannaland,“ úr rúmi, úr tíma. Hér eru hinir trufluðu, fyrir augum þeirra, eins og hjá Cenci, finnur sálin glugga þótt hugurinn sé daufur; hér eru andar, sem þreifa um leiðina sem liggur til eilífðarinnar, stöðvaðir og seinkaðir. Það er limbó „plánetu sálna“ þar sem öll óvissa er í tunglsljósi, allar glataðar ástir og blekkingar. Hér eru sumir fastir í trans, eina fresturinn sem hægt er að ná; öðrum
+
+„hreyfa sig frábærlega
+
+Að ósamræmdri laglínu:"
+
+meðan alls staðar eru
+
+„Skipaðar minningar um fortíðina—
+
+Hjúpuð form sem byrja og andvarpa
+
+Þegar þeir fara framhjá flakkaranum."
+
+Svona er landið, og í eina nótt förum við inn í það, - nótt geimfasa og endurtekinna klukkna. Einleikar þess eru tólf ljóð, en tónlist þeirra leitast við að breytast en er alltaf sú sama. Einn af öðrum hljóma þeir, eins og klukkan í frjóa og íbeint klukkunni, í "Grísku rauða dauðans", sem fékk valsarana til að staldra við með "óróa og titringi og hugleiðslu," eins oft og stundin rann upp.
+
+Af öllum þessum dularfullu kadensum hefur málsgrein Hrafnsins , sem titrar í gegnum gáttina, aðallega hrifið ytri heiminn. Hvaða hlutir eiga við um gerð ljóðs, — og hversu satt í þessu, eins og flestum öðrum, þeim kynstofni sem nefndi barða sína „smiðirnir“? Verk er kallað út úr tóminu. Þar sem ekkert var, stendur það eftir, - ný sköpun, hluti af fjársjóði mannkyns. Og nokkrir einstakir textar, meira en aðrir sem eru jafn skapandi, neyða okkur til að hugsa upp á nýtt hversu hugrakkur penni skáldsins snýr hlutum óþekktum
+
+„formar og gefur ekkert loft
+
+Staðbundin búseta og nafn."
+
+Hver virðist án frumgerðar, en samt heillar okkur öll með þáttum sem eru teknir úr skugga hins yfirnáttúrulega. Nú er hið æðsta ímyndunarafl umhugað um sál hlutanna; það getur eða mega ekki hvetja Fantasy að fólk með myndir milli tungl óljós. Samt sem áður hefur einn af þessum textum, á sinn smærri hátt, áhrif á okkur með tilfinningu um sérstöðu, eins örugglega og háleitari verk yfirnáttúrulegra leikara, - "Faustus", "Faust" eftir Goethe, "Manfred" eða jafnvel þessi himnesku meistaraverk, "The Tempest" og "A Midsummer Night's Dream". Fleiri en einn, þó þeir séu annars einstakir, hafa sumir  byrði eða viðkvæðið sem ásækir minninguna, - einu sinni heyrt, aldrei gleymt, eins og tónn í sjaldan notuðum en áberandi orgelstoppi. Athyglisverð meðal þeirra er „Lenore“ eftir Bürger, þessi draugalega og hljómandi ballaða, tálbeita og tálbeita þýðenda. Fáir munu neita því að hið stórkostlega "Rime of the Ancient Mariner" eftir Coleridge standi í öndvegi þeirra. "Le Juif-Errant" hefði fullyrðingar, hefði Beranger verið meira skáld; og, fyrir fjarlægingu þeirra frá almennri samúð, gætu "The Lady of Shalott" og "The Blessed Damozel" bæst á listann. Það var gefið Edgar Allan Poe að framleiða tvo texta, "The Bells" og The Raven , sem hver um sig er einstakur, þótt hann sé kannski minni fegurð en textarnir Tennyson og Rossetti. "Ulalume," þótt jafn undarlegt og hugmyndaríkt, hefur ekki alhliða eiginleika sem er hluti af prófinu okkar.
+
+Hrafninn í hreinum ljóðrænum innihaldsefnum fellur undir hluti eins og "The Haunted Palace", "Borgin í sjónum", "The Sleeper" og "Israfel." Allt þetta myndi skipta, að mig grunar, af lesendum vandaðra leikara fyrir slíka kafla eins og þessi:
+
+„Í kring, með því að lyfta vindum gleymdi,
+
+Uppgefið undir himninum
+
+Melankólíuvötnin liggja.
+
+Engir geislar frá heilögum himni koma niður
+
+Á langri nóttu þess bæjar;
+
+En ljós úr hræðilegu sjónum
+
+Straumar hljóðlaust upp um turnana—
+
+· · · · · · ·
+
+Upp marga og marga undursamlega helgidóm
+
+Hverra kransafrísur fléttast saman
+
+Fiðlan, fjólan og vínviðurinn.
+
+· · · · · · ·
+
+Engar bólgur segja til um að vindar kunni að vera
+
+Á einhverju fjarlægari sæluhafi—
+
+Engar upphlaup gefa til kynna að vindar hafi verið
+
+Á hafinu sem er minna hrikalega kyrrlátt."
+
+Það vantar loftlag skáldsins sem hefur hjartastrengi sem lúta:
+
+„Og þeir segja (stjörnubjarti kórinn
+
+Og hinir hlustunarhlutirnir)
+
+Þessi eldur ísrafeli
+
+Er vegna þess lyri
+
+Við það situr hann og syngur —
+
+Hinn titrandi lifandi vír
+
+Af þessum óvenjulegu strengjum."
+
+En Hrafninn , eins og "The Bells" og "Annabel Lee," hrósar sjálfum sér til hinna mörgu og fáu. Ég hef sagt annars staðar að sjaldgæfari sýningar Poe virtust mér "þær þar sem framkoma, að minnsta kosti, sjálfsprottni, - þar sem hann lætur undan tilfinningum sínum, á meðan deyjandi falls og kadensar mest músíkölsk, mest depurð, koma frá honum ómeðvitað." Þetta er enn mín trú; og þó, eftir nýrri rannsókn á þessu ljóði, hefur það hrifið mig meira en nokkru sinni síðan ég var barn. Náin kynni segja sérhverju sönnu listaverki í hag. Fáðu manninn, sem hvorki kann list né annt um hana, til að skoða eitthvert ljóð eða málverk, og hversu fljótt kraftur þess nær tökum á honum! Reyndar mun hann ofmeta hlutfallslegt gildi fyrsta góða verksins sem athygli hans hefur náðst nokkuð af. Hrafninn hefur líka stöðuga eiginleika sem jafnvel sérfræðingur verður að dást að. Í engu öðru ljóða höfundar þess er hvatningin betur skilgreind. "The Haunted Palace" er alveg eins ákveðin fyrir valinn lesanda, en Poe hefði varla tekið þessa fíngerðu myndlíkingu fyrir sköllótta greiningu. Hrafninn er algjörlega upptekinn af dæmigerðu þema höfundarins - óafturkræfum missi gyðjulegrar og fallegrar konu; en af ​​öðrum forsendum, líka, hefur almenningur eðlishvöt rétt að telja það fulltrúa ljóð sitt.
+
+Snilldarmaður nær yfirleitt fótfestu með árangri einhvers einstaks átaks og það er ekki alltaf hans mesta. Viðurkenning er því augnabliki að hafa verið frestað. Hann eignast hana ekki, eins og auðæfi aumingja, pening eftir pening, heldur "alls ekki eða alls". Og þannig með öðrum metnaði: hirðmaðurinn, hermaðurinn, leikarinn, - hver svo sem hlutur þeirra er, - telur hver sigur sinn frá einhverju lukkuslagi. Hrafn Poe, þrátt fyrir fyrirvarar, var fyrir hann "fuglinn sem lét goluna blása." Skáldið settist að í New-York, veturinn 1844-'45, og fann vinnu við blað Willis, "The Evening Mirror", og aflaði tekna sinna með framlögum annars staðar. Í sex ár hafði hann verið virkur rithöfundur og notið faglegs orðspors; var haldinn bæði virðingu og óvissu, og var ekki að missa sinn hlut af illa launuðum blaðamennsku þess dags. Hann hafði líka unnið mikið af sínum allra bestu verkum, svo sem sögur eins og "Ligeia" og "Fall House of Usher," (síðarnefnda inniheldur þessa dulrænu hliðstæðu, í vísum, af "A Lost Mind" eftir Elihu Vedder), svo sem greiningarafrek eins og "Gullpöddan" og "Leyndardómurinn um Marie Roget". Hann hafði búið til trúboða erlendis og náð varanlegu tökum á frönskum huga. Hann hafði lært eigin mátt og veikleika og var á besta aldri og ekki án ákveðins orðspors. En hann hafði ekkert skrifað sem var á tungu allra. Við sjaldgæft og viðkvæmt verk þarf að bæta einhverjum vinsælum blæ til að fanga almenna áhorfendur eigin tíma.
+
+Í gegnum iðnað annarra ævisöguritara Poe hefur slagurinn sem Hrafninn gerði orðið að oft sögð saga. Ung eiginkona skáldsins, Virginía, var að dofna fyrir augum hans, en dvaldi í eitt ár í viðbót í skugga dauðans. Langa, lága hólfið í húsinu nálægt Bloomingdale Road er eins og  frægt sem herbergið þar sem Rouget de l'Isle samdi Marseillaise. Allir hafa heyrt að ljóðið, áritað „Quarles“, hafi birst í „American Review“ með gerviritstjórnarskýrslu um form þess; að Poe fékk tíu dali fyrir það; að Willis, hinn vingjarnlegasti og minnst öfundsjúkasti tískudómarar, endurprentaði hana með lofsöng sem gerði það samstundis að bæjarmáli. Allur vafi um höfundarhæfi þess var tekinn af þegar Poe las upp sjálfur á bókmenntasamkomu og um tíma var hann merkastur bandarískra höfunda. Höggið örvaði og hvatti hann. Eins og annar og stoltari satiristi fann hann líka „eitthvað sumar“ jafnvel „í suð skordýranna“. Sorglegt nóg, en þrjú ár liðu - tímabil áhrifa, stolts, angist, en samt alltaf hugmyndaríks eða gagnrýninnar vinnu, - áður en síðasta ósigurinn féll, áður en fortjaldið féll fyrir lífi sem fyrir hann var í sannleika harmleikur, og hann lét undan „sigraorminum“.
+
+"The American Review: A Whig Journal" var lofsvert tímarit á sínum tíma, tvídálkað, prentað á góðan pappír með skýrri letri og myndskreytt með mezzotint portrettmyndum. Innan um mikið efni undir núverandi staðli, innihélt það nokkur sem allir ritstjórar myndu vera ánægðir með að fá. Upphaflega bindið, fyrir 1845, inniheldur greinar eftir Horace Greeley, Donald Mitchell, Walter Whitman, Marsh, Tuckerman og Whipple. Fallegt ljóð Ralphs Hoyt, "Gamalt", birtist í þessu bindi. Og hér eru þrír textar eftir Poe: "Borgin í hafinu", "Óróardalurinn" og Hrafninn . Tveir þeirra voru byggðir upp, — þannig var hans háttur, — frá fyrri rannsóknum, en sá síðastnefndi kom út eins og nýsamið væri, og nánast eins og við höfum nú. Fullyrðingin um að það hafi ekki verið endurskoðað síðar er röng. Ellefu smávægilegar breytingar frá tímaritstextanum birtast í Hrafninum og öðrum ljóðum , 1845, bók sem skáldinu fannst skömmu síðar hvatt til að bjóða almenningi. Þetta eru að mestu breytingar á greinarmerkjum eða stökum orðum, síðarnefnda tegundin gerðar til að auka áhrif alliteration. Í fallegri útgáfu herra Langs af vísu Poe, sem kom út í "Parchment Library", hefur hann sýnt eðlishvöt fræðimanns, og hefur gert skynsamlega, þegar hann fór aftur til textans í bindinu sem var nefnt, eins og gefið er upp í London hefti 1846. "Staðlað" Griswold safn verka skáldsins er fullt af villum. Þetta hefur verið endurtekið af síðari ritstjórum, sem einnig hafa gert mistök. En texti Hrafnsins , vegna þeirra beiðna sem höfundur hafði borið um handritaafrit, var enn frekar endurskoðaður af honum; raunar prentaði hann það í Richmond, rétt fyrir andlát sitt, með ljóðrænni staðgöngu "serafima með fótinn falla" í stað "engla með daufa fæturna," í fjórtánda erindinu. Núverandi texti okkar er því, þótt hann sé að mestu leyti frá 1845, nokkuð breyttur af síðari lestri skáldsins og er, að ég held, réttasta og áhrifaríkasta útgáfan af þessu eina ljóði. Róttækasta breytingin frá elstu útgáfunni birtist þó í bindinu 1845; ellefta erindið hafði upphaflega að geyma þessar línur, gallað í ríminu og að öðru leyti lýti á ljóðinu:
+
+„Tekktur af einhverjum óhamingjusamum húsbónda, sem miskunnsamur hörmung
+
+Fylgdi hratt og fylgdi hraðar - svo, þegar Hope myndi sverja,
+
+Stern Despair sneri aftur, í stað hinnar ljúfu vonar, þorði hann að sverja...
+
+Þetta sorglega svar, „Aldrei meira!““
+
+Það væri vel ef önnur og fræg skáld gætu verið eins viss um að gera breytingar sínar alltaf umbætur. Poe endurtók sífellt fádæma vísusýningu sína og bætti það yfirleitt. Hrafninn var fyrsta ljóðið af fáum sem hann fullkomnaði næstum fyrir prentun. Það má vera að þeir sem láta sér annt um ljóð hafi lítið misst af dauða hans. Hann var reiprennandi í prósa og skrifaði aldrei vísur til að búa til ljóð. Þegar ímyndarkvæði ásótti hann var textinn sem varð til þess innblástur, eins og hann sagði sjálfur, ástríðu, ekki tilgangs. Þetta var með millibili svo sjaldgæft að næstum til að réttlæta Fairfield kenninguna um að hver væri afurð taugakreppu.
+
+Hvað gaf skáldinu þá vísbendingu um Hrafninn ? Frá hvaða þokukenndu grunni reis það hægt upp í tónlist sem andaði hægt að sér? Eins og venjulega fór fleira en eitt í smíði svo eftirtektarverðs ljóðs. Með hliðsjón af lengri prédikunum sem oft eru boðaðar yfir stuttum textum og minna upplýsandi, vona ég að ég verði ekki kennt um þessa umræðu um einn texta, sérstaklega ekki þann sem listamaður eins og Doré hefur gert að týndri myndskreytingu. Þar til nýlega hafði ég talið að þetta verk, og nokkur sem höfundur þess samdi eftir útkomu þess, væri einstakur að hafa ekki vaxið úr sýklum í drengskaparvísu hans. En Mr. Fearing Gill hefur sýnt mér nokkur óbirt erindi eftir Poe, skrifuð á átjánda ári hans, og bera yfirskriftina "The Demon of the Fire." Handritið virðist vera í fyrstu rithönd skáldsins og áreiðanleiki þess er ábyrgur af fjölskyldunni sem hefur verið í eigu þess í hálfa öld. Fyrir utan látlausustu sýkla „The Bells“ og „The Haunted Palace“ inniheldur það nokkrar línur sem benda nokkuð til opnunar og lokunar Hrafnsins . Varðandi hrynjandi ljóðsins okkar bendir samanburður á dagsetningum til þess að þetta hafi verið undir áhrifum frá hrynjandi "Frú Geraldine tilhugalíf". Poe var einn af þeim fyrstu til að heiðra snilli ungfrú Barrett; hann skrifaði henni söfnuð ljóð sín sem "göfugustu kyns hennar," og var í  samúð með ljóðrænni aðferð hennar. Línurnar úr ástarljóðinu hennar,
+
+„Með kurrandi óvissu, í loftinu, fjólubláa fortjaldið
+
+Bólgar inn og bólgnar út í kringum hreyfingarlausar fölar brúnir hennar,“
+
+fann bergmál í þessum:
+
+„Og silkimjúkur og óviss gnýr hverrar fjólubláu fortjalds
+
+Heillaði mig - fyllti mig stórkostlegum skelfingu sem aldrei hefur fundist áður."
+
+Hér öðlaðist Poe sérréttindi sem hann ávítaði Longfellow gróflega og sem enginn leitaði nokkru sinni í hans eigin húsnæði án skjótrar uppgötvunar og refsingar. Í laglínu og erfðaformi munum við sjá að ljóðin tvö eru ekki ólík, en að hvötum eru þau algjörlega aðskilin. Hin gjafmilda skáldkona fann ekki fyrir öðru en sönnum frumleika skáldsins. "Þessi líflega skrif!" hrópaði hún, - "þessi kraftur sem finnst!... Stórskáldið okkar, herra Browning, höfundur 'Paracelsus' o.s.frv., er áhugasamur í aðdáun sinni á taktinum." Herra Ingram, eftir að hafa vísað til "Lady Geraldine," bendir snjallt á aðra heimild sem Poe gæti hafa fengið hvatningu frá. Árið 1843 hafði Albert Pike, hálfgríski, hálf-landamæri, skáld í Arkansas, prentað í "The New Mirror", sem Poe skrifaði þá fyrir, nokkrar vísur sem hétu "Isadore", en síðan endurskoðaðar af höfundinum og kallaðar "Ekkjuhjartað". Ég vel úr endurskoðun Mr. Pike eftirfarandi erindi, þar sem megineinkennin samsvara upprunalegu útgáfunni:
+
+„Eirðarlaus geng ég fram í einmana herbergin okkar, ég spila ekki lengur lögin okkar,
+
+Glæsileg sólin skín á ósópað gólfið;
+
+Háðfuglinn situr enn og syngur, ó depurði stofn!
+
+Því hjarta mitt er eins og haustský sem flæðir yfir af regni;
+
+Þú ert mér týndur að eilífu, Isadore!"
+
+Hér höfum við langan mælikvarða, líkt viðkvæði og kynningu á fugli sem söngur eykur sorg. Það eru aðrar slóðir sem forvitnir kunna að fylgja; sérstaklega kafla sem herra Ingram velur úr lokagagnrýni Poe um "Barnaby Rudge":
+
+"Hrafninn, * * * gæti líka hafa verið gerður, meira en við sjáum það núna, hluti af hugmyndinni um hið frábæra Barnaby. * * * Persóna hans gæti hafa leikið, með tilliti til hálfvitans, svipað og í tónlist, undirleikinn með tilliti til loftsins."
+
+Engu að síður, eftir að hafa bent á þessa sýkla og líkindi, er gildi þessa ljóðs enn að finna í frumleika þess. Framsækin tónlist, falleg smáatriði og andstæða ljós og skugga, - umfram allt, andleg ástríðu næturinnar, gera hana að verki upplýsandi snillings. Hvað svívirðilega fuglinn varðar, þá er hann ólíkur öllum öðrum hrafnum í ættinni hans, allt frá „twa corbies“ og „three ravens“ balladistanna til hinu ruglaða „Grip“ Barnabys. Hér er enginn svipur á kafandi hróknum sem ásækir forfeðraturn og stígur á svið skjaldarfræðinnar; engin lofandi drasl sem Tickell söng um að þegar,
+
+„öskrar þrisvar á gluggann hennar,
+
+Hrafninn blakaði vængnum,
+
+Of vel vissi ástfælna meyjan
+
+Hið hátíðlega loforð."
+
+Hrafn Poe er sérstakt hugtak; holdgervingur sorgar og vonleysis syrgjanda; sable innbyggt Memory, hinn vari annálari dómsins, tegund hins óbætanlega. Hann slapp yfir Styx, frá „Plútóníuströnd næturinnar“, virtist vera ímynduð sál spyrjandans sjálfs, — hans sem getur ekki, vill ekki, svínað af vinsamlegri frænku, vegna þess að minningin um Lenore er það eina sem eftir er af honum, og þegar sorg hans er hætt yrði jafnvel því vikið til hliðar.
+
+Hrafninn má líka líta á sem dæmigert ljóð höfundar síns, til að lýsa öllum hugmyndum hans um hvað ljóð ætti að vera. Þetta er að finna í ritgerðum hans um "The Poetic Principle", "The Rational of Verse" og "The Philosophy of Composition." Poe lýsti því yfir að "í tónlist, ef til vill, nær sálin næstum því frábæra markmiði sem, þegar hún er innblásin af ljóðrænum tilfinningum, berst við - sköpun hinnar yfirnáttúrulegu fegurðar... Vers er ekki hægt að tilgreina betur en sem óæðri eða óhæfari tónlist"; en aftur, vers sem er í raun "Ljóð orðanna" er "Rhythmical sköpun fegurðar," - þetta og ekkert meira. Tónn hinnar æðstu fegurðar er sorglegur. Melankólískasta umræðuefnið er Dauðinn. Þetta hlýtur að vera tengt fegurðinni. "Dauði fallegrar konu er því án efa ljóðrænasta umfjöllunarefni í heimi, og það er ekki síður hafið yfir allan vafa að varirnar sem henta best fyrir slíkt efni eru varir syrgjandi elskhuga." Þessar síðustu orðasambönd eru vitnað í duttlungafulla greiningu Poes á einmitt þessu ljóði, en þau gefa einmitt til kynna almennt svið vísunnar hans. Hápunktur "The Bells" er þögull eintónn ghouls, sem gleðjast yfir því að íþyngja mannshjartað. „Lenore,“ The Raven , „The Sleeper“, „To One in Paradise“ og „Ulalume“ mynda tígulsinfóníu, – og „Annabel Lee,“ skrifað síðast af öllum, sýnir að eitt stefið heillaði hann allt til enda. Aftur, þetta er ekkert ef ekki söngleikur, og sumir eru snertir þeim eiginleikum Fantastic sem vekur lotningu og bætir nýjum ótta við kvölina sjálfa. Í gegnum allt er dökk útlína, undir skuggalegu bleki, hugsjón ást skáldsins, - svo oft hálfgerð annars staðar, - grafsett eiginkona Usher, frú Ligeia, í  sannleikur hliðstæða eigin eðlis. Ég býst við að ást listamanns á „í formi“ geti aldrei keppt algjörlega við hollustu hans við einhverja hugsjón. Konan nálægt honum verður að beita álögum sínum, vera á víxl og ekkert löng, heilla hann með óendanlega fjölbreytni, eða láta sér nægja að afsala sér hlutdeild í hollustu hans. Hann verður að vera tálbeitt af hinu óaðgengilega, og þetta er alltaf rétt hjá honum í ástríðu hans fyrir skapandi list.
+
+Poe, eins og Hawthorne, kom inn með hnignun rómantíska skólans, og enginn gladdi meira en hann að hlæja að hörmungum hans. Samt var hjarta hans hjá rómantíkurunum og austurlenskum eða gotneskum áhrifum þeirra. Uppfinning hans, sem var svo rík af prósasögum, virtist víkja honum þegar hann orti vísur; og dómgreind hans sagði honum að löng rómantísk ljóð væru meira háð atvikum en innblæstri, - og að til að segja ljóð rómantíkarinnar myndu textar nægja. Þess vegna kenning hans, greinilega í samræmi við hans eigin takmarkanir, um að "langt ljóð" sé flöt mótsögn. Hlutir Hrafnsins eru fáir og einfaldir: karlmaður, fugl og fantaminnið um konu. En verkið býður upp á fína sýningu á rómantísku efni. Hvað höfum við? Miðnættið; skuggahólfið með töfrum sínum af gleymdum fræðum; nemandinn, — nútíma Hieronymus; hrafnstappa á hólfinu; vetrarnóttin og deyjandi eldur; silki vindsveipurnar; draumarnir og óljóst vantraustið á bergmálsmyrkrinu; svarti, óhugnanlegur fuglinn á björtu brjóstmyndinni; fylgihlutirnir af fjólubláu flaueli og gloating lampanum. Öll þessi sviðsáhrif aðstæðna, ljóss, lita, hljóðs, eru eingöngu rómantísk, og jafnvel melódramatísk, en ljóðræns eiginleika sem melódrama sýnir sjaldan, og endurspeglar rækilega „eilífa ástríðu, eilífa sársauka“ skáldsins.
+
+Hrynjandi uppbygging Hrafnsins átti örugglega eftir að setja svip sinn. Rím, samsetning, byrðin, stanzaic form, voru hugsuð með einstaka hæfileika. Vafalaust var skáldið slegið af heppni söngleikja ungfrú Barretts, í „átta“, og sérstaklega fyrirkomulagið sem tekið var upp í lok „Lady Geraldine“:
+
+""Augu," sagði hann, "núna þrýsta í gegnum mig! Eruð þið augun sem tóku mig upp?
+
+Skínandi augu, eins og fornskartgripir settir í Parian styttu-stein!
+
+Undir því rólega hvíta enninu brennur þú alltaf illt
+
+Er auðn sandeyðimörk hjarta míns og lífs ónýtt?'"
+
+Listræn kynning hans á þriðju ríminu í bæði annarri og fjórðu línu, og bætt við fimmtu línu og síðasta viðkvæði, gerði erindi Hrafnsins . Hin þráláta samsetning virðist koma án fyrirhafnar og oft eru rímurnar innan lína seiðandi; á meðan viðkvæðið eða álagið ræður öllu verkinu. Hér hafði hann einnig hagnast á rannsókn ungfrú Barrett á ballöðum og rómantík á hennar eigin og öðrum tungum. „viðkvæðið“ er tálbeitingin sem skáld eða tónlistarmaður heldur á reikandi eyra með, - endurtekin þrá náttúrunnar eftir upphafsálaginu. Ég hef alltaf dáðst að fallegum viðkvæðum ensku söngkonunnar, - "The Nightingales, the Nightingales", "Margret, Margret", "My Heart and I", "Toll slowly", "The River floweth on," "Pan, Pan is dead," o.s.frv.
+
+„Ó hamingjusamar lífverur! engin tunga
+
+Fegurð þeirra gæti lýst yfir:
+
+Vor kærleika streymdi úr hjarta mínu,
+
+Og ég blessaði þá ómeðvitað:
+
+Vissulega miskunnaði minn góði dýrlingur mig,
+
+Og ég blessaði þá ómeðvitað."
+
+Poe bjó til fimmtu línuna í erindi sínu fyrir töfra endurtekningarinnar. Hann treysti á það til hins ýtrasta í nokkrum síðari ljóðum, - "Lenore", "Annabel Lee", "Ulalume" og "Fyrir Annie." Hún fékk villta og melankólíska tónlist, hef ég talið, frá „ljúfum áhrifum“ af afrískum byrðum og endurtekningum sem sungin voru fyrir hann í barnæsku, og samræmdu rödd syðraskáldsins okkar með innfæddri laglínu þeirra.
+
+"The Philosophy of Composition," greining hans á Hrafninum , er tæknileg krufning á aðferð og uppbyggingu þess. Hvorki þarf að fullyrða loforð hans um kaldrifjaða list, né síðari yfirlýsingu hans til vina um að afhjúpun þessarar gervi væri aðeins önnur vitsmunaleg gabb hans. Ef hann hefði hannað verkið í heild sinni fyrirfram, hefði hann varla gert jafn harðan aðdraganda skröltandi rímna að hinni ljúffengu laglínu seinni erindisins, - ekki einu sinni út frá kenningum hans um hið frábæra. Auðvitað sér listamaður, sem hefur fullkomnað verk,, eins og fyrsti listamaðurinn, að það er gott og sér hvers vegna það er gott. Síðari greiningu, ásamt afneitun á öllum heilögum eldi, er hægt að gera nógu auðveldlega. Mín trú er sú að fyrstu getnaður og gróf uppkast að þessu ljóði hafi komið eins og innblástur kemur alltaf; að höfundur þess sá síðan hvernig það gæti verið fullkomnað og gaf því lokahöndina sem lýst er í kafla hans um tónsmíð, og að hið síðarnefnda er því hvorki algerlega rangt né alveg satt. Skaðinn af slíkri greiningu er sá að hún freistar nýliða til að ímynda sér að gerviferli geti tekið af hólmi ímyndunaraflið. Hvatning snillingarinnar er að gæta leyndardóma sköpunarstundar sinnar. Glit sem fengust af stritinu, undrandi tilraunum, sem eru undanfari sigurs, eins og í skissuverki Hawthorne sem nýlega kom fram í dagsljósið, veita hinum einlæga listamanni ómetanlega fræðslu og uppörvun. En einn  sem af fúsum og frjálsum vilja afhjúpar Muse sína fyrir augnaráði allra sem koma ætti að rifja upp örlög Candaules konungs.
+
+Heimurinn lítur enn á Poe sem „heppnaðan mann af snilld“. Nýlega heyrði ég hann nefndan sem „sá sem öllum virðist vera í stakk búinn til að rangfæra, hallmæla eða rægja“. En mér sýnist að illa gengi hans hafi lokið með aumkunarverðum dauða hans, og að síðan hafi vörn hans verið viðvarandi og frægð hans um eins staðfastan vöxt og þjáður og hæfileikaríkur rithöfundur gæti beðið um á sinni vongóðu stundu. Afmæli Griswolds og rógburður sneri straumnum honum í hag. Gagnrýnendur og ævisöguritarar hafa komið fram með hremmingar í röð, með virðingu fyrir persónu hans, með nýjum útgáfum af verkum hans. Hans eigin bréf og örfá atvik á ferlinum liggja fyrir okkur; platan, góð og slæm, er víða þekkt. Enginn áfrýjandi hefur fengið ljúfari og fyrirgefnari dóma. Óhöpp hans í lífinu tilheyrðu héraðinu hans og tímabili, ef til vill enn frekar vegna viljaleysis hans sjálfs. Eflaust var umhverfi hans ekki til að vernda fínkorna, illa jafnvægisríka náttúru fyrir hættum utan og innan. Sterkasti vilji hans, að vera sjálfum sér drottinn, öðlaðist fyrir hann „þeirri arfleifð vá“. Hann játaði sjálfan sig óhamingjusaman húsbónda fuglsins, þann sem þjáðist af þessu kvæði. En hann var fullur hlutur af þessu dramatíska skapi sem fagnar í boðun eigin dauða. Það er unun að leika háan hlut: við erum öll skylmingakappar, grátandi Ave Imperator! Til að vitna í staðreyndir Burke: "Í sorginni er ánægjan enn efst og þjáningin sem við þjáumst á engan hátt líkt við algjöran sársauka, sem er alltaf viðbjóðslegur, og sem við reynum að hrista af okkur eins fljótt og auðið er." Poe gekk lengra og var listamaður jafnvel í hörmungum ferils síns. Ef sorgin og hverfandi fegurðar eru, samkvæmt hans eigin trú, æðstu ljóðrænu þemu, og ljóðræn tilfinning hin brennandi jarðneska ánægja, þá var sorgin og myrkrið í brotnu lífi hans ekki án þess að fá oft endurgjald.
+
+Á næstu síðum er ferskt dæmi um snilli listamanns sem einkennir túlkun hans á frægu ljóði. Gustave Doré, síðasta verkið af blýanti sem er á undan okkur, var ekki málari, eða jafnvel teiknari, fyrir raunsæismenn sem kröfðust sannleikans um tón, mynd og fullkomnun. Slík mál snertu hann síður en að búa til lögun og fjarlægð, ljós og skugga, aðstoða tilgang hans, - sem var að æsa sálina, ímyndunaraflið, áhorfandans. Þetta gerði hann með því að vekja lotningu okkar, með stórkostlegum og oft háleitum hugmyndum um hluti sem eru óútskýranlegir og fullir af drunga eða dýrð. Það er vel sagt að ef verk hans væru ekki frábær málverk, sem myndir eru þau sannarlega frábær. Sem "bókmenntalistamaður", og slíkur var hann, var kraftur hans í réttu hlutfalli við dramatíska uppfinningu höfundar hans, með hugrökku dirfsku andans sem kveikti hans eigin. Þess vegna velgengni hans með Rabelais, með "Le Juif-Errant", "Les Contes Drolatiques" og "Don Quixote" og þess vegna, öfugt, tókst honum ekki að tjá fegurð Tennysons Idyls, "Il Paradiso," hebresku hirðanna og aðra texta sem krefjast upphafningar, eða sætleika og kyrrðar. Hann var fæddur meistari gróteskunnar og gat með sérstakri innsýn myndað drauga draugaheila. Við sjáum hluti eins og persónur hans sáu þá, og með augum hins flökkugyðinga, ráðvillta Dons eða dóttur gullsmiðsins, sem stækkar konunginn svo mikið í versluninni á Pont-au-Change. Það lá í hlutarins eðli að hann skyldi laðast að hverju meistaraverki vísu eða prósa sem ég hef nefnt einstakt. Hin lægri ríki voru kölluð í þjónustu hans; Klettarnir hans, trén og fjöllin, himininn sjálfur, eru líflegir af hvötum og dásemd. Hefði hann lifað til að myndskreyta Shakespeare, hefðum við átt að sjá ótrúlega meðferð á Caliban, nornunum, storminum í "Lear"; en hefði eflaust átt að efast um hugsjónir hans um Imogen eða Miranda. Fegurð hrein og klár og hið fullkomna ágæti hennar virtist hann sjaldan skilja.
+
+Samt er fegurð í hönnun hans fyrir "Ancient Mariner", óraunveruleg eins og þau eru, og röð sem er sjaldgæf í röð eftir Doré. The Rime gaf honum langa sögu, með mörgum breytingum á vettvangi. Í Hrafninum varðveita hljóð og litur eintóna sinn og við höfum engin breyting á stað eða tilefni. Hver er niðurstaðan? Doré býður upp á röð af tilbrigðum við þemað eins og hann hugsaði það, "ráðgáta dauðans og ofskynjanir óhuggandi sálar." Í sumum þessara teikninga eru gallar hans augljósir; aðrir sýna kraftmikinn frumleika hans og bestu eiginleika sem hann sem teiknari stóð einn í. Það var greinilega eitthvað sameiginlegt á milli vinnustemninga Poe og Doré. Þetta kæmi skýrar í ljós ef sá síðarnefndi hefði reynt fyrir sér „sögurnar um grótskan og arabeskan“. Bæði gripu oft til álfalands fantasíu og rómantíkur. Í melódramatískum afrekum forðuðust þeir báðir, með stjórn sinni á hinu yfirnáttúrlega, hættumörkinni milli hugsjóna og fáránleika. Pó var sannari dýrkandi hins fagra; Ást hans á því var vígsluástríðu, og hér skilur hann við teiknara sinn. Skáld eða listamaður, Dauðinn ummyndar loksins allt: í skugga sabelbogans hans setur táknrænn litur Vedders þá á viðeigandi hátt augliti til auglitis, en umvefur þá möttul ódauðlegrar visku og krafts. Bandarísk kona hefur unnið mynd af stjörnueygðum snillingi með lokakyndlinum, stórkostlega svip þess sem sýnir sýn hans, en varir hennar mega ekki segja, leyndardóma lands handan „dyrum goðsagnakenndra grafar“.
+
+Edmund C. Stedman.
+
+LJÓÐIÐ.
+
+Myndskreyting 1
+
+HRAAFNINN.
+
+Einu sinni var á miðnætti leiðinlegt, meðan ég velti fyrir mér, veik og þreyttur,
+
+Yfir margt skrítið og forvitnilegt bindi af gleymdum fræðum,
+
+Á meðan ég kinkaði kolli, næstum því að sofa, kom skyndilega bankað,
+
+Eins og einhver rappar blíðlega, rappaði við stofudyrnar mínar.
+
+„Þetta er einhver gestur,“ muldraði ég, „bankaði á herbergisdyrnar mínar...
+
+Aðeins þetta og ekkert meira."
+
+Ah, ég man greinilega að það var í myrka desember,
+
+Og hver aðskilin deyjandi glóð rak draug sinn á gólfið.
+
+Ákaft óskaði ég mér morgundagsins: — til einskis hafði ég leitað að láni
+
+Úr bókum mínum kemur fram sorg — sorg vegna hinnar týndu Lenore —
+
+Fyrir sjaldgæfu og geislandi mey sem englarnir nefna Lenore—
+
+Nafnlaust hér að eilífu.
+
+Og silkimjúkur og óvissulegur þruskandi hverja fjólubláu fortjald
+
+Hreif mig - fyllti mig stórkostlegum skelfingu sem aldrei hefur fundist áður;
+
+Svo að nú, til að stöðva slá hjarta mitt, stóð ég og endurtók
+
+„Það er einhver gestur sem biður um innganginn við stofudyrnar mínar
+
+Einhver seinn gestur sem biður um innganginn við stofudyrnar mínar;—
+
+Þetta er það og ekkert meira."
+
+Núna efldist sál mín; hika þá ekki lengur,
+
+„Herra,“ sagði ég, „eða frú, sannarlega bið ég um fyrirgefningu yðar;
+
+En staðreyndin er sú að ég var að sofa og þú komst svo varlega að rappa,
+
+Og svo dauflega komst þú að banka, banka á hurðina mína,
+
+Að ég var varla viss um að ég heyrði í þér“ — hér opnaði ég hurðina; —
+
+Myrkur þarna og ekkert annað.
+
+Djúpt inn í myrkrið og gægðist, lengi stóð ég þarna og velti fyrir mér, óttast,
+
+Efast um, dreymir drauma sem enginn dauðlegur maður þorði að dreyma áður;
+
+En þögnin var órofin og myrkrið gaf enga merki,
+
+Og eina orðið þar sem talað var var hvíslaða orðið: "Lenore!"
+
+Þetta hvíslaði ég og bergmál muldraði aftur orðið: "Lenore!"
+
+Bara þetta og ekkert annað.
+
+Aftur inn í hólfið snýr sér, öll sál mín í mér brennandi,
+
+Fljótlega heyrði ég aftur slegið, nokkru hærra en áður.
+
+„Vissulega,“ sagði ég, „það er víst eitthvað við gluggagrindurnar mínar;
+
+Leyfðu mér þá að sjá hvað það er, og þessi ráðgáta kanna—
+
+Láttu hjarta mitt vera kyrrt augnablik og þessa ráðgátu kanna;—
+
+„Það er vindurinn og ekkert annað!"
+
+Opnaðu hér, ég henti gluggahleranum, þegar, með mörgum daðra og flögri,
+
+Þar steig tignarlegur Hrafn á helgum dögum fyrri tíma.
+
+Ekki síst hlýðni gerði hann; ekki mínútu stoppaði eða dvaldi hann;
+
+En, með herra eða frú, sitjandi fyrir ofan herbergisdyrnar mínar —
+
+Sit á brjóstmynd af Pallas rétt fyrir ofan herbergisdyrnar mínar...
+
+Settist og sat, og ekkert meira.
+
+Síðan tælir þessi íbenholti fugl það sorglega ímynd mína að brosa,
+
+Við gröf og strangan skraut ásýndarinnar sem það bar,
+
+"Þó að skjöld þín sé klippt og rakaður, þá ertu viss um að þú," sagði ég, "ertu ekki craven,
+
+Hrikalega grimmur og forn hrafn á reiki frá næturströndinni,—
+
+Segðu mér hvað þitt herra nafn er á Plútóníuströnd næturinnar!"
+
+Quoth the Raven, "Aldrei meira."
+
+Mikið undraðist ég þennan óþægilega fugl að heyra umræðuna svo skýrt,
+
+Þó að svar þess hafi litla merkingu - lítið mikilvægi bar;
+
+Því við getum ekki annað en verið sammála um að engin lifandi manneskja
+
+Var alltaf blessaður með að sjá fugl fyrir ofan herbergisdyrnar sínar -
+
+Fugl eða skepna á höggmyndaðri brjóstmynd fyrir ofan herbergisdyr hans,
+
+Með nafni eins og "Aldrei meira."
+
+En Hrafninn, sem sat einmana á rólegu brjóstmyndinni, talaði aðeins
+
+Þetta eina orð, eins og sál hans í því eina orði sem hann úthellti.
+
+Ekkert lengra síðan sagði hann — ekki fjöður þá blaktaði hann —
+
+Þar til ég varla meira en muldraði: „Aðrir vinir hafa flogið áður—
+
+Á morgun mun hann yfirgefa mig, eins og vonir mínar hafa verið áður."
+
+Þá sagði fuglinn: "Aldrei meir."
+
+Hræddur við kyrrðina sem rofin var með svari sem var svo viðeigandi talað,
+
+"Eflaust," sagði ég, "það sem það segir er eina lager þess og geymsla,
+
+Greiddur af einhverjum óhamingjusamum meistara sem miskunnsamur hörmung
+
+Fylgdi hratt og fylgdi hraðar þar til lögin hans ein byrði bar —
+
+Fram að harmi vonar hans sem depurð byrði bar
+
+Af 'Aldrei—aldrei meir.'“
+
+En Hrafninn tælir alla mína sorglegu sál til að brosa,
+
+Beint hjólaði ég púðað sæti fyrir framan fugl og brjóstmynd og hurð;
+
+Síðan, þegar flauelið sökk, fór ég að tengja mig
+
+Ímynda sér að hugsa um hvað þessi ógnvekjandi fugl fortíðar—
+
+Hvað þessi ljóti, óþægilegi, hrikalegi, magafulli og ógnvekjandi fugl fyrri tíma
+
+Ætlaði með því að kveka „Aldrei meira“.
+
+Þetta sat ég í að giska, en ekkert atkvæði tjáði
+
+Til fuglsins, sem brennu nú brennandi augun í brjóstkjarna mínum;
+
+Þetta og fleira sat ég og spáði, með höfuðið rólega hallandi
+
+Á flauelsfóðri púðans sem lampaljósið ljómaði af,
+
+En hvers flauelsfjólubláa fóður með lampaljósinu sem gleðst yfir
+
+Hún skal ýta á, æ, aldrei lengur!
+
+Svo hélt ég að loftið varð þéttara, ilmandi úr óséðri reykpönnu
+
+Sveifluð af serafum, sem klingdu fótafallið á tófta gólfinu.
+
+„Aumingja,“ hrópaði ég, „Guð þinn hefur lánað þér — fyrir þessa engla sendi hann þig
+
+Frestur — hvíld og njósna frá minningum þínum um Lenore!
+
+Quaff, ó quaff þessa vingjarnlegu frænku, og gleymdu þessari týndu Lenore!"
+
+Quoth the Raven, "Aldrei meira."
+
+"Spámaður!" sagði ég: „illt er! — spámaður enn, hvort sem það er fugl eða djöfull! —
+
+Hvort freistarinn sendi, eða hvort ofviðri henti þér hér á land,
+
+Auðnt en þó allt óöruggt, á þessu eyðimerkurlandi heillað—
+
+Á þessu heimili með hryllingi reimt - segðu mér satt, ég bið -
+
+Er — er smyrsl í Gíleað? — segðu mér — segðu mér, ég grátbið!
+
+Quoth the Raven, "Aldrei meira."
+
+"Spámaður!" sagði ég: „illt er — spámaður enn, hvort sem það er fugl eða djöfull!
+
+Við himininn sem beygir sig yfir, við — af þeim Guði dáum við bæði —
+
+Segðu þessari sál með sorg hlaðna ef, í fjarlægu Aidenn,
+
+Það mun halda um heilaga mey sem englarnir nefna Lenore —
+
+Taktu saman sjaldgæfa og geislandi mey sem englarnir nefna Lenore."
+
+Quoth the Raven, "Aldrei meira."
+
+"Vertu þetta orð okkar skilnaðarmerki, fugl eða djöfull!" Ég öskraði, uppörvandi -
+
+„Komdu þér aftur inn í storminn og næturströnd Plútóníunnar!
+
+Skildu engan svartan mökk sem tákn um þá lygi sem sál þín hefur talað!
+
+Láttu einsemd mína órofa! — farðu úr brjóstmyndinni fyrir ofan hurðina mína!
+
+Tak gogg þinn úr hjarta mínu, og taktu mynd þína af dyrum mínum!"
+
+Quoth the Raven, "Aldrei meira."
+
+Og Hrafninn, sem flöktir aldrei, situr enn, situr enn
+
+Á björtu brjóstmyndinni af Pallas rétt fyrir ofan herbergisdyrnar mínar;
+
+Og augu hans hafa allt eins og djöfla sem dreymir,
+
+Og lampaljósið yfir honum sem streymir varpar skugga sínum á gólfið;
+
+Og sál mín úr skugganum sem svífur á gólfinu
+
+Skal lyfta — aldrei framar!
+
