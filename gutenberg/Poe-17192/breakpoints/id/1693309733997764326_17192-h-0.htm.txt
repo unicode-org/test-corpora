@@ -1,0 +1,335 @@
+Buku| |elektronik| |Proyek| |Gutenberg| |The| |Raven|,| |karya| |Edgar| |Allan| |Poe|.
+Buku| |elektronik| |Project| |Gutenberg| |dari| |The| |Raven
+Ebook| |ini| |dapat| |digunakan| |oleh| |siapa| |saja| |di| |mana| |saja| |di| |Amerika| |Serikat| |dan| |sebagian| |besar| |belahan| |dunia| |lainnya| |tanpa| |biaya| |dan| |hampir| |tanpa| |batasan| |apa| |pun|.| |Anda| |dapat| |menyalinnya|,| |memberikannya|,| |atau| |menggunakannya| |kembali| |berdasarkan| |ketentuan| |Lisensi| |Project| |Gutenberg| |yang| |disertakan| |dalam| |ebook| |ini| |atau| |secara| |daring| |di| |www.gutenberg.org|.| |Jika| |Anda| |tidak| |berdomisili| |di| |Amerika| |Serikat|,| |Anda| |harus| |memeriksa| |undang|-|undang| |negara| |tempat| |Anda| |berada| |sebelum| |menggunakan| |eBook| |ini|.
+Judul| |:| |Sang| |Gagak
+Penulis| |:| |Edgar| |Allan| |Poe
+Komentator|:| |Edmund| |Clarence| |Stedman
+Ilustrator|:| |Gustave| |Doré
+Tanggal| |rilis|:| |30| |November| |2005| |[|eBook| |#|17192|]
+Terakhir| |diperbarui|:| |13| |Desember| |2020
+Bahasa| |:| |Inggris
+Kredit|:| |Diproduksi| |oleh| |Jason| |Isbell|,| |Melissa| |Er|-|Raqabi| |dan| |Online
+Tim| |Proofreading| |Terdistribusi| |di| |https://www.pgdp.net|.
+***| |AWAL| |PROYEK| |EBOOK| |GUTENBERG| |THE| |RAVEN| |***
+Sampul| |Belakang
+Sampul| |Belakang
+BURUNG| |GAGAK
+Oleh
+EDGAR| |ALLAN| |POE
+BERGAMBAR
+Oleh| |GUSTAVE| |DORÉ
+Gambar| |Judul
+Gambar| |Judul
+DENGAN| |KOMENTAR| |DARI| |EDMUND| |C.| |STEDMAN
+Kota| |New| |York
+HARPER| |&| |BROTHERS|,| |PENERBIT|,| |FRANKLIN| |SQUARE
+Tahun| |1884
+Dimasukkan| |sesuai| |dengan| |Undang|-|Undang| |Kongres|,| |pada| |tahun| |1883|,| |oleh
+HARPER| |&| |SAUDARA|,
+Di| |Kantor| |Pustakawan| |Kongres|,| |di| |Washington|.
+Hak| |cipta| |dilindungi| |undang|-|undang|.
+Catatan| |Transkripsi
+Dalam| |Daftar| |Ilustrasi| |saya| |mengembalikan| |kutipan| |tunggal| |yang| |hilang| |setelah| |Lenore|!| |seperti| |yang| |ditunjukkan| |di| |bawah| |ini|:
+“|‘|Celaka|,|’| |teriakku|,| |‘|Allahmu| |telah| |meminjamkanmu|—|melalui| |malaikat|-|malaikat| |ini| |Ia| |telah| |mengutus| |engkau
+"|Beristirahatlah|—|beristirahatlah| |dan| |beristirahatlah| |dari| |kenanganmu| |tentang| |Lenore|!|'|"
+Daftar| |Ilustrasi| |menggunakan| |'|visitor|'| |sementara| |puisi| |dan| |ilustrasi| |sebenarnya| |menggunakan| |'|visiter|'|.
+DAFTAR| |ILUSTRASI
+Dengan| |Nama| |Pengukir
+Halaman| |judul|,| |dirancang| |oleh| |Elihu| |Vedder|.
+Frederick| |Juengling|.
+"|Tidak| |lagi|.|"
+H.| |Claudius|,| |GJ| |Buechner|.
+ANANKE|.
+H.| |Claudius|.
+"|Suatu| |tengah| |malam| |yang| |suram|,| |ketika| |aku| |merenung|,| |lemah| |dan| |lelah|,
+Dalam| |banyak| |volume| |aneh| |dan| |aneh| |tentang| |pengetahuan| |yang| |terlupakan|.|"
+RA| |Muller|.
+“|Ah|,| |aku| |ingat| |dengan| |jelas|,| |saat| |itu| |bulan| |Desember| |yang| |suram|,
+Dan| |setiap| |bara| |api| |yang| |mati| |meninggalkan| |jejak| |hantunya| |di| |lantai|.|"
+RG| |Tietze|.
+"|Dengan| |penuh| |semangat| |aku| |mengharapkan| |hari| |esok|;| |sia|-|sia| |aku| |berusaha| |meminjam
+Dari| |buku|-|bukuku|,| |berakhirnya| |kesedihan|—|kesedihan| |atas| |hilangnya| |Lenore|.|"
+H.| |Claudius|.
+"|Turut| |berduka| |cita| |atas| |hilangnya| |Lenore|.|"
+J.| |W.| |Zimmermann|.
+"|Untuk| |gadis| |langka| |dan| |bersinar| |yang| |oleh| |para| |malaikat| |disebut| |Lenore—
+"|Tanpa| |nama| |di| |sini| |untuk| |selama|-|lamanya|.|"
+Frederick| |Juengling|.
+"|Ada| |pengunjung| |yang| |meminta| |masuk| |ke| |pintu| |kamarku—
+"|Ada| |pengunjung| |yang| |terlambat| |memohon| |masuk| |ke| |pintu| |kamarku|.|'|"
+J.| |W.| |Zimmermann|.
+—|"|Di| |sini| |aku| |membuka| |pintu| |lebar|-|lebar|;|—| |Di| |sana| |gelap|,| |dan| |tidak| |ada| |apa|-|apa| |lagi|.|"
+H.| |Claudius|.
+"|Meragukan| |dan| |memimpikan| |mimpi| |yang| |belum| |pernah| |berani| |diimpikan| |oleh| |manusia| |mana| |pun|.|"
+FS| |Raja|.
+"|'|Tentu| |saja|,|'| |kataku|,| |'|tentu| |saja| |itu| |ada| |sesuatu| |di| |kisi|-|kisi| |jendelaku|;
+"|Biarkan| |aku| |melihat| |apa| |itu|,| |dan| |selidiki| |misteri| |ini|.|'|"
+Frederick| |Juengling|.
+"|Buka| |sini| |aku| |buka| |penutupnya|.|"
+Jil|.| |T.| |Johnson|.
+—|"|Seekor| |burung| |gagak| |yang| |gagah| |berani| |dari| |zaman| |dahulu| |kala|.| |Ia| |tidak| |memberi| |hormat| |sedikit| |pun|;| |ia| |tidak| |berhenti| |atau| |berdiam| |diri| |semenit| |pun|.|"
+R.| |Staudenbaur|.
+"|Bertengger| |di| |atas| |patung| |dada| |Pallas| |tepat| |di| |atas| |pintu| |kamarku—
+Bertengger|,| |lalu| |duduk|,| |dan| |tidak| |ada| |yang| |lain|.|"
+RG| |Tietze|.
+"|Mengembara| |dari| |pantai| |malam|.|"
+Frederick| |Juengling|.
+"|Sampai| |aku| |hanya| |bergumam|,| |'|Teman|-|teman| |lain| |telah| |terbang| |sebelumnya—
+"|Besok| |dia| |akan| |meninggalkanku|,| |karena| |harapanku| |telah| |melayang| |sebelumnya|.|'|"
+Frank| |Prancis|.
+“|Kemudian|,| |ketika| |beludru| |tenggelam|,| |aku| |mulai| |menghubungkannya
+"|Berfantasi| |demi| |fantasi|.|"
+R.| |Schelling| |dan| |R.
+"|Tapi| |yang| |beludru| |ungu| |melapisi| |dengan| |cahaya| |lampu| |yang| |menyombongkan| |diri
+Dia| |akan| |terus| |mendesak|,| |ah|,| |tidak| |akan| |pernah| |lagi|!|"
+George| |Kruell|.
+“|‘|Celaka|,|’| |teriakku|,| |‘|Allahmu| |telah| |meminjamkanmu|—|melalui| |malaikat|-|malaikat| |ini| |Ia| |telah| |mengutus| |engkau
+"|Beristirahatlah|—|beristirahatlah| |dan| |beristirahatlah| |dari| |kenanganmu| |tentang| |Lenore|!|'|"
+Victor| |Bernstrom|.
+"|Di| |rumah| |ini| |berhantu| |horor|.|"
+R.| |Staudenbaur|.
+"|'|Katakan| |padaku| |dengan| |sejujurnya|,| |aku| |mohon—| |Apakah| |ada|—|apakah| |ada| |balsem| |di| |Gilead|?|—katakan| |padaku|—|katakan| |padaku|,| |aku| |mohon|!|'|"
+J.| |W.| |Zimmermann|.
+"|Katakan| |pada| |jiwa| |ini| |dengan| |kesedihan| |yang| |mendalam| |jika|,| |di| |dalam| |Aidenn| |yang| |jauh|,
+Ia| |akan| |mencengkeram| |seorang| |gadis| |suci| |yang| |oleh| |para| |malaikat| |disebut| |Lenore|.|'|"
+FS| |Raja|.
+"|'|Biarlah| |kata| |itu| |menjadi| |tanda| |perpisahan| |kita|,| |burung| |atau| |setan|!|'| |jeritku|,| |terkejut|.|"
+J.| |W.| |Zimmermann|.
+"|'|Kembalilah| |kau| |ke| |badai| |dan| |pantai| |Pluto| |Malam|!|'|"
+Robert| |Hoskin|.
+"|Dan| |jiwaku| |dari| |bayangan| |yang| |mengambang| |di| |lantai
+Akan| |diangkat|—|tidak| |akan| |pernah| |lagi|!|"
+RG| |Tietze|.
+Rahasia| |Sphinx|.
+R.| |Staudenbaur|.
+KOMENTARI| |PUISI| |TERSEBUT|.
+Rahasia| |sebuah| |puisi|,| |tidak| |kurang| |dari| |kemakmuran| |sebuah| |lelucon|,| |terletak| |di| |telinga| |orang| |yang| |mendengarnya|.| |Serahkan| |diri| |pada| |pesonanya|,| |terima| |suasana| |hati| |penyair|:| |ini|,| |bagaimanapun|,| |adalah| |jawaban| |orang| |bijak| |ketika| |Anda| |bertanya| |kepada| |mereka| |tentang| |nilainya|.| |Meskipun| |penyair| |itu| |sendiri|,| |dalam| |suasana| |hatinya| |yang| |lain|,| |memberi| |tahu| |Anda| |bahwa| |seninya| |hanyalah| |sulap|,| |makanan| |bagi| |tukang| |sihirnya|,| |dan| |menawarkan| |untuk| |menunjukkan| |tipu| |dayanya|,|—jangan| |percaya| |padanya|.| |Tunggulah| |saat| |kenabiannya|;| |lalu| |serahkan| |diri| |Anda| |pada| |hasratnya|,| |kegembiraan| |atau| |rasa| |sakitnya|.| |"|Kita| |berada| |di| |tangan| |Cinta| |hari| |ini|!|"| |nyanyi| |Gautier|,| |dalam| |parafrase| |Swinburne| |yang| |bersemangat|,|—dan| |dari| |pagi| |hingga| |matahari| |terbenam| |kita| |terombang|-|ambing| |di| |lautan| |yang| |ganas|:| |hanya| |ada| |satu| |cinta|,| |satu| |Mei|,| |satu| |helai| |bunga|.| |Cinta| |itu| |abadi|,| |yang| |lainnya| |tidak| |nyata| |dan| |dikesampingkan|.| |Visi| |memiliki| |akhir|,| |pemandangan| |berubah|;| |tetapi| |kita| |telah| |memperoleh| |sesuatu|,| |kenangan| |akan| |sebuah| |pesona|.| |Sebanyak| |penyair|,| |sebanyak| |pesona|.
+Ada| |pesona| |Evanescence|,| |yang| |memberikan| |keindahan| |dan| |keanggunan| |yang| |luar| |biasa| |dengan| |lingkaran| |Pathos|.| |Bagikan| |dengan| |Landor| |satu| |"|malam| |penuh| |kenangan| |dan| |keluh| |kesah|"| |untuk| |Rose| |Aylmer|,| |dan| |Anda| |akan| |mendapatkan| |ini| |sepenuhnya|.
+Dan| |sekarang| |pegang| |tangan| |penyanyi| |dunia| |baru|,| |yang| |tersesat| |dari| |habitat| |yang| |tepat| |ke| |Amerika| |yang| |kasar| |dan| |tidak| |harmonis| |yang|,| |seperti| |yang| |dilihat| |Baudelaire|,| |"|bagi| |Poe| |hanyalah| |penjara| |luas| |tempat| |ia| |berlari| |ke| |sana| |kemari|,| |dengan| |kegelisahan| |yang| |membara| |seperti| |makhluk| |yang| |diciptakan| |untuk| |menghirup| |dunia| |yang| |lebih| |murni|,|"| |dan| |tempat| |"|kehidupan| |batinnya|,| |yang| |rohani| |sebagai| |penyair|,| |rohani| |bahkan| |sebagai| |pemabuk|,| |hanyalah| |satu| |upaya| |terus|-|menerus| |untuk| |melepaskan| |diri| |dari| |pengaruh| |atmosfer| |yang| |tidak| |menyenangkan| |ini|.|"| |Genggam| |tangan| |sensitif| |penyanyi| |yang| |bermasalah| |yang| |sedang| |merasakan| |keanehannya|,| |dan| |berbagilah| |dengannya| |iklim| |tempat| |ia| |menemukan|,|—tidak| |pernah| |sepanjang| |hari|,| |selalu| |di| |malam| |hari|,|—jika| |bukan| |Atlantis| |tempat| |ia| |mengembara|,| |setidaknya| |tempat| |berlindung| |dari| |batas| |tempat| |ia| |dikurung| |pada| |siang| |hari|.
+Ke| |satu| |negeri| |saja| |ia| |memiliki| |kekuatan| |untuk| |menuntunmu|,| |dan| |hanya| |untuk| |satu| |malam| |saja| |kau| |dapat| |berbagi| |mimpinya|.| |Sebidang| |tanah| |yang| |tidak| |ada| |di| |Bumi| |maupun| |di| |Surga|:| |"|Tanah| |tak| |bertuan|,|"| |di| |luar| |Angkasa|,| |di| |luar| |Waktu|.| |Di| |sini| |ada| |orang|-|orang| |yang| |gelisah|,| |yang| |melalui| |matanya|,| |seperti| |mata| |Cenci|,| |jiwa| |menemukan| |jendela| |meskipun| |pikiran| |linglung|;| |di| |sini| |roh|-|roh|,| |meraba|-|raba| |jalan| |yang| |mengarah| |ke| |Keabadian|,| |terhenti| |dan| |tertunda|.| |Itu| |adalah| |limbo| |"|jiwa|-|jiwa| |planet|,|"| |di| |mana| |ada| |semua| |ketidakpastian| |cahaya| |bulan|,| |semua| |cinta| |dan| |ilusi| |yang| |hilang|.| |Di| |sini| |beberapa| |orang| |terpaku| |dalam| |trans|,| |satu|-|satunya| |jeda| |yang| |dapat| |dicapai|;| |yang| |lain
+"|bergerak| |secara| |fantastis
+Dengan| |melodi| |yang| |tidak| |selaras|:|"
+sementara| |dimana|-|mana| |ada
+"|Kenangan| |Masa| |Lalu| |yang| |Terpendam—
+Bentuk|-|bentuk| |terselubung| |yang| |mulai| |dan| |mendesah
+Saat| |mereka| |melewati| |pengembara| |itu|.|"
+Begitulah| |negeri| |ini|,| |dan| |untuk| |satu| |malam| |kita| |memasukinya|—|malam| |dengan| |fase|-|fase| |astral| |dan| |bunyi| |lonceng| |yang| |berulang|.| |Monodinya| |adalah| |dua| |belas| |puisi|,| |yang| |musiknya| |berusaha| |untuk| |berubah| |tetapi| |tetap| |sama|.| |Satu| |per| |satu|,| |bunyinya| |seperti| |bunyi| |lonceng| |jam| |perunggu| |dan| |hitam|,| |dalam| |"|The| |Masque| |of| |the| |Red| |Death|,|"| |yang| |membuat| |para| |penari| |waltz| |berhenti| |sejenak| |dengan| |"|kebingungan|,| |getaran|,| |dan| |meditasi|,|"| |setiap| |kali| |jam| |berganti|.
+Dari| |semua| |irama| |mistis| |ini|,| |ratapan| |Sang| |Gagak|,| |yang| |bergetar| |melalui| |portal|,| |terutama| |telah| |mengesankan| |dunia| |luar|.| |Hal|-|hal| |apa| |yang| |terjadi| |dalam| |pembuatan| |puisi|,|—dan| |seberapa| |benar| |dalam| |hal| |ini|,| |seperti| |dalam| |kebanyakan| |hal| |lainnya|,| |ras| |yang| |menamai| |para| |penyairnya| |"|para| |pembuat|"|?| |Sebuah| |karya| |dipanggil| |keluar| |dari| |kehampaan|.| |Di| |tempat| |yang| |tidak| |ada| |apa|-|apa|,| |ia| |tetap| |ada|,|—sebuah| |ciptaan| |baru|,| |bagian| |dari| |harta| |karun| |umat| |manusia|.| |Dan| |beberapa| |lirik| |yang| |luar| |biasa|,| |lebih| |dari| |yang| |lain| |yang| |sama|-|sama| |kreatif|,| |memaksa| |kita| |untuk| |berpikir| |ulang| |betapa| |beraninya| |pena| |penyair| |mengubah| |hal|-|hal| |yang| |tidak| |diketahui
+"|untuk| |membentuk|,| |dan| |tidak| |memberikan| |apa| |pun| |pada| |udara
+"|Tempat| |tinggal| |setempat|,| |dan| |sebuah| |nama|.|"
+Masing|-|masing| |tampak| |tanpa| |prototipe|,| |namun| |semuanya| |membuat| |kita| |terpesona| |dengan| |unsur|-|unsur| |yang| |diambil| |dari| |bayang|-|bayang| |Supranatural|.| |Sekarang| |imajinasi| |tertinggi| |berkenaan| |dengan| |jiwa| |benda|-|benda|;| |hal| |itu| |mungkin| |atau| |mungkin| |tidak| |mengilhami| |Fantasi| |yang| |menghuni| |dengan| |gambaran|-|gambaran| |samar| |antarbulan|.| |Namun|,| |salah| |satu| |lirik| |ini|,| |dalam| |cara| |yang| |lebih| |kecil|,| |memengaruhi| |kita| |dengan| |rasa| |keunikan|,| |sama| |pastinya| |dengan| |karya|-|karya| |yang| |lebih| |agung| |dari| |pemeran| |supranatural|,|—|"|Faustus|"| |karya| |Marlowe|,| |"|Faust|"| |karya| |Goethe|,| |"|Manfred|,|"| |atau| |bahkan| |karya|-|karya| |agung| |yang| |halus|,| |"|The| |Tempest|"| |dan| |"|A| |Midsummer| |Night|'s| |Dream|.|"| |Lebih| |dari| |satu|,| |meskipun| |unik|,| |memiliki| |beberapa
+[|10|]
+[|10|]
+beban| |atau| |refrain| |yang| |menghantui| |ingatan|,|—sekali| |didengar|,| |tidak| |pernah| |dilupakan|,| |seperti| |nada| |organ|-|stop| |yang| |jarang| |digunakan| |tetapi| |khas|.| |Yang| |menonjol| |di| |antara| |mereka| |adalah| |"|Lenore|"| |karya| |Bürger|,| |balada| |yang| |menyeramkan| |dan| |bergema|,| |daya| |tarik| |dan| |penggagas| |para| |penerjemah|.| |Hanya| |sedikit| |yang| |akan| |menyangkal| |bahwa| |"|Rime| |of| |the| |Ancient| |Mariner|"| |karya| |Coleridge| |yang| |menakjubkan| |berdiri| |di| |puncak| |mereka|.| |"|Le| |Juif|-|Errant|"| |akan| |memiliki| |klaim|,| |jika| |Beranger| |adalah| |penyair| |yang| |lebih| |hebat|;| |dan|,| |jika| |bukan| |karena| |keterpencilan| |mereka| |dari| |simpati| |populer|,| |"|The| |Lady| |of| |Shalott|"| |dan| |"|The| |Blessed| |Damozel|"| |mungkin| |ditambahkan| |ke| |dalam| |daftar|.| |Edgar| |Allan| |Poe| |diberi| |wewenang| |untuk| |menghasilkan| |dua| |lirik|,| |"|The| |Bells|"| |dan| |The| |Raven|,| |yang| |masing|-|masing|,| |meskipun| |mungkin| |kurang| |indah| |daripada| |Tennyson| |dan| |Rossetti|,| |adalah| |unik|.| |"|Ulalume|,|"| |meskipun| |sama|-|sama| |aneh| |dan| |imajinatif|,| |tidak| |memiliki| |kualitas| |universal| |yang| |merupakan| |bagian| |dari| |pengujian| |kami|.
+The| |Raven| |dalam| |unsur|-|unsur| |puitisnya| |berada| |di| |bawah| |karya|-|karya| |seperti| |"|The| |Haunted| |Palace|,|"| |"|The| |City| |in| |the| |Sea|,|"| |"|The| |Sleeper|,|"| |dan| |"|Israfel|.|"| |Saya| |menduga|,| |seluruh| |karya| |itu| |akan| |digantikan| |oleh| |pembaca| |yang| |sangat| |teliti|,| |dengan| |bagian|-|bagian| |seperti| |ini|:
+"|Di| |sekitar|,| |dengan| |mengangkat| |angin| |yang| |terlupakan|,
+Dengan| |pasrah| |di| |bawah| |langit
+Air| |kesedihan| |terhampar|.
+Tak| |ada| |sinar| |dari| |surga| |suci| |yang| |turun
+Pada| |malam| |panjang| |kota| |itu|;
+Tapi| |cahaya| |dari| |laut| |yang| |mengerikan
+Mengalir| |ke| |menara| |dengan| |diam—
+·| |·| |·| |·| |·| |·| |·
+Banyak| |sekali| |kuil| |yang| |menakjubkan
+Yang| |hiasan| |dindingnya| |saling| |bertautan
+Bunga| |viol|,| |bunga| |violet|,| |dan| |bunga| |vine|.
+·| |·| |·| |·| |·| |·| |·
+Tidak| |ada| |pembengkakan| |yang| |menandakan| |angin| |mungkin| |datang
+Di| |suatu| |laut| |yang| |jauh| |lebih| |bahagia—
+Tidak| |ada| |tanda|-|tanda| |bahwa| |angin| |telah| |bertiup
+Di| |lautan| |yang| |tidak| |begitu| |tenang|.|"
+Ia| |tidak| |memiliki| |melodi| |udara| |dari| |penyair| |yang| |hatinya| |bagaikan| |kecapi|:
+"|Dan| |mereka| |mengatakan| |(|paduan| |suara| |berbintang
+Dan| |hal|-|hal| |mendengarkan| |lainnya|)
+Itu| |api| |Israel
+Adalah| |karena| |kecapi| |itu
+Yang| |dengannya| |dia| |duduk| |dan| |bernyanyi—
+Kawat| |hidup| |yang| |bergetar
+Dari| |senar| |yang| |tidak| |biasa| |itu|.|"
+Namun|,| |The| |Raven|,| |seperti| |"|The| |Bells|"| |dan| |"|Annabel| |Lee|,|"| |cocok| |untuk| |banyak| |orang| |dan| |sedikit| |orang|.| |Saya| |telah| |mengatakan| |di| |tempat| |lain| |bahwa| |karya|-|karya| |Poe| |yang| |lebih| |langka| |bagi| |saya| |adalah| |"|karya|-|karya| |yang| |setidaknya| |menunjukkan| |spontanitas|—|di| |mana| |ia| |menyerah| |pada| |perasaannya|,| |sementara| |saat| |menjelang| |ajal| |dan| |irama| |yang| |paling| |musikal|,| |paling| |melankolis|,| |muncul| |tanpa| |disadarinya|.|"| |Ini| |masih| |menjadi| |keyakinan| |saya|;| |dan| |meskipun| |begitu|,| |setelah| |mempelajari| |puisi| |ini| |lagi|,| |puisi| |ini| |lebih| |berkesan| |bagi| |saya| |daripada| |sebelumnya| |sejak| |masa| |kanak|-|kanak| |saya|.| |Kenalan| |dekat| |memberi| |kesan| |yang| |baik| |pada| |setiap| |karya| |seni| |sejati|.| |Bujuklah| |orang| |yang| |tidak| |mengenal| |seni| |maupun| |tidak| |memedulikannya| |untuk| |meneliti| |puisi| |atau| |lukisan|,| |dan| |betapa| |cepat| |kekuatannya| |menguasai| |dirinya|!| |Bahkan|,| |ia| |akan| |melebih|-|lebihkan| |nilai| |relatif| |dari| |karya| |bagus| |pertama| |yang| |menarik| |perhatiannya|.| |The| |Raven|,| |juga|,| |memiliki| |kualitas| |konsisten| |yang| |bahkan| |harus| |dikagumi| |oleh| |seorang| |ahli|.| |Tidak| |ada| |puisi| |pengarang| |lainnya| |yang| |motifnya| |didefinisikan| |dengan| |lebih| |gamblang|.
+"|The| |Haunted| |Palace|"| |sama| |pastinya| |bagi| |pembaca| |tertentu|,| |tetapi| |Poe| |hampir| |tidak| |akan| |menganggap| |alegori| |halus| |itu| |sebagai| |analisis| |yang| |gamblang|.| |The| |Raven| |sepenuhnya| |disibukkan| |dengan| |tema| |khas| |penulis|—|kehilangan| |yang| |tak| |dapat| |dikembalikan| |dari| |seorang| |wanita| |cantik| |yang| |diidolakan|;| |tetapi| |di| |sisi| |lain|,| |naluri| |publik| |juga| |benar| |dalam| |menganggapnya| |sebagai| |puisi| |representatifnya|.
+Seorang| |jenius| |biasanya| |memperoleh| |pijakan| |dengan| |keberhasilan| |suatu| |usaha|,| |dan| |ini| |tidak| |selalu| |merupakan| |keberhasilan| |terbesarnya|.| |Pengakuan| |lebih| |cepat| |diterima| |karena| |telah| |ditunda|.| |Ia| |tidak| |memperolehnya|,| |seperti| |kekayaan| |orang| |kikir|,| |koin| |demi| |koin|,| |tetapi| |"|tidak| |sama| |sekali| |atau| |semuanya|.|"| |Demikian| |pula| |dengan| |ambisi|-|ambisi| |lainnya|:| |bangsawan|,| |prajurit|,| |aktor|,|—apa| |pun| |peran| |mereka|,|—masing|-|masing| |menghitung| |kemenangannya| |dari| |suatu| |keberuntungan|.| |Burung| |gagak| |Poe|,| |meskipun| |merupakan| |pertanda| |buruk|,| |baginya| |adalah| |"|burung| |yang| |membuat| |angin| |bertiup|.|"| |Penyair| |itu| |menetap| |di| |New| |York|,| |pada| |musim| |dingin| |tahun| |1844|-|'45|,| |mendapatkan| |pekerjaan| |di| |koran| |Willis|,| |"|The| |Evening| |Mirror|,|"| |dan| |memperoleh| |penghasilannya| |dengan| |kontribusi| |di| |tempat| |lain|.| |Selama| |enam| |tahun| |ia| |telah| |menjadi| |penulis| |aktif|,| |dan| |menikmati| |reputasi| |profesional|;| |dihormati| |sekaligus| |diragukan|,| |dan| |tidak| |kehilangan| |bagiannya| |dari| |jurnalisme| |yang| |dibayar| |rendah| |pada| |masa| |itu|.
+Ia| |juga| |telah| |menghasilkan| |banyak| |karya| |terbaiknya|—|kisah|-|kisah| |seperti| |"|Ligeia|"| |dan| |"|The| |Fall| |of| |the| |House| |of| |Usher|,|"| |(|kisah| |terakhir| |berisi| |padanan| |mistis|,| |dalam| |bentuk| |syair|,| |dari| |"|A| |Lost| |Mind|"| |karya| |Elihu| |Vedder|)|,| |dan| |prestasi| |analitis| |seperti| |"|The| |Gold| |Bug|"| |dan| |"|The| |Mystery| |of| |Marie| |Roget|.|"| |Ia| |telah| |membuat| |banyak| |penganut| |agama| |di| |luar| |negeri|,| |dan| |memperoleh| |pengaruh| |yang| |bertahan| |lama| |di| |benak| |orang| |Prancis|.| |Ia| |telah| |mempelajari| |kekuatan| |dan| |kelemahannya| |sendiri|,| |dan| |berada| |di| |puncak| |kariernya|,| |dan| |bukan| |tanpa| |reputasi| |tertentu|.| |Namun|,| |ia| |tidak| |menulis| |apa| |pun| |yang| |bisa| |dipahami| |semua| |orang|.| |Pada| |karya| |yang| |langka| |dan| |rumit|,| |sentuhan| |populer| |harus| |ditambahkan| |untuk| |menarik| |perhatian| |khalayak| |umum| |pada| |masanya|.
+Melalui| |industri| |para| |penulis| |biografi| |Poe| |yang| |berurutan|,| |kisah| |sukses| |yang| |dibuat| |oleh| |The| |Raven| |telah| |menjadi| |kisah| |yang| |sering| |diceritakan|.| |Istri| |muda| |sang| |penyair|,| |Virginia|,| |memudar| |di| |depan| |matanya|,| |tetapi| |bertahan| |selama| |setahun| |lagi| |dalam| |bayang|-|bayang| |kematian|.| |Kamar| |panjang| |dan| |rendah| |di| |rumah| |dekat| |Bloomingdale| |Road| |sama
+[|11|]
+[|11|]
+terkenal| |sebagai| |ruangan| |tempat| |Rouget| |de| |l'|Isle| |menggubah| |Marseillaise|.| |Semua| |orang| |telah| |mendengar| |bahwa| |puisi| |itu|,| |yang| |ditandatangani| |"|Quarles|,|"| |muncul| |di| |"|American| |Review|,|"| |dengan| |komentar| |pseudo|-|editorial| |pada| |bentuknya|;| |bahwa| |Poe| |menerima| |sepuluh| |dolar| |untuk| |itu|;| |bahwa| |Willis|,| |penengah| |yang| |paling| |baik| |dan| |paling| |tidak| |iri| |hati|,| |mencetak| |ulang| |puisi| |itu| |dengan| |pujian| |yang| |langsung| |membuatnya| |menjadi| |bahan| |pembicaraan| |di| |kota|.| |Semua| |keraguan| |tentang| |kepengarangannya| |sirna| |ketika| |Poe| |membacanya| |sendiri| |di| |sebuah| |pertemuan| |sastra|,| |dan| |untuk| |sementara| |waktu| |ia| |menjadi| |penulis| |Amerika| |yang| |paling| |menonjol|.| |Pukulan| |itu| |merangsang| |dan| |menyemangatinya|.| |Seperti| |satiris| |lain| |yang| |lebih| |bangga|,| |ia| |juga| |menemukan| |"|sesuatu| |dari| |musim| |panas|"| |bahkan| |"|dalam| |dengungan| |serangga|.|"| |Cukup| |menyedihkan|,| |tetapi| |tiga| |tahun| |berlalu|,|—periode| |pengaruh|,| |kebanggaan|,| |kesedihan|,| |tetapi| |selalu| |kerja| |keras| |yang| |imajinatif| |atau| |kritis|,|—sebelum| |kekalahan| |terakhir|,| |sebelum| |tirai| |diturunkan| |pada| |kehidupan| |yang| |baginya| |sebenarnya| |adalah| |sebuah| |tragedi|,| |dan| |ia| |menyerah| |pada| |"|Cacing| |Penakluk|.|"
+"|The| |American| |Review|:| |A| |Whig| |Journal|"| |adalah| |majalah| |yang| |bagus| |pada| |masa| |itu|,| |berkolom| |ganda|,| |dicetak| |di| |atas| |kertas| |yang| |bagus| |dengan| |huruf| |yang| |jelas|,| |dan| |diilustrasikan| |dengan| |potret| |mezzotint|.| |Di| |antara| |banyak| |materi| |di| |bawah| |standar| |saat| |ini|,| |majalah| |itu| |berisi| |beberapa| |hal| |yang| |akan| |diterima| |dengan| |senang| |oleh| |editor| |mana| |pun|.| |Volume| |awal|,| |untuk| |tahun| |1845|,| |berisi| |artikel|-|artikel| |oleh| |Horace| |Greeley|,| |Donald| |Mitchell|,| |Walter| |Whitman|,| |Marsh|,| |Tuckerman|,| |dan| |Whipple|.| |Puisi| |Ralph| |Hoyt| |yang| |unik|,| |"|Old|,|"| |muncul| |dalam| |volume| |ini|.| |Dan| |berikut| |ini| |tiga| |lirik| |oleh| |Poe|:| |"|The| |City| |in| |the| |Sea|,|"| |"|The| |Valley| |of| |Unrest|,|"| |dan| |The| |Raven|.| |Dua| |di| |antaranya| |dibangun|,|—begitulah| |caranya|,|—dari| |studi| |sebelumnya|,| |tetapi| |yang| |terakhir| |muncul| |seolah|-|olah| |baru| |saja| |disusun|,| |dan| |hampir| |seperti| |yang| |kita| |miliki| |sekarang|.| |Pernyataan| |bahwa| |puisi| |itu| |tidak| |direvisi| |setelahnya| |adalah| |keliru|.
+Sebelas| |perubahan| |sepele| |dari| |teks| |majalah| |muncul| |dalam| |The| |Raven| |and| |Other| |Poems|,| |1845|,| |sebuah| |buku| |yang| |segera| |membuat| |penyair| |merasa| |terdorong| |untuk| |menawarkannya| |kepada| |publik|.| |Ini| |sebagian| |besar| |adalah| |perubahan| |tanda| |baca|,| |atau| |kata|-|kata| |tunggal|,| |jenis| |yang| |terakhir| |dibuat| |untuk| |meningkatkan| |efek| |aliterasi|.| |Dalam| |edisi| |puisi| |Poe| |yang| |cantik| |milik| |Tuan| |Lang|,| |yang| |diterbitkan| |di| |"|Parchment| |Library|,|"| |ia| |telah| |menunjukkan| |naluri| |seorang| |sarjana|,| |dan| |telah| |bertindak| |bijak|,| |dengan| |kembali| |ke| |teks| |dalam| |volume| |yang| |baru| |saja| |disebutkan|,| |seperti| |yang| |diberikan| |dalam| |edisi| |London| |tahun| |1846.| |Koleksi| |Griswold| |"|standar|"| |dari| |karya|-|karya| |penyair| |itu| |penuh| |dengan| |kesalahan|.| |Ini| |telah| |diulang| |oleh| |editor|-|editor| |berikutnya|,| |yang| |juga| |telah| |membuat| |kesalahan| |mereka| |sendiri|.| |Tetapi| |teks| |The| |Raven|,| |karena| |permintaan| |yang| |dibuat| |kepada| |penulis| |untuk| |salinan| |naskah|,| |masih| |direvisi| |lebih| |lanjut| |olehnya|;
+sebenarnya|,| |ia| |mencetaknya| |di| |Richmond|,| |tepat| |sebelum| |kematiannya|,| |dengan| |penggantian| |puitis| |"|seraphim| |yang| |jejak| |kakinya|"| |untuk| |"|malaikat| |yang| |jejak| |kakinya| |samar|,|"| |di| |bait| |keempat| |belas|.| |Oleh| |karena| |itu|,| |teks| |kita| |saat| |ini|,| |meskipun| |pada| |dasarnya| |merupakan| |teks| |tahun| |1845|,| |agak| |dimodifikasi| |oleh| |pembacaan| |penyair| |di| |kemudian| |hari|,| |dan| |menurut| |saya|,| |merupakan| |versi| |yang| |paling| |tepat| |dan| |efektif| |dari| |puisi| |tunggal| |ini|.| |Namun|,| |perubahan| |paling| |radikal| |dari| |versi| |paling| |awal| |muncul| |dalam| |volume| |tahun| |1845|;| |bait| |kesebelas| |awalnya| |berisi| |baris|-|baris| |ini|,| |yang| |rimanya| |salah| |dan| |merupakan| |cacat| |pada| |puisi|:
+"|Tertangkap| |oleh| |tuan| |yang| |tidak| |bahagia|,| |yang| |tidak| |kenal| |ampun| |Bencana
+Mengikuti| |dengan| |cepat| |dan| |mengikuti| |lebih| |cepat|—|jadi|,| |ketika| |Harapan| |akan| |mengutuk|,
+Keputusasaan| |yang| |parah| |kembali|,| |alih|-|alih| |Harapan| |manis| |yang| |berani| |ia| |ucapkan—
+Jawaban| |yang| |menyedihkan|,| |'|Tidak| |akan| |pernah| |lagi|!|'|"
+Akan| |lebih| |baik| |jika| |penyair| |lain|,| |dan| |yang| |terkenal|,| |dapat| |yakin| |untuk| |selalu| |melakukan| |perubahan| |dan| |perbaikan|.| |Poe| |terus|-|menerus| |menangani| |kembali| |puisinya| |yang| |sedikit|,| |dan| |biasanya| |memperbaikinya|.| |The| |Raven| |adalah| |yang| |pertama| |dari| |beberapa| |puisi| |yang| |hampir| |ia| |selesaikan| |sebelum| |dicetak|.| |Mungkin| |saja| |mereka| |yang| |peduli| |dengan| |puisi| |tidak| |kehilangan| |banyak| |hal| |karena| |kematiannya|.| |Fasih| |dalam| |prosa|,| |ia| |tidak| |pernah| |menulis| |puisi| |hanya| |demi| |membuat| |puisi|.| |Ketika| |sebuah| |refrain| |gambar| |menghantuinya|,| |lirik| |yang| |dihasilkan| |adalah| |inspirasi|,| |seperti| |yang| |ia| |katakan| |sendiri|,| |dari| |sebuah| |gairah|,| |bukan| |dari| |sebuah| |tujuan|.| |Ini| |pada| |interval| |yang| |sangat| |jarang| |sehingga| |hampir| |membenarkan| |teori| |Fairfield| |bahwa| |masing|-|masing| |adalah| |produk| |dari| |krisis| |saraf|.
+Lalu|,| |apa| |yang| |memberi| |petunjuk| |kepada| |penyair| |tentang| |The| |Raven|?| |Dari| |fondasi| |berkabut| |manakah| |ia| |bangkit| |perlahan|-|lahan| |menjadi| |musik| |yang| |dihembuskan| |perlahan|?| |Seperti| |biasa|,| |lebih| |dari| |satu| |hal| |yang| |membangun| |puisi| |yang| |begitu| |terkenal|.| |Mengingat| |khotbah|-|khotbah| |yang| |lebih| |panjang| |yang| |sering| |disampaikan| |pada| |teks|-|teks| |yang| |singkat| |dan| |kurang| |mengesankan|,| |saya| |harap| |tidak| |disalahkan| |atas| |pembahasan| |tentang| |satu| |lirik| |ini|,|—terutama| |yang| |telah| |dijadikan| |subjek| |ilustrasi| |yang| |berlebihan| |oleh| |seniman| |seperti| |Doré|.| |Sampai| |baru|-|baru| |ini| |saya| |mengira| |bahwa| |karya| |ini|,| |dan| |beberapa| |karya| |yang| |dikarang| |oleh| |pengarangnya| |setelah| |kemunculannya|,| |adalah| |luar| |biasa| |karena| |tidak| |tumbuh| |dari| |benih| |dalam| |syair| |kekanak|-|kanakannya|.| |Namun|,| |Tn|.| |Fearing| |Gill| |telah| |menunjukkan| |kepada| |saya| |beberapa| |bait| |yang| |belum| |diterbitkan| |oleh| |Poe|,| |yang| |ditulis| |pada| |usia| |delapan| |belas| |tahun|,| |dan| |berjudul|,| |"|The| |Demon| |of| |the| |Fire|.|"| |Naskah| |itu| |tampaknya| |ditulis| |tangan| |oleh| |penyair| |itu| |sendiri|,| |dan| |keasliannya| |dijamin| |oleh| |keluarga| |yang| |telah| |memilikinya| |selama| |setengah| |abad|.
+Selain| |inti| |paling| |sederhana| |dari| |"|The| |Bells|"| |dan| |"|The| |Haunted| |Palace|"|,| |puisi| |ini| |juga| |berisi| |beberapa| |baris| |yang| |agak| |mengingatkan| |pada| |pembukaan| |dan| |penutupan| |The| |Raven|.| |Mengenai| |irama| |puisi| |kita|,| |perbandingan| |tanggal| |menunjukkan| |bahwa| |hal| |ini| |dipengaruhi| |oleh| |irama| |"|Lady| |Geraldine|'s| |Courtship|.|"| |Poe| |adalah| |salah| |satu| |orang| |pertama| |yang| |menghormati| |kejeniusan| |Nona| |Barrett|;| |ia| |menuliskan| |puisi|-|puisinya| |yang| |dikumpulkan| |untuknya| |sebagai| |"|yang| |paling| |mulia| |dari| |jenis| |kelaminnya|,|"| |dan| |berada| |di
+[|12|]
+[|12|]
+simpati| |dengan| |metode| |liriknya|.| |Baris|-|baris| |dari| |puisi| |cintanya|,
+"|Dengan| |suara| |bisikan| |yang| |tak| |menentu|,| |di| |udara|,| |tirai| |ungu
+Membengkak| |masuk| |dan| |keluar| |di| |sekitar| |alisnya| |yang| |pucat| |tak| |bergerak|,|"
+menemukan| |gema| |pada| |hal| |ini|:
+"|Dan| |gemerisik| |sutra| |sedih| |tak| |menentu| |dari| |setiap| |tirai| |ungu
+Membuatku| |bergairah|—|memenuhiku| |dengan| |kengerian| |fantastis| |yang| |belum| |pernah| |kurasakan| |sebelumnya|.|"
+Di| |sini| |Poe| |menganggap| |dirinya| |memiliki| |hak| |istimewa| |yang| |karenanya| |ia| |mengecam| |Longfellow| |dengan| |kasar|,| |dan| |yang| |tidak| |pernah| |dicari| |siapa| |pun| |atas| |dasar| |pemikirannya| |sendiri| |tanpa| |deteksi| |dan| |teguran| |yang| |cepat|.| |Dalam| |bentuk| |melodi| |dan| |bait|,| |kita| |akan| |melihat| |bahwa| |kedua| |puisi| |itu| |tidak| |berbeda|,| |tetapi| |dalam| |motifnya| |keduanya| |sama| |sekali| |berbeda|.| |Penyair| |wanita| |yang| |murah| |hati| |itu| |tidak| |merasakan| |apa| |pun| |kecuali| |keaslian| |sejati| |sang| |penyair|.| |"|Tulisan| |yang| |hidup| |ini|!|"| |serunya|,|—|"|kekuatan| |yang| |dirasakan| |ini|!|...| |Penyair| |besar| |kita|,| |Tn|.| |Browning|,| |penulis| |'|Paracelsus|,|'| |dll|.|,| |sangat| |antusias| |dalam| |mengagumi| |ritmenya|.|"| |Tn|.| |Ingram|,| |setelah| |merujuk| |pada| |"|Lady| |Geraldine|,|"| |dengan| |cerdik| |menunjukkan| |sumber| |lain| |yang| |mungkin| |menjadi| |sumber| |dorongan| |bagi| |Poe|.| |Pada| |tahun| |1843|,| |Albert| |Pike|,| |penyair| |setengah| |Yunani|,| |setengah| |penjelajah| |perbatasan| |dari| |Arkansas|,| |telah| |mencetak| |dalam| |"|The| |New| |Mirror|,|"| |yang| |saat| |itu| |ditulis| |Poe|,| |beberapa| |syair| |berjudul| |"|Isadore|,|"| |tetapi| |kemudian| |direvisi| |oleh| |penulisnya| |dan| |disebut| |"|The| |Widowed| |Heart|.|"
+Saya| |memilih| |bait| |berikut| |dari| |revisi| |Tuan| |Pike|,| |yang| |fitur| |utamanya| |sesuai| |dengan| |versi| |aslinya|:
+"|Gelisah| |aku| |melangkah| |di| |kamar|-|kamar| |kita| |yang| |sepi|,| |Aku| |tak| |lagi| |memainkan| |lagu|-|lagu| |kita|,
+Matahari| |yang| |menyilaukan| |bersinar| |terang| |di| |atas| |lantai| |yang| |belum| |disapu|;
+Burung| |mockingbird| |masih| |duduk| |dan| |bernyanyi|,| |O| |alunan| |melankolis|!
+Karena| |hatiku| |bagaikan| |awan| |musim| |gugur| |yang| |meluap| |karena| |hujan|;
+"|Kau| |telah| |hilang| |dari| |pandanganku| |selamanya|,| |Isadore|!|"
+Di| |sini| |kita| |melihat| |irama| |yang| |panjang|,| |refrain| |yang| |mirip|,| |dan| |pengenalan| |seekor| |burung| |yang| |nyanyiannya| |meningkatkan| |kesedihan|.| |Ada| |jejak| |lain| |yang| |dapat| |diikuti| |oleh| |orang|-|orang| |yang| |ingin| |tahu|;| |khususnya|,| |sebuah| |bagian| |yang| |dipilih| |Tn|.| |Ingram| |dari| |ulasan| |terakhir| |Poe| |tentang| |"|Barnaby| |Rudge|"|:
+"|Burung| |gagak| |juga|,| |*| |*| |*| |mungkin| |telah| |dijadikan|,| |lebih| |dari| |yang| |kita| |lihat| |sekarang|,| |bagian| |dari| |konsep| |Barnaby| |yang| |fantastis|.| |*| |*| |*| |Karakternya| |mungkin| |telah| |memainkan| |peran| |yang| |sama| |dalam| |kaitannya| |dengan| |karakter| |idiot|,| |seperti| |dalam| |musik|,| |pengiring| |dalam| |kaitannya| |dengan| |udara|.|"
+Meskipun| |demikian|,| |setelah| |menunjukkan| |benih|-|benih| |dan| |kemiripan| |ini|,| |nilai| |puisi| |ini| |masih| |ditemukan| |dalam| |keasliannya|.| |Musik| |progresif|,| |detail| |pemandangan|,| |dan| |kontras| |cahaya| |dan| |bayangan|,|—di| |atas| |segalanya|,| |gairah| |spiritual| |di| |malam| |hari|,| |menjadikannya| |karya| |seorang| |jenius| |yang| |informatif|.| |Mengenai| |burung| |yang| |mengerikan| |itu|,| |ia| |tidak| |seperti| |semua| |burung| |gagak| |lain| |dalam| |klannya|,| |dari| |"|dua| |burung| |corbie|"| |dan| |"|tiga| |burung| |gagak|"| |milik| |para| |balada| |hingga| |"|Grip|"| |milik| |Barnaby| |yang| |kusut|.| |Di| |sini| |tidak| |ada| |kemiripan| |dengan| |burung| |gagak| |yang| |berkokok| |yang| |menghantui| |menara| |leluhur| |dan| |menginjak| |bidang| |lambang|;| |tidak| |ada| |hantu| |pertanda| |yang| |dinyanyikan| |Tickell| |ketika|,
+"|berteriak| |ke| |jendelanya| |tiga| |kali|,
+Burung| |gagak| |mengepakkan| |sayapnya|,
+Gadis| |yang| |sedang| |dilanda| |cinta| |itu| |tahu| |betul
+"|Suara| |tubuh| |yang| |khidmat|.|"
+Burung| |gagak| |Poe| |adalah| |sebuah| |konsep| |yang| |berbeda|;| |perwujudan| |dari| |penderitaan| |dan| |keputusasaan| |seorang| |pelayat|;| |Memori| |yang| |berwujud| |hitam|,| |pencatat| |malapetaka| |yang| |abadi|,| |sebuah| |tipe| |dari| |yang| |Tak| |Dapat| |Diperbaiki|.| |Melarikan| |diri| |melintasi| |Styx|,| |dari| |"|pantai| |Plutonian| |Malam|,|"| |ia| |tampak| |seperti| |jiwa| |yang| |dibayangkan| |dari| |si| |penanya| |sendiri|,|—dari| |dia| |yang| |tidak| |dapat|,| |tidak| |mau|,| |meminum| |nepenthe| |yang| |baik|,| |karena| |kenangan| |tentang| |Lenore| |adalah| |satu|-|satunya| |yang| |tersisa| |baginya|,| |dan| |dengan| |berakhirnya| |kesedihannya| |bahkan| |itu| |akan| |dikesampingkan|.
+The| |Raven| |juga| |dapat| |dianggap| |sebagai| |puisi| |representatif| |dari| |pengarangnya|,| |karena| |puisi| |tersebut| |merupakan| |contoh| |dari| |semua| |gagasannya| |tentang| |seperti| |apa| |seharusnya| |sebuah| |puisi|.| |Gagasan|-|gagasan| |tersebut| |dapat| |ditemukan| |dalam| |esai|-|esainya| |tentang| |"|The| |Poetic| |Principle|,|"| |"|The| |Rationale| |of| |Verse|,|"| |dan| |"|The| |Philosophy| |of| |Composition|.|"| |Poe| |menyatakan| |bahwa| |"|dalam| |Musik|,| |mungkin|,| |jiwa| |paling| |mendekati| |tujuan| |agung| |yang|,| |ketika| |diilhami| |oleh| |Sentimen| |Puitis|,| |diperjuangkannya|—|penciptaan| |Keindahan| |surgawi|....| |Syair| |tidak| |dapat| |disebut| |dengan| |lebih| |baik| |daripada| |musik| |yang| |lebih| |rendah| |atau| |kurang| |mampu|"|;| |tetapi| |sekali| |lagi|,| |syair| |yang| |benar|-|benar| |merupakan| |"|Puisi| |Kata|-|kata|"| |adalah| |"|Penciptaan| |Keindahan| |yang| |Berirama|,|"|—|ini| |dan| |tidak| |lebih|.| |Nada| |Keindahan| |tertinggi| |adalah| |Kesedihan|.| |Topik| |yang| |paling| |melankolis| |adalah| |Kematian|.| |Hal| |ini| |harus| |dikaitkan| |dengan| |Keindahan|.| |"|Kematian| |seorang| |wanita| |cantik|,| |tidak| |diragukan| |lagi|,| |adalah| |topik| |yang| |paling| |puitis| |di| |dunia|,|—dan| |juga| |tidak| |diragukan| |lagi| |bahwa| |bibir| |yang| |paling| |cocok| |untuk| |topik| |tersebut| |adalah| |bibir| |seorang| |kekasih| |yang| |berduka|.|"
+Ungkapan|-|ungkapan| |terakhir| |ini| |dikutip| |dari| |analisis| |aneh| |Poe| |terhadap| |puisi| |ini|,| |tetapi| |ungkapan|-|ungkapan| |itu| |menunjukkan| |dengan| |tepat| |jangkauan| |umum| |syairnya|.| |Klimaks| |dari| |"|The| |Bells|"| |adalah| |monoton| |teredam| |dari| |hantu|-|hantu|,| |yang| |bermegah| |dalam| |membebani| |hati| |manusia|.| |"|Lenore|,|"| |The| |Raven|,| |"|The| |Sleeper|,|"| |"|To| |One| |in| |Paradise|,|"| |dan| |"|Ulalume|"| |membentuk| |simfoni| |tenebrose|,|—dan| |"|Annabel| |Lee|,|"| |yang| |ditulis| |terakhir|,| |menunjukkan| |bahwa| |satu| |tema| |menguasainya| |sampai| |akhir|.| |Sekali| |lagi|,| |semua| |ini| |tidak| |ada| |apa|-|apanya| |jika| |tidak| |musikal|,| |dan| |beberapa| |tersentuh| |dengan| |kualitas| |Fantastis| |yang| |membangkitkan| |rasa| |kagum|,| |dan| |menambahkan| |rasa| |takut| |baru| |pada| |penderitaan| |itu| |sendiri|.| |Melalui| |semua| |itu|,| |samar|-|samar| |diuraikan|,| |di| |bawah| |kain| |kafan| |yang| |gelap|,| |cinta| |ideal| |penyair|,|—yang| |sering| |kali| |setengah| |digambarkan| |di| |tempat| |lain|,|—istri| |Usher| |yang| |terkubur|,| |Lady| |Ligeia|,| |dalam
+[|13|]
+[|13|]
+kebenaran| |adalah| |padanan| |dari| |sifatnya| |sendiri|.| |Saya| |kira| |cinta| |seorang| |seniman| |terhadap| |sesuatu| |yang| |"|berbentuk|"| |tidak| |akan| |pernah| |dapat| |sepenuhnya| |menyaingi| |pengabdiannya| |kepada| |suatu| |cita|-|cita|.| |Wanita| |di| |dekatnya| |harus| |menggunakan| |mantranya|,| |datang| |secara| |bergantian| |dan| |tidak| |lama|,| |memikatnya| |dengan| |variasi| |yang| |tak| |terbatas|,| |atau| |puas| |untuk| |melepaskan| |sebagian| |kesetiaannya|.| |Ia| |harus| |tergoda| |oleh| |yang| |Tak| |Tercapai|,| |dan| |ini| |selalu| |berada| |di| |luar| |jangkauannya| |dalam| |hasratnya| |terhadap| |seni| |kreatif|.
+Poe|,| |seperti| |Hawthorne|,| |muncul| |bersamaan| |dengan| |kemunduran| |aliran| |Romantis|,| |dan| |tak| |seorang| |pun| |lebih| |senang| |daripada| |menertawakan| |malapetaka| |itu|.| |Namun| |hatinya| |tetap| |bersama| |para| |pengarang| |roman| |dan| |pengaruh| |Oriental| |atau| |Gotik| |mereka|.| |Penemuannya|,| |yang| |begitu| |kaya| |akan| |kisah| |prosa|,| |tampaknya| |meninggalkannya| |saat| |ia| |menulis| |syair|;| |dan| |penilaiannya| |mengatakan| |kepadanya| |bahwa| |puisi| |romantis| |yang| |panjang| |lebih| |bergantung| |pada| |kejadian| |daripada| |inspirasi|,|—dan| |bahwa|,| |untuk| |mengucapkan| |puisi| |roman|,| |lirik| |sudah| |cukup|.| |Oleh| |karena| |itu| |teorinya|,| |yang| |jelas| |sesuai| |dengan| |keterbatasannya| |sendiri|,| |bahwa| |"|sebuah| |'|puisi| |panjang|'| |adalah| |kontradiksi| |yang| |datar|.|"| |Komponen| |The| |Raven| |sedikit| |dan| |sederhana|:| |seorang| |pria|,| |seekor| |burung|,| |dan| |memori| |fantastik| |pada| |seorang| |wanita|.| |Namun| |karya| |tersebut| |memberikan| |tampilan| |materi| |romantis| |yang| |bagus|.| |Apa| |yang| |kita| |miliki|?| |Tengah| |malam|;| |ruang| |gelap| |dengan| |buku|-|buku| |pengetahuan| |yang| |terlupakan|;| |mahasiswa|,|—Hieronymus| |modern|;| |ketukan| |gagak| |pada| |jendela|;| |malam| |musim| |dingin| |dan| |api| |yang| |padam|;| |hiasan| |sutra| |yang| |tersapu| |angin|;| |mimpi| |dan| |ketidakpercayaan| |samar|-|samar| |terhadap| |kegelapan| |yang| |bergema|;
+burung| |hitam| |yang| |aneh| |di| |atas| |dada| |pucat|;| |aksesori| |beludru| |ungu| |dan| |lampu| |yang| |menyombongkan| |diri|.| |Semua| |efek| |panggung| |dari| |situasi|,| |cahaya|,| |warna|,| |suara|,| |murni| |romantis|,| |dan| |bahkan| |melodramatis|,| |tetapi| |memiliki| |kualitas| |puitis| |yang| |jarang| |ditunjukkan| |oleh| |melodrama|,| |dan| |sepenuhnya| |mencerminkan| |"|gairah| |abadi|,| |rasa| |sakit| |abadi|"| |sang| |penyair|.
+Struktur| |ritmis| |The| |Raven| |pasti| |akan| |meninggalkan| |kesan|.| |Rima|,| |aliterasi|,| |beban|,| |bentuk| |bait|,| |dirancang| |dengan| |ketangkasan| |yang| |luar| |biasa|.| |Tidak| |diragukan| |lagi| |sang| |penyair| |terpesona| |dengan| |ketepatan| |trochaic| |musik| |Miss| |Barrett|,| |dalam| |"|delapan|"|,| |dan| |terutama| |oleh| |aransemen| |yang| |diadopsi| |menjelang| |akhir| |"|Lady| |Geraldine|"|:
+"|'|Mata|,|'| |katanya|,| |'|sekarang| |berdenyut|-|denyut| |di| |dalam| |diriku|!| |Apakah| |matamu| |yang| |menghancurkanku|?
+Mata| |yang| |berbinar|-|binar|,| |bagaikan| |permata| |antik| |yang| |tertanam| |pada| |patung| |batu| |Parian|!
+Di| |bawah| |dahi| |putih| |yang| |tenang| |itu|,| |apakah| |kau| |selalu| |terbakar| |panas|?
+Di| |atas| |padang| |pasir| |yang| |tandus| |di| |hatiku| |dan| |hidupku| |yang| |hancur|?|'|"
+Pengenalan| |artistiknya| |berupa| |rima| |ketiga| |pada| |baris| |kedua| |dan| |keempat|,| |dan| |penambahan| |baris| |kelima| |dan| |refrain| |terakhir|,| |menjadikan| |bait| |The| |Raven| |sebagai| |bait|.| |Aliterasi| |yang| |terus|-|menerus| |tampaknya| |muncul| |tanpa| |usaha|,| |dan| |sering| |kali| |rima| |dalam| |baris|-|baris| |tersebut| |menggoda|;| |sementara| |refrain| |atau| |beban| |mendominasi| |seluruh| |karya|.| |Di| |sini| |ia| |juga| |diuntungkan| |oleh| |studi| |Miss| |Barrett| |tentang| |balada| |dan| |romansa| |dalam| |bahasanya| |sendiri| |dan| |bahasa| |lainnya|.| |Sebuah| |"|refrain|"| |adalah| |daya| |tarik| |yang| |dengannya| |seorang| |penyair| |atau| |musisi| |menarik| |perhatian| |pendengarnya|,|—kerinduan| |berulang| |Alam| |akan| |alunan| |awal|.| |Saya| |selalu| |mengagumi| |refrain| |yang| |indah| |dari| |penyanyi| |wanita| |Inggris|,|—|"|The| |Nightingales|,| |the| |Nightingales|,|"| |"|Margret|,| |Margret|,|"| |"|My| |Heart| |and| |I|,|"| |"|Toll| |slow|,|"| |"|The| |River| |floweth| |on|,|"| |"|Pan|,| |Pan| |is| |dead|,|"| |dll|.| |Ia| |juga| |menggunakan| |apa| |yang| |saya| |sebut| |Repetend|,| |yang| |penggunaannya| |telah| |membuat| |Poe| |mengungguli| |semua| |penyair| |sejak| |Coleridge| |menghidupkannya| |kembali|:
+"|Hai| |makhluk| |hidup| |yang| |berbahagia|!| |Tidak| |ada| |lidah
+Kecantikan| |mereka| |mungkin| |menyatakan|:
+Sebuah| |mata| |air| |cinta| |mengalir| |dari| |hatiku|,
+Dan| |aku| |memberkati| |mereka| |tanpa| |aku| |sadari|:
+Tentu| |saja| |orang| |suci| |yang| |baik| |hati| |itu| |merasa| |kasihan| |padaku|,
+Dan| |Aku| |memberkati| |mereka| |tanpa| |mereka| |sadari|.|"
+Poe| |menciptakan| |baris| |kelima| |baitnya| |untuk| |keajaiban| |pengulangan|.| |Ia| |mengandalkannya| |sepenuhnya| |dalam| |beberapa| |puisi| |berikutnya|,|—|"|Lenore|,|"| |"|Annabel| |Lee|,|"| |"|Ulalume|,|"| |dan| |"|For| |Annie|.|"| |Menurut| |saya|,| |pengulangan| |itu| |menghasilkan| |musik| |yang| |liar| |dan| |melankolis|,| |dari| |"|pengaruh| |yang| |manis|,|"| |beban| |dan| |pengulangan| |Afrika| |yang| |dinyanyikan| |kepadanya| |di| |masa| |kecil|,| |yang| |selaras| |dengan| |melodi| |asli| |suara| |penyair| |Selatan| |kita|.
+"|The| |Philosophy| |of| |Composition|,|"| |analisisnya| |tentang| |The| |Raven|,| |adalah| |pembedahan| |teknis| |dari| |metode| |dan| |strukturnya|.| |Pengakuannya| |akan| |kepalsuan| |berdarah| |dingin|,| |maupun| |pengakuannya| |selanjutnya| |kepada| |teman|-|temannya| |bahwa| |pengungkapan| |kepalsuan| |ini| |hanyalah| |salah| |satu| |tipuan| |intelektualnya|,| |tidak| |perlu| |sepenuhnya| |dipercaya|.| |Jika| |ia| |telah| |merancang| |karya| |lengkapnya| |terlebih| |dahulu|,| |ia| |hampir| |tidak| |akan| |membuat| |pendahuluan| |yang| |begitu| |kasar| |berupa| |rima|-|rima| |yang| |berderak|-|derak| |untuk| |melodi| |yang| |nikmat| |di| |bait| |kedua|,|—bahkan| |tidak| |pada| |teorinya| |tentang| |hal|-|hal| |yang| |fantastis|.| |Tentu| |saja| |seorang| |seniman|,| |setelah| |menyempurnakan| |sebuah| |karya|,| |melihat|,| |seperti| |Seniman| |pertama|,| |bahwa| |karya| |itu| |bagus|,| |dan| |melihat| |mengapa| |karya| |itu| |bagus|.| |Analisis| |selanjutnya|,| |yang| |disertai| |dengan| |penyangkalan| |terhadap| |api| |suci| |apa| |pun|,| |dapat| |dilakukan| |dengan| |cukup| |mudah|.| ​​|Keyakinan| |saya| |adalah| |bahwa| |konsepsi| |pertama| |dan| |draf| |kasar| |puisi| |ini| |datang| |sebagaimana| |inspirasi| |selalu| |datang|;| |bahwa| |pengarangnya| |kemudian| |melihat| |bagaimana| |puisi| |itu| |dapat| |disempurnakan|,| |memberinya| |sentuhan| |akhir| |yang| |dijelaskan| |dalam| |babnya| |tentang| |Komposisi|,| |dan| |bahwa| |yang| |terakhir|,| |oleh| |karena| |itu|,| |tidak| |sepenuhnya| |salah| |atau| |sepenuhnya| |benar|.
+Kerugian| |dari| |analisis| |semacam| |itu| |adalah| |menggoda| |seorang| |pemula| |untuk| |membayangkan| |bahwa| |proses| |buatan| |dapat| |menggantikan| |imajinasi|.| |Dorongan| |seorang| |jenius| |adalah| |menjaga| |rahasia|-|rahasia| |dari| |saat|-|saat| |kreatifnya|.| |Sekilas| |pandang| |yang| |diperoleh| |dari| |kerja| |keras|,| |eksperimen|-|eksperimen| |yang| |membingungkan|,| |yang| |mendahului| |sebuah| |kemenangan|,| |seperti| |dalam| |karya| |sketsa| |Hawthorne| |yang| |baru|-|baru| |ini| |terungkap|,| |memberikan| |instruksi| |dan| |dorongan| |yang| |tak| |ternilai| |bagi| |seniman| |yang| |tulus|.| |Namun| |satu| |hal
+[|14|]
+[|14|]
+yang| |dengan| |sukarela| |memperlihatkan| |Muse|-|nya| |kepada| |tatapan| |semua| |pendatang| |seharusnya| |mengingat| |nasib| |Raja| |Candaules|.
+Dunia| |masih| |menganggap| |Poe| |sebagai| |"|orang| |jenius| |yang| |malang|.|"| |Saya| |baru|-|baru| |ini| |mendengar| |dia| |disebut| |sebagai| |"|seseorang| |yang| |tampaknya| |semua| |orang| |ditugaskan| |untuk| |salah| |menggambarkan|,| |mencela|,| |atau| |memfitnah|.|"| |Namun| |bagi| |saya| |nasib| |buruknya| |berakhir| |dengan| |kematiannya| |yang| |menyedihkan|,| |dan| |sejak| |saat| |itu| |pembelaannya| |terus| |berlanjut|,| |dan| |ketenarannya| |sebagai| |penulis| |yang| |tumbuh| |dengan| |mantap| |seperti| |yang| |dapat| |didoakan| |oleh| |seorang| |penulis| |yang| |menderita| |dan| |berbakat| |di| |saat|-|saat| |penuh| |harapan|.| |Kecaman| |dan| |fitnah| |Griswold| |mengubah| |arus| |menjadi| |menguntungkannya|.| |Kritikus| |dan| |penulis| |biografi| |telah| |maju| |dengan| |bantahan| |berturut|-|turut|,| |dengan| |penghormatan| |kepada| |karakternya|,| |dengan| |edisi| |baru| |karya|-|karyanya|.| |Surat|-|suratnya| |sendiri| |dan| |insiden|-|insiden| |kecil| |dalam| |kariernya| |ada| |di| |hadapan| |kita|;| |catatannya|,| |baik| |dan| |buruk|,| |diketahui| |secara| |luas|.| |Tidak| |ada| |penasehat| |hukum| |yang| |menerima| |penilaian| |yang| |lebih| |lembut| |dan| |pemaaf|.| |Kecelakaan|-|kecelakaannya| |dalam| |hidup| |adalah| |milik| |wilayah| |dan| |zamannya|,| |mungkin| |lebih| |karena| |kelemahan| |kemauannya| |sendiri|.
+Tidak| |diragukan| |lagi| |lingkungannya| |tidak| |melindungi| |sifat| |yang| |halus| |dan| |tidak| |seimbang| |dari| |bahaya| |dari| |luar| |dan| |dalam|.| |Keinginannya| |yang| |paling| |kuat|,| |untuk| |menjadi| |tuan| |atas| |dirinya| |sendiri|,| |memberinya| |"|warisan| |kesengsaraan|.|"| |Dia| |mengaku| |dirinya| |sebagai| |tuan| |burung| |yang| |tidak| |bahagia|,| |penderita| |yang| |tertimpa| |puisi| |ini|.| |Namun|,| |dia| |memiliki| |temperamen| |dramatis| |yang| |bersuka| |cita| |dalam| |pertanda| |kehancurannya| |sendiri|.| |Ada| |kesenangan| |dalam| |memainkan| |peran| |yang| |tinggi|:| |kita| |semua| |adalah| |gladiator|,| |yang| |meneriakkan| |Ave| |Imperator|!| |Mengutip| |pernyataan| |Burke| |yang| |sebenarnya|:| |"|Dalam| |kesedihan|,| |kesenangan| |masih| |yang| |paling| |utama|,| |dan| |penderitaan| |yang| |kita| |derita| |tidak| |ada| |kemiripannya| |dengan| |rasa| |sakit| |yang| |luar| |biasa|,| |yang| |selalu| |menjijikkan|,| |dan| |yang| |berusaha| |kita| |singkirkan| |secepat| |mungkin|.|"| |Poe| |melangkah| |lebih| |jauh|,| |dan| |menjadi| |seorang| |seniman| |bahkan| |dalam| |tragedi| |kariernya|.
+Jika| |menurut| |keyakinannya| |sendiri|,| |kesedihan| |dan| |lenyapnya| |keindahan| |merupakan| |tema| |puitis| |tertinggi|,| |dan| |perasaan| |puitis| |merupakan| |kenikmatan| |duniawi| |yang| |paling| |tajam|,| |maka| |kesedihan| |dan| |kegelapan| |dalam| |kehidupan| |yang| |hancur| |bukanlah| |tanpa| |kompensasi| |yang| |sering| |terjadi|.
+Di| |halaman|-|halaman| |berikut|,| |kita| |memiliki| |contoh| |baru| |tentang| |kejeniusan| |seorang| |seniman| |yang| |mencirikan| |interpretasinya| |terhadap| |sebuah| |puisi| |terkenal|.| |Gustave| |Doré|,| |yang| |karya| |terakhirnya| |berupa| |pensil| |masih| |ada| |di| |hadapan| |kita|,| |bukanlah| |seorang| |pelukis|,| |atau| |bahkan| |juru| |gambar|,| |karena| |kaum| |realis| |menuntut| |kebenaran| |nada|,| |bentuk|,| |dan| |kesempurnaan|.| |Hal|-|hal| |seperti| |itu| |tidak| |terlalu| |menjadi| |perhatiannya|,| |melainkan| |untuk| |membuat| |bentuk| |dan| |jarak|,| |cahaya| |dan| |bayangan|,| |membantu| |tujuannya|,|—yang| |adalah| |untuk| |membangkitkan| |jiwa|,| |imajinasi|,| |dari| |pengamat|.| |Ini| |dilakukannya| |dengan| |membangkitkan| |rasa| |kagum| |kita|,| |melalui| |konsepsi| |yang| |luar| |biasa| |dan| |sering| |kali| |agung| |tentang| |hal|-|hal| |yang| |tak| |terlukiskan| |dan| |penuh| |dengan| |kesuraman| |atau| |kemuliaan|.| |Dikatakan| |dengan| |tepat| |bahwa| |jika| |karyanya| |bukan| |lukisan| |yang| |hebat|,| |sebagai| |gambar|,| |karya|-|karyanya| |memang| |hebat|.| |Sebagai| |seorang| |"|seniman| |sastra|,|"| |dan| |seperti| |itulah| |dia|,| |kekuatannya| |berbanding| |lurus| |dengan| |penemuan| |dramatis| |pengarangnya|,| |dengan| |keberanian| |jiwa| |yang| |mengobarkan| |semangatnya| |sendiri|.
+Maka| |dari| |itu|,| |ia| |sukses| |dengan| |Rabelais|,| |dengan| |"|Le| |Juif|-|Errant|,|"| |"|Les| |Contes| |Drolatiques|,|"| |dan| |"|Don| |Quixote|,|"| |dan| |sebaliknya|,| |ia| |gagal| |mengekspresikan| |keindahan| |Idyls| |karya| |Tennyson|,| |"|Il| |Paradiso|,|"| |karya|-|karya| |pastoral| |Ibrani|,| |dan| |teks|-|teks| |lain| |yang| |menuntut| |peninggian|,| |atau| |kemanisan| |dan| |ketenangan|.| |Ia| |terlahir| |sebagai| |ahli| |dalam| |hal|-|hal| |yang| |aneh|,| |dan| |dengan| |wawasan| |khusus| |dapat| |menggambarkan| |hantu|-|hantu| |dari| |otak| |yang| |terhantui|.| |Kita| |melihat| |objek| |sebagaimana| |tokoh|-|tokohnya| |melihatnya|,| |dan| |dengan| |mata| |orang| |Yahudi| |Pengembara|,| |Don| |yang| |bingung|,| |atau| |putri| |tukang| |emas| |yang| |khayalannya| |begitu| |mengagungkan| |Raja| |di| |toko| |di| |Pont|-|au|-|Change|.| |Sudah| |menjadi| |sifat| |alamiahnya| |bahwa| |ia| |tertarik| |pada| |setiap| |karya| |besar| |syair| |atau| |prosa| |yang| |saya| |sebut| |unik|.| |Kerajaan|-|kerajaan| |yang| |lebih| |rendah| |dipanggil| |untuk| |melayaninya|;| |batu|-|batu|,| |pohon|-|pohon|,| |dan| |gunung|-|gunungnya|,| |langit| |itu| |sendiri|,| |digerakkan| |oleh| |motif| |dan| |diablerie|.
+Jika| |ia| |hidup| |untuk| |mengilustrasikan| |Shakespeare|,| |kita| |akan| |melihat| |penanganan| |yang| |luar| |biasa| |terhadap| |Caliban|,| |para| |Penyihir|,| |badai| |dalam| |"|Lear|"|;| |tetapi| |pasti| |akan| |mempertanyakan| |cita|-|citanya| |terhadap| |Imogen| |atau| |Miranda|.| |Keindahan| |yang| |murni| |dan| |sederhana|,| |dan| |keunggulan| |yang| |sempurna| |dari| |keindahan| |itu|,| |tampaknya| |jarang| |ia| |pahami|.
+Namun|,| |ada| |keindahan| |dalam| |rancangannya| |untuk| |"|Pelaut| |Kuno|,|"| |yang| |tidak| |nyata|,| |dan| |keteraturan| |yang| |jarang| |ditemukan| |dalam| |seri| |karya| |Doré|.| |Rime| |memberinya| |cerita| |yang| |panjang|,| |dengan| |banyak| |perubahan| |adegan|.| |Dalam| |The| |Raven|,| |suara| |dan| |warna| |mempertahankan| |kemonotonannya| |dan| |kita| |tidak| |melihat| |perubahan| |tempat| |atau| |kejadian|.| |Apa| |hasilnya|?| |Doré| |menawarkan| |serangkaian| |variasi| |pada| |tema| |yang| |ia| |bayangkan|,| |"|teka|-|teki| |kematian| |dan| |halusinasi| |jiwa| |yang| |tidak| |dapat| |dihibur|.|"| |Dalam| |beberapa| |gambar| |ini|,| |kesalahannya| |terlihat| |jelas|;| |yang| |lain| |mengungkapkan| |orisinalitasnya| |yang| |kuat|,| |dan| |kualitas| |terbaik| |yang|,| |sebagai| |seorang| |juru| |gambar|,| |ia| |miliki| |sendiri|.| |Jelas| |ada| |kesamaan| |antara| |suasana| |kerja| |Poe| |dan| |Doré|.| |Ini| |akan| |tampak| |lebih| |jelas| |jika| |yang| |terakhir| |mencoba| |mengerjakan| |"|Tales| |of| |the| |Grotesque| |and| |Arabesque|.|"| |Keduanya| |sering| |beralih| |ke| |negeri| |peri| |fantasi| |dan| |romansa|.| |Dalam| |aksi| |melodramatis|,| |mereka| |berdua|,| |melalui| |penguasaan| |mereka| |terhadap| |hal|-|hal| |gaib|,| |menghindari| |garis| |bahaya| |antara| |yang| |ideal| |dan| |yang| |tidak| |masuk| |akal|.
+Poe| |adalah| |pemuja| |sejati| |Keindahan|;| |cintanya| |pada| |keindahan| |adalah| |hasrat| |yang| |menguduskan|,| |dan| |di| |sinilah| |ia| |berpisah| |dengan| |ilustratornya|.| |Penyair| |atau| |seniman|,| |Kematian| |akhirnya| |mengubah| |segalanya|:| |di| |bawah| |bayang|-|bayang| |pertanda| |suramnya|,| |krayon| |simbolis| |Vedder| |dengan| |tepat| |menempatkan| |mereka| |berhadapan|,| |tetapi| |membungkus| |mereka| |dengan| |jubah| |kebijaksanaan| |dan| |kekuatan| |abadi|.| |Seorang| |wanita| |Amerika| |telah| |menempa| |citra| |seorang| |Jenius| |bermata| |bintang| |dengan| |obor| |terakhir|,| |kemiripan| |yang| |indah| |dari| |seseorang| |yang| |visinya| |melihat|,| |tetapi| |bibirnya| |tidak| |dapat| |mengucapkan|,| |misteri| |tanah| |di| |luar| |"|pintu| |makam| |legendaris|.|"
+Edmund| |C.| |Stedman|.
+PUISI|.
+Ilustrasi| |1
+Ilustrasi| |1
+SI| |GAGAK|.
+Suatu| |tengah| |malam| |yang| |suram|,| |ketika| |aku| |merenung|,| |lemah| |dan| |lelah|,
+Dalam| |banyak| |volume| |cerita| |rakyat| |yang| |aneh| |dan| |aneh| |yang| |terlupakan|,
+Ketika| |aku| |mengangguk|,| |hampir| |tertidur|,| |tiba|-|tiba| |terdengar| |ketukan|,
+Seperti| |ada| |yang| |mengetuk| |pelan|,| |mengetuk| |pintu| |kamarku|.
+"|Ada| |tamu|,|"| |gerutuku|,| |"|mengetuk| |pintu| |kamarku—
+Hanya| |ini|,| |dan| |tidak| |lebih|.|"
+Ah|,| |jelas| |aku| |ingat| |itu| |di| |bulan| |Desember| |yang| |suram|,
+Dan| |setiap| |bara| |api| |yang| |mati| |meninggalkan| |jejak| |hantunya| |di| |lantai|.
+Dengan| |penuh| |semangat| |aku| |mengharapkan| |hari| |esok|:|—dengan| |sia|-|sia| |aku| |berusaha| |meminjam
+Dari| |buku|-|buku| |saya|,| |kesedihan| |yang| |tak| |kunjung| |berakhir|—|kesedihan| |atas| |kehilangan| |Lenore—
+Untuk| |gadis| |langka| |dan| |cemerlang| |yang| |oleh| |para| |malaikat| |diberi| |nama| |Lenore—
+Tak| |bernama| |di| |sini| |untuk| |selama|-|lamanya|.
+Dan| |gemerisik| |sutra| |sedih| |tak| |menentu| |dari| |setiap| |tirai| |ungu
+Membuatku| |bersemangat|—|membuatku| |merasakan| |kengerian| |fantastis| |yang| |belum| |pernah| |kurasakan| |sebelumnya|;
+Jadi| |sekarang|,| |untuk| |menenangkan| |detak| |jantungku|,| |aku| |berdiri| |mengulang|-|ulang
+"|Ada| |seorang| |tamu| |yang| |memohon| |masuk| |ke| |pintu| |kamarku
+Seorang| |pengunjung| |yang| |terlambat| |memohon| |untuk| |masuk| |ke| |pintu| |kamarku|;|—
+"|Itu| |saja|,| |tidak| |lebih|.|"
+Saat| |ini| |jiwaku| |tumbuh| |lebih| |kuat|;| |tidak| |ragu| |lagi|,
+"|Tuan|,|"| |kataku|,| |"|atau| |Nyonya|,| |saya| |mohon| |maaf| |yang| |sebesar|-|besarnya|;
+Tapi| |faktanya| |aku| |sedang| |tidur| |siang|,| |dan| |begitu| |lembutnya| |kau| |datang| |mengetuk|,
+Dan| |samar|-|samar| |kau| |datang| |mengetuk|,| |mengetuk| |pintu| |kamarku|,
+Aku| |hampir| |tidak| |yakin| |aku| |mendengarmu|"|—di| |sini| |aku| |membuka| |pintu| |lebar|-|lebar|;|—
+Di| |sana| |gelap|,| |dan| |tidak| |ada| |yang| |lain|.
+Jauh| |di| |dalam| |kegelapan| |itu| |mengintip|,| |lama| |aku| |berdiri| |di| |sana| |bertanya|-|tanya|,| |takut|,
+Meragukan|,| |memimpikan| |mimpi| |yang| |belum| |pernah| |berani| |diimpikan| |oleh| |manusia| |mana| |pun| |sebelumnya|;
+Namun| |keheningan| |itu| |tak| |terpecahkan|,| |dan| |kegelapan| |tak| |memberi| |tanda|,
+Dan| |satu|-|satunya| |kata| |yang| |terucap| |di| |sana| |adalah| |bisikan|,| |"|Lenore|!|"
+Aku| |bisikkan| |itu|,| |dan| |sebuah| |gema| |menggumamkan| |kembali| |kata|,| |"|Lenore|!|"
+Hanya| |ini| |saja| |dan| |tidak| |lebih|.
+Kembali| |ke| |kamar| |berputar|,| |seluruh| |jiwaku| |terbakar| |di| |dalam| |diriku|,
+Tak| |lama| |kemudian| |aku| |mendengar| |ketukan| |lagi|,| |agak| |lebih| |keras| |dari| |sebelumnya|.
+"|Tentu| |saja|,|"| |kataku|,| |"|pasti| |ada| |sesuatu| |di| |kisi|-|kisi| |jendelaku|;
+Biarkan| |aku| |melihat| |apa| |yang| |ada| |di| |sana|,| |dan| |menyelidiki| |misteri| |ini—
+Biarkan| |hatiku| |tenang| |sejenak| |dan| |jelajahi| |misteri| |ini|;|—
+"|Itu| |hanya| |angin| |dan| |tidak| |lebih|!|"
+Buka| |di| |sini| |aku| |melemparkan| |penutup| |jendela|,| |ketika|,| |dengan| |banyak| |godaan| |dan| |kepakan|,
+Di| |sana| |melangkah| |seekor| |Burung| |Gagak| |yang| |gagah| |dari| |zaman| |suci| |dahulu| |kala|.
+Dia| |tidak| |memberikan| |penghormatan| |sedikit| |pun|,| |dia| |tidak| |berhenti| |atau| |berdiam| |semenit| |pun|;
+Namun|,| |dengan| |sikap| |seorang| |tuan| |atau| |nyonya|,| |bertengger| |di| |atas| |pintu| |kamarku—
+Bertengger| |di| |atas| |patung| |dada| |Pallas| |tepat| |di| |atas| |pintu| |kamarku—
+Bertengger|,| |lalu| |duduk|,| |dan| |tidak| |ada| |yang| |lain|.
+Lalu| |burung| |hitam| |ini| |membujuk| |khayalanku| |yang| |sedih| |hingga| |tersenyum|,
+Dari| |sikap| |serius| |dan| |tegas| |yang| |ditunjukkannya|,
+"|Meskipun| |jambulmu| |dicukur| |dan| |dicukur|,| |kamu|,|"| |kataku|,| |"|tentu| |saja| |bukan| |pengecut|,
+Burung| |gagak| |tua| |yang| |mengerikan| |dan| |mengerikan| |berkeliaran| |dari| |pantai| |malam|,|—
+Katakanlah| |kepadaku| |siapa| |nama| |agungmu| |di| |pantai| |Pluto| |sang| |Malam|!|"
+Kata| |si| |Gagak|,| |"|Tak| |Pernah| |Lagi|.|"
+Aku| |sangat| |kagum| |pada| |burung| |yang| |canggung| |ini| |saat| |mendengar| |pembicaraan| |dengan| |begitu| |jelas|,
+Meskipun| |jawabannya| |sedikit| |artinya|—|sedikit| |relevansi| |dan| |membosankan|;
+Karena| |kita| |tidak| |dapat| |tidak| |setuju| |bahwa| |tidak| |ada| |manusia| |yang| |hidup
+Ever| |masih| |diberkati| |dengan| |melihat| |burung| |di| |atas| |pintu| |kamarnya—
+Burung| |atau| |binatang| |di| |atas| |patung| |dada| |di| |atas| |pintu| |kamarnya|,
+Dengan| |nama| |seperti| |"|Nevermore|.|"
+Tapi| |si| |Gagak|,| |yang| |duduk| |sendirian| |di| |patung| |dada| |yang| |tenang|,| |hanya| |berbicara
+Satu| |kata| |itu|,| |seakan|-|akan| |jiwanya| |tercurah| |dalam| |satu| |kata| |itu|.
+Tidak| |ada| |lagi| |yang| |diucapkannya|—|tidak| |ada| |sehelai| |bulu| |pun| |yang| |dikibarkannya—
+Sampai| |aku| |hampir| |tidak| |bisa| |bergumam|,| |"|Teman|-|teman| |lain| |telah| |terbang| |sebelumnya—
+Besok| |dia| |akan| |meninggalkanku|,| |karena| |harapanku| |telah| |melayang| |sebelumnya|.|"
+Lalu| |burung| |itu| |berkata|,| |"|Tidak| |akan| |pernah| |lagi|.|"
+Terkejut| |dengan| |keheningan| |yang| |dipecahkan| |oleh| |jawaban| |yang| |diucapkan| |dengan| |tepat|,
+"|Tidak| |diragukan| |lagi|,|"| |kataku|,| |"|apa| |yang| |diucapkannya| |adalah| |satu|-|satunya| |persediaan| |dan| |simpanannya|,
+Tertangkap| |oleh| |tuan| |yang| |tidak| |bahagia| |yang| |tidak| |kenal| |ampun| |Bencana
+Mengikuti| |dengan| |cepat| |dan| |mengikuti| |lebih| |cepat| |sampai| |lagunya| |menanggung| |satu| |beban—
+Sampai| |ratapan| |Harapannya| |yang| |menanggung| |beban| |kesedihan
+Dari| |'|Tidak| |pernah|—|tidak| |pernah| |lagi|.|'|"
+Namun| |si| |Gagak| |masih| |membujuk| |seluruh| |jiwaku| |yang| |sedih| |agar| |tersenyum|,
+Lurus| |aku| |mendorong| |kursi| |berbantalan| |di| |depan| |burung| |dan| |patung| |dada| |dan| |pintu|;
+Kemudian|,| |saat| |beludru| |tenggelam|,| |aku| |mulai| |menghubungkannya
+Berfantasi| |hingga| |berfantasi|,| |memikirkan| |apa| |yang| |dilakukan| |burung| |masa| |lalu| |yang| |tidak| |menyenangkan| |ini—
+Burung| |masa| |lalu| |yang| |suram|,| |canggung|,| |mengerikan|,| |kurus| |dan| |tidak| |menyenangkan| |ini
+Maksudnya| |adalah| |"|Nevermore|"| |yang| |serak|.
+Ini| |aku| |duduk| |sambil| |menebak|,| |tapi| |tidak| |ada| |suku| |kata| |yang| |terungkap
+Kepada| |burung| |yang| |matanya| |yang| |berapi|-|api| |kini| |membakar| |inti| |dadaku|;
+Ini| |dan| |lebih| |banyak| |lagi| |aku| |duduk| |meramal|,| |dengan| |kepalaku| |bersandar| |dengan| |nyaman
+Di| |atas| |lapisan| |beludru| |bantal| |yang| |diterangi| |lampu|,
+Tapi| |yang| |beludru| |ungu| |melapisi| |dengan| |cahaya| |lampu| |yang| |menyombongkan| |diri
+Dia| |akan| |terus| |mendesak|,| |ah|,| |tidak| |akan| |pernah| |lagi|!
+Kemudian|,| |pikirku|,| |udara| |menjadi| |lebih| |padat|,| |harum| |dari| |pedupaan| |yang| |tak| |terlihat
+Diayunkan| |oleh| |serafim| |yang| |langkah| |kakinya| |berdenting| |di| |lantai| |berumbai|.
+“|Orang| |celaka|,|”| |teriakku|,| |“|Allahmu| |telah| |meminjamkanmu|—|melalui| |malaikat|-|malaikat| |ini| |Dia| |telah| |mengutus| |engkau
+Jeda|—|jeda| |dan| |ketenangan| |dari| |kenanganmu| |tentang| |Lenore|!
+Minumlah|,| |oh| |minumlah| |nepenthe| |yang| |baik| |ini|,| |dan| |lupakan| |Lenore| |yang| |hilang| |ini|!|"
+Kata| |si| |Gagak|,| |"|Tak| |Pernah| |Lagi|.|"
+"|Nabi|!|"| |kataku|,| |"|makhluk| |jahat|!|—tetap| |saja| |nabi|,| |entah| |itu| |burung| |atau| |setan|!|—
+Entah| |apakah| |si| |penggoda| |telah| |mengirimmu|,| |atau| |apakah| |badai| |telah| |melemparkanmu| |ke| |pantai| |ini|,
+Sepi| |namun| |tak| |gentar|,| |di| |tanah| |gurun| |yang| |mempesona| |ini—
+Di| |rumah| |ini| |oleh| |Horror| |yang| |berhantu|—|katakan| |padaku| |dengan| |jujur|,| |aku| |mohon—
+Apakah| |ada|—|apakah| |ada| |balsem| |di| |Gilead|?|—beritahu| |aku|—|beritahu| |aku|,| |aku| |mohon|!|"
+Kata| |si| |Gagak|,| |"|Tak| |Pernah| |Lagi|.|"
+"|Nabi|!|"| |kataku|,| |"|makhluk| |jahat|—|tetap| |nabi|,| |entah| |itu| |burung| |atau| |setan|!
+Demi| |Surga| |yang| |membungkuk| |di| |atas|,| |kita|—|demi| |Tuhan| |yang| |kita| |berdua| |sembah—
+Katakanlah| |kepada| |jiwa| |ini| |yang| |dibebani| |kesedihan| |jika|,| |di| |dalam| |Aidenn| |yang| |jauh|,
+Itu| |akan| |mencengkeram| |seorang| |gadis| |suci| |yang| |oleh| |para| |malaikat| |disebut| |Lenore—
+Genggamlah| |seorang| |gadis| |langka| |dan| |bersinar| |yang| |oleh| |para| |malaikat| |diberi| |nama| |Lenore|.|"
+Kata| |si| |Gagak|,| |"|Tak| |Pernah| |Lagi|.|"
+"|Kata| |itu| |bisa| |jadi| |tanda| |perpisahan| |kita|,| |burung| |atau| |iblis|!|"| |jeritku|,| |terkejut—
+"|Kembalilah| |kau| |ke| |badai| |dan| |pantai| |Pluto| |Malam|!
+Jangan| |tinggalkan| |bulu| |hitam| |sebagai| |tanda| |kebohongan| |yang| |diucapkan| |jiwamu|!
+Biarkan| |kesendirianku| |tak| |terputus|!|—hentikan| |patung| |di| |atas| |pintuku|!
+"|Ambillah| |paruhmu| |dari| |hatiku|,| |dan| |ambillah| |rupamu| |dari| |pintuku|!|"
+Kata| |si| |Gagak|,| |"|Tak| |Pernah| |Lagi|.|"
+Dan| |si| |Gagak|,| |tak| |pernah| |terbang|,| |masih| |duduk|,| |masih| |duduk
+Di| |atas| |patung| |dada| |pucat| |Pallas| |tepat| |di| |atas| |pintu| |kamarku|;
+Dan| |matanya| |tampak| |seperti| |mata| |iblis| |yang| |sedang| |bermimpi|,
+Dan| |cahaya| |lampu| |yang| |menyinarinya| |melemparkan| |bayangannya| |ke| |lantai|;
+Dan| |jiwaku| |dari| |bayangan| |yang| |mengambang| |di| |lantai
+Akan| |diangkat|—|tidak| |akan| |pernah| |lagi|!

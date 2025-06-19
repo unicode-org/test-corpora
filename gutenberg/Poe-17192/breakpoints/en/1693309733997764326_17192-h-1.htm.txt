@@ -1,0 +1,113 @@
+<title>
+      The Project Gutenberg eBook of The Raven, by Edgar Allan Poe.
+    </title>
+<span id="img_images_i002.jpg" title="Illustration 2">Illustration 2</span>
+<span id="img_images_i003.jpg" title="Illustration 3">Illustration 3</span>
+<td align="left">
+"Once upon a midnight dreary, while I pondered, weak and weary,<br/>
+Over many a quaint and curious volume of forgotten lore."
+</td>
+<span id="img_images_i004.jpg" title="Illustration 4">Illustration 4</span>
+<td align="left">
+"Ah, distinctly I remember it was in the bleak December,<br/>
+And each separate dying ember wrought its ghost upon the floor."
+</td>
+<span id="img_images_i005.jpg" title="Illustration 5">Illustration 5</span>
+<td align="left">
+"Eagerly I wished the morrow;—vainly I had sought to borrow<br/>
+From my books surcease of sorrow—sorrow for the lost Lenore."
+</td>
+<span id="img_images_i006.jpg" title="Illustration 6">Illustration 6</span>
+<td align="left">
+"Sorrow for the lost Lenore."
+</td>
+<span id="img_images_i007.jpg" title="Illustration 7">Illustration 7</span>
+<td align="left">
+"For the rare and radiant maiden whom the angels name Lenore—<br/>
+<span class="indent">Nameless here for evermore."</span>
+</td>
+<span id="img_images_i008.jpg" title="Illustration 8">Illustration 8</span>
+<td align="left">
+"'T is some visiter entreating entrance at my chamber door—<br/>
+Some late visiter entreating entrance at my chamber door."
+</td>
+<span id="img_images_i009.jpg" title="Illustration 9">Illustration 9</span>
+<td align="left">
+"Here I opened wide the door;—<br/>
+<span class="indent">Darkness there, and nothing more."</span>
+</td>
+<span id="img_images_i010.jpg" title="Illustration 10">Illustration 10</span>
+<td align="left">
+"Doubting, dreaming dreams no mortal ever dared to dream before."
+</td>
+<span id="img_images_i011.jpg" title="Illustration 11">Illustration 11</span>
+<td align="left">
+"'Surely,' said I, 'surely that is something at my window lattice;<br/>
+Let me see, then, what thereat is, and this mystery explore.'"
+</td>
+<span id="img_images_i012.jpg" title="Illustration 12">Illustration 12</span>
+<td align="left">
+"Open here I flung the shutter."
+</td>
+<span id="img_images_i013.jpg" title="Illustration 13">Illustration 13</span>
+<td align="left">
+. . . . . . . . "A stately Raven of the saintly days of yore.<br/>
+Not the least obeisance made he; not a minute stopped or stayed he."
+</td>
+<span id="img_images_i014.jpg" title="Illustration 14">Illustration 14</span>
+<td align="left">
+"Perched upon a bust of Pallas just above my chamber door—<br/>
+<span class="indent">Perched, and sat, and nothing more."</span>
+</td>
+<span id="img_images_i015.jpg" title="Illustration 15">Illustration 15</span>
+<td align="left">
+"Wandering from the Nightly shore."
+</td>
+<span id="img_images_i016.jpg" title="Illustration 16">Illustration 16</span>
+<td align="left">
+"Till I scarcely more than muttered, 'Other friends have flown before—<br/>
+On the morrow <i>he</i> will leave me, as my hopes have flown before.'"
+</td>
+<span id="img_images_i017.jpg" title="Illustration 17">Illustration 17</span>
+<td align="left">
+"Then, upon the velvet sinking, I betook myself to linking<br/>
+Fancy unto fancy."
+</td>
+<span id="img_images_i018.jpg" title="Illustration 18">Illustration 18</span>
+<td align="left">
+"But whose velvet violet lining with the lamplight gloating o'er<br/>
+<span class="indent"><i>She</i> shall press, ah, nevermore!"</span>
+</td>
+<span id="img_images_i019.jpg" title="Illustration 19">Illustration 19</span>
+<td align="left">
+"'Wretch,' I cried, 'thy God hath lent thee—by these angels he hath sent thee<br/>
+Respite—respite and nepenthe from thy memories of Lenore!'"
+</td>
+<span id="img_images_i020.jpg" title="Illustration 20">Illustration 20</span>
+<td align="left">
+"On this home by Horror haunted."
+</td>
+<span id="img_images_i021.jpg" title="Illustration 21">Illustration 21</span>
+<td align="left">
+. . . . . . . . . "Tell me truly, I implore—<br/>
+Is there—<i>is</i> there balm in Gilead?—tell me—tell me, I implore!"
+</td>
+<span id="img_images_i022.jpg" title="Illustration 22">Illustration 22</span>
+<td align="left">
+"Tell this soul with sorrow laden if, within the distant Aidenn,<br/>
+It shall clasp a sainted maiden whom the angels name Lenore."
+</td>
+<span id="img_images_i023.jpg" title="Illustration 23">Illustration 23</span>
+<td align="left">
+"'Be that word our sign of parting, bird or fiend!' I shrieked, upstarting."
+</td>
+<span id="img_images_i024.jpg" title="Illustration 24">Illustration 24</span>
+<td align="left">
+"'Get thee back into the tempest and the Night's Plutonian shore!'"
+</td>
+<span id="img_images_i025.jpg" title="Illustration 25">Illustration 25</span>
+<td align="left">
+"And my soul from out that shadow that lies floating on the floor<br/>
+<span class="indent">Shall be lifted—nevermore!"</span>
+</td>
+<span id="img_images_i026.jpg" title="Illustration 26">Illustration 26</span>

@@ -1,0 +1,320 @@
+O| |e|-|book| |do| |Project| |Gutenberg| |de| |O| |Corvo|,| |de| |Edgar| |Allan| |Poe|.
+O| |eBook| |do| |Project| |Gutenberg| |de| |The| |Raven
+Este| |e|-|book| |é| |para| |utilização| |gratuita| |e| |praticamente| |sem| |restrições| |para| |qualquer| |pessoa| |em| |qualquer| |parte| |dos| |Estados| |Unidos| |e| |da| |maioria| |das| |outras| |partes| |do| |mundo|.| |Pode| |copiá|-|lo|,| |distribuí|-|lo| |ou| |reutilizá|-|lo| |nos| |termos| |da| |Licença| |do| |Projeto| |Gutenberg|,| |incluída| |neste| |e|-|book| |ou| |online| |em| |www.gutenberg.org| |.| |Se| |não| |estiver| |nos| |Estados| |Unidos|,| |deverá| |verificar| |as| |leis| |do| |país| |onde| |se| |encontra| |antes| |de| |utilizar| |este| |e|-|book|.
+Título| |:| |O| |Corvo
+Autor| |:| |Edgar| |Allan| |Poe
+Comentador| |:| |Edmund| |Clarence| |Stedman
+Ilustrador| |:| |Gustave| |Doré
+Data| |de| |lançamento| |:| |30| |de| |Novembro| |de| |2005| |[|eBook| |nº| |17192|]
+Atualizado| |recentemente|:| |13| |de| |dezembro| |de| |2020
+Idioma| |:| |Inglês
+Créditos| |:| |Produzido| |por| |Jason| |Isbell|,| |Melissa| |Er|-|Raqabi| |e| |Online
+Equipa| |de| |revisão| |distribuída| |em| |https://www.pgdp.net|.
+***| |INÍCIO| |DO| |PROJETO| |GUTENBERG| |EBOOK| |O| |CORVO| |***
+Contracapa
+Contracapa
+O| |CORVO
+Por
+EDGAR| |ALLAN| |POE
+ILUSTRADO
+Por| |GUSTAVE| |DORÉ
+Imagem| |do| |título
+Imagem| |do| |título
+COM| |COMENTÁRIO| |DE| |EDMUND| |C.| |STEDMAN
+NOVA| |IORQUE
+HARPER| |&| |BROTHERS|,| |EDITORA|,| |FRANKLIN| |SQUARE
+1884
+Entrou| |de| |acordo| |com| |a| |Lei| |do| |Congresso|,| |no| |ano| |de| |1883|,| |por
+HARPER| |&| |IRMÃOS|,
+No| |Gabinete| |do| |Bibliotecário| |do| |Congresso|,| |em| |Washington|.
+Todos| |os| |direitos| |reservados|.
+Notas| |do| |Transcritor
+Na| |Lista| |de| |Ilustrações| |restaurei| |uma| |aspa| |simples| |que| |faltava| |depois| |de| |Lenore|!,| |como| |se| |mostra| |abaixo|:
+“|‘|Miserável|’|,| |gritei|,| |‘|o| |teu| |Deus| |te| |emprestou| |—| |por| |meio| |destes| |anjos| |te| |enviou
+"|Trégua| |—| |trégua| |e| |nepente| |das| |tuas| |memórias| |de| |Lenore|!|"
+A| |Lista| |de| |Ilustrações| |utiliza| |'|visitante|'| |em| |que| |o| |poema| |e| |a| |ilustração| |real| |usam| |'|visitante|'|.
+LISTA| |DE| |ILUSTRAÇÕES
+Com| |nomes| |de| |gravadores
+Página| |de| |rosto|,| |desenhada| |por| |Elihu| |Vedder|.
+Frederico| |Juengling|.
+"|Nunca| |mais|.|"
+H.| |Cláudio|,| |GJ| |Buechner|.
+ANANKÉ|.
+H.| |Cláudio|.
+"|Era| |uma| |vez| |uma| |meia|-|noite| |sombria|,| |enquanto| |eu| |ponderava|,| |fraco| |e| |cansado|,
+Sobre| |muitos| |volumes| |curiosos| |e| |pitorescos| |de| |conhecimento| |esquecido|.|"
+R.| |A.| |Müller|.
+"|Ah|,| |lembro|-|me| |claramente|,| |foi| |no| |sombrio| |Dezembro|,
+E| |cada| |brasa| |moribunda| |deixava| |o| |seu| |fantasma| |no| |chão|.|"
+RG| |Tietze|.
+“|Ansiosamente| |desejei| |o| |dia| |de| |amanhã|;| |em| |vão| |procurei| |pedir| |emprestado
+Dos| |meus| |livros| |cessa| |a| |tristeza| |—| |tristeza| |pela| |perdida| |Lenore|.|"
+H.| |Cláudio|.
+"|Tristeza| |pela| |perda| |de| |Lenore|.|"
+W.| |Zimmermann|.
+"|Para| |a| |rara| |e| |radiosa| |donzela| |a| |quem| |os| |anjos| |chamam| |Lenore—
+Sem| |nome| |aqui| |para| |sempre|.|"
+Frederico| |Juengling|.
+"|'|'|É| |algum| |visitante| |a| |pedir| |entrada| |à| |porta| |do| |meu| |quarto—
+"|Algum| |visitante| |tardio| |a| |pedir| |para| |entrar| |na| |porta| |do| |meu| |quarto|.|"
+W.| |Zimmermann|.
+—|"|Aqui| |abri| |a| |porta|;|—| |Escuridão| |ali|,| |e| |nada| |mais|.|"
+H.| |Cláudio|.
+"|Duvidando|,| |sonhando| |sonhos| |que| |nenhum| |mortal| |jamais| |ousou| |sonhar| |antes|.|"
+Rei| |FS|.
+"|'|Certamente|'|,| |disse| |eu|,| |'|há| |certamente| |algo| |na| |minha| |janela|;
+Deixe|-|me| |ver|,| |então|,| |o| |que| |é| |isto| |e| |explorar| |este| |mistério|.|"
+Frederico| |Juengling|.
+"|Abra| |aqui|,| |eu| |abri| |a| |persiana|.|"
+T.| |Johnson|.
+—|"|Um| |Corvo| |imponente| |dos| |santos| |dias| |de| |outrora|.| |Não| |prestou| |a| |menor| |reverência|;| |não| |parou| |nem| |se| |deteve| |por| |um| |minuto|.|"
+R.| |Staudenbaur|.
+"|Empoleirado| |num| |busto| |de| |Palas| |mesmo| |por| |cima| |da| |porta| |do| |meu| |quarto—
+Empoleirado|,| |sentado|,| |e| |nada| |mais|.|"
+RG| |Tietze|.
+"|Vagar| |pela| |Costa| |Noturna|.|"
+Frederico| |Juengling|.
+"|Até| |que| |mal| |murmurei|:| |'|Outros| |amigos| |já| |voaram| |antes—
+"|Amanhã| |ele| |deixar|-|me|-|á|,| |pois| |as| |minhas| |esperanças| |já| |se| |foram| |antes|.|"
+Frank| |francês|.
+"|Então|,| |quando| |o| |veludo| |se| |afundou|,| |comecei| |a| |ligar
+"|Fantasia| |após| |fantasia|.|"
+R.| |Schelling|.
+"|Mas| |cujo| |forro| |de| |veludo| |violeta| |com| |a| |luz| |da| |lâmpada| |exultando| |sobre
+Ela| |vai| |pressionar|,| |ah|,| |nunca| |mais|!|"
+Jorge| |Kruell|.
+“|‘|Miserável|’|,| |gritei|,| |‘|o| |teu| |Deus| |te| |emprestou| |—| |por| |meio| |destes| |anjos| |te| |enviou
+"|Trégua| |—| |trégua| |e| |nepente| |das| |tuas| |memórias| |de| |Lenore|!|"
+Victor| |Bernström|.
+"|Nesta| |casa| |assombrada| |pelo| |Horror|.|"
+R.| |Staudenbaur|.
+"|Diga|-|me| |a| |verdade|,| |eu| |imploro| |—| |Há| |—| |há| |bálsamo| |em| |Gileade|?| |—| |diga|-|me| |—| |diga|-|me|,| |eu| |imploro|!|'|"
+W.| |Zimmermann|.
+“|Diz| |a| |esta| |alma| |carregada| |de| |tristeza| |se|,| |dentro| |do| |longínquo| |Aidenn|,
+Ela| |envolverá| |uma| |donzela| |santa| |a| |quem| |os| |anjos| |chamam| |Lenore|.|'|"
+Rei| |FS|.
+"|'|Seja| |essa| |palavra| |o| |nosso| |sinal| |de| |despedida|,| |pássaro| |ou| |demónio|!|'|,| |gritei|,| |atrevido|.|"
+W.| |Zimmermann|.
+"|'|Volta| |para| |a| |tempestade| |e| |para| |a| |costa| |plutoniana| |da| |Noite|!|'|"
+Robert| |Hoskin|.
+"|E| |a| |minha| |alma| |daquela| |sombra| |que| |jaz| |flutuando| |no| |chão
+Será| |levantado| |—| |nunca| |mais|!|"
+RG| |Tietze|.
+O| |segredo| |da| |Esfinge|.
+R.| |Staudenbaur|.
+COMENTÁRIO| |AO| |POEMA|.
+O| |segredo| |de| |um| |poema|,| |não| |menos| |do| |que| |a| |prosperidade| |de| |uma| |piada|,| |reside| |no| |ouvido| |de| |quem| |o| |ouve|.| |Ceda| |ao| |seu| |encanto|,| |aceite| |o| |humor| |do| |poeta|:| |afinal|,| |é| |a| |isso| |que| |os| |sábios| |respondem| |quando| |lhes| |pergunta| |pelo| |seu| |valor|.| |Mesmo| |que| |o| |próprio| |poeta|,| |no| |seu| |outro| |estado| |de| |espírito|,| |diga| |que| |a| |sua| |arte| |não| |passa| |de| |um| |truque| |de| |magia|,| |a| |sua| |comida| |de| |encantador|,| |e| |se| |ofereça| |para| |lhe| |mostrar| |o| |truque|,| |não| |acredite| |nele|.| |Espere| |pela| |sua| |hora| |profética|;| |depois| |entregue|-|se| |à| |sua| |paixão|,| |à| |sua| |alegria| |ou| |dor|.| |"|Estamos| |hoje| |nas| |mãos| |do| |Amor|!|"| |canta| |Gautier|,| |na| |alegre| |paráfrase| |de| |Swinburne|,| |—| |e| |da| |manhã| |ao| |pôr|-|do|-|sol| |somos| |levados| |pelo| |mar| |violento|:| |só| |há| |um| |amor|,| |um| |maio|,| |uma| |praia| |florida|.| |O| |amor| |é| |eterno|,| |tudo| |o| |resto| |irreal| |e| |posto| |de| |parte|.| |A| |visão| |tem| |um| |fim|,| |a| |cena| |muda|;| |mas| |ganhamos| |algo|,| |a| |recordação| |de| |um| |encanto|.| |Quantos| |poetas|,| |tantos| |encantos|.| |Há| |o| |encanto| |de| |Evanescence|,| |aquele| |que| |confere| |à| |beleza| |e| |à| |graça| |supremas| |uma| |auréola| |de| |Pathos|.| |Partilhe| |com| |Landor| |a| |sua| |única| |"|noite| |de| |memórias| |e| |suspiros|"| |para| |Rose| |Aylmer|,| |e| |tê|-|la|-|á| |em| |plenitude|.
+E| |agora| |pegue| |na| |mão| |de| |um| |jogral| |do| |Novo| |Mundo|,| |desviado| |de| |algum| |habitat| |apropriado| |para| |aquela| |América| |rude| |e| |dissonante| |que|,| |como| |Baudelaire| |viu|,| |"|era| |para| |Poe| |apenas| |uma| |vasta| |prisão| |pela| |qual| |ele| |corria|,| |de| |um| |lado| |para| |o| |outro|,| |com| |a| |agitação| |febril| |de| |um| |ser| |criado| |para| |respirar| |num| |mundo| |mais| |puro|"|,| |e| |onde| |"|a| |sua| |vida| |interior|,| |espiritual| |como| |um| |poeta|,| |espiritual| |até| |mesmo| |como| |um| |bêbado|,| |era| |apenas| |um| |esforço| |perpétuo| |para| |escapar| |à| |influência| |desta| |atmosfera| |antipática|"|.| |Aperte| |a| |mão| |sensível| |de| |um| |cantor| |perturbado| |que| |assim| |sonha| |com| |a| |sua| |estranheza| |e| |partilhe| |com| |ele| |o| |clima| |em| |que| |encontrou| |—| |nunca| |durante| |o| |dia|,| |sempre| |à| |noite| |—| |se| |não| |a| |Atlântida| |de| |onde| |tinha| |vagueado|,| |pelo| |menos| |um| |lugar| |de| |refúgio| |dos| |limites| |em| |que| |durante| |o| |dia| |esteve| |confinado|.
+Ele| |tem| |o| |poder| |de| |te| |guiar| |para| |uma| |terra| |apenas|,| |e| |por| |apenas| |uma| |noite| |poderás| |partilhar| |o| |seu| |sonho|.| |Um| |pedaço| |que| |não| |é| |nem| |da| |Terra| |nem| |do| |Céu|:| |"|Terra| |de| |Ninguém|"|,| |fora| |do| |Espaço|,| |fora| |do| |Tempo|.| |Eis| |os| |perturbados|,| |através| |de| |cujos| |olhos|,| |como| |os| |dos| |Cenci|,| |a| |alma| |encontra| |janelas| |embora| |a| |mente| |esteja| |atordoada|;| |aqui|,| |os| |espíritos|,| |tacteando| |em| |busca| |do| |caminho| |que| |conduz| |à| |Eternidade|,| |são| |interrompidos| |e| |atrasados|.| |É| |o| |limbo| |das| |"|almas| |planetárias|"|,| |onde| |se| |encontram| |todas| |as| |incertezas| |do| |luar|,| |todos| |os| |amores| |e| |ilusões| |perdidos|.| |Aqui|,| |alguns| |estão| |presos| |em| |transe|,| |o| |único| |refúgio| |alcançável|;| |outros
+"|mover|-|se| |fantasticamente
+Para| |uma| |melodia| |discordante|:|"
+enquanto| |em| |todos| |os| |lugares| |estão
+"|Memórias| |em| |Folhas| |do| |Passado—
+Formas| |encobertas| |que| |estremecem| |e| |suspiram
+Enquanto| |passam| |pelo| |andarilho|.|"
+Assim| |é| |a| |terra|,| |e| |por| |uma| |noite| |entramos| |nela| |—| |uma| |noite| |de| |fases| |astrais| |e| |de| |sinos| |recorrentes|.| |As| |suas| |monodias| |são| |doze| |poemas|,| |cuja| |música| |se| |esforça| |por| |mudar|,| |mas| |é| |sempre| |a| |mesma|.| |Um| |a| |um|,| |soam|,| |como| |o| |badalar| |do| |relógio| |de| |bronze| |e| |ébano|,| |em| |"|A| |Máscara| |da| |Morte| |Rubra|"|,| |que| |fazia| |os| |valsistas| |pararem| |com| |"|desconcerto|,| |tremor| |e| |meditação|"|,| |sempre| |que| |chegava| |a| |hora|.
+De| |todas| |estas| |cadências| |místicas|,| |o| |lamento| |de| |O| |Corvo| |,| |vibrando| |através| |do| |portal|,| |impressionou| |sobretudo| |o| |mundo| |exterior|.| |O| |que| |contribui| |para| |a| |criação| |de| |um| |poema| |—| |e| |quão| |verdadeira| |é|,| |neste|,| |como| |em| |muitas| |outras| |coisas|,| |aquela| |raça| |que| |nomeou| |os| |seus| |bardos| |«|os| |criadores|»|?| |Uma| |obra| |é| |evocada| |a| |partir| |do| |vazio|.| |Onde| |não| |havia| |nada|,| |ela| |permanece| |—| |uma| |nova| |criação|,| |parte| |do| |tesouro| |da| |humanidade|.| |E| |algumas| |letras| |excepcionais|,| |mais| |do| |que| |outras| |igualmente| |criativas|,| |obrigam|-|nos| |a| |repensar| |a| |bravura| |com| |que| |a| |pena| |do| |poeta| |transforma| |as| |coisas| |desconhecidas|.
+"|às| |formas|,| |e| |não| |dá| |ao| |nada| |arejado
+Uma| |habitação| |local| |e| |um| |nome|.|"
+Cada| |uma| |parece| |sem| |protótipo|,| |mas| |todas| |nos| |fascinam| |com| |elementos| |arrancados| |à| |sombra| |do| |Sobrenatural|.| |Ora|,| |a| |imaginação| |mais| |elevada| |preocupa|-|se| |com| |a| |alma| |das| |coisas|;| |pode| |ou| |não| |inspirar| |a| |Fantasia| |que| |povoa| |de| |imagens| |o| |vago| |interlunar|.| |Ainda| |assim|,| |uma| |dessas| |letras|,| |na| |sua| |forma| |mais| |simples|,| |afecta|-|nos| |com| |uma| |sensação| |de| |singularidade|,| |tão| |certamente| |como| |as| |obras| |mais| |sublimes| |de| |carácter| |sobrenatural| |—| |"|Fausto|"| |de| |Marlowe|,| |o| |"|Fausto|"| |de| |Goethe|,| |"|Manfredo|"| |ou| |mesmo| |aquelas| |obras|-|primas| |etéreas|,| |"|A| |Tempestade|"| |e| |"|Sonho| |de| |uma| |Noite| |de| |Verão|"|.| |Mais| |do| |que| |uma|,| |embora| |única| |noutros| |aspectos|,| |tem| |alguma
+[|10|]
+[|10|]
+fardo| |ou| |refrão| |que| |assombra| |a| |memória| |—| |uma| |vez| |ouvido|,| |nunca| |esquecido|,| |como| |o| |timbre| |de| |um| |órgão| |raramente| |utilizado|,| |mas| |distinto|.| |Entre| |elas| |destaca|-|se| |"|Lenore|"|,| |de| |Bürger|,| |aquela| |balada| |fantasmagórica| |e| |ressonante|,| |a| |atracção| |e| |o| |contraste| |dos| |tradutores|.| |Poucos| |negarão| |que| |a| |maravilhosa| |"|Rime| |of| |the| |Ancient| |Mariner|"|,| |de| |Coleridge|,| |está| |à| |sua| |frente|.| |"|Le| |Juif|-|Errant|"| |teria| |pretensões|,| |se| |Beranger| |tivesse| |sido| |um| |poeta| |maior|;| |e|,| |não| |fosse| |o| |seu| |afastamento| |da| |simpatia| |popular|,| |"|The| |Lady| |of| |Shalott|"| |e| |"|The| |Blessed| |Damozel|"| |poderiam| |ser| |acrescentados| |à| |lista|.| |Coube| |a| |Edgar| |Allan| |Poe| |produzir| |duas| |letras|,| |"|The| |Bells|"| |e| |"|The| |Raven|"| |,| |cada| |uma| |das| |quais|,| |embora| |talvez| |de| |menor| |beleza| |que| |as| |de| |Tennyson| |e| |Rossetti|,| |é| |única|.| |"|Ulalume|"|,| |embora| |igualmente| |estranho| |e| |imaginativo|,| |não| |possui| |a| |qualidade| |universal| |que| |faz| |parte| |do| |nosso| |teste|.
+O| |Corvo|,| |nas| |suas| |componentes| |puramente| |poéticas|,| |está| |por| |baixo| |de| |peças| |como| |"|O| |Palácio| |Assombrado|"|,| |"|A| |Cidade| |no| |Mar|"|,| |"|O| |Adormecido|"| |e| |"|Israfel|"|.| |Suspeito| |que| |leitores| |mais| |exigentes| |trocariam| |a| |obra| |inteira| |por| |passagens| |como| |estas|:
+"|Em| |redor|,| |pelos| |ventos| |que| |levantam| |esqueci|,
+Resignadamente| |sob| |o| |céu
+As| |águas| |melancólicas| |jazem|.
+Nenhum| |raio| |do| |céu| |sagrado| |desce
+Na| |longa| |noite| |daquela| |cidade|;
+Mas| |a| |luz| |do| |mar| |lúgubre
+Flui| |silenciosamente| |pelas| |torres—
+·| |·| |·| |·| |·| |·| |·
+Por| |muitos| |e| |muitos| |santuários| |maravilhosos
+Cujos| |frisos| |entrelaçados| |se| |entrelaçam
+A| |viola|,| |a| |violeta| |e| |a| |videira|.
+·| |·| |·| |·| |·| |·| |·
+Nenhum| |inchaço| |indica| |que| |os| |ventos| |podem| |estar
+Em| |algum| |mar| |distante| |e| |mais| |feliz—
+Nenhuma| |elevação| |indica| |que| |os| |ventos| |foram
+Em| |mares| |menos| |horrivelmente| |serenos|.|"
+Falta|-|lhe| |a| |melodia| |aérea| |do| |poeta| |cujas| |cordas| |do| |coração| |são| |um| |alaúde|:
+"|E| |dizem| |(|o| |coro| |estrelado
+E| |as| |outras| |coisas| |da| |escuta|)
+O| |fogo| |de| |Israfeli
+É| |devido| |àquela| |lira
+Pelo| |qual| |se| |senta| |e| |canta—
+O| |fio| |vivo| |trémulo
+Daquelas| |cordas| |invulgares|.|"
+Mas| |O| |Corvo| |,| |tal| |como| |"|Os| |Sinos|"| |e| |"|Annabel| |Lee|"|,| |recomenda|-|se| |a| |muitos| |e| |a| |poucos|.| |Já| |disse| |noutro| |lugar| |que| |as| |produções| |mais| |raras| |de| |Poe| |me| |pareciam| |"|aquelas| |em| |que| |há|,| |pelo| |menos|,| |a| |aparência| |de| |espontaneidade| |—| |nas| |quais| |ele| |se| |rende| |aos| |seus| |sentimentos|,| |enquanto| |quedas| |moribundas| |e| |cadências| |mais| |musicais|,| |mais| |melancólicas|,| |vêm| |dele| |sem| |que| |ele| |se| |aperceba|"|.| |Esta| |é| |ainda| |a| |minha| |crença|;| |e|,| |no| |entanto|,| |ao| |reler| |este| |poema|,| |ele| |impressiona|-|me| |mais| |do| |que| |em| |qualquer| |outro| |momento| |desde| |a| |minha| |infância|.| |O| |conhecimento| |próximo| |fala| |a| |favor| |de| |toda| |a| |verdadeira| |obra| |de| |arte|.| |Induza| |o| |homem|,| |que| |não| |conhece| |a| |arte| |nem| |se| |preocupa| |com| |ela|,| |a| |examinar| |algum| |poema| |ou| |pintura|,| |e| |quão| |rapidamente| |a| |sua| |força| |o| |dominará|!| |De| |facto|,| |ele| |sobrestimará| |o| |valor| |relativo| |da| |primeira| |boa| |obra| |pela| |qual| |a| |sua| |atenção| |foi| |devidamente| |captada|.| |O| |Corvo| |também| |possui| |qualidades| |consistentes| |que| |até| |um| |especialista| |deve| |admirar|.| |Em| |nenhum| |outro| |poema| |do| |seu| |autor| |o| |motivo| |é| |mais| |palpavelmente| |definido|.| |"|O| |Palácio| |Assombrado|"| |é| |igualmente| |definitivo| |para| |o| |leitor| |seleto|,| |mas| |Poe| |dificilmente| |teria| |tomado| |esta| |subtil| |alegoria| |como| |uma| |análise| |superficial|.| |"|O| |Corvo|"| |ocupa|-|se| |inteiramente| |do| |tema| |típico| |do| |autor| |—| |a| |perda| |irreparável| |de| |uma| |mulher| |bela| |e| |idolatrada|;| |mas|,| |por| |outras| |razões|,| |também|,| |o| |instinto| |público| |está| |correto| |ao| |considerá|-|lo| |o| |seu| |poema| |representativo|.
+Um| |homem| |de| |génio| |estabelece|-|se| |geralmente| |com| |o| |sucesso| |de| |algum| |esforço|,| |e| |este| |nem| |sempre| |é| |o| |seu| |maior|.| |O| |reconhecimento| |é| |tanto| |mais| |imediato| |por| |ter| |sido| |adiado|.| |Não| |o| |adquire|,| |como| |a| |fortuna| |de| |um| |avarento|,| |moeda| |após| |moeda|,| |mas| |"|não| |de| |todo| |ou| |de| |todo|"|.| |E| |assim| |acontece| |com| |outras| |ambições|:| |o| |cortesão|,| |o| |soldado|,| |o| |ator| |—| |quaisquer| |que| |sejam| |os| |seus| |papéis| |—| |cada| |um| |conta| |o| |seu| |triunfo| |com| |algum| |golpe| |de| |sorte|.| |O| |Corvo| |de| |Poe|,| |apesar| |do| |augúrio|,| |era| |para| |ele| |"|o| |pássaro| |que| |fazia| |soprar| |a| |brisa|"|.| |O| |poeta| |estabeleceu|-|se| |em| |Nova| |Iorque| |no| |inverno| |de| |1844-1845|,| |encontrando| |trabalho| |no| |jornal| |de| |Willis|,| |"|The| |Evening| |Mirror|"|,| |e| |aumentando| |os| |seus| |rendimentos| |com| |contribuições| |noutros| |locais|.| |Durante| |seis| |anos|,| |foi| |um| |escritor| |ativo| |e| |gozou| |de| |reputação| |profissional|;| |era| |tido| |tanto| |com| |respeito| |como| |com| |desconfiança|,| |e| |não| |perdeu| |a| |sua| |quota|-|parte| |do| |jornalismo| |mal| |pago| |da| |época|.| |Tinha| |também| |realizado| |muitas| |das| |suas| |melhores| |obras| |—| |contos| |como| |"|Ligeia|"| |e| |"|A| |Queda| |da| |Casa| |de| |Usher|"| |(|este| |último| |contendo| |a| |contraparte| |mística|,| |em| |verso|,| |de| |"|Uma| |Mente| |Perdida|"|,| |de| |Elihu| |Vedder|)|,| |feitos| |analíticos| |como| |"|O| |Escaravelho| |de| |Ouro|"| |e| |"|O| |Mistério| |de| |Marie| |Roget|"|.| |Tinha| |conquistado| |prosélitos| |no| |estrangeiro| |e| |conquistado| |uma| |influência| |duradoura| |na| |mente| |francesa|.| |Descobrira| |os| |seus| |próprios| |pontos| |fortes| |e| |fracos|,| |e| |estava| |no| |auge|,| |não| |sem| |uma| |certa| |reputação|.| |Mas| |não| |tinha| |escrito| |nada| |que| |fosse| |do| |domínio| |público|.| |A| |obras| |raras| |e| |delicadas|,| |deve| |ser| |acrescentado| |um| |toque| |popular| |para| |cativar| |o| |público| |em| |geral| |da| |época|.
+Graças| |à| |diligência| |dos| |sucessivos| |biógrafos| |de| |Poe|,| |o| |sucesso| |de| |O| |Corvo| |tornou|-|se| |uma| |história| |frequentemente| |contada|.| |A| |jovem| |esposa| |do| |poeta|,| |Virgínia|,| |desaparecia| |diante| |dos| |seus| |olhos|,| |mas| |permaneceu| |mais| |um| |ano| |na| |sombra| |da| |morte|.| |O| |quarto| |comprido| |e| |baixo| |da| |casa| |perto| |da| |Estrada| |Bloomingdale| |é| |tão|...
+[|11|]
+[|11|]
+famoso| |como| |o| |quarto| |onde| |Rouget| |de| |l'|Isle| |compôs| |a| |Marselhesa|.| |Todos| |ouviram| |dizer| |que| |o| |poema|,| |assinado| |"|Quarles|"|,| |apareceu| |na| |"|American| |Review|"| |com| |um| |comentário| |pseudo|-|editorial| |sobre| |a| |sua| |forma|;| |que| |Poe| |recebeu| |dez| |dólares| |por| |ele|;| |que| |Willis|,| |o| |mais| |gentil| |e| |menos| |invejoso| |dos| |árbitros| |da| |moda|,| |o| |republicou| |com| |um| |elogio| |que| |o| |tornou| |instantaneamente| |tema| |de| |conversa|.| |Qualquer| |dúvida| |sobre| |a| |sua| |autoria| |foi| |dissipada| |quando| |Poe| |o| |recitou| |num| |encontro| |literário|,| |e| |durante| |algum| |tempo| |foi| |o| |mais| |notável| |dos| |autores| |americanos|.| |O| |sucesso| |estimulou|-|o| |e| |encorajou|-|o|.| |Como| |outro| |satirista| |mais| |orgulhoso|,| |também| |encontrou| |"|algo| |de| |verão|"| |até| |"|no| |zumbido| |dos| |insetos|"|.| |Lamentavelmente|,| |mas| |três| |anos| |se| |passaram| |—| |um| |período| |de| |influência|,| |orgulho|,| |angústia|,| |mas| |sempre| |de| |trabalho| |imaginativo| |ou| |crítico| |—| |antes| |da| |derrota| |final|,| |antes| |que| |a| |cortina| |caísse| |sobre| |uma| |vida| |que| |para| |ele| |era|,| |na| |verdade|,| |uma| |tragédia|,| |e| |ele| |se| |rendesse| |ao| |"|Verme| |Conquistador|"|.
+"|The| |American| |Review|:| |A| |Whig| |Journal|"| |era| |uma| |revista| |respeitável| |para| |a| |época|,| |com| |duas| |colunas|,| |impressa| |em| |bom| |papel|,| |com| |uma| |tipografia| |nítida| |e| |ilustrada| |com| |retratos| |a| |mezzo|-|tinta|.| |No| |meio| |de| |muita| |matéria| |abaixo| |do| |padrão| |atual|,| |continha| |alguns| |que| |qualquer| |editor| |ficaria| |feliz| |por| |receber|.| |O| |volume| |inicial|,| |de| |1845|,| |apresenta| |artigos| |de| |Horace| |Greeley|,| |Donald| |Mitchell|,| |Walter| |Whitman|,| |Marsh|,| |Tuckerman| |e| |Whipple|.| |O| |singular| |poema| |de| |Ralph| |Hoyt|,| |"|Old|"|,| |apareceu| |neste| |volume|.| |E| |aqui| |estão| |três| |letras| |de| |Poe|:| |"|The| |City| |in| |the| |Sea|"|,| |"|The| |Valley| |of| |Unrest|"| |e| |"|The| |Raven|"| |.| |Duas| |delas| |foram| |construídas| |—| |como| |era| |seu| |costume| |—| |a| |partir| |de| |estudos| |anteriores|,| |mas| |a| |última| |saiu| |como| |se| |tivesse| |sido| |composta| |recentemente|,| |e| |quase| |como| |a| |temos| |agora|.| |A| |afirmação| |de| |que| |não| |foi| |revista| |posteriormente| |é| |errónea|.| |Onze| |pequenas| |alterações| |ao| |texto| |da| |revista| |surgem| |em| |"|The| |Raven| |and| |Other| |Poems|"| |,| |de| |1845|,| |um| |livro| |que| |o| |poeta| |cedo| |se| |sentiu| |encorajado| |a| |oferecer| |ao| |público|.| |Trata|-|se| |sobretudo| |de| |mudanças| |de| |pontuação| |ou| |de| |palavras| |isoladas|,| |sendo| |este| |último| |tipo| |feito| |para| |intensificar| |o| |efeito| |da| |aliteração|.| |Na| |bela| |edição| |dos| |versos| |de| |Poe| |feita| |pelo| |Sr.| |Lang|,| |publicada| |na| |"|Parchment| |Library|"|,| |ele| |demonstrou| |o| |instinto| |de| |um| |estudioso|,| |e| |agiu| |sabiamente|,| |ao| |regressar| |ao| |texto| |do| |volume| |recém|-|mencionado|,| |conforme| |consta| |na| |edição| |londrina| |de| |1846.| |A| |colecção| |"|padrão|"| |de| |Griswold| |das| |obras| |do| |poeta| |está| |repleta| |de| |erros|.| |Estes| |foram| |repetidos| |por| |editores| |posteriores|,| |que| |também| |cometeram| |os| |seus| |próprios| |erros|.| |Mas| |o| |texto| |de| |"|O| |Corvo|"| |,| |devido| |aos| |pedidos| |feitos| |ao| |autor| |de| |cópias| |manuscritas|,| |foi| |ainda| |mais| |revisto| |por| |ele|;| |de| ​​|facto|,| |imprimiu|-|o| |em| |Richmond|,| |pouco| |antes| |da| |sua| |morte|,| |com| |a| |substituição| |poética| |de| |"|serafins| |cujos| |passos|"| |por| |"|anjos| |cujos| |passos| |fracos|"|,| |na| |décima| |quarta| |estrofe|.| |O| |nosso| |texto| |actual|,| |portanto|,| |embora| |substancialmente| |o| |de| |1845|,| |é| |um| |pouco| |modificado| |pela| |leitura| |posterior| |do| |poeta| |e| |é|,| |creio|,| |a| |versão| |mais| |correcta| |e| |eficaz| |deste| |único| |poema|.| |A| |mudança| |mais| |radical| |em| |relação| |à| |versão| |mais| |antiga| |apareceu|,| |no| |entanto|,| |no| |volume| |de| |1845|;| |a| |décima| |primeira| |estrofe| |continha| |originalmente| |estes| |versos|,| |com| |rima| |falhada| |e|,| |de| |resto|,| |uma| |mancha| |no| |poema|:
+"|Apanhado| |de| |algum| |mestre| |infeliz|,| |a| |quem| |o| |Desastre| |impiedoso
+Seguiu| |depressa| |e| |seguiu| |ainda| |mais| |depressa| |-| |depois|,| |quando| |Hope| |conjurava|,
+O| |desespero| |severo| |regressou|,| |em| |vez| |da| |doce| |esperança| |que| |ousava| |conjurar—
+Aquela| |triste| |resposta|:| |"|Nunca| |mais|!|"
+Seria| |bom| |que| |outros| |poetas| |famosos| |pudessem| |ter| |a| |mesma| |certeza| |de| |que| |as| |suas| |mudanças| |resultariam| |sempre| |em| |melhorias|.| |Poe| |revia| |constantemente| |a| |sua| |escassa| |coleção| |de| |versos| |e| |geralmente| |superava|-|a|.| |"|O| |Corvo|"| |foi| |o| |primeiro| |dos| |poucos| |poemas| |que| |quase| |concluiu| |antes| |de| |ser| |impresso|.| |Pode| |ser| |que| |aqueles| |que| |se| |interessam| |pela| |poesia| |pouco| |tenham| |perdido| |com| |a| |sua| |morte|.| |Fluente| |em| |prosa|,| |nunca| |escreveu| |versos| |com| |o| |único| |propósito| |de| |compor| |um| |poema|.| |Quando| |um| |refrão| |de| |imagem| |o| |perseguia|,| |a| |letra| |resultante| |era| |a| |inspiração|,| |como| |o| |próprio| |dizia|,| |de| |uma| |paixão|,| |e| |não| |de| |um| |propósito|.| |Isto| |era|,| |a| |intervalos| |tão| |raros| |que| |quase| |justificava| |a| |teoria| |de| |Fairfield| |de| |que| |cada| |um| |era| |produto| |de| |uma| |crise| |nervosa|.
+O| |que| |deu|,| |então|,| |ao| |poeta| |a| |pista| |para| |O| |Corvo| |?| |De| |que| |fundamento| |nebuloso| |se| |elevou| |lentamente| |até| |uma| |música| |lentamente| |respirada|?| |Como| |é| |habitual|,| |mais| |do| |que| |uma| |coisa| |contribuiu| |para| |a| |construção| |de| |um| |poema| |tão| |notável|.| |Considerando| |os| |sermões| |mais| |longos| |frequentemente| |pregados| |sobre| |textos| |breves| |e| |menos| |sugestivos|,| |espero| |não| |ser| |culpado| |por| |esta| |discussão| |sobre| |uma| |única| |letra| |—| |especialmente| |uma| |que| |um| |artista| |como| |Doré| |tornou| |objecto| |de| |ilustrações| |pródigas|.| |Até| |há| |pouco| |tempo|,| |supunha| |que| |esta| |peça|,| |e| |algumas| |que| |o| |seu| |autor| |compôs| |após| |o| |seu| |lançamento|,| |eram| |excepcionais| |por| |não| |terem| |crescido| |a| |partir| |de| |germes| |nos| |seus| |versos| |juvenis|.| |Mas| |o| |Sr.| |Fearing| |Gill| |mostrou|-|me| |algumas| |estâncias| |inéditas| |de| |Poe|,| |escritas| |aos| |dezoito| |anos| |de| |idade|,| |e| |intituladas| |"|O| |Demónio| |do| |Fogo|"|.| |O| |manuscrito| |parece| |ser| |da| |caligrafia| |inicial| |do| |poeta|,| |e| |a| |sua| |autenticidade| |é| |atestada| |pela| |família| |em| |cuja| |posse| |permaneceu| |durante| |meio| |século|.| |Para| |além| |dos| |germes| |mais| |simples| |de| |"|Os| |Sinos|"| |e| |"|O| |Palácio| |Assombrado|"|,| |contém| |alguns| |versos| |que| |fazem| |lembrar| |um| |pouco| |a| |abertura| |e| |o| |fecho| |de| |O| |Corvo| |.| |Quanto| |ao| |ritmo| |do| |nosso| |poema|,| |uma| |comparação| |de| |datas| |indica| |que| |este| |foi| |influenciado| |pelo| |ritmo| |de| |"|O| |Cortejo| |de| |Lady| |Geraldine|"|.| |Poe| |foi| |um| |dos| |primeiros| |a| |homenagear| |o| |génio| |da| |Miss|.| |Barrett|;| |dedicou|-|lhe| |os| |seus| |poemas| |reunidos| |como| |"|a| |mais| |nobre| |do| |seu| |sexo|"|,| |e| |estava| |em
+[|12|]
+[|12|]
+simpatia| |com| |o| |seu| |método| |lírico|.| |Os| |versos| |do| |seu| |poema| |de| |amor|,
+“|Com| |um| |rumor| |incerto|,| |no| |ar|,| |a| |cortina| |púrpura
+Incha| |e| |incha| |em| |torno| |das| |suas| |sobrancelhas| |pálidas| |e| |imóveis|,|"
+encontrou| |eco| |nestes|:
+"|E| |o| |triste| |e| |sedoso| |farfalhar| |de| |cada| |cortina| |roxa
+Emocionou|-|me|,| |encheu|-|me| |de| |terrores| |fantásticos| |nunca| |antes| |sentidos|.|"
+Aqui|,| |Poe| |assumiu| |um| |privilégio| |pelo| |qual| |censurava| |rudemente| |Longfellow|,| |e| |que| |nunca| |ninguém| |procurou| |nas| |suas| |próprias| |instalações| |sem| |uma| |rápida| |detecção| |e| |punição|.| |Na| |melodia| |e| |na| |forma| |estrofe|,| |veremos| |que| |os| |dois| |poemas| |não| |são| |diferentes|,| |mas| |no| |motivo| |são| |totalmente| |distintos|.| |A| |generosa| |poetisa| |não| |sentiu| |senão| |a| |verdadeira| |originalidade| |do| |poeta|.| |"|Esta| |escrita| |vívida|!|"|,| |exclamou| |ela|,| |"|este| |poder| |que| |se| |sente|!|...| |O| |nosso| |grande| |poeta|,| |o| |Sr.| |Browning|,| |autor| |de| |'|Paracelso|'| |etc.|,| |é| |entusiástico| |na| |sua| |admiração| |pelo| |ritmo|.|"| |O| |senhor| |Ingram|,| |depois| |de| |se| |referir| |a| |"|Lady| |Geraldine|"|,| |aponta| |habilmente| |outra| |fonte| |na| |qual| |Poe| |se| |pode| |ter| |inspirado|.| |Em| |1843|,| |Albert| |Pike|,| |o| |poeta| |meio| |grego|,| |meio| |sertanejo|,| |do| |Arkansas|,| |publicou| |em| |"|The| |New| |Mirror|"|,| |para| |o| |qual| |Poe| |então| |escrevia|,| |alguns| |versos| |intitulados| |"|Isadore|"|,| |mas| |posteriormente| |revistos| |pelo| |autor| |e| |denominados| |"|The| |Widowed| |Heart|"|.| |Selecionei| |da| |revisão| |do| |Sr.| |Pike| |a| |seguinte| |estrofe|,| |cujas| |principais| |características| |correspondem| |à| |versão| |original|:
+"|Inquieto| |ando| |pelos| |nossos| |quartos| |solitários|,| |já| |não| |toco| |as| |nossas| |canções|,
+O| |sol| |forte| |brilha| |intensamente| |sobre| |o| |chão| |não| |varrido|;
+O| |tordo| |ainda| |se| |senta| |e| |canta|,| |ó| |canção| |melancólica|!
+Pois| |o| |meu| |coração| |é| |como| |uma| |nuvem| |de| |Outono| |que| |transborda| |de| |chuva|;
+Estás| |perdida| |para| |mim| |para| |sempre|,| |Isadore|!|"
+Temos| |aqui| |um| |compasso| |prolongado|,| |uma| |semelhança| |de| |refrão| |e| |a| |introdução| |de| |um| |pássaro| |cujo| |canto| |intensifica| |a| |tristeza|.| |Existem| |outras| |pistas| |que| |podem| |ser| |seguidas| |pelos| |curiosos|;| |nomeadamente|,| |um| |excerto| |que| |o| |Sr.| |Ingram| |selecciona| |da| |crítica| |final| |de| |Poe| |sobre| |"|Barnaby| |Rudge|"|:
+"|O| |corvo|,| |também|,| |*| |*| |*| |poderia| |ter| |sido| |feito|,| |mais| |do| |que| |vemos| |agora|,| |uma| |parte| |da| |concepção| |do| |fantástico| |Barnaby|.| |*| |*| |*| |A| |sua| |personagem| |poderia| |ter| |desempenhado|,| |em| |relação| |ao| |idiota|,| |o| |mesmo| |papel| |que|,| |na| |música|,| |o| |acompanhamento| |em| |relação| |ao| |ar|.|"
+No| |entanto|,| |depois| |de| |assinalar| |estes| |germes| |e| |semelhanças|,| |o| |valor| |deste| |poema| |ainda| |reside| |na| |sua| |originalidade|.| |A| |música| |progressiva|,| |o| |detalhe| |cénico| |e| |o| |contraste| |de| |luz| |e| |sombra| |—| |sobretudo|,| |a| |paixão| |espiritual| |do| |noturno| |—| |fazem| |dele| |obra| |de| |um| |génio| |informativo|.| |Quanto| |ao| |pássaro| |macabro|,| |é| |diferente| |de| |todos| |os| |outros| |corvos| |do| |seu| |clã|,| |desde| |os| |"|dois| |corvos|"| |e| |"|três| |corvos|"| |dos| |baladistas| |até| |ao| |"|Grip|"| |amarrotado| |de| |Barnaby|.| |Não| |há| |aqui| |qualquer| |semelhança| |com| |a| |gralha| |grasnante| |que| |assombra| |torres| |ancestrais| |e| |trilha| |o| |campo| |da| |heráldica|;| |nenhum| |fantasma| |agoirento| |sobre| |o| |qual| |Tickell| |cantava| |que|,| |quando|,
+"|gritando| |três| |vezes| |à| |sua| |janela|,
+O| |corvo| |bateu| |as| |asas|,
+A| |donzela| |apaixonada| |sabia| |muito| |bem
+O| |som| |solene| |e| |agoirento|.|"
+O| |corvo| |de| |Poe| |é| |uma| |concepção| |distinta|;| |a| |encarnação| |da| |agonia| |e| |da| |desesperança| |de| |um| |enlutado|;| |uma| |Memória| |encarnada| |e| |sombria|,| |o| |cronista| |permanente| |da| |desgraça|,| |um| |tipo| |do| |Irreparável|.| |Escapado| |através| |do| |Estige|,| |da| |"|costa| |plutoniana| |da| |Noite|"|,| |ele| |parece| |a| |alma| |imaginada| |do| |próprio| |questionador| |—| |daquele| |que| |não| |pode|,| |não| |quer|,| |sorver| |o| |gentil| |nepente|,| |porque| |a| |memória| |de| |Lenore| |é| |tudo| |o| |que| |lhe| |resta|,| |e| |com| |o| |fim| |da| |sua| |tristeza|,| |até| |isso| |seria| |posto| |de| |lado|.
+O| |Corvo| |pode| |também| |ser| |considerado| |um| |poema| |representativo| |do| |seu| |autor|,| |por| |exemplificar| |todas| |as| |suas| |noções| |do| |que| |deve| |ser| |um| |poema|.| |Estas| |encontram|-|se| |nos| |seus| |ensaios| |sobre| |"|O| |Princípio| |Poético|"|,| |"|A| |Racionalidade| |do| |Verso|"| |e| |"|A| |Filosofia| |da| |Composição|"|.| |Poe| |declarou| |que| |"|na| |Música|,| |talvez|,| |a| |alma| |se| |aproxime| |mais| |do| |grande| |fim| |pelo| |qual|,| |quando| |inspirada| |pelo| |Sentimento| |Poético|,| |luta| |—| |a| |criação| |da| |Beleza| |suprema|...| |O| |verso| |não| |pode| |ser| |melhor| |designado| |do| |que| |como| |uma| |música| |inferior| |ou| |menos| |capaz|"|;| |mas|,| |mais| |uma| |vez|,| |o| |verso| |que| |é| |realmente| |a| |"|Poesia| |das| |Palavras|"| |é| |"|A| |Criação| |Rítmica| |da| |Beleza|"| |—| |isso| |e| |nada| |mais|.| |O| |tom| |da| |Beleza| |suprema| |é| |o| |da| |Tristeza|.| |O| |mais| |melancólico| |dos| |temas| |é| |a| |Morte|.| |Este| |deve| |estar| |aliado| |à| |Beleza|.| |"|A| |morte|,| |pois|,| |de| |uma| |bela| |mulher| |é|,| |inquestionavelmente|,| |o| |tema| |mais| |poético| |do| |mundo| |—| |e| |igualmente| |é| |inquestionável| |que| |os| |lábios| |mais| |adequados| |para| |tal| |tema| |são| |os| |de| |um| |amante| |enlutado|.|"| |Estas| |últimas| |expressões| |são| |citadas| |a| |partir| |da| |análise| |caprichosa| |que| |Poe| |faz| |deste| |mesmo| |poema|,| |mas| |indicam| |precisamente| |o| |alcance| |geral| |dos| |seus| |versos|.| |O| |clímax| |de| |"|Os| |Sinos|"| |é| |o| |tom| |monótono| |e| |abafado| |dos| |fantasmas|,| |que| |se| |gloriam| |de| |oprimir| |o| |coração| |humano|.| |"|Lenore|"|,| |"| |O| |Corvo| |"|,| |"|O| |Adormecido|"|,| |"|Para| |Alguém| |no| |Paraíso|"| |e| |"|Ulalume|"| |formam| |uma| |sinfonia| |tenebrosa| |—| |e| |"|Annabel| |Lee|"|,| |escrita| |por| |último|,| |mostra| |que| |um| |tema| |o| |possuiu| |até| |ao| |fim|.| |Mais| |uma| |vez|,| |todas| |estas| |são| |nada| |mais| |nada| |menos| |que| |musicais|,| |e| |algumas| |são| |tocadas| |com| |aquela| |qualidade| |do| |Fantástico| |que| |desperta| |o| |sentimento| |de| |admiração| |e| |acrescenta| |um| |novo| |medo| |à| |própria| |agonia|.| |Através| |de| |tudo| |isto|,| |é| |vagamente| |delineado|,| |sob| |um| |manto| |sombrio|,| |o| |amor| |ideal| |do| |poeta| |—| |tão| |frequentemente| |retratado| |pela| |metade| |noutros| |lugares| |—| |a| |esposa| |sepultada| |de| |Usher|,| |Lady| |Ligeia|,| |em
+[|13|]
+[|13|]
+A| |verdade| |é| |a| |contrapartida| |da| |sua| |própria| |natureza|.| |Suponho| |que| |o| |amor| |de| |um| |artista| |por| |alguém| |"|em| |forma|"| |nunca| |poderá| |rivalizar| |totalmente| |com| |a| |sua| |devoção| |a| |algum| |ideal|.| |A| |mulher| |que| |lhe| |é| |próxima| |deve| |exercer| |os| |seus| |encantos|,| |ser| |sempre| |alternada| |e| |nada| |longa|,| |encantá|-|lo| |com| |uma| |variedade| |infinita| |ou| |contentar|-|se| |em| |abdicar| |de| |uma| |parte| |da| |sua| |lealdade|.| |Deve| |ser| |atraído| |pelo| |Inatingível|,| |e| |isso| |está| |sempre| |para| |além| |da| |sua| |paixão| |pela| |arte| |criativa|.
+Poe|,| |tal| |como| |Hawthorne|,| |surgiu| |com| |o| |declínio| |da| |escola| |romântica|,| |e| |ninguém| |se| |deleitava| |mais| |do| |que| |ele| |a| |rir| |da| |sua| |calamidade|.| |No| |entanto|,| |o| |seu| |coração| |estava| |com| |os| |romancistas| |e| |os| |seus| |efeitos| |orientais| |ou| |góticos|.| |A| |sua| |invenção|,| |tão| |rica| |em| |contos| |em| |prosa|,| |parecia| |abandoná|-|lo| |quando| |escrevia| |versos|;| |e| |o| |seu| |juízo| |dizia|-|lhe| |que| |os| |longos| |poemas| |românticos| |dependem| |mais| |dos| |incidentes| |do| |que| |da| |inspiração| |—| |e| |que|,| |para| |exprimir| |a| |poesia| |do| |romance|,| |bastariam| |letras|.| |Daí| |a| |sua| |teoria|,| |claramente| |ajustada| |às| |suas| |próprias| |limitações|,| |de| |que| |"|um| |'|poema| |longo|'| |é| |uma| |contradição| |flagrante| |nos| |termos|"|.| |Os| |componentes| |de| |O| |Corvo| |são| |poucos| |e| |simples|:| |um| |homem|,| |um| |pássaro| |e| |a| |memória| |fantasmagórica| |de| |uma| |mulher|.| |Mas| |a| |peça| |oferece| |uma| |bela| |exibição| |de| |material| |romântico|.| |O| |que| |temos|?| |À| |meia|-|noite|;| |a| |câmara| |sombria| |com| |os| |seus| |tomos| |de| |conhecimento| |esquecido|;| |o| |estudante| |—| |um| |Hierónimo| |moderno|;| |a| |batida| |do| |corvo| |na| |janela|;| |a| |noite| |invernal| |e| |o| |fogo| |moribundo|;| |as| |cortinas| |de| |seda| |varridas| |pelo| |vento|;| |os| |sonhos| |e| |a| |vaga| |desconfiança| |da| |escuridão| |ecoante|;| |o| |pássaro| |negro| |e| |misterioso| |sobre| |o| |busto| |pálido|;| |os| |acessórios| |de| |veludo| |violeta| |e| |o| |candeeiro| |regozijante|.| |Todo| |este| |efeito| |cénico| |de| |situação|,| |luz|,| |cor| |e| |som| |é| |puramente| |romântico| |e| |até| |melodramático|,| |mas| |de| |uma| |qualidade| |poética| |que| |o| |melodrama| |raramente| |exibe|,| |e| |reflecte| |profundamente| |a| |"|paixão| |eterna|,| |a| |dor| |eterna|"| |do| |poeta|.
+A| |estrutura| |rítmica| |de| |O| |Corvo| |causaria| |certamente| |uma| |impressão|.| |Rima|,| |aliteração|,| |o| |fardo|,| |a| |forma| |estrofe|,| |foram| |concebidos| |com| |singular| |destreza|.| |Sem| |dúvida|,| |o| |poeta| |ficou| |impressionado| |com| |a| |perícia| |dos| |trocaicos| |musicais| |da| |Miss|.| |Barrett|,| |em| |"|oitos|"|,| |e| |especialmente| |com| |o| |arranjo| |adoptado| |perto| |do| |final| |de| |"|Lady| |Geraldine|"|:
+"|'|Olhos|'|,| |disse| |ele|,| |'|agora| |a| |pulsar| |através| |de| |mim|!| |Foram| |vocês| |os| |olhos| |que| |me| |destruíram|?
+Olhos| |brilhantes|,| |como| |jóias| |antigas| |engastadas| |em| |estátuas| |de| |pedra| |de| |Paros|!
+Sob| |essa| |testa| |branca| |e| |calma|,| |está| |sempre| |a| |arder| |tórrido
+Sobre| |o| |deserto| |desolado| |de| |areia| |do| |meu| |coração| |e| |da| |minha| |vida| |desfeita|?|'|"
+A| |sua| |introdução| |artística| |de| |uma| |terceira| |rima| |tanto| |no| |segundo| |como| |no| |quarto| |versos|,| |e| |a| |adição| |de| |um| |quinto| |verso| |e| |de| |um| |refrão| |final|,| |compuseram| |a| |estrofe| |de| |O| |Corvo| |.| |A| |aliteração| |persistente| |parece| |surgir| |sem| |esforço|,| |e| |frequentemente| |as| |rimas| |dentro| |dos| |versos| |são| |sedutoras|;| |enquanto| |o| |refrão| |ou| |o| |fardo| |dominam| |toda| |a| |obra|.| |Também| |aqui| |beneficiou| |do| |estudo| |da| |Srta|.| |Barrett| |sobre| |baladas| |e| |romances| |na| |sua| |própria| |língua| |e| |noutras| |línguas|.| |Um| |"|refrão|"| |é| |o| |isco| |com| |o| |qual| |um| |poeta| |ou| |um| |músico| |prende| |o| |ouvido| |errante| |—| |o| |anseio| |recorrente| |da| |Natureza| |pela| |melodia| |inicial|.| |Sempre| |admirei| |os| |belos| |refrões| |da| |cantora| |inglesa| |—| |"|Os| |Rouxinóis|,| |os| |Rouxinóis|"|,| |"|Margret|,| |Margret|"|,| |"|O| |Meu| |Coração| |e| |Eu|"|,| |"|Toll| |lentamente|"|,| |"|O| |Rio| |flui|"|,| |"|Pan|,| |Pan| |está| |morto|"|,| |etc.| |Ela| |empregou| |também| |aquilo| |a| |que| |chamo| |Repetição|,| |em| |cujo| |uso| |Poe| |superou| |todos| |os| |poetas| |desde| |que| |Coleridge| |o| |fez| |renascer|:
+“|Ó| |seres| |vivos| |felizes|!| |Sem| |língua
+A| |sua| |beleza| |pode| |declarar|:
+Uma| |fonte| |de| |amor| |jorrou| |do| |meu| |coração|,
+E| |eu| |abençoei|-|os| |sem| |perceber|:
+Claro| |que| |o| |meu| |gentil| |santo| |teve| |pena| |de| |mim|,
+E| |eu| |abençoei|-|os| |sem| |que| |se| |apercebessem|.|"
+Poe| |criou| |o| |quinto| |verso| |da| |sua| |estrofe| |para| |a| |magia| |do| |repetend|.| |Utilizou|-|o| |ao| |máximo| |em| |alguns| |poemas| |posteriores| |—| |"|Lenore|"|,| |"|Annabel| |Lee|"|,| |"|Ulalume|"| |e| |"|Para| |Annie|"|.| |A| |música| |selvagem| |e| |melancólica| |que| |criou|,| |segundo| |creio|,| |advém| |das| |"|doces| |influências|"| |dos| |fardos| |e| |repetends| |africanos| |que| |lhe| |eram| |cantados| |na| |infância|,| |harmonizando| |com| |a| |sua| |melodia| |nativa| |a| |voz| |do| |nosso| |poeta| |sulista|.
+"|A| |Filosofia| |da| |Composição|"|,| |a| |sua| |análise| |de| |O| |Corvo| |,| |é| |uma| |dissecação| |técnica| |do| |seu| |método| |e| |estrutura|.| |Nem| |a| |sua| |confissão| |de| |artifício| |a| |sangue|-|frio|,| |nem| |a| |sua| |subsequente| |confissão| |a| |amigos| |de| |que| |a| |exposição| |deste| |artifício| |era| |apenas| |mais| |uma| |das| |suas| |farsas| |intelectuais|,| |precisam| |de| |ser| |totalmente| |creditadas|.| |Se| |tivesse| |concebido| |a| |obra| |completa| |com| |antecedência|,| |dificilmente| |teria| |feito| |um| |prelúdio| |tão| |severo| |de| |rimas| |chocalho| |para| |a| |deliciosa| |melodia| |da| |segunda| |estrofe| |—| |nem| |mesmo| |sobre| |a| |sua| |teoria| |do| |fantástico|.| |É| |claro| |que| |um| |artista|,| |tendo| |aperfeiçoado| |uma| |obra|,| |vê|,| |como| |o| |primeiro| |Artista|,| |que| |ela| |é| |boa| |e| |vê| |porque| |é| |que| |é| |boa|.| |Uma| |análise| |subsequente|,| |juntamente| |com| |a| |rejeição| |de| |qualquer| |fogo| |sagrado|,| |pode| |ser| |feita| |com| |bastante| |facilidade|.| |Creio| |que| |a| |primeira| |conceção| |e| |o| |rascunho| |deste| |poema| |surgiram| |como| |a| |inspiração| |sempre| |surge|;| |que| |o| |seu| |autor| |viu| |então| |como| |poderia| |ser| |aperfeiçoado|,| |dando|-|lhe| |os| |últimos| |retoques| |descritos| |no| |seu| |capítulo| |sobre| |a| |Composição|,| |e| |que| |esta| |última|,| |portanto|,| |não| |é| |nem| |totalmente| |falsa| |nem| |totalmente| |verdadeira|.| |O| |mal| |de| |tal| |análise| |é| |que| |induz| |o| |novato| |a| |imaginar| |que| |os| |processos| |artificiais| |podem| |suplantar| |a| |imaginação|.| |O| |impulso| |do| |génio| |é| |guardar| |os| |segredos| |da| |sua| |hora| |criativa|.| |Vislumbres| |obtidos| |do| |trabalho| |árduo|,| |as| |experiências| |frustradas|,| |que| |precedem| |um| |triunfo|,| |como| |nos| |esboços| |de| |Hawthorne| |recentemente| |trazidos| |à| |luz|,| |proporcionam| |uma| |instrução| |e| |um| |encorajamento| |inestimáveis| ​​|ao| |artista| |sincero|.| |Mas| |um
+[|14|]
+[|14|]
+que| |voluntariamente| |expõe| |a| |sua| |Musa| |ao| |olhar| |de| |todos| |os| |que| |a| |visitam| |deve| |recordar| |o| |destino| |do| |Rei| |Candaules|.
+O| |mundo| |ainda| |considera| |Poe| |um| |"|homem| |de| |génio| |azarado|"|.| |Recentemente|,| |ouvi|-|o| |ser| |mencionado| |como| |"|alguém| |que| |todos| |parecem| |condenados| |a| |deturpar|,| |difamar| |ou| |caluniar|"|.| |Mas| |parece|-|me| |que| |a| |sua| |má| |sorte| |terminou| |com| |a| |sua| |lamentável| |morte| |e| |que|,| |desde| |então|,| |a| |sua| |defesa| |tem| |sido| |persistente|,| |e| |a| |sua| |fama| |de| |crescimento| |tão| |constante| |quanto| |um| |autor| |sofredor| |e| |talentoso| |poderia| |desejar| |na| |sua| |hora| |de| |esperança|.| |A| |desaprovação| |e| |a| |calúnia| |de| |Griswold| |mudaram| |a| |corrente| |a| |seu| |favor|.| |Críticos| |e| |biógrafos| |apresentaram|-|se| |com| |sucessivas| |refutações|,| |com| |homenagens| |ao| |seu| |carácter|,| |com| |novas| |edições| |das| |suas| |obras|.| |As| |suas| |próprias| |cartas| |e| |os| |pequenos| |incidentes| |da| |sua| |carreira| |estão| |diante| |de| |nós|;| |o| |registo|,| |bom| |e| |mau|,| |é| |amplamente| |conhecido|.| |Nenhum| |recorrente| |recebeu| |um| |julgamento| |mais| |terno| |e| |indulgente|.| |Os| |seus| |infortúnios| |na| |vida| |pertenciam| |à| |sua| |região| |e| |período|,| |talvez| |ainda| |mais| |à| |sua| |própria| |fraqueza| |de| |vontade|.| |Sem| |dúvida|,| |o| |seu| |ambiente| |não| |era| |propício| |para| |proteger| |uma| |natureza| |refinada| |e| |desequilibrada| |dos| |perigos| |externos| |e| |internos|.| |A| |sua| |vontade| |mais| |forte|,| |de| |ser| |senhor| |de| |si| |mesmo|,| |valeu|-|lhe| |"|aquela| |herança| |de| |infortúnio|"|.| |Confessou|-|se| |o| |infeliz| |dono| |do| |pássaro|,| |o| |ferido| |sofredor| |deste| |poema|.| |Mas| |partilhava| |plenamente| |daquele| |temperamento| |dramático| |que| |exulta| |no| |presságio| |da| |sua| |própria| |ruína|.| |Há| |um| |prazer| |em| |desempenhar| |o| |papel| |de| |alguém|:| |somos| |todos| |gladiadores|,| |gritando| |Ave| |Imperator|!| |Para| |citar| |a| |questão| |de| |Burke|:| |"|Na| |dor|,| |o| |prazer| |ainda| |prevalece|,| |e| |a| |aflição| |que| |sofremos| |não| |se| |assemelha| |à| |dor| |absoluta|,| |que| |é| |sempre| |odiosa| |e| |da| |qual| |nos| |esforçamos| |por| |nos| |livrar| |o| |mais| |rapidamente| |possível|.|"| |Poe| |foi| |mais| |longe| |e| |foi| |um| |artista| |mesmo| |na| |tragédia| |da| |sua| |carreira|.| |Se|,| |de| |acordo| |com| |a| |sua| |própria| |crença|,| |a| |tristeza| |e| |o| |desaparecimento| |da| |beleza| |são| |os| |temas| |poéticos| |mais| |elevados|,| |e| |o| |sentimento| |poético| |o| |prazer| |terreno| |mais| |intenso|,| |então| |a| |tristeza| |e| |a| |escuridão| |da| |sua| |vida| |fragmentada| |não| |estavam| |isentas| |de| |frequentes| |compensações|.
+Nas| |páginas| |seguintes|,| |temos| |um| |novo| |exemplo| |do| |génio| |de| |um| |artista| |a| |caracterizar| |a| |sua| |interpretação| |de| |um| |poema| |famoso|.| |Gustave| |Doré|,| |cuja| |última| |obra| |a| |lápis| |está| |diante| |de| |nós|,| |não| |foi| |o| |pintor|,| |nem| |sequer| |o| |desenhador|,| |para| |os| |realistas| |que| |exigiam| |a| |verdade| |do| |tom|,| |da| |figura| |e| |da| |perfeição|.| |Tais| |questões| |interessavam|-|lhe| |menos| |do| |que| |fazer| |com| |que| |a| |forma| |e| |a| |distância|,| |a| |luz| |e| |a| |sombra|,| |auxiliassem| |o| |seu| |propósito| |—| |que| |era| |excitar| |a| |alma|,| |a| |imaginação| |do| |observador|.| |Fê|-|lo| |despertando| |o| |nosso| |sentido| |de| |admiração|,| |através| |de| |concepções| |maravilhosas| |e| |frequentemente| |sublimes| |de| |coisas| |indizíveis| |e| |cheias| |de| |melancolia| |ou| |glória|.| |Bem| |se| |diz| |que|,| |se| |as| |suas| |obras| |não| |eram| |grandes| |pinturas|,| |como| |quadros| |são| |de| |facto| |grandes|.| |Como| |"|artista| |literário|"|,| |e| |tal| |era|,| |a| |sua| |força| |estava| |em| |proporção| |directa| |com| |a| |invenção| |dramática| |do| |seu| |autor|,| |com| |as| |corajosas| |audácias| |do| |espírito| |que| |incendiaram| |o| |seu|.| |Daí| |o| |seu| |sucesso| |com| |Rabelais|,| |com| |"|Le| |Juif|-|Errant|"|,| |"|Les| |Contes| |Drolatiques|"| |e| |"|Dom| |Quixote|"|,| |e| |daí|,| |inversamente|,| |a| |sua| |incapacidade| |de| |exprimir| |a| |beleza| |dos| |Idílios| |de| |Tennyson|,| |de| |"|Il| |Paradiso|"|,| |das| |pastorais| |hebraicas| |e| |de| |outros| |textos| |que| |exigem| |exaltação|,| |ou| |doçura| |e| |repouso|.| |Era| |um| |mestre| |nato| |do| |grotesco| |e|,| |com| |uma| |perspicácia| |especial|,| |conseguia| |retratar| |os| |espectros| |de| |um| |cérebro| |assombrado|.| |Vemos| |os| |objectos| |tal| |como| |as| |suas| |personagens| |os| |viam|,| |e| |com| |os| |próprios| |olhos| |do| |Judeu| |Errante|,| |do| |Don| |perplexo|,| |ou| |da| |filha| |do| |ourives| |cuja| |fantasia| |tanto| |engrandece| |o| |Rei| |na| |loja| |de| |Pont|-|au|-|Change|.| |Era| |da| |natureza| |das| |coisas| |que| |ele| |se| |sentisse| |atraído| |por| |cada| |obra|-|prima| |de| |verso| |ou| |prosa| |a| |que| |chamei| |única|.| |Os| |reinos| |inferiores| |foram| |chamados| |ao| |seu| |serviço|;| |as| |suas| |rochas|,| |árvores| |e| |montanhas|,| |o| |próprio| |céu|,| |são| |animados| |por| |motivos| |e| |diablerie|.| |Se| |tivesse| |vivido| |para| |ilustrar| |Shakespeare|,| |teríamos| |visto| |um| |tratamento| |notável| |de| |Caliban|,| |das| |Bruxas| |e| |da| |tempestade| |em| |"|Lear|"|;| |mas| |sem| |dúvida| |teríamos| |posto| |em| |causa| |os| |seus| |ideais| |de| |Imogénia| |ou| |Miranda|.| |A| |beleza| |pura| |e| |simples|,| |e| |a| |perfeita| |excelência| |dela|,| |raramente| |parecia| |compreender|.
+No| |entanto|,| |há| |beleza| |nos| |seus| |desenhos| |para| |"|O| |Velho| |Marinheiro|"|,| |por| |mais| |irreais| |que| |sejam|,| |e| |uma| |sequência| |rara| |numa| |série| |de| |Doré|.| |A| |Rima| |proporcionou|-|lhe| |uma| |história| |prolongada|,| |com| |muitas| |mudanças| |de| |cenário|.| |Em| |"|O| |Corvo|"|,| |o| |som| |e| |a| |cor| |conservam| |a| |sua| |monotonia| |e| |não| |temos| |mudança| |de| |lugar| |ou| |de| |ocasião|.| |Qual| |é| |o| |resultado|?| |Doré| |oferece| |uma| |série| |de| |variações| |sobre| |o| |tema| |tal| |como| |o| |concebeu|:| |"|o| |enigma| |da| |morte| |e| |a| |alucinação| |de| |uma| |alma| |inconsolável|"|.| |Em| |alguns| |destes| |desenhos|,| |as| |suas| |falhas| |são| |evidentes|;| |outros| |revelam| |a| |sua| |poderosa| |originalidade| |e| |as| |melhores| |qualidades| |em| |que|,| |como| |desenhador|,| |se| |destacava|.| |Claramente|,| |havia| |algo| |em| |comum| |entre| |os| |estados| |de| |espírito| |de| |trabalho| |de| |Poe| |e| |Doré|.| |Isto| |ficaria| |mais| |claro| |se| |este| |último| |se| |tivesse| |aventurado| |nos| |"|Contos| |do| |Grotesco| |e| |do| |Arabesco|"|.| |Ambos| |recorriam| |frequentemente| |ao| |reino| |dos| |duendes|,| |da| |fantasia| |e| |do| |romance|.| |Nos| |feitos| |melodramáticos|,| |ambos|,| |através| |do| |seu| |domínio| |do| |sobrenatural|,| |evitavam| |a| |linha| |de| |perigo| |entre| |o| |ideal| |e| |o| |absurdo|.| |Poe| |era| |o| |mais| |fiel| |adorador| |do| |Belo|;| |o| |seu| |amor| |por| |ele| |era| |uma| |paixão| |consagradora|,| |e| |aqui| |separa|-|se| |do| |seu| |ilustrador|.| |Poeta| |ou| |artista|,| |a| |Morte| |transfigura| |finalmente| |tudo|:| |à| |sombra| |do| |seu| |arauto| |negro|,| |o| |lápis| |simbólico| |de| |Vedder| |coloca|-|os| |habilmente| |frente| |a| |frente|,| |mas| |envolve|-|os| |com| |o| |manto| |da| |sabedoria| |e| |do| |poder| |imortais|.| |Uma| |mulher| |americana| |forjou| |a| |imagem| |de| |um| |Génio| |de| |olhos| |brilhantes| |com| |a| |tocha| |final|,| |a| |aparência| |requintada| |de| |alguém| |cuja| |visão| |contempla|,| |mas| |cujos| |lábios| |não| |conseguem| |pronunciar|,| |os| |mistérios| |de| |uma| |terra| |para| |além| |"|da| |porta| |de| |um| |túmulo| |lendário|"|.
+Edmundo| |C.| |Stedman|.
+O| |POEMA|.
+Ilustração| |1
+Ilustração| |1
+O| |CORVO|.
+Era| |uma| |vez| |uma| |meia|-|noite| |sombria|,| |enquanto| |eu| |ponderava|,| |fraco| |e| |cansado|,
+Ao| |longo| |de| |muitos| |volumes| |curiosos| |e| |pitorescos| |de| |conhecimento| |esquecido|,
+Enquanto| |abanava| |a| |cabeça|,| |quase| |a| |dormitar|,| |de| |repente| |ouvi| |uma| |batida|,
+Como| |se| |alguém| |batesse| |suavemente|,| |batesse| |à| |porta| |do| |meu| |quarto|.
+"|É| |algum| |visitante|"|,| |murmurei|,| |"|a| |bater| |à| |porta| |do| |meu| |quarto—
+Apenas| |isso| |e| |nada| |mais|.|"
+Ah|,| |lembro|-|me| |distintamente| |que| |foi| |no| |sombrio| |Dezembro|,
+E| |cada| |brasa| |moribunda| |deixava| |o| |seu| |fantasma| |no| |chão|.
+Ansiosamente| |desejei| |o| |dia| |de| |amanhã|:| |em| |vão| |procurei| |pedir| |emprestado
+Dos| |meus| |livros| |cessação| |da| |tristeza| |-| |tristeza| |pela| |perdida| |Lenore| |-
+Para| |a| |rara| |e| |radiosa| |donzela| |a| |quem| |os| |anjos| |chamam| |Lenore—
+Sem| |nome| |aqui| |para| |sempre|.
+E| |o| |triste| |e| |incerto| |farfalhar| |de| |cada| |cortina| |roxa
+Emocionou|-|me|,| |encheu|-|me| |de| |terrores| |fantásticos| |nunca| |antes| |sentidos|;
+De| |modo| |que| |agora|,| |para| |acalmar| |as| |batidas| |do| |meu| |coração|,| |fui| |repetindo
+"|É| |algum| |visitante| |a| |pedir| |entrada| |na| |porta| |do| |meu| |quarto
+Algum| |visitante| |tardio| |a| |pedir| |entrada| |à| |porta| |do| |meu| |quarto|;|—
+É| |isso| |e| |nada| |mais|.|"
+Agora| |a| |minha| |alma| |ficou| |mais| |forte|;| |não| |hesitando| |mais|,
+"|Senhor|"|,| |disse| |eu|,| |"|ou| |senhora|,| |imploro| |verdadeiramente| |o| |seu| |perdão|;
+Mas| |o| |facto| |é| |que| |eu| |estava| |a| |dormitar|,| |e| |tão| |gentilmente| |vieste| |batendo|,
+E| |tão| |fracamente| |vieste| |batendo|,| |batendo| |à| |porta| |do| |meu| |quarto|,
+Que| |mal| |tinha| |a| |certeza| |de| |que| |o| |ouvi|»| |—| |aqui| |abri| |a| |porta|;
+Escuridão| |ali|,| |e| |nada| |mais|.
+Espreitando| |profundamente| |naquela| |escuridão|,| |fiquei| |ali| |muito| |tempo|,| |pensando|,| |temendo|,
+Duvidando|,| |sonhando| |sonhos| |que| |nenhum| |mortal| |jamais| |ousou| |sonhar| |antes|;
+Mas| |o| |silêncio| |não| |foi| |quebrado|,| |e| |a| |escuridão| |não| |deu| |qualquer| |sinal|,
+E| |a| |única| |palavra| |ali| |dita| |foi| |sussurrada|:| |"|Lenore|!|"
+Sussurrei| |isto|,| |e| |um| |eco| |murmurou| |de| |volta| |a| |palavra|:| |"|Lenore|!|"
+Apenas| |isso| |e| |nada| |mais|.
+De| |volta| |à| |câmara|,| |rodopiando|,| |toda| |a| |minha| |alma| |a| |arder| |dentro| |de| |mim|,
+Logo| |ouvi| |novamente| |uma| |batida|,| |um| |pouco| |mais| |alta| |do| |que| |antes|.
+"|Certamente|"|,| |disse| |eu|,| |"|há| |certamente| |algo| |na| |minha| |janela|;
+Deixe|-|me| |ver|,| |então|,| |o| |que| |é| |isto| |e| |explorar| |este| |mistério—
+Que| |o| |meu| |coração| |se| |acalme| |por| |momentos| |e| |explore| |este| |mistério|;|—
+"|É| |o| |vento| |e| |nada| |mais|!|"
+Aqui| |abri| |a| |persiana|,| |quando|,| |com| |muitos| |flirts| |e| |agitações|,
+Aí| |entrou| |um| |imponente| |Corvo| |dos| |santos| |dias| |de| |outrora|.
+Não| |prestou| |a| |menor| |reverência|;| |não| |parou| |nem| |esteve| |um| |minuto| |sequer|;
+Mas|,| |com| |semblante| |de| |senhor| |ou| |senhora|,| |empoleirado| |por| |cima| |da| |porta| |do| |meu| |quarto| |—
+Empoleirado| |num| |busto| |de| |Palas| |mesmo| |por| |cima| |da| |porta| |do| |meu| |quarto—
+Empoleirado|,| |sentado|,| |e| |nada| |mais|.
+Então| |este| |pássaro| |de| |ébano| |seduziu| |a| |minha| |triste| |fantasia| |e| |fez|-|me| |sorrir|,
+Pelo| |decoro| |grave| |e| |severo| |do| |semblante| |que| |exibia|,
+"|Embora| |a| |tua| |crista| |esteja| |tosquiada| |e| |barbeada|,| |tu|"|,| |disse| |eu|,| |"|não| |és| |certamente| |cobarde|,
+Corvo| |medonho|,| |sombrio| |e| |antigo| |que| |vagueia| |pela| |costa| |noturna|,
+Diga|-|me| |qual| |é| |o| |seu| |nome| |senhorial| |na| |costa| |plutoniana| |da| |Noite|!|"
+Disse| |o| |Corvo|:| |"|Nunca| |mais|"|.
+Fiquei| |muito| |surpreendido| |com| |esta| |ave| |desajeitada| |ao| |ouvir| |o| |discurso| |tão| |claramente|,
+Embora| |a| |sua| |resposta| |tenha| |pouco| |significado| |—| |pouca| |relevância| |aborrecida|;
+Pois| |não| |podemos| |deixar| |de| |concordar| |que| |nenhum| |ser| |humano| |vivo
+Ever| |foi| |ainda| |abençoado| |por| |ver| |um| |pássaro| |por| |cima| |da| |porta| |do| |seu| |quarto—
+Ave| |ou| |animal| |no| |busto| |esculpido| |acima| |da| |porta| |do| |seu| |quarto|,
+Com| |um| |nome| |como| |"|Nunca| |mais|"|.
+Mas| |o| |Corvo|,| |sentado| |solitário| |no| |busto| |plácido|,| |falava| |apenas
+Aquela| |única| |palavra|,| |como| |se| |a| |sua| |alma| |estivesse| |expressa| |naquela| |única| |palavra|.
+Nada| |mais| |disse|,| |nem| |uma| |pena| |então| |voou|.
+Até| |que| |mal| |murmurei|:| |«|Outros| |amigos| |já| |voaram| |antes—
+Amanhã| |ele| |deixar|-|me|-|á|,| |pois| |as| |minhas| |esperanças| |já| |se| |foram| |antes|.|"
+Então| |o| |pássaro| |disse|:| |"|Nunca| |mais|"|.
+Assustado| |com| |o| |silêncio| |quebrado| |pela| |resposta| |tão| |adequada|,
+"|Sem| |dúvida|"|,| |disse| |eu|,| |"|o| |que| |ele| |profere| |é| |o| |seu| |único| |stock| |e| |depósito|,
+Apanhado| |de| |algum| |mestre| |infeliz| |que| |desastre| |impiedoso
+Seguiu| |depressa| |e| |seguiu| |mais| |depressa| |até| |que| |as| |suas| |canções| |carregavam| |um| |fardo—
+Até| |que| |os| |cantos| |fúnebres| |da| |sua| |Esperança| |carregaram| |aquele| |fardo| |melancólico
+De| |"|Nunca|—|nunca| |mais|.|"
+Mas| |o| |Corvo| |ainda| |seduz| |toda| |a| |minha| |triste| |alma| |a| |sorrir|,
+Em| |linha| |reta|,| |coloquei| |um| |assento| |almofadado| |à| |frente| |do| |pássaro|,| |do| |busto| |e| |da| |porta|;
+Depois|,| |quando| |o| |veludo| |afundou|,| |comecei| |a| |ligar
+De| |fantasia| |em| |fantasia|,| |pensando| |no| |que| |este| |pássaro| |sinistro| |de| |outrora—
+O| |que| |este| |pássaro| |sombrio|,| |desajeitado|,| |medonho|,| |magro| |e| |ameaçador| |de| |outrora
+Queria| |dizer| |"|Nunca| |mais|"|.
+Fiquei| |sentado|,| |entretido| |em| |adivinhas|,| |mas| |nenhuma| |sílaba| |exprimia
+Para| |a| |ave| |cujos| |olhos| |de| |fogo| |ardiam| |agora| |no| |âmago| |do| |meu| |peito|;
+Isto| |e| |muito| |mais| |me| |sentei| |a| |adivinhar|,| |com| |a| |cabeça| |reclinada| |confortavelmente
+No| |forro| |de| |veludo| |da| |almofada| |que| |a| |luz| |da| |lâmpada| |iluminava|,
+Mas| |cujo| |forro| |de| |veludo| |violeta| |com| |a| |luz| |da| |lâmpada| |exultando| |sobre
+Ela| |pressionará|,| |ah|,| |nunca| |mais|!
+Então|,| |pensei|,| |o| |ar| |tornou|-|se| |mais| |denso|,| |perfumado| |por| |um| |incensário| |invisível
+Balançado| |por| |serafins| |cujos| |passos| |tilintavam| |no| |chão| |tufado|.
+“|Miserável|”|,| |gritei|,| |“|o| |teu| |Deus| |te| |emprestou| |—| |por| |meio| |destes| |anjos| |te| |enviou
+Tréguas| |—| |tréguas| |e| |nepente| |das| |tuas| |memórias| |de| |Lenore|!
+Beba|,| |beba| |esse| |gentil| |nepenthe| |e| |esqueça| |essa| |Lenore| |perdida|!|"
+Disse| |o| |Corvo|:| |"|Nunca| |mais|"|.
+"|Profeta|!|"| |disse| |eu|,| |«|coisa| |do| |mal|!| |—| |profeta| |ainda|,| |seja| |pássaro| |ou| |demónio|!| |—
+Se| |o| |tentador| |te| |enviou|,| |ou| |se| |a| |tempestade| |te| |atirou| |aqui| |para| |a| |praia|,
+Desolado|,| |mas| |ainda| |assim| |destemido|,| |nesta| |terra| |desértica| |encantada—
+Nesta| |casa| |assombrada| |pelo| |Horror| |—| |diz|-|me| |a| |verdade|,| |eu| |imploro| |—
+Existe—| |existe| |bálsamo| |em| |Gileade|?|—diga|-|me|—|diga|-|me|,| |eu| |imploro|!|"
+Disse| |o| |Corvo|:| |"|Nunca| |mais|"|.
+"|Profeta|!|"| |disse| |eu|,| |"|coisa| |do| |mal| |—| |profeta| |ainda|,| |seja| |pássaro| |ou| |demónio|!
+Por| |esse| |Céu| |que| |se| |curva| |acima| |de| |nós| |—| |por| |esse| |Deus| |que| |ambos| |adoramos| |—
+Dizei| |a| |esta| |alma| |carregada| |de| |tristeza| |se|,| |dentro| |do| |longínquo| |Aidenn|,
+Ela| |envolverá| |uma| |donzela| |santa| |a| |quem| |os| |anjos| |chamam| |Lenore—
+Abrace| |uma| |donzela| |rara| |e| |radiante| |a| |quem| |os| |anjos| |chamam| |Lenore|.|"
+Disse| |o| |Corvo|:| |"|Nunca| |mais|"|.
+"|Seja| |essa| |palavra| |o| |nosso| |sinal| |de| |despedida|,| |pássaro| |ou| |demónio|!|"| |gritei|,| |arrepiado—
+"|Regressa| |à| |tempestade| |e| |à| |costa| |plutoniana| |da| |Noite|!
+Não| |deixe| |nenhuma| |pluma| |negra| |como| |sinal| |da| |mentira| |que| |a| |sua| |alma| |falou|!
+Deixe| |a| |minha| |solidão| |intacta|!| |—| |pare| |com| |o| |busto| |por| |cima| |da| |minha| |porta|!
+Tire| |o| |seu| |bico| |do| |meu| |coração| |e| |tire| |a| |sua| |forma| |da| |minha| |porta|!|"
+Disse| |o| |Corvo|:| |"|Nunca| |mais|"|.
+E| |o| |Corvo|,| |nunca| |voando|,| |continua| |sentado|,| |continua| |sentado
+Sobre| |o| |pálido| |busto| |de| |Palas|,| |mesmo| |por| |cima| |da| |porta| |do| |meu| |quarto|;
+E| |os| |seus| |olhos| |têm| |toda| |a| |aparência| |de| |um| |demónio| |a| |sonhar|,
+E| |a| |luz| |da| |lâmpada| |sobre| |ele| |projeta| |a| |sua| |sombra| |no| |chão|;
+E| |a| |minha| |alma| |daquela| |sombra| |que| |jaz| |flutuando| |no| |chão
+Será| |levantado| |—| |nunca| |mais|!

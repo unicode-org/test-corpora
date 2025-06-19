@@ -1,0 +1,1015 @@
+<title>
+      The Project Gutenberg eBook of The Raven, by Edgar Allan Poe.
+    </title>
+<h2 id="pg-header-heading" title="">The Project Gutenberg eBook of <span id="pg-title-no-subtitle" lang="en" xml:lang="en">The Raven</span></h2>
+<div>This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at <a class="reference external" href="https://www.gutenberg.org">www.gutenberg.org</a>. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.</div>
+<p><strong>Title</strong>: The Raven</p>
+<p><strong>Author</strong>: Edgar Allan Poe</p>
+<p><strong>Commentator</strong>: Edmund Clarence Stedman</p>
+<p><strong>Illustrator</strong>: Gustave Doré</p>
+<p><strong>Release date</strong>: November 30, 2005 [eBook #17192]<br/>
+                Most recently updated: December 13, 2020</p>
+<p><strong>Language</strong>: English</p>
+<p><strong>Credits</strong>: Produced by Jason Isbell, Melissa Er-Raqabi and the Online<br/>
+        Distributed Proofreading Team at https://www.pgdp.net.</p>
+<span>*** START OF THE PROJECT GUTENBERG EBOOK THE RAVEN ***</span>
+<span id="img_images_back-th.jpg" title="Back Cover">Back Cover</span>
+<h1 id="pgepubid00000">THE RAVEN</h1>
+<span class="smcap">By</span>
+<h2 id="pgepubid00001">EDGAR ALLAN POE</h2>
+<td align="center">ILLUSTRATED<br/>
+<h2><span class="smcap">By</span> GUSTAVE DORÉ</h2></td>
+<span id="img_images_title.jpg" title="Title Image">Title Image</span>
+<big>WITH COMMENT BY EDMUND C. STEDMAN</big>
+<p class="center">NEW YORK</p>
+<small>HARPER &amp; BROTHERS, PUBLISHERS, FRANKLIN SQUARE</small>
+<small>1884</small>
+<small>Entered according to Act of Congress, in the year 1883, by</small>
+<small>HARPER &amp; BROTHERS,</small>
+<small>In the Office of the Librarian of Congress, at Washington.</small>
+<small>All rights reserved.</small>
+<h3>Transcriber's Notes</h3>
+<p>In the List of Illustrations I restored a missing single quote after <i>Lenore!</i> as shown below:</p>
+<p class="indent">"'Wretch,' I cried, 'thy God hath lent thee—by these angels he hath sent thee<br/>
+Respite—respite and nepenthe from thy memories of Lenore!'"</p>
+<p>The List of Illustrations uses 'visitor' where the poem and the actual illustration use 'visiter'.</p>
+<h2 id="pgepubid00003">LIST OF ILLUSTRATIONS</h2>
+<span class="smcap">With Names of Engravers</span>
+<a class="pginternal" href="1693309733997764326_17192-h-0.htm.html#title">Title-page, designed by Elihu Vedder.</a>
+<i>Frederick Juengling.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-0.htm.html#Illustration1">"Nevermore."</a>
+<i>H. Claudius, G.J. Buechner.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-0.htm.html#Illustration2">ANANKE.</a>
+<i>H. Claudius.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration3">"Once upon a midnight dreary, while I pondered, weak and weary, <br/>
+Over many a quaint and curious volume of forgotten lore."</a>
+<i>R.A. Muller.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration4">"Ah, distinctly I remember, it was in the bleak December, <br/>
+And each separate dying ember wrought its ghost upon the floor."</a>
+<i>R.G. Tietze.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration5">"Eagerly I wished the morrow; vainly I had sought to borrow <br/>
+From my books surcease of sorrow—sorrow for the lost Lenore."</a>
+<i>H. Claudius.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration6">"Sorrow for the lost Lenore."</a>
+<i>W. Zimmermann.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration7">"For the rare and radiant maiden whom the angels name Lenore— <br/>
+<span class="indent">Nameless here for evermore."</span></a>
+<i>Frederick Juengling.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration8">"''T is some visitor entreating entrance at my chamber door— <br/>
+Some late visitor entreating entrance at my chamber door.'"</a>
+<i>W. Zimmermann.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration9"><span class="indent">—"Here I opened wide the door;—</span>Darkness there, and nothing more."</a>
+<i>H. Claudius.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration10">"Doubting, dreaming dreams no mortal ever dared to dream before."</a>
+<i>F.S. King.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration11">"'Surely,' said I, 'surely that is something at my window lattice; <br/>
+Let me see, then, what thereat is, and this mystery explore.'"</a>
+<i>Frederick Juengling.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration12">"Open here I flung the shutter."</a>
+<i>T. Johnson.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration13"><span class="indent">—"A stately Raven of the saintly days of yore.</span>Not the least obeisance made he; not a minute stopped or stayed he."</a>
+<i>R. Staudenbaur.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration14">"Perched upon a bust of Pallas just above my chamber door— <br/>
+<span class="indent">Perched, and sat, and nothing more."</span></a>
+<i>R.G. Tietze.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration15">"Wandering from the Nightly shore."</a>
+<i>Frederick Juengling.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration16">"Till I scarcely more than muttered, 'Other friends have flown before— <br/>
+On the morrow <i>he</i> will leave me, as my hopes have flown before.'"</a>
+<i>Frank French.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration17">"Then, upon the velvet sinking, I betook myself to linking <br/>
+Fancy unto fancy."</a>
+<i>R. Schelling.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration18">"But whose velvet violet lining with the lamplight gloating o'er <br/>
+<span class="indent"><i>She</i> shall press, ah, nevermore!"</span></a>
+<i>George Kruell.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration19">"'Wretch,' I cried, 'thy God hath lent thee—by these angels he hath sent thee <br/>
+Respite—respite and nepenthe from thy memories of Lenore!'"</a>
+<i>Victor Bernstrom.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration20">"On this home by Horror haunted."</a>
+<i>R. Staudenbaur.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration21"><span class="indent">"'Tell me truly, I implore—</span>Is there—<i>is</i> there balm in Gilead?—tell me—tell me, I implore!'"</a>
+<i>W. Zimmermann.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration22">"'Tell this soul with sorrow laden if, within the distant Aidenn, <br/>
+It shall clasp a sainted maiden whom the angels name Lenore.'"</a>
+<i>F.S. King.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration23">"'Be that word our sign of parting, bird or fiend!' I shrieked, upstarting."</a>
+<i>W. Zimmermann.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration24">"'Get thee back into the tempest and the Night's Plutonian shore!'"</a>
+<i>Robert Hoskin.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration25">"And my soul from out that shadow that lies floating on the floor <br/>
+<span class="indent">Shall be lifted—nevermore!"</span></a>
+<i>R.G. Tietze.</i>
+<a class="pginternal" href="1693309733997764326_17192-h-1.htm.html#Illustration26">The secret of the Sphinx.</a>
+<i>R. Staudenbaur.</i>
+<h2 id="pgepubid00010"><a id="COMMENT_ON_THE_POEM"></a>COMMENT ON THE POEM.</h2>
+<p>The secret of a poem, no less than a jest's
+prosperity, lies in the ear of him that hears
+it. Yield to its spell, accept the poet's
+mood: this, after all, is what the sages answer
+when you ask them of its value. Even though
+the poet himself, in his other mood, tell you that
+his art is but sleight of hand, his food enchanter's
+food, and offer to show you the trick of it,—believe
+him not. Wait for his prophetic hour; then give
+yourself to his passion, his joy or pain. "We are
+in Love's hand to-day!" sings Gautier, in Swinburne's
+buoyant paraphrase,—and from morn to
+sunset we are wafted on the violent sea: there is
+but one love, one May, one flowery strand. Love
+is eternal, all else unreal and put aside. The vision
+has an end, the scene changes; but we have gained
+something, the memory of a charm. As many poets,
+so many charms. There is the charm of Evanescence,
+that which lends to supreme beauty and
+grace an aureole of Pathos. Share with Landor
+his one "night of memories and of sighs" for Rose
+Aylmer, and you have this to the full.</p>
+<p>And now take the hand of a new-world minstrel,
+strayed from some proper habitat to that rude
+and dissonant America which, as Baudelaire saw,
+"was for Poe only a vast prison through which he
+ran, hither and thither, with the feverish agitation of
+a being created to breathe in a purer world," and
+where "his interior life, spiritual as a poet, spiritual
+even as a drunkard, was but one perpetual effort to
+escape the influence of this antipathetical atmosphere."
+Clasp the sensitive hand of a troubled
+singer dreeing thus his weird, and share with him
+the clime in which he found,—never throughout
+the day, always in the night,—if not the Atlantis
+whence he had wandered, at least a place of refuge
+from the bounds in which by day he was immured.</p>
+<p>To one land only he has power to lead you,
+and for one night only can you share his dream.
+A tract of neither Earth nor Heaven: "No-man's-land,"
+out of Space, out of Time. Here are the
+perturbed ones, through whose eyes, like those of
+the Cenci, the soul finds windows though the mind
+is dazed; here spirits, groping for the path which
+leads to Eternity, are halted and delayed. It is
+the limbo of "planetary souls," wherein are all
+moonlight uncertainties, all lost loves and illusions.
+Here some are fixed in trance, the only respite
+attainable; others</p>
+<span class="i1">"move fantastically<br/>
+</span>
+<span class="i0">To a discordant melody:"<br/>
+</span>
+<p>while everywhere are</p>
+<span class="i0">"Sheeted Memories of the Past—<br/>
+</span>
+<span class="i0">Shrouded forms that start and sigh<br/>
+</span>
+<span class="i0">As they pass the wanderer by."<br/>
+</span>
+<p>Such is the land, and for one night we enter
+it,—a night of astral phases and recurrent chimes.
+Its monodies are twelve poems, whose music strives
+to change yet ever is the same. One by one they
+sound, like the chiming of the brazen and ebony
+clock, in "The Masque of the Red Death," which
+made the waltzers pause with "disconcert and
+tremulousness and meditation," as often as the hour
+came round.</p>
+<p>Of all these mystical cadences, the plaint of
+<i>The Raven</i>, vibrating through the portal, chiefly
+has impressed the outer world. What things go to
+the making of a poem,—and how true in this, as
+in most else, that race which named its bards "the
+makers"? A work is called out of the void. Where
+there was nothing, it remains,—a new creation, part
+of the treasure of mankind. And a few exceptional
+lyrics, more than others that are equally creative,
+compel us to think anew how bravely the poet's
+pen turns things unknown</p>
+<span class="i2">"to shapes, and gives to airy nothing<br/>
+</span>
+<span class="i0">A local habitation, and a name."<br/>
+</span>
+<p>Each seems without a prototype, yet all fascinate
+us with elements wrested from the shadow of the
+Supernatural. Now the highest imagination is concerned
+about the soul of things; it may or may not
+inspire the Fantasy that peoples with images the
+interlunar vague. Still, one of these lyrics, in its
+smaller way, affects us with a sense of uniqueness,
+as surely as the sublimer works of a supernatural
+cast,—Marlowe's "Faustus," the "Faust" of Goethe,
+"Manfred," or even those ethereal masterpieces,
+"The Tempest" and "A Midsummer Night's Dream."
+More than one, while otherwise unique, has some<span class="x-ebookmaker-pageno" id="pgepubid00011" title="[10]"><a id="Page_10" title="[10]"></a></span>
+burden or refrain which haunts the memory,—once
+heard, never forgotten, like the tone of a rarely used
+but distinctive organ-stop. Notable among them is
+Bürger's "Lenore," that ghostly and resonant ballad,
+the lure and foil of the translators. Few will
+deny that Coleridge's wondrous "Rime of the Ancient Mariner"
+stands at their very head. "Le
+Juif-Errant" would have claims, had Beranger been
+a greater poet; and, but for their remoteness from
+popular sympathy, "The Lady of Shalott" and
+"The Blessed Damozel" might be added to the
+list. It was given to Edgar Allan Poe to produce
+two lyrics, "The Bells" and <i>The Raven</i>, each of
+which, although perhaps of less beauty than those
+of Tennyson and Rossetti, is a unique. "Ulalume,"
+while equally strange and imaginative, has not the
+universal quality that is a portion of our test.</p>
+<p><i>The Raven</i> in sheer poetical constituents falls
+below such pieces as "The Haunted Palace," "The
+City in the Sea," "The Sleeper," and "Israfel."
+The whole of it would be exchanged, I suspect, by
+readers of a fastidious cast, for such passages as
+these:</p>
+<span class="i0">"Around, by lifting winds forgot,<br/>
+</span>
+<span class="i0">Resignedly beneath the sky<br/>
+</span>
+<span class="i0">The melancholy waters lie.<br/>
+</span>
+<span class="i0">No rays from the holy heaven come down<br/>
+</span>
+<span class="i0">On the long night-time of that town;<br/>
+</span>
+<span class="i0">But light from out the lurid sea<br/>
+</span>
+<span class="i0">Streams up the turrets silently—<br/>
+</span>
+<b>·     ·     ·     ·     ·     ·     ·     </b>
+<span class="i0">Up many and many a marvellous shrine<br/>
+</span>
+<span class="i0">Whose wreathéd friezes intertwine<br/>
+</span>
+<span class="i0">The viol, the violet, and the vine.<br/>
+</span>
+<b>·     ·     ·     ·     ·     ·     ·     </b>
+<span class="i0">No swellings tell that winds may be<br/>
+</span>
+<span class="i0">Upon some far-off happier sea—<br/>
+</span>
+<span class="i0">No heavings hint that winds have been<br/>
+</span>
+<span class="i0">On seas less hideously serene."<br/>
+</span>
+<p>It lacks the aerial melody of the poet whose heart-strings
+are a lute:</p>
+<span class="i0">"And they say (the starry choir<br/>
+</span>
+<span class="i0">And the other listening things)<br/>
+</span>
+<span class="i0">That Israfeli's fire<br/>
+</span>
+<span class="i0">Is owing to that lyre<br/>
+</span>
+<span class="i0">By which he sits and sings—<br/>
+</span>
+<span class="i0">The trembling living wire<br/>
+</span>
+<span class="i0">Of those unusual strings."<br/>
+</span>
+<p>But <i>The Raven</i>, like "The Bells" and "Annabel
+Lee," commends itself to the many and the few.
+I have said elsewhere that Poe's rarer productions
+seemed to me "those in which there is the appearance,
+at least, of spontaneity,—in which he yields
+to his feelings, while dying falls and cadences most
+musical, most melancholy, come from him unawares."
+This is still my belief; and yet, upon a
+fresh study of this poem, it impresses me more
+than at any time since my boyhood. Close acquaintance
+tells in favor of every true work of art.
+Induce the man, who neither knows art nor cares
+for it, to examine some poem or painting, and how
+soon its force takes hold of him! In fact, he will
+overrate the relative value of the first good work
+by which his attention has been fairly caught. <i>The
+Raven</i>, also, has consistent qualities which even an
+expert must admire. In no other of its author's
+poems is the motive more palpably defined. "The
+Haunted Palace" is just as definite to the select
+reader, but Poe scarcely would have taken that
+subtle allegory for bald analysis. <i>The Raven</i> is
+wholly occupied with the author's typical theme—the
+irretrievable loss of an idolized and beautiful
+woman; but on other grounds, also, the public instinct
+is correct in thinking it his representative poem.</p>
+<p>A man of genius usually gains a footing with
+the success of some one effort, and this is not always
+his greatest. Recognition is the more instant for
+having been postponed. He does not acquire it,
+like a miser's fortune, coin after coin, but "not at
+all or all in all." And thus with other ambitions:
+the courtier, soldier, actor,—whatever their parts,—each
+counts his triumph from some lucky stroke.
+Poe's Raven, despite augury, was for him "the
+bird that made the breeze to blow." The poet
+settled in New-York, in the winter of 1844-'45,
+finding work upon Willis's paper, "The Evening
+Mirror," and eking out his income by contributions
+elsewhere. For six years he had been an active
+writer, and enjoyed a professional reputation; was
+held in both respect and misdoubt, and was at no loss
+for his share of the ill-paid journalism of that day.
+He also had done much of his very best work,—such
+tales as "Ligeia" and "The Fall of the House
+of Usher," (the latter containing that mystical
+counterpart, in verse, of Elihu Vedder's "A Lost Mind,")
+such analytic feats as "The Gold Bug" and "The
+Mystery of Marie Roget." He had made proselytes
+abroad, and gained a lasting hold upon the
+French mind. He had learned his own power and
+weakness, and was at his prime, and not without a
+certain reputation. But he had written nothing that
+was on the tongue of everybody. To rare and delicate
+work some popular touch must be added to
+capture the general audience of one's own time.</p>
+<p>Through the industry of Poe's successive biographers,
+the hit made by <i>The Raven</i> has become
+an oft-told tale. The poet's young wife, Virginia,
+was fading before his eyes, but lingered for another
+year within death's shadow. The long, low chamber
+in the house near the Bloomingdale Road is as<span class="x-ebookmaker-pageno" id="pgepubid00012" title="[11]"><a id="Page_11" title="[11]"></a></span>
+famous as the room where Rouget de l'Isle composed
+the Marseillaise. All have heard that the
+poem, signed "Quarles," appeared in the "American
+Review," with a pseudo-editorial comment on its
+form; that Poe received ten dollars for it; that
+Willis, the kindest and least envious of fashionable
+arbiters, reprinted it with a eulogy that instantly
+made it town-talk. All doubt of its authorship
+was dispelled when Poe recited it himself at a
+literary gathering, and for a time he was the most
+marked of American authors. The hit stimulated
+and encouraged him. Like another and prouder
+satirist, he too found "something of summer" even
+"in the hum of insects." Sorrowfully enough, but
+three years elapsed,—a period of influence, pride,
+anguish, yet always of imaginative or critical labor,—before
+the final defeat, before the curtain dropped
+on a life that for him was in truth a tragedy, and
+he yielded to "the Conqueror Worm."</p>
+<p>"The American Review: A Whig Journal"
+was a creditable magazine for the time, double-columned,
+printed on good paper with clear type,
+and illustrated by mezzotint portraits. Amid much
+matter below the present standard, it contained some
+that any editor would be glad to receive. The
+initial volume, for 1845, has articles by Horace
+Greeley, Donald Mitchell, Walter Whitman, Marsh,
+Tuckerman, and Whipple. Ralph Hoyt's quaint
+poem, "Old," appeared in this volume. And here
+are three lyrics by Poe: "The City in the Sea,"
+"The Valley of Unrest," and <i>The Raven</i>. Two of
+these were built up,—such was his way,—from
+earlier studies, but the last-named came out as if
+freshly composed, and almost as we have it now.
+The statement that it was not afterward revised is
+erroneous. Eleven trifling changes from the magazine-text
+appear in <i>The Raven and Other Poems</i>,
+1845, a book which the poet shortly felt encouraged
+to offer the public. These are mostly changes of
+punctuation, or of single words, the latter kind
+made to heighten the effect of alliteration. In Mr.
+Lang's pretty edition of Poe's verse, brought out
+in the "Parchment Library," he has shown the
+instinct of a scholar, and has done wisely, in going
+back to the text in the volume just mentioned, as
+given in the London issue of 1846. The "standard"
+Griswold collection of the poet's works abounds
+with errors. These have been repeated by later
+editors, who also have made errors of their
+own. But the text of <i>The Raven</i>, owing to the
+requests made to the author for manuscript copies,
+was still farther revised by him; in fact, he printed
+it in Richmond, just before his death, with the
+poetic substitution of "seraphim whose foot-falls"
+for "angels whose faint foot-falls," in the fourteenth
+stanza. Our present text, therefore, while substantially
+that of 1845, is somewhat modified by the
+poet's later reading, and is, I think, the most correct
+and effective version of this single poem. The
+most radical change from the earliest version appeared,
+however, in the volume in 1845; the eleventh
+stanza originally having contained these lines, faulty
+in rhyme and otherwise a blemish on the poem:</p>
+<span class="i0">"Caught from some unhappy master, whom unmerciful Disaster<br/>
+</span>
+<span class="i0">Followed fast and followed faster—so, when Hope he would adjure,<br/>
+</span>
+<span class="i0">Stern Despair returned, instead of the sweet Hope he dared adjure—<br/>
+</span>
+<span class="i10">That sad answer, 'Nevermore!'"<br/>
+</span>
+<p>It would be well if other, and famous, poets could
+be as sure of making their changes always improvements.
+Poe constantly rehandled his scanty show
+of verse, and usually bettered it. <i>The Raven</i> was
+the first of the few poems which he nearly brought
+to completion before printing. It may be that those
+who care for poetry lost little by his death. Fluent
+in prose, he never wrote verse for the sake of making
+a poem. When a refrain of image haunted him,
+the lyric that resulted was the inspiration, as he
+himself said, of a passion, not of a purpose. This
+was at intervals so rare as almost to justify the
+Fairfield theory that each was the product of a
+nervous crisis.</p>
+<p>What, then, gave the poet his clue to <i>The
+Raven</i>? From what misty foundation did it rise
+slowly to a music slowly breathed? As usual, more
+than one thing went to the building of so notable
+a poem. Considering the longer sermons often
+preached on brief and less suggestive texts, I hope
+not to be blamed for this discussion of a single
+lyric,—especially one which an artist like Doré has
+made the subject of prodigal illustration. Until recently
+I had supposed that this piece, and a few
+which its author composed after its appearance, were
+exceptional in not having grown from germs in his
+boyish verse. But Mr. Fearing Gill has shown me
+some unpublished stanzas by Poe, written in his
+eighteenth year, and entitled, "The Demon of the
+Fire." The manuscript appears to be in the poet's
+early handwriting, and its genuineness is vouched for
+by the family in whose possession it has remained
+for half a century. Besides the plainest germs of
+"The Bells" and "The Haunted Palace" it contains
+a few lines somewhat suggestive of the opening
+and close of <i>The Raven</i>. As to the rhythm of
+our poem, a comparison of dates indicates that this
+was influenced by the rhythm of "Lady Geraldine's
+Courtship." Poe was one of the first to honor Miss
+Barrett's genius; he inscribed his collected poems
+to her as "the noblest of her sex," and was in<span class="x-ebookmaker-pageno" id="pgepubid00013" title="[12]"><a id="Page_12" title="[12]"></a></span>
+sympathy with her lyrical method. The lines from
+her love-poem,</p>
+<span class="i0">"With a murmurous stir uncertain, in the air, the purple curtain<br/>
+</span>
+<span class="i0">Swelleth in and swelleth out around her motionless pale brows,"<br/>
+</span>
+<p>found an echo in these:</p>
+<span class="i0">"And the silken sad uncertain rustling of each purple curtain<br/>
+</span>
+<span class="i0">Thrilled me—filled me with fantastic terrors never felt before."<br/>
+</span>
+<p>Here Poe assumed a privilege for which he roughly
+censured Longfellow, and which no one ever sought
+on his own premises without swift detection and
+chastisement. In melody and stanzaic form, we shall
+see that the two poems are not unlike, but in motive
+they are totally distinct. The generous poetess
+felt nothing but the true originality of the poet.
+"This vivid writing!" she exclaimed,—"this power
+which is felt!... Our great poet, Mr. Browning,
+author of 'Paracelsus,' &amp;c., is enthusiastic in
+his admiration of the rhythm." Mr. Ingram, after
+referring to "Lady Geraldine," cleverly points out
+another source from which Poe may have caught
+an impulse. In 1843, Albert Pike, the half-Greek,
+half-frontiersman, poet of Arkansas, had printed in
+"The New Mirror," for which Poe then was writing,
+some verses entitled "Isadore," but since revised
+by the author and called "The Widowed Heart."
+I select from Mr. Pike's revision the following
+stanza, of which the main features correspond with
+the original version:</p>
+<span class="i0">"Restless I pace our lonely rooms, I play our songs no more,<br/>
+</span>
+<span class="i0">The garish sun shines flauntingly upon the unswept floor;<br/>
+</span>
+<span class="i0">The mocking-bird still sits and sings, O melancholy strain!<br/>
+</span>
+<span class="i0">For my heart is like an autumn-cloud that overflows with rain;<br/>
+</span>
+<span class="i10">Thou art lost to me forever, Isadore!"<br/>
+</span>
+<p>Here we have a prolonged measure, a similarity of
+refrain, and the introduction of a bird whose song
+enhances sorrow. There are other trails which may
+be followed by the curious; notably, a passage
+which Mr. Ingram selects from Poe's final review
+of "Barnaby Rudge":</p>
+<p>"The raven, too, * * * might have been made, more
+than we now see it, a portion of the conception of the fantastic
+Barnaby. * * * Its character might have performed,
+in regard to that of the idiot, much the same part as does,
+in music, the accompaniment in respect to the air."</p>
+<p>Nevertheless, after pointing out these germs
+and resemblances, the value of this poem still is
+found in its originality. The progressive music, the
+scenic detail and contrasted light and shade,—above
+all, the spiritual passion of the nocturn, make it the
+work of an informing genius. As for the gruesome
+bird, he is unlike all the other ravens of his clan, from
+the "twa corbies" and "three ravens" of the balladists
+to Barnaby's rumpled "Grip." Here is no
+semblance of the cawing rook that haunts ancestral
+turrets and treads the field of heraldry; no boding
+phantom of which Tickell sang that, when,</p>
+<span class="i4">"shrieking at her window thrice,<br/>
+</span>
+<span class="i0">The raven flap'd his wing,<br/>
+</span>
+<span class="i0">Too well the love-lorn maiden knew<br/>
+</span>
+<span class="i0">The solemn boding sound."<br/>
+</span>
+<p>Poe's raven is a distinct conception; the incarnation
+of a mourner's agony and hopelessness; a sable
+embodied Memory, the abiding chronicler of doom, a
+type of the Irreparable. Escaped across the Styx, from
+"the Night's Plutonian shore," he seems the imaged
+soul of the questioner himself,—of him who can not,
+will not, quaff the kind nepenthe, because the memory
+of Lenore is all that is left him, and with the
+surcease of his sorrow even that would be put aside.</p>
+<p><i>The Raven</i> also may be taken as a representative
+poem of its author, for its exemplification of all
+his notions of what a poem should be. These are
+found in his essays on "The Poetic Principle," "The
+Rationale of Verse," and "The Philosophy of Composition."
+Poe declared that "in Music, perhaps,
+the soul most nearly attains the great end for which,
+when inspired by the Poetic Sentiment, it struggles—the
+creation of supernal Beauty.... Verse
+cannot be better designated than as an inferior or
+less capable music"; but again, verse which is really
+the "Poetry of Words" is "The Rhythmical Creation
+of Beauty,"—this and nothing more. The <i>tone</i>
+of the highest Beauty is one of Sadness. The most
+melancholy of topics is Death. This must be allied
+to Beauty. "The death, then, of a beautiful woman
+is, unquestionably, the most poetical topic in the
+world,—and equally is it beyond doubt that the lips
+best suited for such a topic are those of a bereaved
+lover." These last expressions are quoted from
+Poe's whimsical analysis of this very poem, but
+they indicate precisely the general range of his
+verse. The climax of "The Bells" is the muffled
+monotone of ghouls, who glory in weighing down
+the human heart. "Lenore," <i>The Raven</i>, "The
+Sleeper," "To One in Paradise," and "Ulalume"
+form a tenebrose symphony,—and "Annabel Lee,"
+written last of all, shows that one theme possessed
+him to the end. Again, these are all nothing
+if not musical, and some are touched with that
+quality of the Fantastic which awakes the sense of
+awe, and adds a new fear to agony itself. Through
+all is dimly outlined, beneath a shadowy pall, the
+poet's ideal love,—so often half-portrayed elsewhere,—the
+entombed wife of Usher, the Lady Ligeia, in<span class="x-ebookmaker-pageno" id="pgepubid00014" title="[13]"><a id="Page_13" title="[13]"></a></span>
+truth the counterpart of his own nature. I suppose
+that an artist's love for one "in the form" never
+can wholly rival his devotion to some ideal. The
+woman near him must exercise her spells, be all by
+turns and nothing long, charm him with infinite variety,
+or be content to forego a share of his allegiance.
+He must be lured by the Unattainable,
+and this is ever just beyond him in his passion for
+creative art.</p>
+<p>Poe, like Hawthorne, came in with the decline
+of the Romantic school, and none delighted more
+than he to laugh at its calamity. Yet his heart was
+with the romancers and their Oriental or Gothic
+effects. His invention, so rich in the prose tales,
+seemed to desert him when he wrote verse; and his
+judgment told him that long romantic poems depend
+more upon incident than inspiration,—and that,
+to utter the poetry of romance, lyrics would suffice.
+Hence his theory, clearly fitted to his own limitations,
+that "a 'long poem' is a flat contradiction in
+terms." The components of <i>The Raven</i> are few and
+simple: a man, a bird, and the phantasmal memory
+at a woman. But the piece affords a fine display
+of romantic material. What have we? The midnight;
+the shadowy chamber with its tomes of forgotten
+lore; the student,—a modern Hieronymus;
+the raven's tap on the casement; the wintry night
+and dying fire; the silken wind-swept hangings;
+the dreams and vague mistrust of the echoing darkness;
+the black, uncanny bird upon the pallid bust;
+the accessories of violet velvet and the gloating
+lamp. All this stage effect of situation, light, color,
+sound, is purely romantic, and even melodramatic,
+but of a poetic quality that melodrama rarely exhibits,
+and thoroughly reflective of the poet's "eternal
+passion, eternal pain."</p>
+<p>The rhythmical structure of <i>The Raven</i> was
+sure to make an impression. Rhyme, alliteration,
+the burden, the stanzaic form, were devised with
+singular adroitness. Doubtless the poet was struck
+with the aptness of Miss Barrett's musical trochaics,
+in "eights," and especially by the arrangement
+adopted near the close of "Lady Geraldine":</p>
+<span class="i0">"'Eyes,' he said, 'now throbbing through me! Are ye eyes that did undo me?<br/>
+</span>
+<span class="i0">Shining eyes, like antique jewels set in Parian statue-stone!<br/>
+</span>
+<span class="i0">Underneath that calm white forehead, are ye ever burning torrid<br/>
+</span>
+<span class="i0">O'er the desolate sand-desert of my heart and life undone?'"<br/>
+</span>
+<p>His artistic introduction of a third rhyme in both
+the second and fourth lines, and the addition of a
+fifth line and a final refrain, made the stanza of <i>The
+Raven</i>. The persistent alliteration seems to come
+without effort, and often the rhymes within lines
+are seductive; while the refrain or burden dominates
+the whole work. Here also he had profited by Miss
+Barrett's study of ballads and romaunts in her own
+and other tongues. A "refrain" is the lure wherewith
+a poet or a musician holds the wandering ear,—the
+recurrent longing of Nature for the initial
+strain. I have always admired the beautiful refrains
+of the English songstress,—"The Nightingales,
+the Nightingales," "Margret, Margret," "My Heart
+and I," "Toll slowly," "The River floweth on,"
+"Pan, Pan is dead," etc. She also employed what
+I term the Repetend, in the use of which Poe has
+excelled all poets since Coleridge thus revived it:</p>
+<span class="i0">"O happy living things! no tongue<br/>
+</span>
+<span class="i0">Their beauty might declare:<br/>
+</span>
+<span class="i0">A spring of love gushed from my heart,<br/>
+</span>
+<span class="i0">And I blessed them unaware:<br/>
+</span>
+<span class="i0">Sure my kind saint took pity on me,<br/>
+</span>
+<span class="i0">And I blessed them unaware."<br/>
+</span>
+<p>Poe created the fifth line of his stanza for the magic
+of the repetend. He relied upon it to the uttermost
+in a few later poems,—"Lenore," "Annabel Lee,"
+"Ulalume," and "For Annie." It gained a wild and
+melancholy music, I have thought, from the "sweet
+influences," of the Afric burdens and repetends that
+were sung to him in childhood, attuning with their
+native melody the voice of our Southern poet.</p>
+<p>"The Philosophy of Composition," his analysis
+of <i>The Raven</i>, is a technical dissection of its method
+and structure. Neither his avowal of cold-blooded
+artifice, nor his subsequent avowal to friends that an
+exposure of this artifice was only another of his intellectual
+hoaxes, need be wholly credited. If he
+had designed the complete work in advance, he
+scarcely would have made so harsh a prelude of
+rattle-pan rhymes to the delicious melody of the
+second stanza,—not even upon his theory of the
+fantastic. Of course an artist, having perfected a
+work, sees, like the first Artist, that it is good, and
+sees why it is good. A subsequent analysis, coupled
+with a disavowal of any sacred fire, readily enough
+may be made. My belief is that the first conception
+and rough draft of this poem came as inspiration
+always comes; that its author then saw how
+it might be perfected, giving it the final touches
+described in his chapter on Composition, and that
+the latter, therefore, is neither wholly false nor wholly
+true. The harm of such analysis is that it tempts
+a novice to fancy that artificial processes can supersede
+imagination. The impulse of genius is to guard
+the secrets of its creative hour. Glimpses obtained
+of the toil, the baffled experiments, which precede a
+triumph, as in the sketch-work of Hawthorne recently
+brought to light, afford priceless instruction
+and encouragement to the sincere artist. But one<span class="x-ebookmaker-pageno" id="pgepubid00015" title="[14]"><a id="Page_14" title="[14]"></a></span>
+who voluntarily exposes his Muse to the gaze of
+all comers should recall the fate of King Candaules.</p>
+<p>The world still thinks of Poe as a "luckless
+man of genius." I recently heard him mentioned as
+"one whom everybody seems chartered to misrepresent,
+decry or slander." But it seems to me that
+his ill-luck ended with his pitiable death, and that
+since then his defence has been persistent, and his
+fame of as steadfast growth as a suffering and gifted
+author could pray for in his hopeful hour. Griswold's
+decrial and slander turned the current in his
+favor. Critics and biographers have come forward
+with successive refutations, with tributes to his
+character, with new editions of his works. His own
+letters and the minute incidents of his career are
+before us; the record, good and bad, is widely
+known. No appellor has received more tender and
+forgiving judgement. His mishaps in life belonged
+to his region and period, perchance still more to his
+own infirmity of will. Doubtless his environment
+was not one to guard a fine-grained, ill-balanced
+nature from perils without and within. His strongest
+will, to be lord of himself, gained for him "that
+heritage of woe." He confessed himself the bird's
+unhappy master, the stricken sufferer of this poem.
+But his was a full share of that dramatic temper
+which exults in the presage of its own doom. There
+is a delight in playing one's high part: we are all
+gladiators, crying <i>Ave Imperator!</i> To quote Burke's
+matter of fact: "In grief the pleasure is still uppermost,
+and the affliction we suffer has no resemblance
+to absolute pain, which is always odious, and which
+we endeavor to shake off as soon as possible." Poe
+went farther, and was an artist even in the tragedy
+of his career. If, according to his own belief, sadness
+and the vanishing of beauty are the highest
+poetic themes, and poetic feeling the keenest earthly
+pleasure, then the sorrow and darkness of his broken
+life were not without their frequent compensation.</p>
+<p>In the following pages, we have a fresh example
+of an artist's genius characterizing his interpretation
+of a famous poem. Gustave Doré, the last work
+of whose pencil is before us, was not the painter,
+or even the draughtsman, for realists demanding
+truth of tone, figure, and perfection. Such matters
+concerned him less than to make shape and distance,
+light and shade, assist his purpose,—which
+was to excite the soul, the imagination, of the looker
+on. This he did by arousing our sense of awe,
+through marvellous and often sublime conceptions
+of things unutterable and full of gloom or glory. It
+is well said that if his works were not great paintings,
+as pictures they are great indeed. As a "literary
+artist," and such he was, his force was in direct
+ratio with the dramatic invention of his author, with
+the brave audacities of the spirit that kindled his
+own. Hence his success with Rabelais, with "Le
+Juif-Errant," "Les Contes Drolatiques," and "Don
+Quixote," and hence, conversely, his failure to express
+the beauty of Tennyson's Idyls, of "Il Paradiso,"
+of the Hebrew pastorals, and other texts requiring
+exaltation, or sweetness and repose. He was a born
+master of the grotesque, and by a special insight
+could portray the spectres of a haunted brain. We
+see objects as his personages saw them, and with the
+very eyes of the Wandering Jew, the bewildered
+Don, or the goldsmith's daughter whose fancy so
+magnifies the King in the shop on the Pont-au-Change.
+It was in the nature of things that he
+should be attracted to each masterpiece of verse or
+prose that I have termed unique. The lower kingdoms
+were called into his service; his rocks, trees
+and mountains, the sky itself, are animate with motive
+and diablerie. Had he lived to illustrate Shakespeare,
+we should have seen a remarkable treatment
+of Caliban, the Witches, the storm in "Lear"; but
+doubtless should have questioned his ideals of Imogen
+or Miranda. Beauty pure and simple, and the perfect
+excellence thereof, he rarely seemed to comprehend.</p>
+<p>Yet there is beauty in his designs for the "Ancient
+Mariner," unreal as they are, and a consecutiveness
+rare in a series by Doré. The Rime
+afforded him a prolonged story, with many shiftings
+of the scene. In <i>The Raven</i> sound and color
+preserve their monotone and we have no change
+of place or occasion. What is the result? Doré
+proffers a series of variations upon the theme as
+he conceived it, "the enigma of death and the hallucination
+of an inconsolable soul." In some of these
+drawings his faults are evident; others reveal his
+powerful originality, and the best qualities in which,
+as a draughtsman, he stood alone. Plainly there
+was something in common between the working
+moods of Poe and Doré. This would appear more
+clearly had the latter tried his hand upon the "Tales
+of the Grotesque and Arabesque." Both resorted
+often to the elf-land of fantasy and romance. In
+melodramatic feats they both, through their command
+of the supernatural, avoided the danger-line between
+the ideal and the absurd. Poe was the truer worshipper
+of the Beautiful; his love for it was a consecrating
+passion, and herein he parts company with
+his illustrator. Poet or artist, Death at last transfigures
+all: within the shadow of his sable harbinger,
+Vedder's symbolic crayon aptly sets them face to
+face, but enfolds them with the mantle of immortal
+wisdom and power. An American woman has wrought
+the image of a star-eyed Genius with the final torch,
+the exquisite semblance of one whose vision beholds,
+but whose lips may not utter, the mysteries of a land
+beyond "the door of a legended tomb."</p>
+<span class="smcap">Edmund C. Stedman.</span>
+<h2 id="pgepubid00017"><a id="THE_POEM"></a>THE POEM.</h2>
+<span id="img_images_i001.jpg" title="Illustration 1">Illustration 1</span>
+<h2 id="pgepubid00022"><a id="THE_RAVEN"></a>THE RAVEN.</h2>
+<span class="i0">Once upon a midnight dreary, while I pondered, weak and weary,<br/>
+</span>
+<span class="i0">Over many a quaint and curious volume of forgotten lore,<br/>
+</span>
+<span class="i0">While I nodded, nearly napping, suddenly there came a tapping,<br/>
+</span>
+<span class="i0">As of some one gently rapping, rapping at my chamber door.<br/>
+</span>
+<span class="i0">"'T is some visiter," I muttered, "tapping at my chamber door—<br/>
+</span>
+<span class="i10">Only this, and nothing more."<br/>
+</span>
+<span class="i0">Ah, distinctly I remember it was in the bleak December,<br/>
+</span>
+<span class="i0">And each separate dying ember wrought its ghost upon the floor.<br/>
+</span>
+<span class="i0">Eagerly I wished the morrow:—vainly I had sought to borrow<br/>
+</span>
+<span class="i0">From my books surcease of sorrow—sorrow for the lost Lenore—<br/>
+</span>
+<span class="i0">For the rare and radiant maiden whom the angels name Lenore—<br/>
+</span>
+<span class="i10">Nameless here for evermore.<br/>
+</span>
+<span class="i0">And the silken sad uncertain rustling of each purple curtain<br/>
+</span>
+<span class="i0">Thrilled me—filled me with fantastic terrors never felt before;<br/>
+</span>
+<span class="i0">So that now, to still the beating of my heart, I stood repeating<br/>
+</span>
+<span class="i0">"'T is some visiter entreating entrance at my chamber door<br/>
+</span>
+<span class="i0">Some late visiter entreating entrance at my chamber door;—<br/>
+</span>
+<span class="i10">This it is, and nothing more."<br/>
+</span>
+<span class="i0">Presently my soul grew stronger; hesitating then no longer,<br/>
+</span>
+<span class="i0">"Sir," said I, "or Madam, truly your forgiveness I implore;<br/>
+</span>
+<span class="i0">But the fact is I was napping, and so gently you came rapping,<br/>
+</span>
+<span class="i0">And so faintly you came tapping, tapping at my chamber door,<br/>
+</span>
+<span class="i0">That I scarce was sure I heard you"—here I opened wide the door;—<br/>
+</span>
+<span class="i10">Darkness there, and nothing more.<br/>
+</span>
+<span class="i0">Deep into that darkness peering, long I stood there wondering, fearing,<br/>
+</span>
+<span class="i0">Doubting, dreaming dreams no mortal ever dared to dream before;<br/>
+</span>
+<span class="i0">But the silence was unbroken, and the darkness gave no token,<br/>
+</span>
+<span class="i0">And the only word there spoken was the whispered word, "Lenore!"<br/>
+</span>
+<span class="i0">This I whispered, and an echo murmured back the word, "Lenore!"<br/>
+</span>
+<span class="i10">Merely this and nothing more.<br/>
+</span>
+<span class="i0">Back into the chamber turning, all my soul within me burning,<br/>
+</span>
+<span class="i0">Soon again I heard a tapping, somewhat louder than before.<br/>
+</span>
+<span class="i0">"Surely," said I, "surely that is something at my window lattice;<br/>
+</span>
+<span class="i0">Let me see, then, what thereat is, and this mystery explore—<br/>
+</span>
+<span class="i0">Let my heart be still a moment and this mystery explore;—<br/>
+</span>
+<span class="i10">'T is the wind and nothing more!"<br/>
+</span>
+<span class="i0">Open here I flung the shutter, when, with many a flirt and flutter,<br/>
+</span>
+<span class="i0">In there stepped a stately Raven of the saintly days of yore.<br/>
+</span>
+<span class="i0">Not the least obeisance made he; not a minute stopped or stayed he;<br/>
+</span>
+<span class="i0">But, with mien of lord or lady, perched above my chamber door—<br/>
+</span>
+<span class="i0">Perched upon a bust of Pallas just above my chamber door—<br/>
+</span>
+<span class="i10">Perched, and sat, and nothing more.<br/>
+</span>
+<span class="i0">Then this ebony bird beguiling my sad fancy into smiling,<br/>
+</span>
+<span class="i0">By the grave and stern decorum of the countenance it wore,<br/>
+</span>
+<span class="i0">"Though thy crest be shorn and shaven, thou," I said, "art sure no craven,<br/>
+</span>
+<span class="i0">Ghastly grim and ancient Raven wandering from the Nightly shore,—<br/>
+</span>
+<span class="i0">Tell me what thy lordly name is on the Night's Plutonian shore!"<br/>
+</span>
+<span class="i10">Quoth the Raven, "Nevermore."<br/>
+</span>
+<span class="i0">Much I marvelled this ungainly fowl to hear discourse so plainly,<br/>
+</span>
+<span class="i0">Though its answer little meaning—little relevancy bore;<br/>
+</span>
+<span class="i0">For we cannot help agreeing that no living human being<br/>
+</span>
+<span class="i0">Ever yet was blessed with seeing bird above his chamber door—<br/>
+</span>
+<span class="i0">Bird or beast upon the sculptured bust above his chamber door,<br/>
+</span>
+<span class="i10">With such name as "Nevermore."<br/>
+</span>
+<span class="i0">But the Raven, sitting lonely on the placid bust, spoke only<br/>
+</span>
+<span class="i0">That one word, as if his soul in that one word he did outpour.<br/>
+</span>
+<span class="i0">Nothing further then he uttered—not a feather then he fluttered—<br/>
+</span>
+<span class="i0">Till I scarcely more than muttered, "Other friends have flown before—<br/>
+</span>
+<span class="i0">On the morrow <i>he</i> will leave me, as my hopes have flown before."<br/>
+</span>
+<span class="i10">Then the bird said, "Nevermore."<br/>
+</span>
+<span class="i0">Startled at the stillness broken by reply so aptly spoken,<br/>
+</span>
+<span class="i0">"Doubtless," said I, "what it utters is its only stock and store,<br/>
+</span>
+<span class="i0">Caught from some unhappy master whom unmerciful Disaster<br/>
+</span>
+<span class="i0">Followed fast and followed faster till his songs one burden bore—<br/>
+</span>
+<span class="i0">Till the dirges of his Hope that melancholy burden bore<br/>
+</span>
+<span class="i10">Of 'Never—nevermore.'"<br/>
+</span>
+<span class="i0">But the Raven still beguiling all my sad soul into smiling,<br/>
+</span>
+<span class="i0">Straight I wheeled a cushioned seat in front of bird and bust and door;<br/>
+</span>
+<span class="i0">Then, upon the velvet sinking, I betook myself to linking<br/>
+</span>
+<span class="i0">Fancy unto fancy, thinking what this ominous bird of yore—<br/>
+</span>
+<span class="i0">What this grim, ungainly, ghastly, gaunt and ominous bird of yore<br/>
+</span>
+<span class="i10">Meant in croaking "Nevermore."<br/>
+</span>
+<span class="i0">This I sat engaged in guessing, but no syllable expressing<br/>
+</span>
+<span class="i0">To the fowl whose fiery eyes now burned into my bosom's core;<br/>
+</span>
+<span class="i0">This and more I sat divining, with my head at ease reclining<br/>
+</span>
+<span class="i0">On the cushion's velvet lining that the lamplight gloated o'er,<br/>
+</span>
+<span class="i0">But whose velvet violet lining with the lamplight gloating o'er<br/>
+</span>
+<span class="i10"><i>She</i> shall press, ah, nevermore!<br/>
+</span>
+<span class="i0">Then, methought, the air grew denser, perfumed from an unseen censer<br/>
+</span>
+<span class="i0">Swung by seraphim whose foot-falls tinkled on the tufted floor.<br/>
+</span>
+<span class="i0">"Wretch," I cried, "thy God hath lent thee—by these angels he hath sent thee<br/>
+</span>
+<span class="i0">Respite—respite and nepenthe from thy memories of Lenore!<br/>
+</span>
+<span class="i0">Quaff, oh quaff this kind nepenthe, and forget this lost Lenore!"<br/>
+</span>
+<span class="i10">Quoth the Raven, "Nevermore."<br/>
+</span>
+<span class="i0">"Prophet!" said I, "thing of evil!—prophet still, if bird or devil!—<br/>
+</span>
+<span class="i0">Whether Tempter sent, or whether tempest tossed thee here ashore,<br/>
+</span>
+<span class="i0">Desolate yet all undaunted, on this desert land enchanted—<br/>
+</span>
+<span class="i0">On this home by Horror haunted—tell me truly, I implore—<br/>
+</span>
+<span class="i0">Is there—<i>is</i> there balm in Gilead?—tell me—tell me, I implore!"<br/>
+</span>
+<span class="i10">Quoth the Raven, "Nevermore."<br/>
+</span>
+<span class="i0">"Prophet!" said I, "thing of evil—prophet still, if bird or devil!<br/>
+</span>
+<span class="i0">By that Heaven that bends above, us—by that God we both adore—<br/>
+</span>
+<span class="i0">Tell this soul with sorrow laden if, within the distant Aidenn,<br/>
+</span>
+<span class="i0">It shall clasp a sainted maiden whom the angels name Lenore—<br/>
+</span>
+<span class="i0">Clasp a rare and radiant maiden whom the angels name Lenore."<br/>
+</span>
+<span class="i10">Quoth the Raven, "Nevermore."<br/>
+</span>
+<span class="i0">"Be that word our sign of parting, bird or fiend!" I shrieked, upstarting—<br/>
+</span>
+<span class="i0">"Get thee back into the tempest and the Night's Plutonian shore!<br/>
+</span>
+<span class="i0">Leave no black plume as a token of that lie thy soul hath spoken!<br/>
+</span>
+<span class="i0">Leave my loneliness unbroken!—quit the bust above my door!<br/>
+</span>
+<span class="i0">Take thy beak from out my heart, and take thy form from off my door!"<br/>
+</span>
+<span class="i10">Quoth the Raven, "Nevermore."<br/>
+</span>
+<span class="i0">And the Raven, never flitting, still is sitting, still is sitting<br/>
+</span>
+<span class="i0">On the pallid bust of Pallas just above my chamber door;<br/>
+</span>
+<span class="i0">And his eyes have all the seeming of a demon's that is dreaming,<br/>
+</span>
+<span class="i0">And the lamplight o'er him streaming throws his shadow on the floor;<br/>
+</span>
+<span class="i0">And my soul from out that shadow that lies floating on the floor<br/>
+</span>
+<span class="i10">Shall be lifted—nevermore!<br/>
+</span>

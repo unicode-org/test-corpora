@@ -1,0 +1,541 @@
+Project| |Gutenberg| |eBook| |of| |The| |Raven|,| |nga| |Edgar| |Allan| |Poe|.
+Projekti| |Gutenberg| |Ebook| |of| |The| |Raven
+Ky| |libër| |elektronik| |është| |për| |t'u| |përdorur| |nga| |kushdo| |kudo| |në| |Shtetet| |e| |Bashkuara| |dhe| |në| |shumicën| |e| |pjesëve| |të| |tjera| |të| |botës| |pa| |kosto| |dhe| |pothuajse| |pa| |asnjë| |lloj| |kufizimi|.
+Mund| |ta| |kopjoni|,| |ta| |jepni| |ose| |ta| |ripërdorni| |sipas| |kushteve| |të| |Licencës| |së| |Projektit| |Gutenberg| |të| |përfshirë| |me| |këtë| |ebook| |ose| |në| |internet| |në| |www.gutenberg.org|.
+Nëse| |nuk| |ndodheni| |në| |Shtetet| |e| |Bashkuara|,| |do| |t'ju| |duhet| |të| |kontrolloni| |ligjet| |e| |vendit| |ku| |ndodheni| |përpara| |se| |të| |përdorni| |këtë| |ebook|.
+Titulli|:| |Korbi
+Autori|:| |Edgar| |Allan| |Poe
+Komentuesi|:| |Edmund| |Clarence| |Stedman
+Ilustruesi|:| |Gustave| |Doré
+Data| |e| |publikimit|:| |30| |nëntor| |2005| |[|eBook| |#|17192|]
+Përditësimi| |më| |i| |fundit|:| |13| |dhjetor| |2020
+Gjuha|:| |Anglisht
+Kredite|:| |Prodhuar| |nga| |Jason| |Isbell|,| |Melissa| |Er|-|Raqabi| |dhe| |Online
+Ekipi| |i| |korrigjimit| |të| |shpërndarë| |në| |https://www.pgdp.net|.
+***| |FILLIMI| |I| |PROJEKTIT| |GUTENBERG| |EBOOK| |THE| |RAVEN| |***
+Kopertina| |e| |pasme
+Kopertina| |e| |pasme
+Korbi
+Nga
+EDGAR| |ALLAN| |POE
+I| |ILUSTRUAR
+Nga| |GUSTAVE| |DORÉ
+Imazhi| |i| |titullit
+Imazhi| |i| |titullit
+ME| |KOMENT| |NGA| |EDMUND| |C.| |STEDMAN
+NJU| |JORK
+HARPER| |&| |BROTHERS|,| |PUBLISHERS|,| |SHESHI| |FRANKLIN
+1884
+Hyrë| |sipas| |Aktit| |të| |Kongresit|,| |në| |vitin| |1883|,| |nga
+HARPER| |&| |Vëllezër|,
+Në| |Zyrën| |e| |Bibliotekarit| |të| |Kongresit|,| |në| |Uashington|.
+Të| |gjitha| |të| |drejtat| |e| |rezervuara|.
+Shënimet| |e| |transkriptuesit
+Në| |Listën| |e| |Ilustrimeve| |kam| |rivendosur| |një| |citat| |të| |vetëm| |që| |mungon| |pas| |Lenore|!
+siç| |tregohet| |më| |poshtë|:
+"|I| |mjerë|,|"| |thirra| |unë|,| |"|Perëndia| |yt| |të| |ka| |dhënë| |hua| |-| |ai| |të| |ka| |dërguar| |me| |anë| |të| |këtyre| |engjëjve
+Pushim| |-| |pushim| |dhe| |nepen| |nga| |kujtimet| |e| |tua| |për| |Lenore|!|'|"
+Lista| |e| |ilustrimeve| |përdor| |'|vizitor|'| |ku| |poema| |dhe| |ilustrimi| |aktual| |përdorin| |'|vizitor|'|.
+LISTA| |E| |ILUSTRIMEVE
+Me| |emrat| |e| |gdhendësve
+Faqja| |e| |titullit|,| |projektuar| |nga| |Elihu| |Vedder|.
+Frederik| |Juengling|.
+"|Asnjëherë| |më|"|.
+H.| |Claudius|,| |GJ| |Buechner|.
+ANANKE|.
+H.| |Klaudi|.
+"|Një| |herë| |e| |një| |mesnate| |të| |zymtë|,| |ndërsa| |unë| |mendoja|,| |i| |dobët| |dhe| |i| |lodhur|,
+Mbi| |shumë| |një| |vëllim| |të| |çuditshëm| |dhe| |kurioz| |të| |njohurive| |të| |harruara|.|"
+RA| |Muller|.
+"|Ah|,| |më| |kujtohet| |qartë|,| |ishte| |në| |dhjetor| |të| |zymtë|,
+Dhe| |çdo| |prush| |i| |veçantë| |që| |po| |vdiste| |krijoi| |fantazmën| |e| |tij| |në| |dysheme|.|"
+RG| |Tietze|.
+"|Dëshirova| |me| |padurim| |të| |nesërmen|;| |më| |kot| |kisha| |kërkuar| |të| |marr| |hua
+Nga| |librat| |e| |mi| |rrjedhë| |pikëllimi| |-| |pikëllim| |për| |Lenoren| |e| |humbur|.|"
+H.| |Klaudi|.
+"|Piklim| |për| |Lenoren| |e| |humbur|.|"
+W.| |Zimmermann|.
+"|Për| |vajzën| |e| |rrallë| |dhe| |rrezatuese| |të| |cilës| |engjëjt| |e| |emërojnë| |Lenore-
+Këtu| |pa| |emër| |përgjithmonë|.|"
+Frederik| |Juengling|.
+"|'|'|T| |është| |një| |vizitor| |që| |lutet| |hyrjen| |në| |derën| |time| |të| |dhomës-
+Një| |vizitor| |i| |vonuar| |lutet| |të| |hyjë| |në| |derën| |e| |dhomës| |sime|.|'
+W.| |Zimmermann|.
+-| |"|Ja| |ku| |e| |hapa| |derën|;| |-| |Errësirë| ​​|atje| |dhe| |asgjë| |më| |shumë|.|"
+H.| |Klaudi|.
+"|Duke| |dyshim|,| |ëndrra| |ëndërruese|,| |asnjë| |i| |vdekshëm| |nuk| |guxoi| |të| |ëndërronte| |më| |parë|.|"
+FS| |Mbreti|.
+"|"| |Me| |siguri|,|"| |thashë|,| |"|me| |siguri| |kjo| |është| |diçka| |në| |grilën| |time| |të| |dritares|;
+Më| |lejoni| |të| |shoh|,| |pra|,| |se| |çfarë| |ka| |dhe| |të| |eksploroj| |këtë| |mister|.|'
+Frederik| |Juengling|.
+"|Hape| |këtu| |unë| |hodha| |qepenin|.|"
+T.| |Johnson|.
+-| |"|Një| |korb| |madhështor| |i| |ditëve| |të| |shenjta| |të| |dikurshme|.| |As| |edhe| |një| |përulje| |e| |bëri| |atë|;| |asnjë| |minutë| |nuk| |ndaloi| |ose| |qëndroi|.|"
+R.| |Staudenbaur|.
+"|I| |vendosur| |mbi| |një| |bust| |të| |Pallasit| |pikërisht| |mbi| |derën| |e| |dhomës| |sime-
+U| |ul| |dhe| |u| |ul|,| |dhe| |asgjë| |më| |shumë|.|"
+RG| |Tietze|.
+"|Enda| |nga| |bregu| |i| |natës|.|"
+Frederik| |Juengling|.
+"|Derisa| |mezi| |mërmërita|,| |'|Shokë| |të| |tjerë| |kanë| |fluturuar| |më| |parë|,
+Të| |nesërmen| |ai| |do| |të| |më| |lërë|,| |pasi| |shpresat| |e| |mia| |kanë| |fluturuar| |më| |parë|.|"
+Frank| |French|.
+“|Më| |pas|,| |me| |fundosjen| |prej| |kadifeje|,| |vendosa| |të| |lidhem
+E| |përfytyruar| |deri| |tek| |e| |përfytyruar|.|"
+R.| |Schelling|.
+"|Por| |rreshtimi| |i| |purpurt| |prej| |kadifeje| |me| |dritën| |e| |llambës| |që| |shkëlqen
+Ajo| |do| |të| |shtypë|,| |ah|,| |kurrë| |më|!|"
+George| |Kruell|.
+"|I| |mjerë|,|"| |thirra| |unë|,| |"|Perëndia| |yt| |të| |ka| |dhënë| |hua| |-| |ai| |të| |ka| |dërguar| |me| |anë| |të| |këtyre| |engjëjve
+Pushim| |-| |pushim| |dhe| |nepen| |nga| |kujtimet| |e| |tua| |për| |Lenore|!|'|"
+Victor| |Bernstrom|.
+"|Në| |këtë| |shtëpi| |nga| |tmerri| |i| |përhumbur|.|"
+R.| |Staudenbaur|.
+"|'|Më| |thuaj| |me| |të| |vërtetë|,| |të| |lutem|—|A| |ka|—|a| |ka| |balsam| |në| |Galaad|?|—më| |thuaj|—|më| |thuaj|,| |të| |lutem|!|'|"
+W.| |Zimmermann|.
+"|'|Thuaji| |këtij| |shpirti| |të| |ngarkuar| |me| |pikëllim| |nëse|,| |brenda| |Aidennit| |të| |largët|,
+Ajo| |do| |të| |shtrëngojë| |një| |vajzë| |të| |shenjtë|,| |të| |cilës| |engjëjt| |e| |quajnë| |Lenore|.|'
+FS| |Mbreti|.
+"|"| |Bëhu| |ajo| |fjalë| |shenja| |jonë| |e| |ndarjes|,| |zog| |apo| |djall|!|"
+Unë| |bërtita|,| |i| |mërzitur|.|"
+W.| |Zimmermann|.
+"|"|Kthehu| |përsëri| |në| |furtunë| |dhe| |në| |bregun| |Plutonian| |të| |Natës|!|"
+Robert| |Hoskin|.
+"|Dhe| |shpirti| |im| |nga| |ajo| |hije| |që| |shtrihet| |duke| |notuar| |në| |dysheme
+Do| |të| |ngrihet| |-| |kurrë| |më|!|"
+RG| |Tietze|.
+Sekreti| |i| |Sfinksit|.
+R.| |Staudenbaur|.
+KOMENTONI| |POEMIN|.
+Sekreti| |i| |një| |poezie|,| |jo| |më| |pak| |se| |begatia| |e| |një| |shakaje|,| |qëndron| |në| |veshin| |e| |atij| |që| |e| |dëgjon|.
+Kthehuni| |në| |magjinë| |e| |saj|,| |pranoni| |gjendjen| |shpirtërore| |të| |poetit|:| |në| |fund| |të| |fundit|,| |kjo| |është| |ajo| |që| |të| |urtët| |përgjigjen| |kur| |i| |pyet| |për| |vlerën| |e| |saj|.
+Edhe| |pse| |vetë| |poeti|,| |në| |disponimin| |e| |tij| |tjetër|,| |të| |thotë| |se| |arti| |i| |tij| |nuk| |është| |veçse| |një| |mashtrim| |i| |dorës|,| |ushqimi| |i| |magjepsësit| |të| |ushqimit|,| |dhe| |të| |ofron| |të| |të| |tregojë| |mashtrimin| |e| |tij|,| |-| |mos| |e| |beso|.
+Prisni| |orën| |e| |tij| |profetike|;
+pastaj| |jepuni| |pas| |pasionit|,| |gëzimit| |apo| |dhimbjes| |së| |tij|.
+"|Ne| |jemi| |në| |dorën| |e| |Dashurisë| |sot|!|"
+këndon| |Gautier|,| |në| |parafrazën| |e| |gjallë| |të| |Swinburne|-|it|,| |-| |dhe| |nga| |mëngjesi| |deri| |në| |perëndim| |të| |diellit|,| |ne| |jemi| |të| |përhapur| |në| |detin| |e| |dhunshëm|:| |ka| |vetëm| |një| |dashuri|,| |një| |maj|,| |një| |fije| |lulesh|.
+Dashuria| |është| |e| |përjetshme|,| |gjithçka| |tjetër| |joreale| |dhe| |e| |lënë| |mënjanë|.
+Vizioni| |ka| |një| |fund|,| |skena| |ndryshon|;
+por| |ne| |kemi| |fituar| |diçka|,| |kujtimin| |e| |një| |sharmi|.
+Sa| |shumë| |poetë|,| |aq| |shumë| |hijeshi|.
+Aty| |është| |hijeshia| |e| |Evanescence|,| |ajo| |që| |i| |jep| |bukurisë| |dhe| |hirit| |suprem| |një| |aureole| |të| |Pathosit|.
+Ndani| |me| |Landorin| |"|natën| |e| |tij| |të| |kujtimeve| |dhe| |psherëtimave|"| |për| |Rose| |Aylmer|,| |dhe| |do| |ta| |keni| |plotësisht| |këtë|.
+Dhe| |tani| |merrni| |dorën| |e| |një| |mjeshtri| |të| |botës| |së| |re|,| |i| |larguar| |nga| |një| |habitat| |i| |duhur| |në| |atë| |Amerikë| |të| |vrazhdë| |dhe| |disonante|,| |e| |cila|,| |siç| |e| |pa| |Bodleri|,| |"|ishte| |për| |Poe| |vetëm| |një| |burg| |i| |madh| |nëpër| |të| |cilin| |ai| |vraponte|,| |andej|-|këtej|,| |me| |agjitacionin| |e| |ethshëm| |të| |një| |qenieje| |të| |krijuar| |për| |të| |marrë| |frymë| |në| |një| |botë| |më| |të| |pastër|"|,| |dhe| |ku| |ishte| |si| |"|jeta| |e| |tij| |e| |brendshme| |shpirtërore|,| |shpirtërore|"|.
+përpjekje| |për| |t'i| |shpëtuar| |ndikimit| |të| |kësaj| |atmosfere| |antipatike|"|.
+Mbërtheni| |dorën| |e| |ndjeshme| |të| |një| |këngëtari| |të| |trazuar| |që| |e| |sheh| |në| |këtë| |mënyrë| |të| |çuditshmen| |e| |tij| |dhe| |ndani| |me| |të| |klimën| |në| |të| |cilën| |ai| |gjente|,| |-| |kurrë| |gjatë| |gjithë| |ditës|,| |gjithmonë| |natën|,| |-| |nëse| |jo| |Atlantidën| |nga| |ku| |kishte| |bredhur|,| |të| |paktën| |një| |vend| |strehimi| |nga| |kufijtë| |në| |të| |cilët| |ishte| |i| |mbytur| |ditën|.
+Në| |një| |tokë| |vetëm| |ai| |ka| |fuqi| |të| |të| |udhëheqë| |dhe| |vetëm| |për| |një| |natë| |mund| |të| |ndash| |ëndrrën| |e| |tij|.
+Një| |trakt| |i| |as| |Tokës| |as| |Parajsës|:| |"|Tokë| |e| |Askujt|"|,| |jashtë| |Hapësirës|,| ​​|jashtë| |Kohës|.
+Këtu| |janë| |të| |trazuarit|,| |me| |sytë| |e| |të| |cilëve|,| |si| |ata| |të| |Cencit|,| |shpirti| |gjen| |dritare| |edhe| |pse| |mendja| |është| |e| |trullosur|;
+këtu| |shpirtrat|,| |duke| |kërkuar| |rrugën| |që| |të| |çon| |në| |Përjetësi|,| |ndalen| |dhe| |vonohen|.
+Është| |harresë| |e| |"|shpirtrave| |planetarë|"|,| |ku| |janë| |të| |gjitha| |pasiguritë| |e| |dritës| |së| |hënës|,| |të| |gjitha| |dashuritë| |dhe| |iluzione| |të| |humbura|.
+Këtu| |disa| |janë| |fiksuar| |në| |ekstazë|,| |i| |vetmi| |pushim| |i| |arritshëm|;
+të| |tjerët
+"|Lëviz| |në| |mënyrë| |fantastike
+Për| |një| |melodi| |të| |papajtueshme|:|"
+ndërsa| |kudo| |janë
+"|Kujtimet| |me| |fletë| |të| |së| |kaluarës-
+Forma| |të| |mbështjella| |që| |nisin| |dhe| |psherëtin
+Ndërsa| |kalojnë| |endacakin|”|.
+E| |tillë| |është| |toka| |dhe| |për| |një| |natë| |ne| |hyjmë| |në| |të|,| |një| |natë| |me| |faza| |astrale| |dhe| |tingëllime| |të| |përsëritura|.
+Monoditë| |e| |tij| |janë| |dymbëdhjetë| |poezi|,| |muzika| |e| |të| |cilave| |përpiqet| |të| |ndryshojë|,| |por| |gjithmonë| |është| |e| |njëjta|.
+Një| |nga| |një| |ata| |tingëllojnë|,| |si| |kumbimi| |i| |orës| |së| |pacipë| |dhe| |të| |zezakëve|,| |në| |"|Maska| |e| |vdekjes| |së| |kuqe|"|,| |e| |cila| |i| |bëri| |valseri| |të| |ndalonte| |me| |"|shqetësim|,| |dridhje| |dhe| |meditim|"|,| |aq| |shpesh| |sa| |vinte| |ora|.
+Nga| |të| |gjitha| |këto| |kadenca| |mistike|,| |rrafshi| |i| |Korbit|,| |që| |vibron| |nëpër| |portal|,| |kryesisht| |i| |ka| |bërë| |përshtypje| |botës| |së| |jashtme|.
+Cilat| |gjëra| |shkojnë| |në| |krijimin| |e| |një| |poezie| |-| |dhe| |sa| |e| |vërtetë| |në| |këtë|,| |si| |në| |shumicën| |e| |tjera|,| |atë| |racë| |që| |i| |quajti| |bardët| |e| |saj| |"|bërësit|"|?
+Një| |vepër| |thirret| |nga| |boshllëku|.
+Aty| |ku| |nuk| |kishte| |asgjë|,| |ajo| |mbetet| |-| |një| |krijim| |i| |ri|,| |pjesë| |e| |thesarit| |të| |njerëzimit|.
+Dhe| |disa| |tekste| |të| |jashtëzakonshme|,| |më| |shumë| |se| |të| |tjerat| |që| |janë| |po| |aq| |krijuese|,| |na| |detyrojnë| |të| |mendojmë| |rishtas| |me| |sa| |guxim| |pena| |e| |poetit| |i| |kthen| |gjërat| |të| |panjohura
+"|formon| |dhe| |nuk| |i| |jep| |asgjë| |të| |ajrosur
+Një| |vendbanim| |vendas| |dhe| |një| |emër|.|"
+Secili| |duket| |pa| |një| |prototip|,| |por| |të| |gjithë| |na| |magjepsin| |me| |elementë| |të| |rrëmbyer| |nga| |hija| |e| |të| |mbinatyrshmes|.
+Tani| |imagjinata| |më| |e| |lartë| |është| |e| |shqetësuar| |për| |shpirtin| |e| |gjërave|;
+mund| |të| |frymëzojë| |ose| |jo| |Fantazinë| |që| |popujt| |me| |imazhe| |janë| |të| |paqarta| |ndërhënore|.
+Prapëseprapë|,| |një| |nga| |këto| |tekste|,| |në| |mënyrën| |e| |tij| |më| |të| |vogël|,| |na| |prek| |me| |një| |ndjenjë| |unike|,| |po| |aq| |me| |siguri| |sa| |edhe| |veprat| |më| |të| |larta| |të| |një| |kasti| |të| |mbinatyrshëm|,| |-| |"|Faustus|"| |i| |Marlowe|,| |"|Faust|"| |i| |Gëtes|,| |"|Manfredi|"|,| |apo| |edhe| |ato| |kryevepra| |eterike|,| |"|The| |Tempest|"| |dhe| |"|Një| |mes| |të| |verës|"|.
+Më| |shumë| |se| |një|,| |ndërsa| |ndryshe| |unike|,| |ka| |disa
+[|10|]
+[|10|]
+barrë| |ose| |refren| |që| |përndjek| |kujtesën|,| |-| |një| |herë| |i| |dëgjuar|,| |i| |paharruar| |kurrë|,| |si| |toni| |i| |një| |ndalese| |organi| |të| |përdorur| |rrallë|,| |por| |të| |veçantë|.
+E| |dallueshme| |mes| |tyre| |është| |"|Lenore|"| |e| |Bürger|-|it|,| |ajo| |baladë| |fantazmë| |dhe| |tingëlluese|,| |joshja| |dhe| |petë| |e| |përkthyesve|.
+Pakkush| |do| |ta| |mohojë| |që| |“|Rime| |of| |the| |Ancient| |Mariner|”| |i| |Coleridge| |qëndron| |në| |krye| |të| |tyre|.
+"|Le| |Juif|-|Errant|"| |do| |të| |kishte| |pretendime|,| |po| |të| |ishte| |Beranger| |një| |poet| |më| |i| |madh|;
+dhe|,| |por| |për| |largësinë| |e| |tyre| |nga| |simpatia| |popullore|,| |"|Zonja| |e| |Shalott|"| |dhe| |"|Damozel| |i| |Bekuar|"| |mund| |të| |shtohen| |në| |listë|.
+Ajo| |iu| |dha| |Edgar| |Allan| |Poe| |për| |të| |prodhuar| |dy| |tekste|,| |"|The| |Bells|"| |dhe| |The| |Raven|,| |secila| |prej| |të| |cilave|,| |megjithëse| |ndoshta| |me| |më| |pak| |bukuri| |se| |ato| |të| |Tennyson| |dhe| |Rossetti|,| |është| |unike|.
+"|Ulalume|"|,| |ndonëse| |po| |aq| |e| |çuditshme| |dhe| |imagjinative|,| |nuk| |ka| |cilësinë| |universale| |që| |është| |një| |pjesë| |e| |testit| |tonë|.
+Korbi| |në| |përbërës| |të| |thjeshtë| |poetikë| |bie| |poshtë| |pjesëve| |të| |tilla| |si| |"|Pallati| |i| |përhumbur|"|,| |"|Qyteti| |në| |det|"|,| |"|I| |përgjumuri|"| |dhe| |"|Israfel|"|.
+E| |gjithë| |ajo| |do| |të| |shkëmbehej|,| |dyshoj|,| |nga| |lexuesit| |e| |një| |kasti| |të| |përpiktë|,| |për| |pasazhe| |të| |tilla| |si| |këto|:
+"|Përreth|,| |duke| |ngritur| |erërat| |harruar|,
+Me| |dorëheqje| |nën| |qiell
+Ujërat| |melankolike| |shtrihen|.
+Asnjë| |rreze| |nga| |qielli| |i| |shenjtë| |nuk| |zbret
+Në| |natën| |e| |gjatë| |të| |atij| |qyteti|;
+Por| |drita| |nga| |deti| |i| |turbullt
+Rrjedh| |frëngjitë| |në| |heshtje-
+·| |·| |·| |·| |·| |·| |·
+Lart| |shumë| |e| |shumë| |një| |faltore| |e| |mrekullueshme
+Frizat| |me| |kurorë| |të| |të| |cilëve| |ndërthuren
+Vjollca|,| |vjollca| |dhe| |hardhia|.
+·| |·| |·| |·| |·| |·| |·
+Asnjë| |ënjtje| |nuk| |tregon| |se| |mund| |të| |ketë| |erëra
+Në| |një| |det| |shumë| |më| |të| |lumtur| |-
+Asnjë| |zhurmë| |nuk| |lë| |të| |kuptohet| |se| |kanë| |qenë| |erëra
+Në| |dete| |më| |pak| |të| |qetë|.|"
+I| |mungon| |melodia| |ajrore| |e| |poetit|,| |telat| |e| |zemrës| |së| |të| |cilit| |janë| |lahutë|:
+"|Dhe| |ata| |thonë| |(|kori| |me| |yje
+Dhe| |gjërat| |e| |tjera| |të| |dëgjimit|)
+Ai| |zjarri| |i| |Israfelit
+I| |detyrohet| |asaj| |lire
+me| |të| |cilën| |ai| |ulet| |dhe| |këndon| |-
+Teli| |i| |gjallë| |që| |dridhet
+Nga| |ato| |vargje| |të| |pazakonta|”|.
+Por| |Korbi|,| |ashtu| |si| |"|Këmbanat|"| |dhe| |"|Annabel| |Lee|"|,| |e| |përgëzon| |veten| |për| |shumë| |dhe| |pak|.
+E| |kam| |thënë| |diku| |tjetër| |se| |prodhimet| |më| |të| |rralla| |të| |Poe| |më| |dukeshin| |"|ato| |në| |të| |cilat| |shfaqet|,| |të| |paktën|,| |spontaniteti|,| |-| |në| |të| |cilat| |ai| |u| |nënshtrohet| |ndjenjave| |të| |tij|,| |ndërsa| |vdes| |dhe| |kadencat| |më| |muzikore|,| |më| |melankolike|,| |vijnë| |prej| |tij| |të| |pavetëdijshëm|"|.
+Ky| |është| |ende| |besimi| |im|;
+e| |megjithatë|,| |me| |një| |studim| |të| |ri| |të| |kësaj| |poezie|,| |më| |bën| |përshtypje| |më| |shumë| |se| |në| |çdo| |kohë| |që| |nga| |fëmijëria|.
+Njohja| |e| |ngushtë| |tregon| |në| |favor| |të| |çdo| |vepre| |të| |vërtetë| |arti|.
+Nxiteni| |njeriun| |që| |as| |e| |njeh| |artin| |dhe| |as| |nuk| |kujdeset| |për| |të|,| |të| |ekzaminojë| |ndonjë| |poezi| |apo| |pikturë| |dhe| |sa| |shpejt| |e| |pushton| |forca| |e| |saj|!
+Në| |fakt|,| |ai| |do| |të| |mbivlerësojë| |vlerën| |relative| |të| |veprës| |së| |parë| |të| |mirë| |nga| |e| |cila| |është| |tërhequr| |mjaft| |vëmendja| |e| |tij|.
+Korbi|,| |gjithashtu|,| |ka| |cilësi| |të| |qëndrueshme| |që| |edhe| |një| |ekspert| |duhet| |t'i| |admirojë|.
+Në| |asnjë| |nga| |poezitë| |e| |autorit| |të| |saj| |motivi| |nuk| |është| |më| |i| |dukshëm|.
+"|Pallati| |i| |përhumbur|"| |është| |po| |aq| |i| |caktuar| |për| |lexuesin| |e| |zgjedhur|,| |por| |Poe| |zor| |se| |do| |ta| |kishte| |marrë| |atë| |alegori| |delikate| |për| |analizë| |tullac|.
+Korbi| |është| |tërësisht| |i| |zënë| |me| |temën| |tipike| |të| |autorit| |–| |humbjen| |e| |pakthyeshme| |të| |një| |gruaje| |të| |idhulluar| |dhe| |të| |bukur|;
+por| |për| |arsye| |të| |tjera|,| |edhe| |instinkti| |publik| |është| |i| |saktë| |duke| |e| |konsideruar| |poezinë| |e| |tij| |përfaqësuese|.
+Një| |njeri| |gjenial| |zakonisht| |fiton| |një| |bazë| |me| |suksesin| |e| |disa| |përpjekjeve|,| |dhe| |kjo| |nuk| |është| |gjithmonë| |më| |e| |madhja| |e| |tij|.
+Njohja| |është| |më| |e| |menjëhershme| |për| |t'u| |shtyrë|.
+Ai| |nuk| |e| |fiton| |atë|,| |si| |pasuri| |koprrac|,| |monedhë| |pas| |monedhe|,| |por| |"|assesi| |ose| |fare|"|.
+Dhe| |kështu| |me| |ambiciet| |e| |tjera|:| |oborrtari|,| |ushtari|,| |aktori|,| |pavarësisht| |nga| |pjesët| |e| |tyre|,| |secili| |numëron| |triumfin| |e| |tij| |nga| |ndonjë| |goditje| |me| |fat|.
+Korbi| |i| |Poe|-|s|,| |pavarësisht| |nga| |fati|,| |ishte| |për| |të| |"|zogu| |që| |bënte| |erën| |të| |frynte|"|.
+Poeti| |u| |vendos| |në| |Nju|-|Jork|,| |në| |dimrin| |e| |viteve| |1844-1845|,| |duke| |gjetur| |punë| |në| |letrën| |e| |Willis|,| |"|Pasqyra| |e| |mbrëmjes|"| |dhe| |duke| |nxjerrë| |të| |ardhurat| |e| |tij| |nga| |kontributet| |diku| |tjetër|.
+Për| |gjashtë| |vjet| |ai| |ishte| |një| |shkrimtar| |aktiv| |dhe| |gëzonte| |një| |reputacion| |profesional|;
+u| |mbajt| |si| |në| |respekt| |ashtu| |edhe| |në| |dyshim|,| |dhe| |nuk| |pati| |asnjë| |humbje| |për| |pjesën| |e| |tij| |të| |gazetarisë| |së| |paguar| |keq| |të| |asaj| |dite|.
+Ai| |gjithashtu| |kishte| |bërë| |shumë| |nga| |veprat| |e| |tij| |më| |të| |mira|,| |të| |tilla| |si| |"|Ligeia|"| |dhe| |"|Rënia| |e| |shtëpisë| |së| |Usher|"|,| |(|kjo| |e| |fundit| |përmban| |atë| |homologun| |mistik|,| |në| |vargje|,| |të| |"|A| |Lost| |Mind|"| |të| |Elihu| |Vedder|-|it|)| |bëma| |të| |tilla| |analitike| |si| |"|The| |Bug| |Gold|"| |dhe| |"|Misteri| |i| |Marie| |Roget|"|.
+Ai| |kishte| |bërë| |prozelitë| |jashtë| |vendit| |dhe| |fitoi| |një| |ndikim| |të| |qëndrueshëm| |në| |mendjen| |franceze|.
+Ai| |kishte| |mësuar| |fuqinë| |dhe| |dobësinë| |e| |tij| |dhe| |ishte| |në| |kulmin| |e| |tij|,| |dhe| |jo| |pa| |një| |reputacion| |të| |caktuar|.
+Por| |ai| |nuk| |kishte| |shkruar| |asgjë| |që| |ishte| |në| |gjuhën| |e| |të| |gjithëve|.
+Punës| |së| |rrallë| |dhe| |delikate| |duhet| |t'i| |shtohet| |një| |prekje| |popullore| |për| |të| |kapur| |audiencën| |e| |përgjithshme| |të| |kohës| |së| |dikujt|.
+Nëpërmjet| |industrisë| |së| |biografëve| |të| |njëpasnjëshëm| |të| |Poe|,| |hiti| |i| |bërë| |nga| |The| |Raven| |është| |bërë| |një| |përrallë| |e| |rrëfyer| |shpesh|.
+Gruaja| |e| |re| |e| |poetit|,| |Virxhinia|,| |po| |shuhej| |para| |syve| |të| |tij|,| |por| |qëndroi| |për| |një| |vit| |tjetër| |në| |hijen| |e| |vdekjes|.
+Dhoma| |e| |gjatë| |dhe| |e| |ulët| |në| |shtëpinë| |pranë| |rrugës| |Bloomingdale| |është| |si
+[|11|]
+[|11|]
+e| |famshme| |si| |dhoma| |ku| |Rouget| |de| |l'|Isle| |kompozoi| |Marseillaise|.
+Të| |gjithë| |kanë| |dëgjuar| |se| |poema|,| |e| |nënshkruar| |"|Quarles|"|,| |u| |shfaq| |në| |"|American| |Review|"|,| |me| |një| |koment| |pseudo|-|editorial| |për| |formën| |e| |saj|;
+që| |Poe| |mori| |dhjetë| |dollarë| |për| |të|;
+që| |Willis|,| |arbitri| |më| |i| |sjellshëm| |dhe| |më| |pak| |ziliqari| |i| |arbitrave| |në| |modë|,| |e| |ribotoi| |atë| |me| |një| |eulogji| |që| |e| |bëri| |menjëherë| |të| |flitet| |në| |qytet|.
+Të| |gjitha| |dyshimet| |për| |autorësinë| |e| |saj| |u| |shpërndanë| |kur| |Poe| |e| |recitoi| |vetë| |atë| |në| |një| |mbledhje| |letrare| |dhe| |për| |njëfarë| |kohe| |ai| |ishte| |më| |i| |dalluari| |nga| |autorët| |amerikanë|.
+Goditja| |e| |stimuloi| |dhe| |e| |inkurajoi|.
+Si| |një| |satirist| |tjetër| |dhe| |më| |krenar|,| |edhe| |ai| |gjeti| |"|diçka| |vere|"| |edhe| |"|në| |gumëzhitjen| |e| |insekteve|"|.
+Mjaft| |për| |keqardhje|,| |por| |kaluan| |tre| |vjet| |-| |një| |periudhë| |ndikimi|,| |krenarie|,| |ankthi|,| |por| |gjithmonë| |me| |punë| |imagjinative| |ose| |kritike|,| |-| |përpara| |disfatës| |përfundimtare|,| |përpara| |se| |të| |binte| |perdja| |mbi| |një| |jetë| |që| |për| |të| |ishte| |në| |të| |vërtetë| |një| |tragjedi| |dhe| |ai| |iu| |dorëzua| |"|Krimbit| |Pushtues|"|.
+"|The| |American| |Review|:| |A| |Whig| |Journal|"| |ishte| |një| |revistë| |e| |lavdërueshme| |për| |atë| |kohë|,| |me| |dy| |kolona|,| ​​|të| |shtypura| |në| |letër| |të| |mirë|,| |me| |shkronja| |të| |qarta| |dhe| |të| |ilustruar| |me| |portrete| |mezotint|.
+Mes| |shumë| |çështjesh| |nën| |standardin| |aktual|,| |ai| |përmbante| |disa| |që| |çdo| |redaktues| |do| |të| |ishte| |i| |lumtur| |t'i| |merrte|.
+Vëllimi| |fillestar|,| |për| |vitin| |1845|,| |ka| |artikuj| |nga| |Horace| |Greeley|,| |Donald| |Mitchell|,| |Walter| |Whitman|,| |Marsh|,| |Tuckerman| |dhe| |Whipple|.
+Poema| |e| |çuditshme| |e| |Ralph| |Hoyt|,| |"|Old|"|,| |u| |shfaq| |në| |këtë| |vëllim|.
+Dhe| |këtu| |janë| |tre| |tekste| |të| |Poe|:| |"|Qyteti| |në| |det|"|,| |"|Lugina| |e| |trazirave|"| |dhe| |Korbi|.
+Dy| |prej| |tyre| |u| |ndërtuan|,| |-| |e| |tillë| |ishte| |mënyra| |e| |tij| |-| |nga| |studimet| |e| |mëparshme|,| |por| |emri| |i| |fundit| |doli| |si| |i| |sapo| |kompozuar| |dhe| |pothuajse| |siç| |e| |kemi| |tani|.
+Deklarata| |se| |nuk| |u| |rishikua| |më| |pas| |është| |e| |gabuar|.
+Njëmbëdhjetë| |ndryshime| |të| |parëndësishme| |nga| |teksti| |i| |revistës| |shfaqen| |në| |The| |Raven| |and| |Other| |Poems|,| |1845|,| |një| |libër| |që| |poeti| |u| |ndje| |i| |inkurajuar| |për| |t'ia| |ofruar| |publikut|.
+Këto| |janë| |kryesisht| |ndryshime| |të| |shenjave| |të| |pikësimit| |ose| |të| |fjalëve| |të| |vetme|,| |lloji| |i| |fundit| |i| |bërë| |për| |të| |rritur| |efektin| |e| |aliterimit|.
+Në| |botimin| |e| |bukur| |të| |zotit| |Lang| |të| |vargut| |të| |Poe|-|s|,| |të| |nxjerrë| |në| |"|Bibliotekën| |e| |Pergamenit|"|,| |ai| |ka| |treguar| |instinktin| |e| |një| |studiuesi| |dhe| |ka| |bërë| |me| |mençuri|,| |duke| |iu| |kthyer| |tekstit| |në| |vëllimin| |e| |sapopërmendur|,| |siç| |është| |dhënë| |në| |numrin| |e| |Londrës| |të| |vitit| |1846.| |Koleksioni| |"|standard|"| |i| |veprave| |të| |poetit| |të| |Griswold| |është| |i| |mbushur| |me| |gabime|.
+Këto| |janë| |përsëritur| |nga| |redaktorët| |e| |mëvonshëm|,| |të| |cilët| |gjithashtu| |kanë| |bërë| |gabime| |të| |tyre|.
+Por| |teksti| |i| |Korbit|,| |për| |shkak| |të| |kërkesave| |të| |bëra| |autorit| |për| |kopje| |dorëshkrime|,| |ishte| |akoma| |më| |i| |rishikuar| |prej| |tij|;
+në| |fakt|,| |ai| |e| |shtypi| |atë| |në| |Richmond|,| |pak| |para| |vdekjes| |së| |tij|,| |me| |zëvendësimin| |poetik| |të| |"|serafimit| |të| |cilit| |i| |bie| |këmba|"| |me| |"|engjëjt| |të| |cilëve| |bie| |këmba| |e| |dobët|"|,| |në| |strofën| |e| |katërmbëdhjetë|.
+Prandaj|,| |teksti| |ynë| |i| |tanishëm|,| |ndonëse| |në| |thelb| |ai| |i| |vitit| |1845|,| |është| |modifikuar| |disi| |nga| |leximi| |i| |mëvonshëm| |i| |poetit| |dhe|,| |mendoj|,| |është| |versioni| |më| |i| |saktë| |dhe| |më| |efektiv| |i| |kësaj| |poezie| |të| |vetme|.
+Megjithatë|,| |ndryshimi| |më| |radikal| |nga| |versioni| |më| |i| |hershëm| |u| |shfaq| |në| |vëllim| |në| |1845|;
+strofa| |e| |njëmbëdhjetë| |që| |fillimisht| |përmbante| |këto| |rreshta|,| |me| |të| |meta| |në| |rimë| |dhe| |përndryshe| |një| |e| |metë| |në| |poezi|:
+"|Kapur| |nga| |një| |mjeshtër| |i| |pakënaqur|,| |të| |cilin| |fatkeqësi| |e| |pamëshirshme
+Ndoqi| |shpejt| |dhe| |ndoqi| |më| |shpejt| |-| |kështu|,| |kur| |Shpresa| |do| |të| |përbetohej|,
+Dëshpërimi| |i| |ashpër| |u| |kthye|,| |në| |vend| |të| |Shpresës| |së| |ëmbël| |që| |guxoi| |të| |premtonte| |-
+Ajo| |përgjigje| |e| |trishtueshme|,| |'|Kurrë| |më|!|'|"
+Do| |të| |ishte| |mirë| |nëse| |poetë| |të| |tjerë| |dhe| |të| |famshëm| |do| |të| |ishin| |po| |aq| |të| |sigurt| |se| |ndryshimet| |e| |tyre| |do| |të| |përmirësoheshin| |gjithmonë|.
+Poe| |ripërpunonte| |vazhdimisht| |shfaqjen| |e| |tij| |të| |pakët| |të| |vargjeve| |dhe| |zakonisht| |e| |përmirësonte| |atë|.
+Korbi| |ishte| |e| |para| |nga| |poezitë| |e| |pakta| |që| |ai| |thuajse| |i| |solli| |deri| |në| |përfundim| |përpara| |se| |t'i| |shtypte|.
+Ndoshta| |ata| |që| |kujdesen| |për| |poezinë| |humbën| |pak| |nga| |vdekja| |e| |tij|.
+Duke| |folur| |rrjedhshëm| |në| |prozë|,| |ai| |nuk| |shkroi| |kurrë| |vargje| |për| |hir| |të| |krijimit| |të| |një| |poezie|.
+Kur| |një| |refren| |imazhi| |e| |përndiqte|,| |lirika| |që| |rezultoi| |ishte| |frymëzimi|,| |siç| |tha| |ai| |vetë|,| |i| |një| |pasioni|,| |jo| |i| |një| |qëllimi|.
+Kjo| |ndodhte| |në| |intervale| |aq| |të| |rralla| |sa| |të| |justifikonte| |teorinë| |e| |Fairfield|-|it| |se| |secila| |ishte| |produkt| |i| |një| |krize| |nervore|.
+Atëherë|,| |çfarë| |i| |dha| |poetit| |të| |dhëna| |për| |Korbin|?
+Nga| |cili| |themel| |i| |mjegullt| |u| |ngrit| |ngadalë| |në| |një| |muzikë| |të| |frymëzuar| |ngadalë|?
+Si| |zakonisht|,| |më| |shumë| |se| |një| |gjë| |shkoi| |në| |ndërtimin| |e| |një| |poezie| |kaq| |të| |dukshme|.
+Duke| |marrë| |parasysh| |predikimet| |më| |të| |gjata| |të| |predikuara| |shpesh| |në| |tekste| |të| |shkurtra| |dhe| |më| |pak| |sugjestive|,| |shpresoj| |të| |mos| |fajësohem| |për| |këtë| |diskutim| |të| |një| |lirike| |të| |vetme|,| |veçanërisht| |atë| |që| |një| |artist| |si| |Doré| |e| |ka| |bërë| |objekt| |ilustrimi| |plangprishës|.
+Deri| |kohët| |e| |fundit| |kisha| |menduar| |se| |kjo| |pjesë|,| |dhe| |disa| |që| |autori| |i| |saj| |i| |kompozoi| |pas| |shfaqjes| |së| |saj|,| |ishin| |të| |jashtëzakonshme| |që| |nuk| |ishin| |rritur| |nga| |mikrobet| |në| |vargun| |e| |tij| |djaloshar|.
+Por| |zoti| |Fearing| |Gill| |më| |ka| |treguar| |disa| |strofa| |të| |pabotuara| |nga| |Poe|,| |të| |shkruara| |në| |vitin| |e| |tetëmbëdhjetë| |të| |tij|,| |dhe| |me| |titull|,| |"|Djalli| |i| |zjarrit|"|.
+Dorëshkrimi| |duket| |se| |është| |në| |dorëshkrimin| |e| |hershëm| |të| |poetit| |dhe| |vërtetësia| |e| |tij| |garantohet| |nga| |familja| |në| |zotërimin| |e| |së| |cilës| |ka| |qëndruar| |për| |gjysmë| |shekulli|.
+Përveç| |mikrobeve| |më| |të| |thjeshta| |të| |"|Këmbanave|"| |dhe| |"|Pallatit| |të| |përhumbur|"|,| |ai| |përmban| |disa| |rreshta| |që| |sugjerojnë| |disi| |hapjen| |dhe| |mbylljen| |e| |The| |Raven|.
+Për| |sa| |i| |përket| |ritmit| |të| |poezisë| |sonë|,| |krahasimi| |i| |datave| |tregon| |se| |kjo| |është| |ndikuar| |nga| |ritmi| |i| |"|Marrëveshjes| |së| |Zonjës| |Geraldinës|"|.
+Poe| |ishte| |një| |nga| |të| |parët| |që| |nderoi| |gjenialitetin| |e| |zonjushë| |Barrett|;
+ai| |ia| |gdhendte| |poezitë| |e| |tij| |të| |mbledhura| |si| |"|më| |fisniku| |i| |seksit| |të| |saj|"| |dhe| |ishte| |brenda
+[|12|]
+[|12|]
+simpati| |me| |metodën| |e| |saj| |lirike|.
+Rreshtat| |nga| |poezia| |e| |saj| |e| |dashurisë|,
+“|Me| |një| |trazim| |të| |zhurmshëm| |të| |pasigurt|,| |në| |ajër|,| |perdja| |e| |purpurt
+Fryhet| |dhe| |fryhet| |rreth| |vetullave| |të| |saj| |të| |zbehta| |të| |palëvizshme|.|"
+gjeti| |një| |jehonë| |në| |këto|:
+"|Dhe| |shushurima| |e| |mëndafshtë| |e| |trishtuar| |e| |pasigurt| |e| |çdo| |perde| |të| |purpurt
+Më| |emocionoi| |-| |më| |mbushi| |me| |tmerre| |fantastike| |që| |nuk| |janë| |ndjerë| |më| |parë|.|"
+Këtu| |Poe| |mori| |një| |privilegj| |për| |të| |cilin| |ai| |e| |kritikoi| |përafërsisht| |Longfellow| |dhe| |të| |cilin| |askush| |nuk| |e| |kërkoi| |kurrë| |në| |ambientet| |e| |tij| |pa| |zbulim| |dhe| |ndëshkim| |të| |shpejtë|.
+Në| |formë| |melodi| |dhe| |strofë|,| |do| |të| |shohim| |se| |të| |dy| |poezitë| |nuk| |janë| |të| |ndryshme|,| |por| |në| |motiv| |janë| |krejtësisht| |të| |dallueshme|.
+Poetesha| |bujare| |nuk| |ndjeu| |gjë| |tjetër| |veç| |origjinalitetit| |të| |vërtetë| |të| |poetit|.
+"|Ky| |shkrim| |i| |gjallë|!|"
+ajo| |bërtiti|:| |"|Kjo| |fuqi| |që| |ndihet|!|...| |Poeti| |ynë| |i| |madh|,| |zoti| |Browning|,| |autor| |i| |"|Paracelsus|"|,| |etj|.|,| |është| |entuziast| |në| |admirimin| |e| |tij| |për| |ritmin|.|"
+Zoti| |Ingram|,| |pasi| |iu| |referua| |“|Zonjës| |Geraldine|”|,| |tregon| |me| |zgjuarsi| |një| |burim| |tjetër| |nga| |i| |cili| |Poe| |mund| |të| |ketë| |kapur| |një| |impuls|.
+Në| |vitin| |1843|,| |Albert| |Pike|,| |poeti| |i| |Arkansas| |gjysmë|-|grek|,| |gjysmë|-|kufitar|,| |kishte| |shtypur| |në| |"|The| |New| |Mirror|"|,| |për| |të| |cilën| |Poe| |atëherë| |po| |shkruante|,| |disa| |vargje| |të| |titulluar| |"|Isadore|"|,| |por| |që| |u| |rishikuan| |nga| |autori| |dhe| |u| |quajtën| |"|Zemra| |e| |ve|"|.
+Unë| |zgjedh| |nga| |rishikimi| |i| |zotit| |Pike| |strofën| |e| |mëposhtme|,| |tiparet| |kryesore| |të| |së| |cilës| |korrespondojnë| |me| |versionin| |origjinal|:
+"|I| |shqetësuar|,| |unë| |ec| |me| |ritëm| |në| |dhomat| |tona| |të| |vetmuara|,| |nuk| |i| |luaj| |më| |këngët| |tona|,
+Dielli| |i| |zjarrtë| |shkëlqen| |me| |shkëlqim| |mbi| |dyshemenë| |e| |pastruar|;
+Zogu| |tallës| |ende| |rri| |e| |këndon|,| |o| |tendosje| |melankolike|!
+Sepse| |zemra| |ime| |është| |si| |një| |re| |vjeshte| |që| |vërshon| |nga| |shiu|;
+Ti| |je| |i| |humbur| |përgjithmonë| |për| |mua|,| |Isadore|!|"
+Këtu| |kemi| |një| |masë| |të| |zgjatur|,| |një| |ngjashmëri| |të| |refrenit| |dhe| |futjen| |e| |një| |zogu|,| |kënga| |e| |të| |cilit| |shton| |pikëllimin|.
+Ka| |shtigje| |të| |tjera| |që| |mund| |të| |ndiqen| |nga| |kureshtarët|;
+veçanërisht|,| |një| |pasazh| |të| |cilin| |z|.| |Ingram| |e| |zgjedh| |nga| |rishikimi| |përfundimtar| |i| |Poe| |për| |"|Barnaby| |Rudge|"|:
+"|Korbi|,| |gjithashtu|,| |*| |*| |*| |mund| |të| |jetë| |bërë|,| |më| |shumë| |nga| |sa| |e| |shohim| |tani|,| |një| |pjesë| |e| |konceptimit| |të| |Barnaby| |fantastik|.| |*| |*| |*| |Personazhi| |i| |tij| |mund| |të| |ketë| |kryer|,| |në| |lidhje| |me| |atë| |të| |idiotit|,| |pothuajse| |të| |njëjtën| |pjesë| |si| |në| |muzikë|,| |shoqërimin| |në| |lidhje| |me| |ajrin|.|"
+Megjithatë|,| |pas| |vënies| |në| |pah| |të| |këtyre| |mikrobeve| |dhe| |ngjashmërive|,| |vlera| |e| |kësaj| |poezie| |ende| |gjendet| |në| |origjinalitetin| |e| |saj|.
+Muzika| |progresive|,| |detajet| |skenike| |dhe| |drita| |e| |hija| |e| |kundërta|,| |mbi| |të| |gjitha|,| |pasioni| |shpirtëror| |i| |natës|,| |e| |bëjnë| |atë| |vepër| |të| |një| |gjeniu| |informues|.
+Sa| |i| |përket| |zogut| |të| |tmerrshëm|,| |ai| |është| |ndryshe| |nga| |të| |gjithë| |korbat| |e| |tjerë| |të| |klanit| |të| |tij|,| |që| |nga| |"|twa| |corbies|"| |dhe| |"|tre| |korbat|"| |e| |baladistëve| |deri| |te| |"|Grip|"| |i| |rrënuar| |i| |Barnaby|.
+Këtu| |s'ka| |asnjë| |ngjashmëri| |me| |gjilpërën| |që| |përndjek| |frëngjitë| |stërgjyshore| |dhe| |shkel| |fushën| |e| |heraldikës|;
+asnjë| |fantazmë| |bezdisëse| |për| |të| |cilën| |Tickell| |këndoi| |atë|,| |kur|,
+"|duke| |bërtitur| |tre| |herë| |në| |dritaren| |e| |saj|,
+Korbi| |përplasi| |krahun|,
+E| |dinte| |shumë| |mirë| |vajza| |e| |dashuruar
+Tingulli| |solemn| |i| |zhurmshëm|.|"
+Korbi| |i| |Poe|-|s| |është| |një| |konceptim| |i| |veçantë|;
+mishërimi| |i| |agonisë| |dhe| |mungesës| |së| |shpresës| |së| |një| |vajtuesi|;
+një| |sable| |mishëronte| |Kujtimin|,| |kronistin| |e| |përhershëm| |të| |dënimit|,| |një| |lloj| |i| |të| |Pandreqshmit|.
+I| |arratisur| |përtej| |Styksit|,| |nga| |"|bregu| |i| |Plutonit| |të| |Natës|"|,| |ai| |duket| |si| |shpirti| |i| |përfytyruar| |i| |vetë| |pyetësit|,| |-| |i| |atij| |që| |nuk| |mund|,| |nuk| |do| |të| |ngrejë| |nepentin| |e| |mirë|,| |sepse| |kujtimi| |i| |Lenore| |është| |gjithçka| |që| |i| |ka| |mbetur| |dhe| |me| |valën| |e| |pikëllimit| |të| |tij| |edhe| |kjo| |do| |të| |lihej| |mënjanë|.
+Korbi| |gjithashtu| |mund| |të| |merret| |si| |një| |poezi| |përfaqësuese| |e| |autorit| |të| |tij|,| |për| |shembullin| |e| |tij| |të| |të| |gjitha| |nocioneve| |të| |tij| |se| |çfarë| |duhet| |të| |jetë| |një| |poezi|.
+Këto| |gjenden| |në| |esetë| |e| |tij| |mbi| |"|Parimi| |poetik|"|,| |"|Arsyetimi| |i| |vargut|"| |dhe| |"|Filozofia| |e| |kompozimit|"|.
+Poe| |deklaroi| |se| |"|në| |Muzikë|,| |mbase|,| |shpirti| |pothuajse| |arrin| |përfundimin| |e| |madh| |për| |të| |cilin|,| |kur| |frymëzohet| |nga| |Ndjenja| |Poetike|,| |ai| |lufton| |-| |krijimin| |e| |Bukurisë| |hyjnore|...| |Vargu| |nuk| |mund| |të| |përcaktohet| |më| |mirë| |sesa| |si| |një| |muzikë| |inferiore| |ose| |më| |pak| |e| |aftë|"|;
+por| |përsëri|,| |vargu| |që| |është| |në| |të| |vërtetë| |"|Poezia| |e| |fjalëve|"| |është| |"|Krijimi| |ritmik| |i| |së| |bukurës|"|,| |-| |kjo| |dhe| |asgjë| |më| |shumë|.
+Toni| |i| |Bukurisë| |më| |të| |lartë| |është| |ai| |i| |Trishtimit|.
+Temat| |më| |melankolike| |është| |Vdekja|.
+Kjo| |duhet| |të| |jetë| |aleate| |me| |Bukurinë|.
+"|Vdekja|,| |pra|,| |e| |një| |gruaje| |të| |bukur| |është|,| |pa| |dyshim|,| |tema| |më| |poetike| |në| |botë|,| |dhe| |po| |ashtu| |është| |pa| |dyshim| |që| |buzët| |më| |të| |përshtatshme| |për| |një| |temë| |të| |tillë| |janë| |ato| |të| |një| |dashnori| |të| |ndjerë|.|"
+Këto| |shprehje| |të| |fundit| |citohen| |nga| |analiza| |e| |çuditshme| |e| |Poe|-|s| |për| |këtë| |poemë|,| |por| |ato| |tregojnë| |pikërisht| |shtrirjen| |e| |përgjithshme| |të| |vargjeve| |të| |tij|.
+Kulmi| |i| |"|Këmbanave|"| |është| |monotoni| |i| |mbytur| |i| |fantazmave|,| |të| |cilët| |lavdërohen| |duke| |rënduar| |zemrën| |e| |njeriut|.
+"|Lenore|"|,| |"|The| |Raven|"|,| |"|The| |Sleeper|"|,| |"|To| |One| |in| |Paradise|"| |dhe| |"|Ulalume|"| |formojnë| |një| |simfoni| |tenebroze|,| |dhe| |"|Annabel| |Lee|"|,| |shkruar| |së| |fundi|,| |tregon| |se| |një| |temë| |e| |pushtoi| |atë| |deri| |në| |fund|.
+Përsëri|,| |të| |gjitha| |këto| |nuk| |janë| |asgjë| |nëse| |jo| |muzikore|,| |dhe| |disa| |preken| |nga| |ajo| |cilësi| |e| |Fantastikes| |që| |zgjon| |ndjenjën| |e| |frikës| |dhe| |i| |shton| |një| |frikë| |të| |re| |vetë| |agonisë|.
+Gjithçka| |është| |e| |përvijuar| |në| |mënyrë| |të| |zbehtë|,| |nën| |një| |mbulesë| |me| |hije|,| |dashuria| |ideale| |e| |poetit|,| |-| |aq| |shpesh| |gjysmë| |e| |portretizuar| |diku| |tjetër|,| |-| |gruaja| |e| |varrosur| |e| |Usher|,| |Zonja| |Ligeia|,| |në
+[|13|]
+[|13|]
+e| |vërteta| |homologe| |e| |natyrës| |së| |tij|.
+Unë| |mendoj| |se| |dashuria| |e| |një| |artisti| |për| |një| |"|në| |formë|"| |nuk| |mund| |të| |rivalizojë| |kurrë| |plotësisht| |përkushtimin| |e| |tij| |ndaj| |ndonjë| |ideali|.
+Gruaja| |pranë| |tij| |duhet| |të| |ushtrojë| |magjitë| |e| |saj|,| |të| |jetë| |me| |radhë| |dhe| |asgjë| |e| |gjatë|,| |ta| |magjepsë| |atë| |me| |shumëllojshmëri| |të| |pafundme| |ose| |të| |kënaqet| |duke| |hequr| |dorë| |nga| |një| |pjesë| |e| |besnikërisë| |së| |tij|.
+Ai| |duhet| |të| |joshet| |nga| |e| |Paarritshmja|,| |dhe| |kjo| |është| |përtej| |tij| |në| |pasionin| |e| |tij| |për| |artin| |krijues|.
+Poe|,| |si| |Hawthorne|,| |hyri| |me| |rënien| |e| |shkollës| |romantike| |dhe| |askush| |nuk| |kënaqej| |më| |shumë| |se| |ai| |të| |qeshte| |me| |fatkeqësinë| |e| |saj|.
+Megjithatë| |zemra| |e| |tij| |ishte| |me| |romancët| |dhe| |efektet| |e| |tyre| |orientale| |ose| |gotike|.
+Shpikja| |e| |tij|,| |aq| |e| |pasur| |me| |përralla| |në| |prozë|,| |dukej| |se| |e| |braktisi| |kur| |shkruante| |vargje|;
+dhe| |gjykimi| |i| |tij| |i| |tha| |atij| |se| |poezitë| |e| |gjata| |romantike| |varen| |më| |shumë| |nga| |incidenti| |sesa| |nga| |frymëzimi|,| |dhe| |se|,| |për| |të| |shqiptuar| |poezinë| |e| |romancës|,| |do| |të| |mjaftonte| |teksti|.
+Prandaj| |teoria| |e| |tij|,| |qartësisht| |e| |përshtatur| |me| |kufizimet| |e| |tij|,| |se| |"|një| |'|poemë| |e| |gjatë|'| |është| |një| |kontradiktë| |e| |sheshtë| |në| |terma|"|.
+Komponentët| |e| |The| |Raven| |janë| |të| |paktë| |dhe| |të| |thjeshtë|:| |një| |burrë|,| |një| |zog| |dhe| |kujtesa| |fantazma| |e| |një| |gruaje|.
+Por| |pjesa| |ofron| |një| |shfaqje| |të| |shkëlqyer| |të| |materialit| |romantik|.
+Çfarë| |kemi| |ne|?
+Mesnata|;
+dhoma| |me| |hije| |me| |tomet| |e| |saj| |të| |dijes| |së| |harruar|;
+studenti|,| |-| |një| |Hieronim| |modern|;
+trokitja| |e| |korbit| |në| |këllëf|;
+nata| |e| |dimrit| |dhe| |zjarri| |që| |vdes|;
+perdet| |e| |mëndafshta| |të| |fshira| |nga| |era|;
+ëndrrat| |dhe| |mosbesimi| |i| |paqartë| |i| |errësirës| |që| |jehon|;
+zogu| |i| |zi|,| |i| |çuditshëm| |mbi| |bustin| |e| |zbehtë|;
+aksesorët| |e| |kadifesë| |vjollce| |dhe| |llamba| |e| |gëzuar|.
+I| |gjithë| |ky| |efekt| |skenik| |i| |situatës|,| |dritës|,| |ngjyrës|,| |tingullit|,| |është| |thjesht| |romantik|,| |madje| |melodramatik|,| |por| |i| |një| |cilësie| |poetike| |që| |melodrama| |rrallë| |e| |shfaq| |dhe| |pasqyron| |tërësisht| |"|pasionin| |e| |përjetshëm|,| |dhimbjen| |e| |përjetshme|"| |të| |poetit|.
+Struktura| |ritmike| |e| |The| |Raven| |sigurisht| |që| |do| |të| |bënte| |përshtypje|.
+Rima|,| |aliteracioni|,| |barra|,| |forma| |strofale|,| |u| |krijuan| |me| |shkathtësi| |të| |njëjës|.
+Pa| |dyshim|,| |poeti| |u| |godit| |nga| |përshtatshmëria| |e| |trokaikëve| |muzikorë| |të| |zonjushë| |Barrett|,| |në| |"|tetë|"|,| |dhe| |veçanërisht| |nga| |rregullimi| |i| |miratuar| |pranë| |mbylljes| |së| |"|Zonjës| |Geraldine|"|:
+"|"|Sytë|,|"| |tha| |ai|,| |"|tani| |pulsojnë| |nga| |unë|!| |A| |jeni| |ju| |sytë| |që| |më| |zhbëni|?
+Sytë| |që| |shkëlqejnë|,| |si| |bizhuteritë| |antike| |të| |vendosura| |në| |gurin| |e| |statujës| |Parian|!
+Nën| |atë| |ballë| |të| |qetë| |të| |bardhë|,| |ju| |digjeni| |përvëlues
+O'r| |shkretëtirë| |rëre| |e| |shkretë| |e| |zemrës| |sime| |dhe| |jeta| |e| |zhbërë|?|'|"
+Prezantimi| |i| |tij| |artistik| |i| |një| |rime| |të| |tretë| |në| |rreshtin| |e| |dytë| |dhe| |të| |katërt|,| |dhe| |shtimi| |i| |një| |rreshti| |të| |pestë| |dhe| |një| |refreni| |i| |fundit|,| |e| |bënë| |strofën| |e| |Korbit|.
+Aliterimi| |i| |vazhdueshëm| |duket| |se| |vjen| |pa| |përpjekje| |dhe| |shpesh| |vjersha| |brenda| |rreshtave| |është| |joshëse|;
+ndërsa| |refreni| |apo| |barra| |dominojnë| |në| |tërë| |veprën|.
+Këtu| |ai| |kishte| |përfituar| |edhe| |nga| |studimi| |i| |zonjushës| |Barrett| |për| |baladat| |dhe| |romanet| |në| |gjuhën| |e| |saj| |dhe| |në| |gjuhë| |të| |tjera|.
+Një| |"|refren|"| |është| |joshja| |me| |të| |cilën| |një| |poet| |ose| |një| |muzikant| |mban| |veshin| |endacak|,| |-| |dëshira| |e| |përsëritur| |e| |Natyrës| |për| |tendosjen| |fillestare|.
+Gjithmonë| |i| |kam| |admiruar| |refrenet| |e| |bukura| |të| |këngëtares| |angleze|,| |"|The| |Nightingales|,| |the| |Nightingales|"|,| |"|Margret|,| |Margret|"|,| |"|Zemra| |ime| |dhe| |unë|"|,| |"|Toll| |ngadalë|"|,| |"|Lumi| |rrjedh|"|,| |"|Pan|,| |Pan| |është| |i| |vdekur|"|,| |etj|.
+"|O| |qenie| |të| |gjalla| |të| |lumtura|,| |pa| |gjuhë
+Bukuria| |e| |tyre| |mund| |të| |deklarojë|:
+Nga| |zemra| |ime| |buroi| |një| |burim| |dashurie|,
+Dhe| |unë| |i| |bekoja| |ata| |pa| |e| |ditur|:
+Sigurisht| |që| |shenjtori| |im| |i| |sjellshëm| |pati| |mëshirë| |për| |mua|,
+Dhe| |unë| |i| |bekoja| |ata| |pa| |e| |ditur|.|"
+Poe| |krijoi| |rreshtin| |e| |pestë| |të| |strofës| |së| |tij| |për| |magjinë| |e| |përsëritjes|.
+Ai| |u| |mbështet| |në| |të| |maksimalisht| |në| |disa| |poezi| |të| |mëvonshme|,| |"|Lenore|"|,| |"|Annabel| |Lee|"|,| |"|Ulalume|"| |dhe| |"|Për| |Annie|"|.
+Ajo| |fitoi| |një| |muzikë| |të| |egër| |dhe| |melankolike|,| |mendoj| |unë|,| |nga| |"|ndikimet| |e| |ëmbla|"| |të| |ngarkesave| |dhe| |përsëritjeve| |afrikane| |që| |i| |këndoheshin| |në| |fëmijëri|,| |duke| |e| |përshtatur| |me| |melodinë| |e| |tyre| |amtare| |zërin| |e| |poetit| |tonë| |jugor|.
+"|Filozofia| |e| |Kompozimit|"|,| |analiza| |e| |tij| |për| |The| |Raven|,| |është| |një| |përmbledhje| |teknike| |e| |metodës| |dhe| |strukturës| |së| |saj|.
+As| |zotimi| |i| |tij| |për| |artificë| |gjakftohtë|,| |as| |zotimi| |i| |tij| |i| |mëvonshëm| |ndaj| |miqve| |se| |ekspozimi| |i| |kësaj| |artificiale| |ishte| |vetëm| |një| |tjetër| |nga| |mashtrimet| |e| |tij| |intelektuale|,| |nuk| |duhet| |të| |vlerësohen| |plotësisht|.
+Nëse| |do| |ta| |kishte| |projektuar| |paraprakisht| |të| |gjithë| |veprën|,| |zor| |se| |do| |të| |kishte| |bërë| |një| |prelud| |kaq| |të| |ashpër| |të| |vjershave| |me| |vrima| |në| |melodinë| |e| |shijshme| |të| |strofës| |së| |dytë|,| |madje| |as| |mbi| |teorinë| |e| |tij| |për| |fantastiken|.
+Sigurisht|,| |një| |artist|,| |pasi| |ka| |përsosur| |një| |vepër|,| |sheh|,| |si| |Artisti| |i| |parë|,| |se| |është| |e| |mirë| |dhe| |e| |sheh| |pse| |është| |e| |mirë|.
+Një| |analizë| |e| |mëvonshme|,| |e| |shoqëruar| |me| |një| |mohim| |të| |çdo| |zjarri| |të| |shenjtë|,| |mund| |të| |bëhet| |me| |lehtësi|.
+Besimi| |im| |është| |se| |konceptimi| |i| |parë| |dhe| |drafti| |i| |përafërt| |i| |kësaj| |poezie| |erdhi| |pasi| |frymëzimi| |vjen| |gjithmonë|;
+që| |autori| |i| |tij| |më| |pas| |pa| |se| |si| |mund| |të| |përsoset|,| |duke| |i| |dhënë| |asaj| |prekjet| |e| |fundit| |të| |përshkruara| |në| |kapitullin| |e| |tij| |mbi| |Kompozicionin|,| |dhe| |se| |kjo| |e| |fundit|,| |pra|,| |nuk| |është| |as| |tërësisht| |e| |rreme|,| |as| |plotësisht| |e| |vërtetë|.
+Dëmi| |i| |një| |analize| |të| |tillë| |është| |se| |e| |tundon| |një| |fillestar| |të| |imagjinojë| |se| |proceset| |artificiale| |mund| |të| |zëvendësojnë| |imagjinatën|.
+Impulsi| |i| |gjeniut| |është| |të| |ruajë| |sekretet| |e| |orës| |së| |tij| |krijuese|.
+Pamjet| |e| |marra| |nga| |mundi|,| |eksperimentet| |e| |hutuara|,| |të| |cilat| |i| |paraprijnë| |një| |triumfi|,| |si| |në| |skicën| |e| |Hawthorne|-|it| |të| |nxjerra| |së| |fundmi| |në| |dritë|,| |i| |japin| |udhëzime| |dhe| |inkurajim| |të| |çmuar| |artistit| |të| |sinqertë|.
+Por| |një
+[|14|]
+[|14|]
+i| |cili| |vullnetarisht| |ekspozon| |Muzën| |e| |tij| |në| |vështrimin| |e| |të| |gjithë| |të| |ardhurve|,| |duhet| |të| |kujtojë| |fatin| |e| |mbretit| |Candaules|.
+Bota| |ende| |mendon| |për| |Poe| |si| |një| |"|njeri| |pa| |fat| |gjenial|"|.
+Kohët| |e| |fundit| |e| |kam| |dëgjuar| |të| |përmendet| |si| |"|një| |për| |të| |cilin| |të| |gjithë| |duket| |se| |janë| |të| |autorizuar| |ta| |keqinterpretojnë|,| |ta| |dënojnë| |ose| |ta| |shpifin|"|.
+Por| |më| |duket| |se| |fati| |i| |tij| |i| |keq| |përfundoi| |me| |vdekjen| |e| |tij| |të| |dhimbshme| |dhe| |se| |që| |atëherë| |mbrojtja| |e| |tij| |ka| |qenë| |këmbëngulëse| |dhe| |fama| |e| |tij| |e| |rritjes| |së| |patundur| |sa| |mund| |të| |lutej| |një| |autor| |i| |vuajtur| |dhe| |i| |talentuar| |në| |orën| |e| |tij| |shpresëdhënëse|.
+Dënimi| |dhe| |shpifja| |e| |Griswold|-|it| |e| |kthyen| |rrymën| |në| |favor| |të| |tij|.
+Kritikët| |dhe| |biografët| |janë| |paraqitur| |me| |përgënjeshtrime| |të| |njëpasnjëshme|,| |me| |homazhe| |për| |personazhin| |e| |tij|,| |me| |botime| |të| |reja| |të| |veprave| |të| |tij|.
+Letrat| |e| |tij| |dhe| |incidentet| |e| |vogla| |të| |karrierës| |së| |tij| |janë| |para| |nesh|;
+rekordi|,| |i| |mirë| |dhe| |i| |keq|,| |është| |i| |njohur| |gjerësisht|.
+Asnjë| |ankues| |nuk| |ka| |marrë| |një| |gjykim| |më| |të| |butë| |dhe| |falës|.
+Fatkeqësitë| |e| |tij| |në| |jetë| |i| |përkisnin| |rajonit| |dhe| |periudhës| |së| |tij|,| |ndoshta| |akoma| |më| |shumë| |dobësisë| |së| |vullnetit| |të| |tij|.
+Pa| |dyshim|,| |mjedisi| |i| |tij| |nuk| |ishte| |i| |tillë| |që| |të| |ruante| |një| |natyrë| |të| |grimcuar|,| |të| |pabalancuar| |nga| |rreziqet| |jashtë| |dhe| |brenda|.
+Vullneti| |i| |tij| |më| |i| |fortë|,| |për| |të| |qenë| |zot| |i| |vetvetes|,| |fitoi| |për| |të| |"|atë| |trashëgimi| |të| |mjerimit|"|.
+Ai| |e| |rrëfeu| |veten| |mjeshtrin| |e| |pakënaqur| |të| |zogut|,| |të| |vuajturin| |e| |goditur| |nga| |kjo| |poezi|.
+Por| |ai| |ishte| |një| |pjesë| |e| |plotë| |e| |atij| |temperamenti| |dramatik| |që| |ngazëllohet| |në| |parathënien| |e| |dënimit| |të| |vet|.
+Ka| |një| |kënaqësi| |të| |luajë| |rolin| |e| |lartë|:| |ne| |jemi| |të| |gjithë| |gladiatorë|,| |duke| |qarë| |Ave| |Imperator|!
+Për| |të| |cituar| |faktin| |e| |Burke|:| |"|Në| |pikëllim| |kënaqësia| |është| |ende| |më| |e| |larta| |dhe| |vuajtja| |që| |ne| |vuajmë| |nuk| |ka| |asnjë| |ngjashmëri| |me| |dhimbjen| |absolute|,| |e| |cila| |është| |gjithmonë| |e| |urryer| |dhe| |të| |cilën| |ne| |përpiqemi| |ta| |largojmë| |sa| |më| |shpejt| |të| |jetë| |e| |mundur|.|"
+Poe| |shkoi| |më| |larg| |dhe| |ishte| |një| |artist| |edhe| |në| |tragjedinë| |e| |karrierës| |së| |tij|.
+Nëse|,| |sipas| |besimit| |të| |tij|,| |trishtimi| |dhe| |zhdukja| |e| |bukurisë| |janë| |temat| |më| |të| |larta| |poetike| |dhe| |ndjenja| |poetike| |kënaqësia| |më| |e| |madhe| |tokësore|,| |atëherë| |pikëllimi| |dhe| |errësira| |e| |jetës| |së| |tij| |të| |thyer| |nuk| |ishin| |pa| |kompensimin| |e| |tyre| |të| |shpeshtë|.
+Në| |faqet| |në| |vijim|,| |kemi| |një| |shembull| |të| |freskët| |të| |gjeniut| |të| |një| |artisti| |që| |karakterizon| |interpretimin| |e| |tij| |të| |një| |poezie| |të| |famshme|.
+Gustave| |Doré|,| |vepra| |e| |fundit| |e| |lapsit| |të| |të| |cilit| |është| |para| |nesh|,| |nuk| |ishte| |piktori|,| |apo| |edhe| |vizatori|,| |për| |realistët| |që| |kërkonin| |të| |vërtetën| |e| |tonit|,| |figurës| |dhe| |përsosmërisë|.
+Çështje| |të| |tilla| |e| |shqetësonin| |atë| |më| |pak| |sesa| |të| |bënte| |formën| |dhe| |distancën|,| |dritën| |dhe| |hijen|,| |të| |ndihmonin| |qëllimin| |e| |tij| |-| |që| |ishte| |të| |ngacmonte| |shpirtin|,| |imagjinatën| |e| |shikuesit|.
+Këtë| |ai| |e| |bëri| |duke| |na| |ngjallur| |ndjenjën| |e| |frikës|,| |nëpërmjet| |koncepteve| |të| |mrekullueshme| |dhe| |shpesh| |sublime| |të| |gjërave| |të| |pathëna| |dhe| |plot| |zymtësi| |apo| |lavdi|.
+Thuhet| |mirë| |se| |nëse| |veprat| |e| |tij| |nuk| |do| |të| |ishin| |piktura| |të| |shkëlqyera|,| |si| |piktura| |ato| |janë| |vërtet| |të| |shkëlqyera|.
+Si| |një| |"|artist| |letrar|"| |dhe| |i| |tillë| |ishte|,| |forca| |e| |tij| |ishte| |në| |raport| |të| |drejtpërdrejtë| |me| |shpikjen| |dramatike| |të| |autorit| |të| |tij|,| |me| |guximin| |e| |guximshëm| |të| |shpirtit| |që| |ndezi| |të| |tijën|.
+Prandaj| |suksesi| |i| |tij| |me| |Rabelais|,| |me| |"|Le| |Juif|-|Errant|"|,| |"|Les| |Contes| |Drolatiques|"| |dhe| |"|Don| |Kishoti|"|,| |dhe| |si| |rrjedhojë|,| |anasjelltas|,| |dështimi| |i| |tij| |për| |të| |shprehur| |bukurinë| |e| |Idileve| |të| |Tennyson|-|it|,| |të| |"|Il| |Paradiso|"|,| |të| |baritorëve| |hebrenj| |dhe| |teksteve| |të| |tjera| |që| |kërkojnë| |ekzaltim|,| |ose| |ëmbëlsi| |dhe| |repose|.
+Ai| |ishte| |një| |mjeshtër| |i| |lindur| |i| |groteskut| |dhe| |me| |një| |njohuri| |të| |veçantë| |mund| |të| |portretizonte| |fantazmat| |e| |një| |truri| |të| |përhumbur|.
+Ne| |i| |shohim| |objektet| |ashtu| |siç| |i| |panë| |personazhet| |e| |tij| |dhe| |me| |vetë| |sytë| |e| |çifutit| |endacak|,| |Donit| |të| |hutuar| |ose| |vajzës| |së| |argjendarit|,| |fantazia| |e| |së| |cilës| |e| |madhëron| |kaq| |shumë| |Mbretin| |në| |dyqanin| |në| |Pont|-|au|-|Change|.
+Ishte| |në| |natyrën| |e| |gjërave| |që| |ai| |duhej| |të| |tërhiqej| |nga| |çdo| |kryevepër| |e| |vargjeve| |ose| |prozës| |që| |unë| |e| |kam| |quajtur| |unike|.
+Mbretëritë| |e| |ulëta| |u| |thirrën| |në| |shërbim| |të| |tij|;
+shkëmbinjtë|,| |pemët| |dhe| |malet| |e| |tij|,| |vetë| |qielli|,| |janë| |të| |gjallëruar| |me| |motiv| |dhe| |diablerie|.
+Sikur| |të| |kishte| |jetuar| |për| |të| |ilustruar| |Shekspirin|,| |do| |të| |kishim| |parë| |një| |trajtim| |të| |jashtëzakonshëm| |të| |Caliban|,| |Shtrigave|,| |stuhisë| |në| |"|Lear|"|;
+por| |pa| |dyshim| |duhet| |të| |kishte| |vënë| |në| |dyshim| |idealet| |e| |tij| |të| |Imogenit| |apo| |Mirandës|.
+Bukurinë| |e| |pastër| |dhe| |të| |thjeshtë|,| |dhe| |përsosmërinë| |e| |përsosur| |të| |saj|,| |ai| |rrallë| |dukej| |se| |e| |kuptonte|.
+Megjithatë|,| |ka| |bukuri| |në| |planet| |e| |tij| |për| |"|Marinarin| |e| |Lashtë|"|,| |si| |joreale|,| |dhe| |një| |vazhdimësi| |e| |rrallë| |në| |një| |seri| |nga| |Doré|.
+Rime| |i| |dha| |atij| |një| |histori| |të| |zgjatur|,| |me| |shumë| |zhvendosje| |të| |skenës|.
+Tek| |The| |Raven| |tingulli| |dhe| |ngjyra| |ruajnë| |monotonin| |e| |tyre| |dhe| |nuk| |kemi| |ndryshim| |vendi| |apo| |rasti|.
+Cili| |është| |rezultati|?
+Doré| |ofron| |një| |sërë| |variacionesh| |mbi| |temën| |siç| |e| |konceptoi| |ai|,| |"|enigma| |e| |vdekjes| |dhe| |halucinacioni| |i| |një| |shpirti| |të| |pangushëllueshëm|"|.
+Në| |disa| |nga| |këto| |vizatime| |janë| |të| |dukshme| |gabimet| |e| |tij|;
+të| |tjerët| |zbulojnë| |origjinalitetin| |e| |tij| |të| |fuqishëm| |dhe| |cilësitë| |më| |të| |mira| |në| |të| |cilat|,| |si| |vizatues|,| |ai| |qëndronte| |i| |vetëm|.
+Qartë| |kishte| |diçka| |të| |përbashkët| |midis| |gjendjes| |shpirtërore| |të| |punës| |së| |Poe| |dhe| |Dore|.
+Kjo| |do| |të| |dukej| |më| |qartë| |nëse| |ky| |i| |fundit| |do| |të| |provonte| |dorën| |e| |tij| |mbi| |"|Përrallat| |e| |Groteskut| |dhe| |Arabeskut|"|.
+Të| |dy| |i| |drejtoheshin| |shpesh| |vendit| |të| |kukudhëve| |të| |fantazisë| |dhe| |romancës|.
+Në| |bëmat| |melodramatike|,| |ata| |të| |dy|,| |përmes| |komandimit| |të| |të| |mbinatyrshmes|,| |shmangën| |vijën| |e| |rrezikut| |midis| |ideales| |dhe| |absurdit|.
+Poe| |ishte| |adhuruesi| |më| |i| |vërtetë| |i| |së| |Bukurës|;
+dashuria| |e| |tij| |për| |të| |ishte| |një| |pasion| |përkushtues|,| |dhe| |këtu| |ai| |ndahet| |me| |ilustruesin| |e| |tij|.
+Poet| |apo| |artist|,| |Vdekja| |më| |në| |fund| |i| |shpërfytyron| |të| |gjitha|:| |nën| |hijen| |e| |pararojës| |së| |tij| |të| |ngurtë|,| |shkumësa| |simbolike| |e| |Vedder|-|it| |i| |vendos| |me| |vend| |ata| |ballë| |për| |ballë|,| |por| |i| |mbështjell| |me| |mantelin| |e| |urtësisë| |dhe| |fuqisë| |së| |pavdekshme|.
+Një| |grua| |amerikane| |ka| |krijuar| |imazhin| |e| |një| |Gjeniu| |me| |sy| |ylli| |me| |pishtarin| |e| |fundit|,| |pamjen| |e| |hollë| |të| |dikujt|,| |vizioni| |i| |të| |cilit| |sheh|,| |por| |buzët| |e| |të| |cilit| |mund| |të| |mos| |shqiptojnë|,| |misteret| |e| |një| |vendi| |përtej| |"|derës| |së| |një| |varri| |legjendar|"|.
+Edmund| |C.| |Stedman|.
+POEMA|.
+Ilustrimi| |1
+Ilustrimi| |1
+Korbi|.
+Një| |herë| |e| |një| |mesnate| |të| |zymtë|,| |ndërsa| |unë| |meditoja|,| |i| |dobët| |dhe| |i| |lodhur|,
+Mbi| |shumë| |një| |vëllim| |të| |çuditshëm| |dhe| |kurioz| |të| |njohurive| |të| |harruara|,
+Ndërsa| |pohoja| |me| |kokë|,| |gati| |duke| |dremitur|,| |papritmas| |erdhi| |një| |përgjim|,
+Ashtu| |si| |dikush| |që| |rrepte| |butësisht|,| |kërcente| |në| |derën| |e| |dhomës| |sime|.
+"|T| |është| |një| |vizitor|,|"| |mërmërita|,| |"|duke| |trokitur| |te| |dera| |e| |dhomës| |sime|...
+Vetëm| |kjo| |dhe| |asgjë| |më| |shumë|”|.
+Ah|,| |më| |kujtohet| |qartë| |se| |ishte| |në| |dhjetorin| |e| |zymtë|,
+Dhe| |çdo| |prush| |i| |veçantë| |që| |po| |vdiste| |krijoi| |fantazmën| |e| |tij| |mbi| |dysheme|.
+Dëshirova| |me| |padurim| |të| |nesërmen|:| |-| |më| |kot| |kisha| |kërkuar| |të| |marr| |hua
+Nga| |librat| |e| |mi| |rrjedhë| |pikëllimi| |-| |pikëllim| |për| |Lenoren| |e| |humbur| |-
+Për| |vajzën| |e| |rrallë| |dhe| |rrezatuese|,| |të| |cilës| |engjëjt| |i| |quajnë| |Lenore-
+Pa| |emër| |këtu| |përgjithmonë|.
+Dhe| |shushurima| |e| |mëndafshtë| |e| |trishtuar| |e| |pasigurt| |e| |çdo| |perde| |të| |purpurt
+Më| |emocionoi| |-| |më| |mbushi| |me| |tmerre| |fantastike| |që| |nuk| |janë| |ndjerë| |më| |parë|;
+Kështu| |që| |tani|,| |deri| |në| |rrahjet| |e| |zemrës| |sime|,| |qëndrova| |duke| |përsëritur
+"|'|T| |është| |një| |vizitor| |që| |lutet| |hyrjen| |në| |derën| |e| |dhomës| |sime
+Një| |vizitor| |i| |vonuar| |që| |lutet| |hyrjen| |në| |derën| |e| |dhomës| |sime|;|-
+Kjo| |është| |dhe| |asgjë| |më| |shumë|”|.
+Tani| |shpirti| |im| |u| |bë| |më| |i| |fortë|;
+duke| |hezituar| |pastaj| |jo| |më|,
+"|Zotëri|,|"| |thashë| |unë|,| |"|ose| |Zonjë|,| |me| |të| |vërtetë| |kërkoj| |faljen| |tuaj|;
+Por| |fakti| |është| |se| |unë| |isha| |duke| |dremitur|,| |dhe| |me| |kaq| |butësi| |erdhët| |duke| |kërcyer|,
+Dhe| |kaq| |zbehtë| |erdhe| |duke| |përgjuar|,| |duke| |trokitur| |në| |derën| |e| |dhomës| |sime|,
+Se| |nuk| |isha| |i| |sigurt| |se| |të| |dëgjoja|"| |-| |këtu| |hapa| |derën|;
+Errësirë| ​​|atje| |dhe| |asgjë| |më| |shumë|.
+Thellë| |në| |atë| |errësirë| ​​|duke| |shikuar|,| |për| |një| |kohë| |të| |gjatë| |qëndrova| |aty| |duke| |u| |habitur|,| |duke| |u| |frikësuar|,
+Dyshimi|,| |ëndrra| |ëndërruese| |asnjë| |i| |vdekshëm| |nuk| |guxoi| |të| |ëndërronte| |më| |parë|;
+Por| |heshtja| |ishte| |e| |pandërprerë| |dhe| |errësira| |nuk| |dha| |asnjë| |shenjë|,
+Dhe| |e| |vetmja| |fjalë| |që| |u| |fol| |atje| |ishte| |fjala| |e| |pëshpëritur|,| |"|Lenore|!|"
+Këtë| |pëshpërita| |unë| |dhe| |një| |jehonë| |mërmëriti| |fjalën|,| |"|Lenore|!|"
+Vetëm| |kjo| |dhe| |asgjë| |më| |shumë|.
+Kthehu| |në| |dhomë| |duke| |u| |kthyer|,| |gjithë| |shpirti| |im| |brenda| |meje| |digjet|,
+Së| |shpejti| |përsëri| |dëgjova| |një| |trokitje|,| |disi| |më| |të| |fortë| |se| |më| |parë|.
+"|Sigurisht|,|"| |thashë|,| |"|me| |siguri| |kjo| |është| |diçka| |në| |grilën| |time| |të| |dritares|;
+Më| |lejoni| |të| |shoh|,| |atëherë|,| |çfarë| |ka| |dhe| |të| |eksplorojë| |këtë| |mister| |-
+Le| |të| |qëndrojë| |zemra| |ime| |një| |çast| |dhe| |këtë| |mister| |ta| |eksplorojë|;|-
+"|T| |është| |era| |dhe| |asgjë| |më| |shumë|!|"
+Hapur| |këtu| |hodha| |qepenin|,| |kur|,| |me| |shumë| |flirt| |e| |rrahje|,
+Aty| |hyri| |një| |korb| |madhështor| |i| |ditëve| |të| |shenjta| |të| |dikurshme|.
+Jo| |më| |pak| |përulje| |e| |bëri| |ai|;
+asnjë| |minutë| |nuk| |ndaloi| |apo| |qëndroi|;
+Por|,| |me| |mien| |të| |zotit| |apo| |zonjës|,| |të| |vendosur| |mbi| |derën| |e| |dhomës| |sime-
+I| |vendosur| |mbi| |një| |bust| |të| |Pallasit| |pikërisht| |mbi| |derën| |time| |të| |dhomës| |-
+U| |ul|,| |dhe| |u| |ul|,| |dhe| |asgjë| |më| |shumë|.
+Pastaj| |ky| |zog| |i| |zezak| |që| |mashtron| |fantazinë| |time| |të| |trishtuar| |për| |të| |buzëqeshur|,
+Për| |shkak| |të| |varrimit| |dhe| |dekorimit| |të| |ashpër| |të| |fytyrës| |që| |mbante|,
+"|Edhe| |pse| |kreshta| |jote| |të| |jetë| |e| |prerë| |dhe| |e| |rruar|,| |ti|,|"| |i| |thashë|,| |"|i| |sigurt| |që| |nuk| |je| |kërkues|,
+Korbi| |i| |tmerrshëm| |i| |zymtë| |dhe| |i| |lashtë| |që| |endet| |nga| |bregu| |i| |natës|,|-
+Më| |thuaj| |cili| |është| |emri| |yt| |zot| |në| |bregun| |Plutonian| |të| |Natës|!|"
+Quoth| |Raven|,| |"|Nevermore|.|"
+U| |mrekullova| |shumë| |ky| |shpend| |i| |shëmtuar| |kur| |dëgjova| |fjalimin| |kaq| |qartë|,
+Ndonëse| |përgjigja| |e| |saj| |ka| |pak| |kuptim|-|pak| |relevancë| |lindi|;
+Sepse| |ne| |nuk| |mund| |të| |mos| |biem| |dakord| |se| |asnjë| |qenie| |njerëzore| |e| |gjallë
+Ai| |ende| |u| |bekua| |duke| |parë| |zogun| |mbi| |derën| |e| |dhomës| |së| |tij-
+Zog| |ose| |bishë| |mbi| |bustin| |e| |skulpturuar| |mbi| |derën| |e| |dhomës| |së| |tij|,
+Me| |një| |emër| |të| |tillë| |si| |"|Nevermore|"|.
+Por| |Korbi|,| |i| |ulur| |i| |vetmuar| |në| |bustin| |e| |qetë|,| |foli| |vetëm
+Ajo| |një| |fjalë|,| |sikur| |shpirti| |i| |tij| |në| |atë| |fjalë| |që| |ai| |bëri| |derdh|.
+Asgjë| |më| |tej| |atëherë| |ai| |nuk| |shqiptoi| |-| |as| |një| |pendë| |atëherë| |ai| |tundi| |-
+Derisa| |unë| |mezi| |mërmërita|,| |"|Miq| |të| |tjerë| |kanë| |fluturuar| |më| |parë-
+Të| |nesërmen| |ai| |do| |të| |më| |lërë|,| |pasi| |shpresat| |e| |mia| |kanë| |fluturuar| |më| |parë|.|"
+Pastaj| |zogu| |tha|:| |"|Asnjëherë| |më|"|.
+I| |habitur| |nga| |qetësia| |e| |thyer| |nga| |përgjigja| |e| |thënë| |kaq| |me| |vend|,
+"|Pa| |dyshim|,|"| |thashë| |unë|,| |"|ajo| |që| |nxjerr| |në| |gojë| |është| |stoku| |dhe| |depoja| |e| |vetme| |e| |tij|,
+I| |kapur| |nga| |një| |mjeshtër| |i| |pakënaqur| |të| |cilit| |fatkeqësia| |e| |pamëshirshme
+Ndoqi| |shpejt| |dhe| |ndoqi| |më| |shpejt| |derisa| |këngët| |e| |tij| |bartën| |një| |barrë-
+Deri| |në| |derdhjet| |e| |Shpresës| |së| |tij| |ajo| |barrë| |melankolike| |mbajti
+Nga| |"|Kurrë| |-| |kurrë| |më|"|.
+Por| |Korbi| |ende| |mashtron| |gjithë| |shpirtin| |tim| |të| |trishtuar| |për| |të| |buzëqeshur|,
+Drejt| |e| |kam| |vënë| |me| |rrota| |një| |ndenjëse| |me| |jastëk| |përpara| |zogut|,| |bustit| |dhe| |derës|;
+Pastaj|,| |me| |fundosjen| |prej| |kadifeje|,| |vendosa| |të| |lidhem
+I| |pëlqej| |shumë|,| |duke| |menduar| |se| |çfarë| |ky| |zog| |ogurzi| |i| |dikurshëm-
+Çfarë| |ky| |zog| |i| |zymtë|,| |i| |shëmtuar|,| |i| |kobshëm|,| |i| |dobët| |dhe| |ogurzi| |i| |dikurshëm
+Do| |të| |thotë| |në| |krokatën| |"|Nevermore|"|.
+Unë| |u| |ula| |i| |angazhuar| |në| |hamendje|,| |por| |asnjë| |rrokje| |duke| |shprehur
+Për| |shpendët|,| |sytë| |e| |zjarrtë| |të| |të| |cilëve| |tani| |digjen| |në| |thelbin| |e| |gjirit| |tim|;
+Këto| |dhe| |të| |tjera| |unë| |u| |ula| |duke| |paragjykuar|,| |me| |kokën| |të| |qetë| |mbështetur
+Mbi| |veshjen| |prej| |kadifeje| |të| |jastëkut| |që| |ndriçonte| |drita| |e| |llambës|,
+Por| |të| |cilit| |kadife| |ngjyrë| |vjollce| |rreshtim| |me| |dritën| |e| |llambës| |gëzuar| |o'er
+Ajo| |do| |të| |shtypë|,| |ah|,| |kurrë| |më|!
+Më| |pas|,| |mendova|,| |ajri| |u| |bë| |më| |i| |dendur|,| |i| |parfumuar| |nga| |një| |temjanicë| |e| |paparë
+Lëkundje| |nga| |serafinët|,| |këmbët| |e| |të| |cilëve| |tringëllinin| |në| |dyshemenë| |me| |tufa|.
+"|I| |mjerë|,|"| |thirra| |unë|,| |"|Perëndia| |yt| |të| |ka| |dhënë| |hua| |-| |me| |anë| |të| |këtyre| |engjëjve| |ai| |të| |ka| |dërguar
+Pushim| |-| |pushim| |dhe| |nepen| |nga| |kujtimet| |e| |tua| |për| |Lenore|!
+Quaff|,| |oh| |quaff| |ky| |nepenthe| |i| |sjellshëm| |dhe| |harro| |këtë| |Lenore| |të| |humbur|!|"
+Quoth| |Raven|,| |"|Nevermore|.|"
+"|Profeti|!|"
+Thashë| |unë|,| |"|gjë| |e| |keqe|!| |-| |prapë| |profet|,| |qoftë| |zog| |apo| |djall|!|"
+Nëse| |joshëse| |dërgoi|,| |ose| |nëse| |stuhia| |të| |hodhi| |këtu| |në| |breg|,
+E| |shkretë|,| |por| |e| |gjitha| |e| |patrembur|,| |në| |këtë| |tokë| |të| |shkretë| |të| |magjepsur-
+Në| |këtë| |shtëpi| |nga| |tmerri| |i| |përhumbur| |-| |më| |thuaj| |të| |vërtetë|,| |të| |lutem| |-
+A| |ka|—|ka| |balsam| |në| |Galaad|?|—më| |thuaj|—|më| |thuaj|,| |të| |lutem|!|"
+Quoth| |Raven|,| |"|Nevermore|.|"
+"|Profeti|!|"
+Thashë| |unë|,| |"|gjë| |e| |keqe|,| |prapë| |profet|,| |qoftë| |zog| |apo| |djall|!
+Pas| |atij| |qielli| |që| |përkulet| |lart|,| |ne| |-| |për| |atë| |Zot| |që| |të| |dy| |adhurojmë| |-
+Thuaji| |këtij| |shpirti| |të| |ngarkuar| |me| |pikëllim| |nëse|,| |brenda| |Aidenit| |të| |largët|,
+Ajo| |do| |të| |shtrëngojë| |një| |vajzë| |të| |shenjtë| |të| |cilës| |engjëjt| |e| |quajnë| |Lenore-
+Mbërtheni| |një| |vajzë| |të| |rrallë| |dhe| |rrezatuese|,| |të| |cilës| |engjëjt| |e| |quajnë| |Lenore|.|"
+Quoth| |Raven|,| |"|Nevermore|.|"
+"|Bëhu| |kjo| |fjalë| |shenja| |jonë| |e| |ndarjes|,| |zog| |apo| |djall|!|"
+Unë| |bërtita|,| |i| |mërzitur| |-
+"|Ktheju| |përsëri| |në| |furtunë| |dhe| |në| |bregun| |Plutonian| |të| |Natës|!
+Mos| |lini| |shtëllungë| |të| |zezë| |si| |shenjë| |e| |asaj| |gënjeshtre| |që| |ka| |thënë| |shpirti| |juaj|!
+Lëre| |vetminë| |time| |të| |pandërprerë|!|-Lëre| |bustin| |mbi| |derën| |time|!
+Hiq| |sqepin| |tënd| |nga| |zemra| |ime| |dhe| |hiqe| |formën| |tënde| |nga| |dera| |ime|!|"
+Quoth| |Raven|,| |"|Nevermore|.|"
+Dhe| |Korbi|,| |nuk| |fluturon| |kurrë|,| |ende| |është| |ulur|,| |ende| |është| |ulur
+Në| |bustin| |e| |zbehtë| |të| |Pallasit| |pikërisht| |mbi| |derën| |e| |dhomës| |sime|;
+Dhe| |sytë| |e| |tij| |kanë| |të| |gjithë| |pamjen| |e| |një| |demoni| |që| |ëndërron|,
+Dhe| |drita| |e| |llambës| |që| |rrjedh| |nga| |ai| |hedh| |hijen| |e| |tij| |në| |dysheme|;
+Dhe| |shpirti| |im| |nga| |ajo| |hije| |që| |shtrihet| |duke| |notuar| |në| |dysheme
+Do| |të| |ngrihet| |-| |kurrë| |më|!
