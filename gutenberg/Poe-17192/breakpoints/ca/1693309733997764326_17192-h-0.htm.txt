@@ -1,0 +1,541 @@
+El| |projecte| |Gutenberg| |eBook| |of| |The| |Raven|,| |d'|Edgar| |Allan| |Poe|.
+El| |projecte| |Gutenberg| |eBook| |of| |The| |Raven
+Aquest| |llibre| |electrònic| |és| |per| |a| |l'|ús| |de| |qualsevol| |persona| |a| |qualsevol| |part| |dels| |Estats| |Units| |i| |de| |la| |majoria| |d'|altres| |parts| |del| |món| |sense| |cap| |cost| |i| |gairebé| |sense| |cap| |restricció|.
+Podeu| |copiar|-|lo|,| |regalar|-|lo| |o| |reutilitzar|-|lo| |sota| |els| |termes| |de| |la| |Llicència| |del| |Projecte| |Gutenberg| |inclosa| |amb| |aquest| |llibre| |electrònic| |o| |en| |línia| |a| |www.gutenberg.org|.
+Si| |no| |us| |trobeu| |als| |Estats| |Units|,| |haureu| |de| |comprovar| |les| |lleis| |del| |país| |on| |us| |trobeu| |abans| |d'|utilitzar| |aquest| |llibre| |electrònic|.
+Títol|:| |El| |corb
+Autor|:| |Edgar| |Allan| |Poe
+Comentarista|:| |Edmund| |Clarence| |Stedman
+Il·lustrador|:| |Gustave| |Doré
+Data| |de| |llançament|:| |30| |de| |novembre| |de| |2005| |[|eBook| |núm|.| |17192|]
+Actualització| |més| |recent|:| |13| |de| |desembre| |de| |2020
+Idioma|:| |Anglès
+Crèdits|:| |Produït| |per| |Jason| |Isbell|,| |Melissa| |Er|-|Raqabi| |i| |Online
+Equip| |de| |correcció| |distribuït| |a| |https://www.pgdp.net|.
+***| |INICI| |DEL| |PROJECTE| |GUTENBERG| |EBOOK| |EL| |CORB| |***
+Contraportada
+Contraportada
+EL| |CORB
+Per
+EDGAR| |ALLAN| |POE
+IL·LUSTRAT
+A| |càrrec| |de| |GUSTAVE| |DORÉ
+Imatge| |del| |títol
+Imatge| |del| |títol
+AMB| |COMENTARI| |D'|EDMUND| |C.| |STEDMAN
+NOVA| |YORK
+HARPER| |&| |BROTHERS|,| |EDITORIALS|,| |FRANKLIN| |SQUARE
+1884
+Ingressat| |segons| |Acta| |del| |Congrés|,| |l'|any| |1883|,| |per
+HARPER| |I| |GERMANS|,
+A| |l'|Oficina| |de| |la| |Biblioteca| |del| |Congrés|,| |a| |Washington|.
+Tots| |els| |drets| |reservats|.
+Notes| |del| |transcriptor
+A| |la| |llista| |d'|il·lustracions| |vaig| |restaurar| |una| |cita| |simple| |que| |faltava| |després| |de| |la| |Lenore|!
+com| |es| |mostra| |a| |continuació|:
+"|"|Desgraciat|"|,| |vaig| |exclamar|,| |"|el| |teu| |Déu| |t'ha| |prestat|;| |per| |aquests| |àngels| |t'ha| |enviat
+Respir|,| |respir| |i| |nepenthe| |dels| |teus| |records| |de| |Lenore|!|'|"
+La| |llista| |d'|il·lustracions| |utilitza| |"|visitant|"| |on| |el| |poema| |i| |la| |il·lustració| |real| |fan| |servir| |"|visitant|"|.
+LLISTA| |DE| |IL·LUSTRACIONS
+Amb| |Noms| |de| |Gravadors
+Portada|,| |dissenyada| |per| |Elihu| |Vedder|.
+Frederic| |Juengling|.
+"|Mai| |més|"|.
+H.| |Claudi|,| |GJ| |Buechner|.
+ANANKE|.
+H.| |Claudi|.
+"|Hi| |havia| |una| |mitjanit| |trist|,| |mentre| |pensava|,| |feble| |i| |cansat|,
+Sobre| |molts| |volums| |pintorescs| |i| |curiosos| |de| |tradicions| |oblidades|"|.
+RA| |Muller|.
+"|Ah|,| |recordo| |clarament|,| |va| |ser| |en| |el| |trist| |desembre|,
+I| |cada| |brasa| |moribunda| |per| |separat| |va| |forjar| |el| |seu| |fantasma| |a| |terra|"|.
+RG| |Tietze|.
+"|Vaig| |desitjar| |amb| |impaciència| |l'|endemà|;| |en| |va| |havia| |buscat| |demanar| |prestat
+Dels| |meus| |llibres| |surten| |el| |dolor|,| |el| |dolor| |per| |la| |Lenore| |perduda|"|.
+H.| |Claudi|.
+"|Dos| |per| |la| |Lenore| |perduda|"|.
+W.| |Zimmermann|.
+"|Per| |a| |la| |donzella| |rara| |i| |radiant| |que| |els| |àngels| |anomenen| |Lenore|...
+Sense| |nom| |aquí| |per| |sempre|"|.
+Frederic| |Juengling|.
+"|No| |és| |un| |visitant| |que| |demana| |entrar| |a| |la| |porta| |de| |la| |meva| |cambra|...
+Un| |visitant| |tardà| |suplicant| |l'|entrada| |a| |la| |porta| |de| |la| |meva| |habitació|"|.
+W.| |Zimmermann|.
+—|“|Aquí| |he| |obert| |la| |porta| |de| |bat| |a| |bat|;|—| |Allà| |foscor|,| |i| |res| |més|”|.
+H.| |Claudi|.
+"|Dubtant|,| |somiant| |somnis| |cap| |mortal| |no| |s'ha| |atrevit| |mai| |a| |somiar| |abans|"|.
+FS| |Rei|.
+"|"|Segur|"|,| |vaig| |dir|,| |"|segurament| |això| |és| |alguna| |cosa| |a| |la| |gelosia| |de| |la| |meva| |finestra|;
+Deixeu|-|me| |veure|,| |doncs|,| |què| |hi| |ha|,| |i| |explorar| |aquest| |misteri|"|.
+Frederic| |Juengling|.
+"|Obre| |aquí|,| |he| |llençat| |la| |persiana|"|.
+T.| |Johnson|.
+—|"|Un| |corb| |majestuós| |dels| |dies| |sants| |d'|abans|.| |No| |va| |fer| |la| |menor| |reverència|;| |ni| |un| |minut| |es| |va| |aturar| |ni| |es| |va| |quedar|.|"
+R.| |Staudenbaur|.
+"|Enfilat| |sobre| |un| |bust| |de| |Pal·les| |just| |a| |sobre| |de| |la| |porta| |de| |la| |meva| |cambra|...
+Enfilat| |i| |assegut|,| |i| |res| |més|"|.
+RG| |Tietze|.
+"|Vegant| |des| |de| |la| |riba| |nocturna|"|.
+Frederic| |Juengling|.
+"|Fins| |que| |amb| |prou| |feines| |vaig| |murmurar|:|"| |Altres| |amics| |han| |volat| |abans|...
+L'|endemà| |em| |deixarà|,| |ja| |que| |les| |meves| |esperances| |han| |volat| |abans|'|"|.
+Franc| |francès|.
+"|Llavors|,| |quan| |el| |vellut| |s'enfonsava|,| |em| |vaig| |posar| |a| |enllaçar
+Fantasia| |a| |fantasia|.|"
+R.| |Schelling|.
+"|Però| |el| |revestiment| |violeta| |de| |vellut| |del| |qual| |amb| |la| |llum| |de| |la| |làmpada| |que| |s'alegra
+Ella| |pressionarà|,| |ah|,| |mai| |més|!|"
+George| |Kruell|.
+"|"|Desgraciat|"|,| |vaig| |exclamar|,| |"|el| |teu| |Déu| |t'ha| |prestat|;| |per| |aquests| |àngels| |t'ha| |enviat
+Respir|,| |respir| |i| |nepenthe| |dels| |teus| |records| |de| |Lenore|!|'|"
+Víctor| |Bernstrom|.
+"|En| |aquesta| |casa| |per| |Horror| |embruixada|"|.
+R.| |Staudenbaur|.
+"|Digues|-|me| |de| |veritat|,| |t'imploro|...| |Hi| |ha|...| |hi| |ha| |bàlsam| |a| |Gilead|?|...| |digues|-|me|...| |digues|-|me|,| |imploro|!|'|"
+W.| |Zimmermann|.
+"|"|Digues| |a| |aquesta| |ànima| |carregada| |de| |dolor| |si|,| |dins| |del| |llunyà| |Aidenn|,
+Aferrarà| |una| |donzella| |santa| |a| |qui| |els| |àngels| |anomenen| |Lenore|.
+FS| |Rei|.
+"|'|Sigues| |aquesta| |paraula| |el| |nostre| |signe| |de| |despedida|,| |ocell| |o| |dimoni|!|'
+Vaig| |cridar|,| |arriscat|"|.
+W.| |Zimmermann|.
+"|'|Torna't| |a| |la| |tempesta| |i| |a| |la| |costa| |plutoniana| |de| |la| |Nit|!|'|"
+Robert| |Hoskin|.
+"|I| |la| |meva| |ànima| |d'|aquesta| |ombra| |que| |sura| |a| |terra
+S'aixecarà|,| |mai| |més|!|"
+RG| |Tietze|.
+El| |secret| |de| |l'|Esfinx|.
+R.| |Staudenbaur|.
+COMENTA| |EL| |POEMA|.
+El| |secret| |d'|un| |poema|,| |ni| |més| |ni| |menys| |que| |la| |prosperitat| |d'|una| |broma|,| |rau| |a| |l'|oïda| |de| |qui| |l'|escolta|.
+Cedir| |al| |seu| |encanteri|,| |acceptar| |l'|estat| |d'|ànim| |del| |poeta|:| |això|,| |al| |cap| |i| |a| |la| |fi|,| |és| |el| |que| |responen| |els| |savis| |quan| |els| |pregunteu| |pel| |seu| |valor|.
+Encara| |que| |el| |mateix| |poeta|,| |en| |el| |seu| |altre| |estat| |d'|ànim|,| |us| |digui| |que| |el| |seu| |art| |no| |és| |més| |que| |un| |joc| |de| |mans|,| |el| |menjar| |del| |seu| |encantador| |de| |menjar|,| |i| |us| |ofereix| |ensenyar|-|vos| |el| |truc|,| |no| |us| |cregueu|.
+Espera| |la| |seva| |hora| |profètica|;
+després| |entrega't| |a| |la| |seva| |passió|,| |a| |la| |seva| |alegria| |o| |al| |seu| |dolor|.
+"|Avui| |estem| |a| |la| |mà| |de| |l'|Amor|!|"
+canta| |Gautier|,| |en| |la| |paràfrasi| |flotant| |de| |Swinburne|,| |—i| |des| |del| |matí| |fins| |al| |capvespre| |ens| |envaeix| |el| |mar| |violent|:| |només| |hi| |ha| |un| |amor|,| |un| |maig|,| |un| |fil| |florit|.
+L'|amor| |és| |etern|,| |tota| |la| |resta| |és| |irreal| |i| |deixat| |de| |banda|.
+La| |visió| |té| |un| |final|,| |l'|escena| |canvia|;
+però| |alguna| |cosa| |hem| |guanyat|,| |el| |record| |d'|un| |encant|.
+Tants| |poetes|,| |tants| |encants|.
+Hi| |ha| |l'|encant| |de| |l'|Evanescència|,| |allò| |que| |dóna| |a| |la| |bellesa| |i| |la| |gràcia| |supremes| |una| |aureola| |de| |Pathos|.
+Comparteix| |amb| |Landor| |la| |seva| |"|nit| |de| |records| |i| |de| |sospirs|"| |per| |a| |Rose| |Aylmer|,| |i| |ho| |tens| |al| |màxim|.
+I| |ara| |preneu| |la| |mà| |d'|un| |joglar| |del| |nou| |món|,| |allunyat| |d'|algun| |hàbitat| |adequat| |a| |aquella| |Amèrica| |grollera| |i| |dissonant| |que|,| |com| |va| |veure| |Baudelaire|,| |"|no| |era| |per| |a| |Poe| |més| |que| |una| |vasta| |presó| |per| |on| |corria|,| |ací| |i| |allà|,| |amb| |l'|agitació| |febril| |d'|un| |ésser| |creat| |per| |respirar| |en| |un| |món| |més| |pur|"|,| |i| |on| |"|la| |seva| |vida| |interior|,| |espiritual| |com| |a| |poeta|,| |perpetua|,| |fins| |i| |tot| |per| |escapar| |d'|una| |influència| |espiritual|,| |d'|un| |únic| |esforç|,| |d'|una| |influència| |espiritual| |perpetua|.
+aquesta| |atmosfera| |antipàtica|"|.
+Agafeu| |la| |mà| |sensible| |d'|un| |cantant| |preocupat| |que| |dibuixa| |així| |el| |seu| |estrany|,| |i| |compartiu| |amb| |ell| |el| |clima| |en| |què| |va| |trobar|,| |mai| |al| |llarg| |del| |dia|,| |sempre| |a| |la| |nit|,| |si| |no| |l'|Atlàntida| |d'|on| |havia| |vagat|,| |almenys| |un| |lloc| |de| |refugi| |dels| |límits| |en| |què| |el| |dia| |estava| |immers|.
+A| |una| |terra| |només| |ell| |té| |el| |poder| |de| |conduir|-|te|,| |i| |per| |una| |nit| |només| |pots| |compartir| |el| |seu| |somni|.
+Una| |part| |de| |ni| |la| |Terra| |ni| |el| |Cel|:| |"|Terra| |de| |ningú|"|,| |fora| |de| |l'|espai|,| |fora| |del| |temps|.
+Heus| |aquí| |els| |pertorbats|,| |pels| |ulls| |dels| |quals|,| |com| |els| |dels| |Cenci|,| |l'|ànima| |troba| |finestres| |encara| |que| |la| |ment| |està| |embadalada|;
+aquí| |els| |esperits|,| |cercant| |el| |camí| |que| |porta| |a| |l'|eternitat|,| |s'aturan| |i| |es| |retarden|.
+És| |el| |llimb| |de| |les| |"|ànimes| |planetàries|"|,| |on| |hi| |ha| |totes| |les| |incerteses| |de| |la| |llum| |de| |la| |lluna|,| |tots| |els| |amors| |i| |il·lusions| |perduts|.
+Aquí| |alguns| |estan| |fixats| |en| |tràngol|,| |l'|únic| |respir| |possible|;
+altres
+"|Mou|-|te| |fantàsticament
+A| |una| |melodia| |discordante|:|"
+mentre| |que| |a| |tot| |arreu| |hi| |ha
+"|Memòries| |amb| |fulles| |del| |passat|...
+Formes| |envoltades| |que| |arrenquen| |i| |sospiren
+Quan| |passen| |pel| |vagabund|"|.
+Aquesta| |és| |la| |terra|,| |i| |durant| |una| |nit| |hi| |entrem|,| |una| |nit| |de| |fases| |astrals| |i| |campanes| |recurrents|.
+Les| |seves| |monodies| |són| |dotze| |poemes|,| |la| |música| |dels| |quals| |s'esforça| |per| |canviar| |però| |sempre| |és| |la| |mateixa|.
+Un| |a| |un| |sonen|,| |com| |el| |timbre| |del| |rellotge| |de| |bronze| |i| |banús|,| |a| |"|La| |màscara| |de| |la| |mort| |vermella|"|,| |que| |feia| |que| |els| |valsers| |s'aturaven| |amb| |"|desconcert| |i| |tremolor| |i| |meditació|"|,| |tan| |sovint| |com| |arribava| |l'|hora|.
+De| |totes| |aquestes| |cadències| |místiques|,| |la| |queixa| |de| |The| |Raven|,| |que| |vibra| |pel| |portal|,| |ha| |impressionat| |principalment| |el| |món| |exterior|.
+Quines| |són| |les| |coses| |per| |fer| |un| |poema|,| |i| |com| |de| |cert| |en| |això|,| |com| |en| |la| |majoria| |d'|altres|,| |aquella| |raça| |que| |va| |anomenar| |els| |seus| |bards| |"|els| |creadors|"|?
+Una| |obra| |es| |crida| |a| |sortir| |del| |buit|.
+On| |no| |hi| |havia| |res|,| |queda|,| |una| |nova| |creació|,| |part| |del| |tresor| |de| |la| |humanitat|.
+I| |unes| |lletres| |excepcionals|,| |més| |que| |d'|altres| |igualment| |creatives|,| |ens| |obliguen| |a| |pensar| |de| |nou| |amb| |quina| |valentia| |la| |ploma| |del| |poeta| |torna| |les| |coses| |desconegudes|.
+"|a| |les| |formes| |i| |no| |dóna| |res| |a| |l'|aire
+Un| |habitatge| |local| |i| |un| |nom|"|.
+Cadascun| |sembla| |sense| |un| |prototip|,| |però| |tots| |ens| |fascinen| |amb| |elements| |extrets| |de| |l'|ombra| |del| |Sobrenatural|.
+Ara| |la| |més| |alta| |imaginació| |es| |preocupa| |per| |l'|ànima| |de| |les| |coses|;
+pot| |inspirar| |o| |no| |la| |fantasia| |que| |els| |pobles| |amb| |imatges| |vagues| |interlunars|.
+Tot| |i| |així|,| |una| |d'|aquestes| |lletres|,| |en| |la| |seva| |forma| |més| |petita|,| |ens| |afecta| |amb| |una| |sensació| |d'|unicitat|,| |tan| |segurament| |com| |les| |obres| |més| |sublims| |d'|un| |repartiment| |sobrenatural|,| |el| |"|Faust|"| |de| |Marlowe|,| |el| |"|Faust|"| |de| |Goethe|,| |"|Manfred|"| |o| |fins| |i| |tot| |aquelles| |obres| |mestres| |etèries|,| |"|La| |tempesta|"| |i| |"|El| |somni| |d'|una| |nit| |d'|estiu|"|.
+Més| |d'|un|,| |encara| |que| |sigui| |únic|,| |en| |té| |alguns
+[|10|]
+[|10|]
+càrrega| |o| |estribillo| |que| |persegueix| |la| |memòria|,| |un| |cop| |escoltat|,| |mai| |oblidat|,| |com| |el| |to| |d'|un| |parada| |d'|orgue| |poc| |utilitzat| |però| |característic|.
+Entre| |ells| |destaca| |la| |"|Lenore|"| |de| |Bürger|,| |aquella| |balada| |fantasmal| |i| |ressonant|,| |l'|esquer| |i| |el| |paper| |dels| |traductors|.
+Pocs| |negaran| |que| |el| |meravellós| |"|Rime| |of| |the| |Ancient| |Mariner|"| |de| |Coleridge| |els| |es| |troba| |al| |capdavant|.
+"|Le| |Juif|-|Errant|"| |hauria| |afirmat|,| |si| |Beranger| |fos| |un| |poeta| |més| |gran|;
+i|,| |a| |no| |ser| |pel| |seu| |allunyament| |de| |la| |simpatia| |popular|,| |"|The| |Lady| |of| |Shalott|"| |i| |"|The| |Blessed| |Damozel|"| |podrien| |afegir|-|se| |a| |la| |llista|.
+Es| |va| |cedir| |a| |Edgar| |Allan| |Poe| |per| |produir| |dues| |lletres|,| |"|The| |Bells|"| |i| |The| |Raven| |,| |cadascuna| |de| |les| |quals|,| |encara| |que| |potser| |de| |menys| |bellesa| |que| |les| |de| |Tennyson| |i| |Rossetti|,| |és| |única|.
+"|Ulalume|"|,| |tot| |i| |que| |és| |igual| |d'|estrany| |i| |imaginatiu|,| |no| |té| |la| |qualitat| |universal| |que| |és| |una| |part| |de| |la| |nostra| |prova|.
+El| |corb| |en| |pura| |composició| |poètica| |cau| |per| |sota| |de| |peces| |com| |"|The| |Haunted| |Palace|"|,| |"|The| |City| |in| |the| |Sea|"|,| |"|The| |Sleeper|"| |i| |"|Israfel|"|.
+Sospito| |que| |els| |lectors| |d'|un| |repartiment| |exigent| |canviarien| |la| |totalitat| |per| |passatges| |com| |aquests|:
+"|Al| |voltant|,| |per| |l'|aixecament| |dels| |vents| |oblidats|,
+Resignada| |sota| |el| |cel
+Les| |aigües| |melancolies| |es| |troben|.
+No| |baixa| |cap| |raig| |del| |cel| |sagrat
+En| |la| |llarga| |nit| |d'|aquell| |poble|;
+Però| |la| |llum| |del| |mar| |espantós
+Recorre| |les| |torres| |en| |silenci|,
+·| |·| |·| |·| |·| |·| |·
+Puja| |molts| |i| |molts| |un| |santuari| |meravellós
+Els| |frisos| |del| |qual| |s'entrellacen
+La| |viola|,| |la| |violeta| |i| |la| |vinya|.
+·| |·| |·| |·| |·| |·| |·
+Cap| |inflor| |no| |diu| |que| |hi| |pot| |haver| |vent
+En| |algun| |mar| |llunyà| |i| |feliç|...
+No| |hi| |ha| |cap| |insinuació| |que| |hi| |hagi| |vents
+En| |mars| |menys| |horriblement| |serens|"|.
+Li| |manca| |la| |melodia| |aèria| |del| |poeta| |les| |cordes| |del| |cor| |són| |un| |llaüt|:
+"|I| |diuen| |(|el| |cor| |estrellat
+I| |les| |altres| |coses| |que| |escolten|)
+Aquell| |foc| |d'|Israfeli
+És| |degut| |a| |aquella| |lira
+Amb| |el| |qual| |s'asseu| |i| |canta—
+El| |fil| |tremolós| |viu
+D'|aquestes| |cordes| |inusuals|"|.
+Però| |The| |Raven|,| |com| |"|The| |Bells|"| |i| |"|Annabel| |Lee|"|,| |es| |recomana| |a| |molts| |i| |pocs|.
+He| |dit| |en| |un| |altre| |lloc| |que| |les| |produccions| |més| |rares| |de| |Poe| |em| |semblaven| |«|aquelles| |en| |les| |quals| |hi| |ha| |l'|aparença|,| |almenys|,| |d'|espontaneïtat|,| |—en| |les| |quals| |ell| |cedeix| |als| |seus| |sentiments|,| |mentre| |moren| |les| |caigudes| |i| |les| |cadències| |més| |musicals|,| |més| |malenconies|,| |surten| |d'|ell| |sense| |saber|-|ho|»|.
+Aquesta| |és| |encara| |la| |meva| |creença|;
+i| |tanmateix|,| |després| |d'|un| |nou| |estudi| |d'|aquest| |poema|,| |m'impressiona| |més| |que| |mai| |des| |de| |la| |meva| |infància|.
+El| |coneixement| |proper| |diu| |a| |favor| |de| |cada| |veritable| |obra| |d'|art|.
+Indueix| |l'|home|,| |que| |ni| |coneix| |l'|art| |ni| |se'n| |preocupa|,| |a| |examinar| |algun| |poema| |o| |pintura|,| |i| |com| |aviat| |la| |seva| |força| |s'apodera| |d'|ell|!
+De| |fet|,| |sobrevalorarà| |el| |valor| |relatiu| |de| |la| |primera| |bona| |obra| |que| |li| |ha| |cridat| |bastant| |l'|atenció|.
+El| |Raven|,| |també|,| |té| |qualitats| |consistents| |que| |fins| |i| |tot| |un| |expert| |ha| |d'|admirar|.
+En| |cap| |altre| |poema| |del| |seu| |autor| |es| |defineix| |més| |palpablement| |el| |motiu|.
+"|El| |palau| |encantat|"| |és| |igual| |de| |definitiu| |per| |al| |lector| |selecte|,| |però| |Poe| |amb| |prou| |feines| |hauria| |pres| |aquesta| |subtil| |al·legoria| |per| |a| |una| |anàlisi| |calba|.
+El| |corb| |està| |totalment| |ocupat| |amb| |el| |tema| |típic| |de| |l'|autor|:| |la| |pèrdua| |irrecuperable| |d'|una| |dona| |idolatrada| |i| |bella|;
+però| |per| |altres| |raons|,| |també|,| |l'|instint| |públic| |és| |correcte| |en| |pensar|-|lo| |el| |seu| |poema| |representatiu|.
+Un| |home| |de| |geni| |acostuma| |a| |guanyar| |un| |lloc| |amb| |l'|èxit| |d'|algun| |esforç|,| |i| |aquest| |no| |sempre| |és| |el| |seu| |millor|.
+El| |reconeixement| |és| |més| |instantani| |per| |haver| |estat| |ajornat|.
+No| |l'|adquireix|,| |com| |la| |fortuna| |d'|un| |avar|,| |moneda| |rere| |moneda|,| |sinó| |"|en| |absolut| |o| |del| |tot|"|.
+I| |així| |amb| |altres| |ambicions|:| |el| |cortesà|,| |el| |soldat|,| |l'|actor|,| |sigui| |quin| |sigui| |el| |seu| |paper|,| |cadascun| |compta| |el| |seu| |triomf| |d'|algun| |cop| |afortunat|.
+El| |corb| |de| |Poe|,| |malgrat| |l'|auguri|,| |era| |per| |a| |ell| |"|l'|ocell| |que| |feia| |bufar| |la| |brisa|"|.
+El| |poeta| |es| |va| |establir| |a| |Nova| |York|,| |a| |l'|hivern| |de| |1844|-|'45|,| |trobant| |treball| |en| |el| |diari| |de| |Willis|,| |"|The| |Evening| |Mirror|"|,| |i| |guanyant| |els| |seus| |ingressos| |amb| |contribucions| |en| |altres| |llocs|.
+Durant| |sis| |anys| |havia| |estat| |un| |escriptor| |actiu|,| |i| |gaudia| |d'|una| |reputació| |professional|;
+va| |ser| |considerat| |tant| |amb| |respecte| |com| |amb| |dubtes|,| |i| |no| |va| |perdre| |la| |seva| |part| |del| |periodisme| |mal| |pagat| |d'|aquell| |dia|.
+També| |havia| |fet| |gran| |part| |del| |seu| |millor| |treball|,| |com| |contes| |com| |"|Ligeia|"| |i| |"|La| |caiguda| |de| |la| |casa| |Usher|"|,| |(|aquest| |últim| |conté| |aquella| |contrapartida| |mística|,| |en| |vers|,| |de| |"|A| |Lost| |Mind|"| |d'|Elihu| |Vedder|)|,| |com| |ara| |"|The| |Gold| |Bug|"| |i| |"|The| |Mystery| |of| |Marie| |Roget|"|.
+Havia| |fet| |prosèlits| |a| |l'|estranger| |i| |va| |guanyar| |un| |control| |durador| |sobre| |la| |ment| |francesa|.
+Havia| |après| |el| |seu| |propi| |poder| |i| |debilitat|,| |i| |estava| |en| |el| |seu| |millor| |moment|,| |i| |no| |sense| |certa| |reputació|.
+Però| |no| |havia| |escrit| |res| |que| |estigués| |en| |la| |llengua| |de| |tothom|.
+Als| |treballs| |rars| |i| |delicats| |cal| |afegir| |algun| |toc| |popular| |per| |captar| |el| |públic| |general| |del| |propi| |temps|.
+A| |través| |de| |la| |indústria| |dels| |successius| |biògrafs| |de| |Poe|,| |l'|èxit| |realitzat| |per| |The| |Raven| |s'ha| |convertit| |en| |un| |conte| |molt| |explicat|.
+La| |jove| |dona| |del| |poeta|,| |Virgínia|,| |s'estava| |esvaint| |davant| |els| |seus| |ulls|,| |però| |es| |va| |quedar| |un| |any| |més| |a| |l'|ombra| |de| |la| |mort|.
+La| |cambra| |llarga| |i| |baixa| |de| |la| |casa| |prop| |de| |la| |carretera| |de| |Bloomingdale| |és| |com
+[|11|]
+[|11|]
+famosa| |com| |la| |sala| |on| |Rouget| |de| |l'|Isle| |va| |compondre| |la| |Marsellesa|.
+Tots| |han| |sentit| |que| |el| |poema|,| |signat| |"|Quarles|"|,| |va| |aparèixer| |a| |l|'|"|American| |Review|"|,| |amb| |un| |pseudo|-|comentari| |editorial| |sobre| |la| |seva| |forma|;
+que| |Poe| |va| |rebre| |deu| |dòlars| |per| |això|;
+que| |Willis|,| |el| |més| |amable| |i| |el| |menys| |envejós| |dels| |àrbitres| |de| |moda|,| |el| |va| |reimprimir| |amb| |un| |elogi| |que| |de| |seguida| |el| |va| |fer| |parlar| |de| |la| |ciutat|.
+Tot| |dubte| |sobre| |la| |seva| |autoria| |es| |va| |esvair| |quan| |Poe| |el| |va| |recitar| |ell| |mateix| |en| |una| |tertúlia| |literària|,| |i| |durant| |un| |temps| |va| |ser| |el| |més| |marcat| |dels| |autors| |nord|-|americans|.
+El| |cop| |el| |va| |estimular| |i| |animar|.
+Com| |un| |altre| |i| |més| |orgullós| |satíric|,| |també| |va| |trobar| |"|alguna| |cosa| |d'|estiu|"| |fins| |i| |tot| |"|en| |el| |brunzit| |dels| |insectes|"|.
+Lamentablement|,| |però| |van| |passar| |tres| |anys|,| |un| |període| |d'|influència|,| |orgull|,| |angoixa|,| |però| |sempre| |de| |treball| |imaginatiu| |o| |crític|,| |abans| |de| |la| |derrota| |final|,| |abans| |que| |caigués| |el| |teló| |d'|una| |vida| |que| |per| |a| |ell| |era| |en| |veritat| |una| |tragèdia|,| |i| |cedís| |al| |"|Cuc| |Conqueridor|"|.
+"|The| |American| |Review|:| |A| |Whig| |Journal|"| |va| |ser| |una| |revista| |acreditada| |per| |a| |l'|època|,| |de| |dues| |columnes|,| |impresa| |en| |bon| |paper| |amb| |lletres| |clars| |i| |il·lustrada| |amb| |retrats| |mezzotint|.
+Enmig| |de| |molta| |matèria| |per| |sota| |de| |l'|estàndard| |actual|,| |en| |contenia| |algunes| |que| |qualsevol| |editor| |estaria| |encantat| |de| |rebre|.
+El| |volum| |inicial|,| |de| |1845|,| |conté| |articles| |d'|Horace| |Greeley|,| |Donald| |Mitchell|,| |Walter| |Whitman|,| |Marsh|,| |Tuckerman| |i| |Whipple|.
+El| |pintoresc| |poema| |de| |Ralph| |Hoyt|,| |"|Old|"|,| |va| |aparèixer| |en| |aquest| |volum|.
+I| |aquí| |teniu| |tres| |lletres| |de| |Poe|:| |"|The| |City| |in| |the| |Sea|"|,| |"|The| |Valley| |of| |Unrest|"| |i| |The| |Raven| |.
+Dos| |d'|aquests| |van| |ser| |construïts|,| |tal| |era| |la| |seva| |manera|,| |d'|estudis| |anteriors|,| |però| |el| |darrer| |nom| |va| |sortir| |com| |acabat| |de| |fer|,| |i| |gairebé| |com| |el| |tenim| |ara|.
+L'|afirmació| |que| |no| |es| |va| |revisar| |posteriorment| |és| |errònia|.
+Onze| |canvis| |insignificants| |del| |text| |de| |la| |revista| |apareixen| |a| |El| |corb| |i| |altres| |poemes|,| |1845|,| |un| |llibre| |que| |el| |poeta| |aviat| |es| |va| |sentir| |animat| |a| |oferir| |al| |públic|.
+Es| |tracta| |principalment| |de| |canvis| |de| |puntuació|,| |o| |de| |paraules| |soltes|,| |aquest| |últim| |tipus| |fet| |per| |augmentar| |l'|efecte| |de| |l'|al·literació|.
+En| |la| |bonica| |edició| |del| |vers| |de| |Poe| |del| |senyor| |Lang|,| |publicada| |a| |la| |"|Biblioteca| |de| |pergamins|"|,| |ha| |mostrat| |l'|instint| |d'|estudiós|,| |i| |ha| |fet| |sàviament|,| |en| |tornar| |al| |text| |del| |volum| |que| |acabem| |d'|esmentar|,| |tal| |com| |es| |presenta| |al| |número| |de| |Londres| |de| |1846.| |La| |col·lecció| |"|estàndard|"| |de| |Griswold| |d'|obres| |del| |poeta| |abunda| |d'|errors|.
+Aquests| |han| |estat| |repetits| |pels| |editors| |posteriors|,| |que| |també| |han| |comès| |errors| |propis|.
+Però| |el| |text| |de| |El| |corb|,| |a| |causa| |de| |les| |peticions| |fetes| |a| |l'|autor| |de| |còpies| |manuscrites|,| |va| |ser| |encara| |més| |revisat| |per| |ell|;
+de| |fet|,| |el| |va| |imprimir| |a| |Richmond|,| |just| |abans| |de| |la| |seva| |mort|,| |amb| |la| |substitució| |poètica| |de| |"|serafins| |els| |peus| |dels| |quals| |cau|"| |per| |"|àngels| |els| |peus| |febles| |dels| |quals| |cauen|"|,| |a| |la| |catorzena| |estrofa|.
+El| |nostre| |text| |actual|,| |per| |tant|,| |tot| |i| |que| |substancialment| |és| |el| |de| |1845|,| |està| |una| |mica| |modificat| |per| |la| |lectura| |posterior| |del| |poeta|,| |i| |és|,| |crec|,| |la| |versió| |més| |correcta| |i| |eficaç| |d'|aquest| |únic| |poema|.
+El| |canvi| |més| |radical| |respecte| |a| |la| |versió| |més| |antiga| |va| |aparèixer|,| |però|,| |en| |el| |volum| |l'|any| |1845|;
+l'|onzena| |estrofa| |contenia| |originàriament| |aquestes| |línies|,| |defectuoses| |en| |rima| |i| |d'|altra| |manera| |una| |taca| |al| |poema|:
+"|Atrapat| |per| |algun| |mestre| |infeliç|,| |a| |qui| |un| |desastre| |implacable
+Va| |seguir| |ràpid| |i| |va| |seguir| |més| |ràpid|,| |així| |que|,| |quan| |Hope| |ajuria|,
+Stern| |Desesperar| |va| |tornar|,| |en| |comptes| |de| |la| |dolça| |Esperança| |que| |va| |gosar| |adjurar-
+Aquella| |resposta| |trista|:| |"|Mai| |més|!|"
+Estaria| |bé| |que| |altres|,| |i| |famosos|,| |poetes| |poguessin| |estar| |tan| |segurs| |de| |fer| |els| |seus| |canvis| |sempre| |millores|.
+Poe| |readaptava| |constantment| |el| |seu| |escàs| |espectacle| |de| |versos|,| |i| |normalment| |el| |millorava|.
+El| |corb| |va| |ser| |el| |primer| |dels| |pocs| |poemes| |que| |gairebé| |va| |acabar| |abans| |d'|imprimir|.
+Pot| |ser| |que| |els| |que| |es| |preocupen| |per| |la| |poesia| |hagin| |perdut| |poc| |per| |la| |seva| |mort|.
+Amb| |fluïdesa| |en| |prosa|,| |mai| |va| |escriure| |versos| |per| |fer| |un| |poema|.
+Quan| |una| |tornada| |d'|imatge| |el| |perseguia|,| |la| |lletra| |que| |en| |resultava| |era| |la| |inspiració|,| |com| |ell| |mateix| |deia|,| |d'|una| |passió|,| |no| |d'|un| |propòsit|.
+Això| |era| |a| |intervals| |tan| |rars| |que| |gairebé| |justificava| |la| |teoria| |de| |Fairfield| |que| |cadascun| |era| |el| |producte| |d'|una| |crisi| |nerviosa|.
+Què| |va| |donar|,| |doncs|,| |al| |poeta| |la| |seva| |pista| |sobre| |El| |corb|?
+Des| |de| |quin| |fonament| |boirós| |va| |pujar| |lentament| |a| |una| |música| |respirada| |lentament|?
+Com| |és| |habitual|,| |més| |d'|una| |cosa| |va| |ser| |destinada| |a| |l'|edifici| |d'|un| |poema| |tan| |notable|.
+Tenint| |en| |compte| |els| |sermons| |més| |llargs| |que| |sovint| |es| |predicen| |sobre| |textos| |breus| |i| |menys| |suggerents|,| |espero| |no| |ser| |culpable| |d'|aquesta| |discussió| |d'|una| |sola| |lletra|,| |especialment| |d'|una| |que| |un| |artista| |com| |Doré| |ha| |fet| |objecte| |d'|una| |il·lustració| |pròdiga|.
+Fins| |fa| |poc| |havia| |suposat| |que| |aquesta| |peça|,| |i| |unes| |quantes| |que| |el| |seu| |autor| |va| |compondre| |després| |de| |la| |seva| |aparició|,| |eren| |excepcionals| |per| |no| |haver| |crescut| |de| |gèrmens| |en| |el| |seu| |vers| |infantil|.
+Però| |el| |senyor| |Fearing| |Gill| |m'ha| |ensenyat| |unes| |estrofes| |inèdites| |de| |Poe|,| |escrites| |als| |divuit| |anys| |i| |titulades| |"|El| |dimoni| |del| |foc|"|.
+El| |manuscrit| |sembla| |estar| |escrit| |a| |mà| |primerenc| |del| |poeta|,| |i| |la| |seva| |autenticitat| |està| |avalada| |per| |la| |família| |en| |possessió| |de| |la| |qual| |ha| |romangut| |durant| |mig| |segle|.
+A| |més| |dels| |gèrmens| |més| |senzills| |de| |"|The| |Bells|"| |i| |"|The| |Haunted| |Palace|"|,| |conté| |unes| |línies| |una| |mica| |suggerents| |de| |l'|obertura| |i| |tancament| |de| |The| |Raven|.
+Pel| |que| |fa| |al| |ritme| |del| |nostre| |poema|,| |una| |comparació| |de| |dates| |indica| |que| |aquest| |va| |ser| |influenciat| |pel| |ritme| |de| |"|Lady| |Geraldine|'s| |Courtship|"|.
+Poe| |va| |ser| |un| |dels| |primers| |a| |honrar| |el| |geni| |de| |la| |senyoreta| |Barrett|;
+li| |va| |inscriure| |els| |seus| |poemes| |col·leccionats| |com| |"|la| |més| |noble| |del| |seu| |sexe|"| |i| |va| |ser|-|hi
+[|12|]
+[|12|]
+simpatia| |amb| |el| |seu| |mètode| |líric|.
+Els| |versos| |del| |seu| |poema| |d'|amor|,
+"|Amb| |un| |murmurós| |revulsiu| |incert|,| |a| |l'|aire|,| |el| |teló| |morat
+S'infla| |i| |s'infla| |al| |voltant| |de| |les| |seves| |celles| |pàl·lides| |immòbils| |"|,
+va| |trobar| |un| |ressò| |en| |aquests|:
+"|I| |el| |cruixent| |seda| |i| |trist| |i| |incert| |de| |cada| |cortina| |morada
+Em| |va| |emocionar|,| |em| |va| |omplir| |de| |terrors| |fantàstics| |mai| |sentits| |abans|"|.
+Aquí| |Poe| |va| |assumir| |un| |privilegi| |pel| |qual| |va| |censurar| |de| |manera| |grossa| |a| |Longfellow|,| |i| |que| |ningú| |no| |va| |buscar| |mai| |al| |seu| |propi| |local| |sense| |detecció| |i| |càstig| |ràpid|.
+En| |la| |melodia| |i| |la| |forma| |estrofe|,| |veurem| |que| |els| |dos| |poemes| |no| |són| |diferents|,| |però| |en| |motiu| |són| |totalment| |diferents|.
+La| |generosa| |poetessa| |no| |sentia| |més| |que| |la| |veritable| |originalitat| |del| |poeta|.
+"|Aquest| |escrit| |viu|!|"
+va| |exclamar|:| |"|aquest| |poder| |que| |se| |sent|!|...| |El| |nostre| |gran| |poeta|,| |el| |senyor| |Browning|,| |autor| |de| |Paracels|,| |etc.|,| |s'entusiasma| |en| |la| |seva| |admiració| |pel| |ritme|"|.
+El| |senyor| |Ingram|,| |després| |de| |referir|-|se| |a| |"|Lady| |Geraldine|"|,| |assenyala| |intel·ligentment| |una| |altra| |font| |de| |la| |qual| |Poe| |podria| |haver| |agafat| |un| |impuls|.
+L'|any| |1843|,| |Albert| |Pike|,| |el| |poeta| |mig| |grec|,| |mig| |fronterer|,| |d'|Arkansas|,| |havia| |imprès| |a| |"|The| |New| |Mirror|"|,| |per| |al| |qual| |Poe| |llavors| |estava| |escrivint|,| |alguns| |versos| |titulats| |"|Isadore|"|,| |però| |revisats| |des| |d'|aleshores| |per| |l'|autor| |i| |anomenats| |"|El| |cor| |viu|"|.
+Selecciono| |de| |la| |revisió| |del| |Sr.| |Pike| |la| |següent| |estrofa|,| |de| |la| |qual| |els| |trets| |principals| |corresponen| |a| |la| |versió| |original|:
+"|Inquiet|,| |passo| |per| |les| |nostres| |habitacions| |solitàries|,| |no| |toco| |més| |les| |nostres| |cançons|,
+El| |sol| |cridaner| |brilla| |amb| |ostensió| |sobre| |el| |terra| |sense| |escombrar|;
+L'|ocell| |burlador| |encara| |s'asseu| |i| |canta|,| |oh| |malenconia|!
+Perquè| |el| |meu| |cor| |és| |com| |un| |núvol| |de| |tardor| |que| |desborda| |de| |pluja|;
+Estàs| |perdut| |per| |a| |mi| |per| |sempre|,| |Isadore|!|"
+Aquí| |tenim| |una| |mesura| |prolongada|,| |una| |semblança| |de| |tornada| |i| |la| |introducció| |d'|un| |ocell| |el| |cant| |del| |qual| |augmenta| |la| |pena|.
+Hi| |ha| |altres| |senders| |que| |poden| |seguir| |els| |curiosos|;
+en| |particular|,| |un| |passatge| |que| |el| |Sr.| |Ingram| |selecciona| |de| |la| |ressenya| |final| |de| |Poe| |de| |"|Barnaby| |Rudge|"|:
+"|El| |corb|,| |també|,| |*| |*| |*| |podria| |haver| |estat|,| |més| |del| |que| |el| |veiem| |ara|,| |una| |part| |de| |la| |concepció| |del| |fantàstic| |Barnaby|.| |*| |*| |*| |El| |seu| |personatge| |podria| |haver| |fet|,| |pel| |que| |fa| |al| |de| |l'|idiota|,| |més| |o| |menys| |la| |mateixa| |part| |que| |fa|,| |en| |música|,| |l'|acompanyament| |respecte| |a| |l'|aire|.|"
+No| |obstant| |això|,| |després| |d'|assenyalar| |aquests| |gèrmens| |i| |semblances|,| |el| |valor| |d'|aquest| |poema| |encara| |es| |troba| |en| |la| |seva| |originalitat|.
+La| |música| |progressiva|,| |el| |detall| |escènic| |i| |el| |contrast| |de| |llums| |i| |ombres|,| |—sobretot|,| |la| |passió| |espiritual| |del| |nocturn|,| |fan| |que| |sigui| |l'|obra| |d'|un| |geni| |informador|.
+Pel| |que| |fa| |a| |l'|ocell| |espantós|,| |és| |diferent| |a| |tots| |els| |altres| |corbs| |del| |seu| |clan|,| |des| |dels| |"|twa| |corbies|"| |i| |els| |"|tres| |corbs|"| |dels| |balladistes| |fins| |al| |"|Grip|"| |arrugat| |de| |Barnaby|.
+Aquí| |no| |hi| |ha| |cap| |semblança| |de| |la| |torre| |grassant| |que| |ronda| |les| |torres| |ancestrals| |i| |trepitja| |el| |camp| |de| |l'|heràldica|;
+cap| |fantasma| |de| |presagi| |del| |qual| |Tickell| |cantava| |que|,| |quan|,
+"|cridant| |a| |la| |seva| |finestra| |tres| |vegades|,
+El| |corb| |va| |batre| |l'|ala|,
+Massa| |bé| |ho| |sabia| |la| |donzella| |enamorada
+El| |so| |de| |presagi| |solemne|"|.
+El| |corb| |de| |Poe| |és| |una| |concepció| |diferent|;
+l'|encarnació| |de| |l'|agonia| |i| |la| |desesperança| |d'|un| |dol|;
+una| |memòria| |encarnada| |de| |sable|,| |el| |cronista| |permanent| |de| |la| |fatalitat|,| |un| |tipus| |de| |l'|Irreparable|.
+Escapat| |a| |través| |de| |l'|Styx|,| |des| |de| |"|la| |costa| |plutoniana| |de| |la| |Nit|"|,| |sembla| |l'|ànima| |imaginada| |del| |mateix| |interrogador|,| |d'|aquell| |que| |no| |pot|,| |no| |vol|,| |beure| |l'|amable| |nepenthe|,| |perquè| |el| |record| |de| |Lenore| |és| |tot| |el| |que| |li| |queda|,| |i| |amb| |la| |superació| |del| |seu| |dolor| |fins| |i| |tot| |això| |es| |deixaria| |de| |banda|.
+El| |corb| |també| |es| |pot| |prendre| |com| |un| |poema| |representatiu| |del| |seu| |autor|,| |per| |la| |seva| |exemplificació| |de| |totes| |les| |seves| |nocions| |del| |que| |hauria| |de| |ser| |un| |poema|.
+Aquests| |es| |troben| |en| |els| |seus| |assaigs| |sobre| |"|El| |principi| |poètic|"|,| |"|La| |raó| |del| |vers|"| |i| |"|La| |filosofia| |de| |la| |composició|"|.
+Poe| |va| |declarar| |que| |"|en| |Música|,| |potser|,| |l'|ànima| |arriba| |més| |a| |prop| |del| |gran| |fi| |pel| |qual|,| |quan| |s'inspira| |en| |el| |Sentiment| |poètic|,| |lluita|:| |la| |creació| |de| |la| |Bellesa| |suprema|...| |No| |es| |pot| |designar| |millor| |el| |vers| |que| |com| |una| |música| |inferior| |o| |menys| |capaç|"|;
+però| |de| |nou|,| |el| |vers| |que| |és| |realment| |la| |"|Poesia| |de| |les| |paraules|"| |és| |"|La| |creació| |rítmica| |de| |la| |bellesa|"|,| |això| |i| |res| |més|.
+El| |to| |de| |la| |Bellesa| |més| |alta| |és| |el| |de| |la| |Tristesa|.
+El| |més| |melancòlic| |dels| |temes| |és| |la| |mort|.
+Això| |ha| |d'|estar| |aliat| |amb| |la| |Bellesa|.
+"|La| |mort|,| |doncs|,| |d'|una| |dona| |bella| |és|,| |sens| |dubte|,| |el| |tema| |més| |poètic| |del| |món|,| |i|,| |igualment|,| |està| |fora| |de| |dubte| |que| |els| |llavis| |més| |adequats| |per| |a| |aquest| |tema| |són| |els| |d'|un| |amant| |en| |dol|"|.
+Aquestes| |últimes| |expressions| |estan| |citades| |de| |l'|anàlisi| |capritxosa| |de| |Poe| |sobre| |aquest| |mateix| |poema|,| |però| |indiquen| |precisament| |l'|abast| |general| |del| |seu| |vers|.
+El| |clímax| |de| |"|The| |Bells|"| |és| |la| |monòtona| |apagada| |dels| |ghouls|,| |que| |es| |glorien| |d'|amortitzar| |el| |cor| |humà|.
+"|Lenore|"|,| |The| |Raven|,| |"|The| |Sleeper|"|,| |"|To| |One| |in| |Paradise|"| |i| |"|Ulalume|"| |formen| |una| |simfonia| |tenebrosa|,| |i| |"|Annabel| |Lee|"|,| |escrit| |per| |últim|,| |mostra| |que| |un| |tema| |el| |va| |posseir| |fins| |al| |final|.
+Una| |vegada| |més|,| |tots| |aquests| |no| |són| |res| |més| |que| |musicals|,| |i| |alguns| |estan| |tocats| |amb| |aquesta| |qualitat| |del| |fantàstic| |que| |desperta| |la| |sensació| |de| |temor| |i| |afegeix| |una| |nova| |por| |a| |l'|agonia|.
+A| |través| |de| |tot| |està| |vagament| |esbossat|,| |sota| |un| |mantell| |ombrívol|,| |l'|amor| |ideal| |del| |poeta|,| |tan| |sovint| |mig| |retratat| |en| |un| |altre| |lloc|,| |l'|esposa| |sepultada| |d'|Usher|,| |la| |Lady| |Ligeia|,| |en
+[|13|]
+[|13|]
+veritat| |la| |contrapartida| |de| |la| |seva| |pròpia| |naturalesa|.
+Suposo| |que| |l'|amor| |d'|un| |artista| |per| |un| |"|en| |la| |forma|"| |mai| |pot| |rivalitzar| |completament| |amb| |la| |seva| |devoció| |a| |algun| |ideal|.
+La| |dona| |a| |prop| |seu| |ha| |d'|exercir| |els| |seus| |encanteris|,| |ser| |per| |torns| |i| |res| |de| |llarg|,| |encantar|-|lo| |amb| |una| |varietat| |infinita| |o| |conformar|-|se| |amb| |renunciar| |a| |una| |part| |de| |la| |seva| |lleialtat|.
+Ha| |de| |ser| |atret| |per| |l'|Inabastable|,| |i| |això| |sempre| |el| |supera| |en| |la| |seva| |passió| |per| |l'|art| |creatiu|.
+Poe|,| |com| |Hawthorne|,| |va| |entrar| |amb| |la| |decadència| |de| |l'|escola| |romàntica|,| |i| |ningú| |es| |va| |encantar| |més| |que| |ell| |en| |riure|'s| |de| |la| |seva| |calamitat|.
+No| |obstant| |això|,| |el| |seu| |cor| |estava| |amb| |els| |romanços| |i| |els| |seus| |efectes| |orientals| |o| |gòtics|.
+El| |seu| |invent|,| |tan| |ric| |en| |contes| |en| |prosa|,| |semblava| |abandonar|-|lo| |quan| |va| |escriure| |versos|;
+i| |el| |seu| |criteri| |li| |va| |dir| |que| |els| |llargs| |poemes| |romàntics| |depenen| |més| |de| |l'|incident| |que| |de| |la| |inspiració|,| |i| |que|,| |per| |pronunciar| |la| |poesia| |del| |romanç|,| |n'hi| |hauria| |prou| |amb| |la| |lletra|.
+D'|aquí| |la| |seva| |teoria|,| |clarament| |ajustada| |a| |les| |seves| |pròpies| |limitacions|,| |que| |"|un| |'|poema| |llarg|'| |és| |una| |contradicció| |plana| |en| |termes|"|.
+Els| |components| |de| |The| |Raven| |són| |pocs| |i| |senzills|:| |un| |home|,| |un| |ocell| |i| |el| |record| |fantasmal| |d'|una| |dona|.
+Però| |la| |peça| |ofereix| |una| |bona| |mostra| |de| |material| |romàntic|.
+Què| |tenim|?
+La| |mitjanit|;
+la| |cambra| |obscura| |amb| |els| |seus| |toms| |de| |tradició| |oblidada|;
+l'|estudiant|,| |un| |Jerònim| |modern|;
+l'|aixeta| |del| |corb| |a| |la| |finestra|;
+la| |nit| |d'|hivern| |i| |el| |foc| |agonitzant|;
+els| |tapics| |de| |seda| |escombrats| |pel| |vent|;
+els| |somnis| |i| |la| |vaga| |desconfiança| |de| |la| |foscor| |ressonant|;
+l'|ocell| |negre| |i| |estrany| |sobre| |el| |bust| |pàl·lid|;
+els| |complements| |de| |vellut| |violeta| |i| |el| |llum| |de| |goig|.
+Tot| |aquest| |efecte| |escènic| |de| |situació|,| |llum|,| |color|,| |so|,| |és| |purament| |romàntic|,| |i| |fins| |i| |tot| |melodramàtic|,| |però| |d'|una| |qualitat| |poètica| |que| |el| |melodrama| |rarament| |exhibeix|,| |i| |reflecteix| |a| |fons| |la| |"|passió| |eterna|,| |dolor| |etern|"| |del| |poeta|.
+L'|estructura| |rítmica| |de| |The| |Raven| |segurament| |va| |impressionar|.
+La| |rima|,| |l'|al·literació|,| |la| |càrrega|,| |la| |forma| |estròfica|,| |van| |ser| |ideades| |amb| |una| |destresa| |singular|.
+Sens| |dubte|,| |el| |poeta| |va| |quedar| |sorprès| |amb| |l'|adequació| |dels| |trocaics| |musicals| |de| |la| |senyoreta| |Barrett|,| |en| |"|vuits|"|,| |i| |especialment| |per| |l'|arranjament| |adoptat| |prop| |del| |final| |de| |"|Lady| |Geraldine|"|:
+"|"|Ulls|"|,| |va| |dir|,| |"|ara| |em| |bategen|!| |Sou| |ulls| |que| |em| |van| |desfer|?
+Ulls| |brillants|,| |com| |joies| |antigues| |encaixades| |en| |pedra| |d'|estàtua| |pariana|!
+Sota| |aquest| |front| |blanc| |i| |tranquil|,| |esteu| |sempre| |cremant| |tòrrid
+Sobre| |el| |desert| |de| |sorra| |desolat| |del| |meu| |cor| |i| |la| |meva| |vida| |desfeta|?
+La| |seva| |introducció| |artística| |d'|una| |tercera| |rima| |tant| |a| |la| |segona| |com| |a| |la| |quarta| |línia|,| |i| |l'|addició| |d'|una| |cinquena| |línia| |i| |una| |tornada| |final|,| |van| |fer| |l'|estrofa| |de| |The| |Raven| |.
+L'|al·literació| |persistent| |sembla| |venir| |sense| |esforç|,| |i| |sovint| |les| |rimes| |dins| |les| |línies| |són| |seductores|;
+mentre| |que| |la| |tornada| |o| |la| |càrrega| |domina| |tota| |l'|obra|.
+Aquí| |també| |s'havia| |beneficiat| |de| |l'|estudi| |de| |la| |senyoreta| |Barrett| |sobre| |balades| |i| |romanes| |en| |la| |seva| |llengua| |i| |en| |altres| |llengües|.
+Un| |"|retorn|"| |és| |l'|atractiu| |amb| |el| |qual| |un| |poeta| |o| |un| |músic| |sosté| |l'|orella| |errant|,| |l'|anhel| |recurrent| |de| |la| |Natura| |per| |la| |tensió| |inicial|.
+Sempre| |he| |admirat| |les| |belles| |tornades| |de| |la| |cantant| |anglesa|:| |"|The| |Nightingales|,| |the| |Nightingales|"|,| |"|Margret|,| |Margret|"|,| |"|My| |Heart| |and| |I|"|,| |"|Toll| |slowly|"|,| |"|The| |River| |floweth| |on|"|,| |"|Pan|,| |Pan| |is| |dead|"|,| |etc.
+"|Oh| |éssers| |vius| |feliços|!| |sense| |llengua
+La| |seva| |bellesa| |podria| |declarar|:
+Una| |primavera| |d'|amor| |brollava| |del| |meu| |cor|,
+I| |els| |vaig| |beneir| |sense| |saber|-|ho|:
+Segur| |que| |el| |meu| |bon| |sant| |es| |va| |apiadar| |de| |mi|,
+I| |els| |vaig| |beneir| |sense| |saber|-|ho|"|.
+Poe| |va| |crear| |la| |cinquena| |línia| |de| |la| |seva| |estrofa| |per| |a| |la| |màgia| |de| |la| |repetició|.
+Va| |confiar|-|hi| |al| |màxim| |en| |alguns| |poemes| |posteriors|,| |"|Lenore|"|,| |"|Annabel| |Lee|"|,| |"|Ulalume|"| |i| |"|For| |Annie|"|.
+Va| |guanyar| |una| |música| |salvatge| |i| |malenconiosa|,| |he| |pensat|,| |a| |partir| |de| |les| |"|dolces| |influències|"|,| |de| |les| |càrregues| |i| |repeticions| |africanes| |que| |se| |li| |cantaven| |en| |la| |infància|,| |sintonitzant| |amb| |la| |seva| |melodia| |nativa| |la| |veu| |del| |nostre| |poeta| |del| |sud|.
+"|La| |filosofia| |de| |la| |composició|"|,| |la| |seva| |anàlisi| |de| |The| |Raven| |,| |és| |una| |dissecció| |tècnica| |del| |seu| |mètode| |i| |estructura|.
+Ni| |la| |seva| |confessió| |de| |l'|artifici| |a| |sang| |freda|,| |ni| |la| |seva| |posterior| |confessió| |als| |amics| |que| |l'|exposició| |d'|aquest| |artifici| |era| |només| |un| |altre| |dels| |seus| |enganys| |intel·lectuals|,| |cal| |acreditar|-|se| |completament|.
+Si| |hagués| |dissenyat| |l'|obra| |completa| |per| |endavant|,| |difícilment| |hauria| |fet| |un| |preludi| |tan| |dur| |de| |rimes| |de| |cascavell| |a| |la| |deliciosa| |melodia| |de| |la| |segona| |estrofa|,| |ni| |tan| |sols| |sobre| |la| |seva| |teoria| |del| |fantàstic|.
+Per| |descomptat|,| |un| |artista|,| |havent| |perfeccionat| |una| |obra|,| |veu|,| |com| |el| |primer| |Artista|,| |que| |és| |bona|,| |i| |veu| |per| |què| |és| |bona|.
+Una| |anàlisi| |posterior|,| |juntament| |amb| |una| |renegació| |de| |qualsevol| |foc| |sagrat|,| |es| |pot| |fer| |amb| |prou| |facilitat|.
+La| |meva| |creença| |és| |que| |la| |primera| |concepció| |i| |esborrany| |d'|aquest| |poema| |van| |sorgir| |com| |la| |inspiració| |sempre| |ve|;
+que| |el| |seu| |autor| |va| |veure| |llavors| |com| |es| |podia| |perfeccionar|,| |donant|-|li| |els| |últims| |retocs| |descrits| |en| |el| |seu| |capítol| |de| |Composició|,| |i| |que| |aquest| |últim|,| |per| |tant|,| |no| |és| |ni| |del| |tot| |fals| |ni| |del| |tot| |cert|.
+El| |mal| |d'|aquesta| |anàlisi| |és| |que| |tempta| |un| |novell| |a| |imaginar|-|se| |que| |els| |processos| |artificials| |poden| |substituir| |la| |imaginació|.
+L'|impuls| |del| |geni| |és| |guardar| |els| |secrets| |de| |la| |seva| |hora| |creativa|.
+Les| |mirades| |obtingudes| |del| |treball|,| |els| |experiments| |desconcertats|,| |que| |precedeixen| |un| |triomf|,| |com| |en| |el| |treball| |d'|esbós| |de| |Hawthorne| |recentment| |tret| |a| |la| |llum|,| |ofereixen| |una| |instrucció| |i| |un| |estímul| |inestimables| |a| |l'|artista| |sincer|.
+Però| |un
+[|14|]
+[|14|]
+qui| |voluntàriament| |exposa| |la| |seva| |musa| |a| |la| |mirada| |de| |tots| |els| |vinguts| |hauria| |de| |recordar| |el| |destí| |del| |rei| |Candaules|.
+El| |món| |encara| |pensa| |en| |Poe| |com| |un| |"|home| |geni| |desafortunat|"|.
+Recentment| |l'|he| |sentit| |esmentar| |com| |"|aquell| |a| |qui| |sembla| |que| |tothom| |té| |l'|habilitat| |de| |tergiversar|,| |censurar| |o| |calumniar|"|.
+Però| |em| |sembla| |que| |la| |seva| |mala| |sort| |va| |acabar| |amb| |la| |seva| |lamentable| |mort|,| |i| |que| |des| |d'|aleshores| |la| |seva| |defensa| |ha| |estat| |persistent|,| |i| |la| |seva| |fama| |de| |creixement| |tan| |ferm| |com| |podria| |pregar| |un| |autor| |sofert| |i| |dotat| |en| |la| |seva| |hora| |esperançadora|.
+La| |crítica| |i| |les| |calúmnies| |de| |Griswold| |van| |fer| |girar| |el| |corrent| |al| |seu| |favor|.
+Crítics| |i| |biògrafs| |s'han| |presentat| |amb| |successives| |refutacions|,| |amb| |homenatges| |al| |seu| |caràcter|,| |amb| |noves| |edicions| |de| |les| |seves| |obres|.
+Les| |seves| |pròpies| |cartes| |i| |els| |minuciosos| |incidents| |de| |la| |seva| |carrera| |estan| |davant| |nostre|;
+el| |disc|,| |bo| |i| |dolent|,| |és| |molt| |conegut|.
+Cap| |recurrent| |ha| |rebut| |un| |judici| |més| |tendre| |i| |indulgent|.
+Els| |seus| |contratemps| |en| |la| |vida| |pertanyien| |a| |la| |seva| |regió| |i| |època|,| |potser| |encara| |més| |a| |la| |seva| |pròpia| |malaltia| |de| |voluntat|.
+Sens| |dubte|,| |el| |seu| |entorn| |no| |era| |el| |que| |protegés| |una| |naturalesa| |fina| |i| |desequilibrada| |dels| |perills| |exteriors| |i| |interiors|.
+La| |seva| |voluntat| |més| |forta|,| |de| |ser| |senyor| |de| |si| |mateix|,| |li| |va| |guanyar| |"|aquella| |herència| |de| |la| |desgràcia|"|.
+Es| |va| |confessar| |l'|infeliç| |mestre| |de| |l'|ocell|,| |l'|afligit| |d'|aquest| |poema|.
+Però| |el| |seu| |era| |una| |part| |plena| |d'|aquell| |tarannà| |dramàtic| |que| |exulta| |amb| |el| |presagi| |de| |la| |seva| |pròpia| |mort|.
+Hi| |ha| |una| |delícia| |en| |jugar| |el| |paper| |d'|un|:| |tots| |som| |gladiadors|,| |plorant| |Ave| |Imperator|!
+Per| |citar| |la| |qüestió| |de| |fet| |de| |Burke|:| |"|En| |el| |dol|,| |el| |plaer| |és| |encara| |més| |important|,| |i| |l'|aflicció| |que| |patim| |no| |s'assembla| |al| |dolor| |absolut|,| |que| |sempre| |és| |odiós|,| |i| |que| |ens| |esforcem| |per| |treure'n| |de| |sobre| |el| |més| |aviat| |possible|"|.
+Poe| |va| |anar| |més| |enllà| |i| |va| |ser| |un| |artista| |fins| |i| |tot| |en| |la| |tragèdia| |de| |la| |seva| |carrera|.
+Si|,| |segons| |la| |seva| |pròpia| |creença|,| |la| |tristesa| |i| |la| |desaparició| |de| |la| |bellesa| |són| |els| |temes| |poètics| |més| |elevats|,| |i| |el| |sentiment| |poètic| |el| |plaer| |terrenal| |més| |intens|,| |aleshores| |la| |tristesa| |i| |la| |foscor| |de| |la| |seva| |vida| |trencada| |no| |estaven| |sense| |la| |seva| |freqüent| |compensació|.
+A| |les| |pàgines| |següents|,| |tenim| |un| |nou| |exemple| |del| |geni| |d'|un| |artista| |que| |caracteritza| |la| |seva| |interpretació| |d'|un| |poema| |famós|.
+Gustave| |Doré|,| |l'|última| |obra| |del| |llapis| |del| |qual| |tenim| |davant| |nostre|,| |no| |va| |ser| |el| |pintor|,| |ni| |tan| |sols| |el| |dibuixant|,| |per| |als| |realistes| |que| |exigeixen| |la| |veritat| |del| |to|,| |la| |figura| |i| |la| |perfecció|.
+Aquells| |assumptes| |li| |preocupaven| |menys| |que| |fer| |que| |la| |forma| |i| |la| |distància|,| |la| |llum| |i| |l'|ombra| |ajudessin| |el| |seu| |propòsit|,| |que| |era| |excitar| |l'|ànima|,| |la| |imaginació|,| |de| |l'|espectador|.
+Això| |ho| |va| |fer| |despertant| |la| |nostra| |sensació| |de| |temor|,| |a| |través| |de| |concepcions| |meravelloses| |i| |sovint| |sublims| |de| |coses| |indescriptibles| |i| |plenes| |de| |foscor| |o| |glòria|.
+Està| |ben| |dit| |que| |si| |les| |seves| |obres| |no| |eren| |grans| |quadres|,| |com| |a| |quadres| |són| |genials|.
+Com| |a| |"|artista| |literari|"|,| |i| |tal| |ho| |era|,| |la| |seva| |força| |estava| |en| |relació| |directa| |amb| |la| |invenció| |dramàtica| |del| |seu| |autor|,| |amb| |les| |valentes| |audàcies| |de| |l'|esperit| |que| |va| |encendre| |la| |seva|.
+D'|aquí| |el| |seu| |èxit| |amb| |Rabelais|,| |amb| |"|Le| |Juif|-|Errant|"|,| |"|Les| |Contes| |Drolatiques|"| |i| |"|Don| |Quixot|"|,| |i| |d'|aquí|,| |a| |la| |inversa|,| |el| |seu| |fracàs| |en| |expressar| |la| |bellesa| |dels| |Idils| |de| |Tennyson|,| |de| |"|Il| |Paradiso|"|,| |de| |les| |pastorals| |hebrees| |i| |altres| |textos| |que| |requereixen| |exaltació|,| |o| |dolçor| |i| |repòs|.
+Va| |ser| |un| |mestre| |nat| |del| |grotesc|,| |i| |per| |una| |visió| |especial| |va| |poder| |retratar| |els| |fantasmes| |d'|un| |cervell| |embruixat|.
+Veiem| |objectes| |tal| |com| |els| |veien| |els| |seus| |personatges|,| |i| |amb| |els| |mateixos| |ulls| |del| |jueu| |errant|,| |el| |desconcertat| |Don| |o| |la| |filla| |de| |l'|orfebre| |la| |fantasia| |del| |qual| |tant| |magnifica| |el| |rei| |a| |la| |botiga| |del| |Pont|-|au|-|Change|.
+Era| |per| |la| |naturalesa| |de| |les| |coses| |que| |s'hauria| |de| |sentir| |atret| |per| |cada| |obra| |mestra| |del| |vers| |o| |de| |la| |prosa| |que| |he| |qualificat| |d'|única|.
+Els| |regnes| |inferiors| |foren| |cridats| |al| |seu| |servei|;
+les| |seves| |roques|,| |arbres| |i| |muntanyes|,| |el| |cel| |mateix|,| |estan| |animats| |amb| |motius| |i| |diablerie|.
+Si| |hagués| |viscut| |per| |il·lustrar| |Shakespeare|,| |hauríem| |vist| |un| |tractament| |notable| |de| |Caliban|,| |les| |bruixes|,| |la| |tempesta| |a| |"|Lear|"|;
+però| |sens| |dubte| |hauria| |d'|haver| |qüestionat| |els| |seus| |ideals| |d'|Imogen| |o| |Miranda|.
+La| |bellesa| |pura| |i| |senzilla|,| |i| |la| |seva| |excel·lència| |perfecta|,| |poques| |vegades| |semblava| |comprendre|.
+No| |obstant| |això|,| |hi| |ha| |bellesa| |en| |els| |seus| |dissenys| |per| |a| |"|Ancient| |Mariner|"|,| |per| |irreals| |que| |siguin|,| |i| |una| |consecutivitat| |rara| |en| |una| |sèrie| |de| |Doré|.
+The| |Rime| |li| |va| |oferir| |una| |història| |prolongada|,| |amb| |molts| |canvis| |d'|escena|.
+A| |The| |Raven| |el| |so| |i| |el| |color| |conserven| |la| |seva| |monòtona| |i| |no| |tenim| |cap| |canvi| |de| |lloc| |ni| |d'|ocasió|.
+Quin| |és| |el| |resultat|?
+Doré| |ofereix| |una| |sèrie| |de| |variacions| |sobre| |el| |tema| |tal| |com| |el| |va| |concebre|,| |"|l'|enigma| |de| |la| |mort| |i| |l'|al·lucinació| |d'|una| |ànima| |inconsolable|"|.
+En| |alguns| |d'|aquests| |dibuixos| |són| |evidents| |les| |seves| |faltes|;
+d'|altres| |revelen| |la| |seva| |poderosa| |originalitat|,| |i| |les| |millors| |qualitats| |en| |què|,| |com| |a| |dibuixant|,| |es| |va| |mantenir| |sol|.
+Evidentment|,| |hi| |havia| |alguna| |cosa| |en| |comú| |entre| |els| |estats| |d'|ànim| |de| |treball| |de| |Poe| |i| |Doré|.
+Això| |semblaria| |més| |clar| |si| |aquest| |últim| |hagués| |provat| |la| |seva| |mà| |amb| |els| |"|Contes| |del| |grotesc| |i| |l'|arabesc|"|.
+Tots| |dos| |van| |recórrer| |sovint| |a| |la| |terra| |dels| |elfs| |de| |la| |fantasia| |i| |el| |romanç|.
+Amb| |gestes| |melodramàtiques|,| |ambdós|,| |gràcies| |al| |seu| |domini| |del| |sobrenatural|,| |van| |evitar| |la| |línia| |de| |perill| |entre| |l'|ideal| |i| |l'|absurd|.
+Poe| |era| |el| |veritable| |adorador| |de| |la| |Bella|;
+el| |seu| |amor| |per| |això| |va| |ser| |una| |passió| |consagrada|,| |i| |aquí| |se| |separa| |del| |seu| |il·lustrador|.
+Poeta| |o| |artista|,| |la| |mort| |per| |fi| |ho| |transfigura| |tot|:| |a| |l'|ombra| |del| |seu| |presagi| |de| |sable|,| |el| |llapis| |simbòlic| |de| |Vedder| |els| |posa| |encertadament| |cara| |a| |cara|,| |però| |els| |envolta| |amb| |el| |mantell| |de| |la| |saviesa| |i| |el| |poder| |immortals|.
+Una| |dona| |americana| |ha| |fet| |la| |imatge| |d'|un| |geni| |d'|ulls| |d'|estrella| |amb| |la| |torxa| |final|,| |l'|aspecte| |exquisit| |d'|aquella| |la| |visió| |de| |la| |qual| |contempla|,| |però| |els| |llavis| |no| |poden| |pronunciar|,| |els| |misteris| |d'|una| |terra| |més| |enllà| |de| |"|la| |porta| |d'|una| |tomba| |llegendària|"|.
+Edmund| |C.| |Stedman|.
+EL| |POEMA|.
+Il·lustració| |1
+Il·lustració| |1
+EL| |CORB|.
+Hi| |havia| |una| |nit| |trista|,| |mentre| |jo| |reflexionava|,| |feble| |i| |cansat|,
+Sobre| |molts| |volums| |pintorescs| |i| |curiosos| |de| |tradicions| |oblidades|,
+Mentre| |assentia|,| |gairebé| |fent| |la| |migdiada|,| |de| |sobte| |es| |va| |produir| |un| |toc|,
+Com| |algú| |que| |rapeja| |suaument| |a| |la| |porta| |de| |la| |meva| |cambra|.
+"|És| |un| |visitant|"|,| |vaig| |murmurar|,| |"|tacant| |a| |la| |porta| |de| |la| |meva| |cambra|...
+Només| |això| |i| |res| |més|"|.
+Ah|,| |recordo| |clarament| |que| |va| |ser| |en| |el| |trist| |desembre|,
+I| |cada| |brasa| |moribunda| |per| |separat| |va| |forjar| |el| |seu| |fantasma| |al| |terra|.
+Desitjava| |amb| |impaciència| |l'|endemà|:| |en| |va| |havia| |volgut| |demanar| |prestat
+Dels| |meus| |llibres| |surten| |el| |dolor|,| |el| |dolor| |per| |la| |Lenore| |perduda|...
+Per| |a| |la| |rara| |i| |radiant| |donzella| |que| |els| |àngels| |anomenen| |Lenore|...
+Sense| |nom| |aquí| |per| |sempre|.
+I| |el| |cruixent| |seda| |i| |trist| |i| |incert| |de| |cada| |cortina| |morada
+Em| |va| |emocionar|,| |em| |va| |omplir| |de| |terrors| |fantàstics| |mai| |sentits| |abans|;
+De| |manera| |que| |ara|,| |per| |calmar| |els| |batecs| |del| |meu| |cor|,| |em| |vaig| |quedar| |repetint
+"|És| |un| |visitant| |que| |demana| |entrar| |a| |la| |porta| |de| |la| |meva| |cambra
+Un| |visitant| |tardà| |demanant| |entrar| |a| |la| |porta| |de| |la| |meva| |habitació|;
+Això| |és|,| |i| |res| |més|"|.
+De| |moment| |la| |meva| |ànima| |es| |va| |fer| |més| |forta|;
+ja| |no| |dubta|,
+"|Senyor|"|,| |vaig| |dir|,| |"|o| |senyora|,| |de| |veritat| |us| |imploro| |el| |vostre| |perdó|;
+Però| |el| |fet| |és| |que| |estava| |fent| |la| |migdiada|,| |i| |tan| |suaument| |vas| |venir| |rapant|,
+I| |tan| |dèbilment| |vas| |venir| |tocant|,| |tocant| |a| |la| |porta| |de| |la| |meva| |cambra|,
+Que| |amb| |prou| |feines| |estava| |segur| |d'|haver|-|te| |escoltat|"|—aquí| |vaig| |obrir| |la| |porta| |de| |bat| |a| |bat|;|—
+Allà| |foscor|,| |i| |res| |més|.
+En| |el| |fons| |d'|aquella| |foscor| |mirant|,| |vaig| |estar| |allà| |durant| |molt| |de| |temps| |preguntant|-|me|,| |tement|,
+Dubtar|,| |somiar| |somnis| |que| |cap| |mortal| |no| |s'ha| |atrevit| |mai| |a| |somiar|;
+Però| |el| |silenci| |no| |va| |ser| |trencat|,| |i| |la| |foscor| |no| |va| |donar| |cap| |senyal|,
+I| |l'|única| |paraula| |que| |es| |va| |dir| |va| |ser| |la| |paraula| |xiuxiuejada|:| |"|Lenore|!|"
+Això| |vaig| |xiuxiuejar|,| |i| |un| |eco| |va| |murmurar| |la| |paraula|:| |"|Lenore|!|"
+Només| |això| |i| |res| |més|.
+Tornant| |a| |la| |cambra| |girant|,| |tota| |la| |meva| |ànima| |dins| |meu| |cremant|,
+Aviat| |vaig| |tornar| |a| |sentir| |un| |toc|,| |una| |mica| |més| |fort| |que| |abans|.
+"|Segurament|"|,| |vaig| |dir|,| |"|segurament| |això| |és| |alguna| |cosa| |a| |la| |gelosia| |de| |la| |meva| |finestra|;
+Deixa'm| |veure|,| |doncs|,| |què| |hi| |ha|,| |i| |explorar| |aquest| |misteri|...
+Que| |el| |meu| |cor| |estigui| |quiet| |un| |moment| |i| |explori| |aquest| |misteri|;|—
+"|T| |és| |el| |vent| |i| |res| |més|!|"
+Obre| |aquí| |vaig| |llançar| |la| |persiana|,| |quan|,| |amb| |molts| |coquetes| |i| |aleteig|,
+Allà| |va| |entrar| |un| |corb| |majestuós| |dels| |dies| |sants| |d'|abans|.
+No| |va| |fer| |la| |menor| |reverència|;
+ni| |un| |minut| |es| |va| |aturar| |ni| |es| |va| |quedar|;
+Però|,| |amb| |un| |aspecte| |de| |senyor| |o| |dama|,| |posat| |sobre| |la| |porta| |de| |la| |meva| |cambra|...
+Enfilat| |sobre| |un| |bust| |de| |Pal·les| |just| |a| |sobre| |de| |la| |porta| |de| |la| |meva| |cambra|...
+Posat|,| |i| |assegut|,| |i| |res| |més|.
+Aleshores|,| |aquest| |ocell| |de| |banús| |que| |enganya| |la| |meva| |trista| |fantasia| |fent|-|li| |somriure|,
+Pel| |decor| |greu| |i| |sever| |del| |rostre| |que| |portava|,
+"|Encara| |que| |la| |teva| |cresta| |estigui| |esquilada| |i| |afaitada|,| |tu|"|,| |vaig| |dir|,| |"|segur| |que| |no| |ets| |cap| |cobard|,
+Corb| |horrible| |i| |antic| |vagant| |des| |de| |la| |riba| |nocturna|,
+Digues|-|me| |quin| |és| |el| |teu| |nom| |senyorial| |a| |la| |costa| |plutoniana| |de| |la| |Nit|!|"
+Va| |dir| |el| |corb|:| |"|Mai| |més|"|.
+Em| |va| |meravellar| |molt| |aquesta| |gallina| |desgreixada| |en| |escoltar| |el| |discurs| |tan| |clarament|,
+Tot| |i| |que| |la| |seva| |resposta| |té| |poc| |significat|,| |poca| |rellevància|;
+Perquè| |no| |podem| |deixar| |de| |convenir| |que| |cap| |ésser| |humà| |viu
+Encara| |va| |ser| |beneït| |per| |veure| |un| |ocell| |per| |sobre| |de| |la| |porta| |de| |la| |seva| |cambra|...
+Ocell| |o| |bèstia| |sobre| |el| |bust| |esculpit| |sobre| |la| |porta| |de| |la| |seva| |cambra|,
+Amb| |un| |nom| |com| |"|Mai| |més|"|.
+Però| |el| |corb|,| |assegut| |sol| |sobre| |el| |plàcid| |bust|,| |només| |va| |parlar
+Aquella| |paraula|,| |com| |si| |la| |seva| |ànima| |en| |aquella| |paraula| |l'|hagués| |vessat|.
+No| |va| |pronunciar| |res| |més| |enllà|,| |ni| |una| |ploma| |després| |va| |revolotejar|...
+Fins| |que| |vaig| |murmurar| |amb| |prou| |feines|:| |"|Altres| |amics| |han| |volat| |abans|...
+L'|endemà| |em| |deixarà|,| |ja| |que| |les| |meves| |esperances| |han| |volat| |abans|"|.
+Llavors| |l'|ocell| |va| |dir|:| |"|Mai| |més|"|.
+Sorpresa| |per| |la| |quietud| |trencada| |per| |la| |resposta| |tan| |encertadament| |pronunciada|,
+"|Sens| |dubte|"|,| |vaig| |dir|,| |"|el| |que| |diu| |és| |el| |seu| |únic| |estoc| |i| |magatzem|,
+Atrapat| |d'|algun| |mestre| |infeliç| |a| |qui| |un| |desastre| |implacable
+Va| |seguir| |ràpid| |i| |va| |seguir| |més| |ràpid| |fins| |que| |les| |seves| |cançons| |van| |portar| |una| |càrrega|...
+Fins| |a| |les| |llàgrimes| |de| |la| |seva| |Esperança| |aquella| |càrrega| |malenconiosa| |va| |portar
+De| |'|Mai|,| |mai| |més|'|"|.
+Però| |el| |corb| |encara| |enganya| |tota| |la| |meva| |ànima| |trista| |perquè| |somrigui|,
+Recte| |vaig| |fer| |girar| |un| |seient| |encoixinat| |davant| |de| |l'|ocell| |i| |el| |bust| |i| |la| |porta|;
+Aleshores|,| |quan| |el| |vellut| |s'enfonsava|,| |em| |vaig| |posar| |a| |enllaçar
+Fantasia| |a| |fantasia|,| |pensant| |què| |és| |aquest| |ominós| |ocell| |d'|abans|...
+Què| |és| |aquest| |ocell| |d'|abans|,| |lúgubre|,| |desagradable|,| |espantós|,| |demacrat| |i| |ominós
+Significat| |en| |grallant| |"|Mai| |més|"|.
+Això| |em| |vaig| |asseure| |dedicant| |a| |endevinar|,| |però| |sense| |expressar| |síl·labes
+A| |l'|ocell| |els| |ulls| |de| |foc| |ara| |cremaven| |al| |nucli| |del| |meu| |pit|;
+Això| |i| |més| |em| |vaig| |asseure| |endevinant|,| |amb| |el| |cap| |tranquil| |reclinat
+Sobre| |el| |folre| |de| |vellut| |del| |coixí| |que| |la| |llum| |de| |la| |làmpada| |va| |regodejar|,
+Però| |el| |revestiment| |violeta| |de| |vellut| |del| |qual| |amb| |la| |llum| |de| |la| |làmpada| |que| |s'alegra
+Ella| |pressionarà|,| |ah|,| |mai| |més|!
+Aleshores|,| |vaig| |pensar|,| |l'|aire| |es| |va| |fer| |més| |dens|,| |perfumat| |d'|un| |encensari| |invisible
+Oscil·lat| |per| |serafins| |els| |peus| |dels| |quals| |sonaven| |sobre| |el| |terra| |amb| |metons|.
+"|Desgraciat|"|,| |vaig| |exclamar|,| |"|el| |teu| |Déu| |t'ha| |prestat|;| |per| |aquests| |àngels| |t'ha| |enviat
+Respir|:| |respir| |i| |nepenthe| |dels| |teus| |records| |de| |Lenore|!
+Cuff|,| |oh|,| |beu| |aquest| |amable| |nepenthe|,| |i| |oblideu| |aquesta| |Lenore| |perduda|!|"
+Va| |dir| |el| |corb|:| |"|Mai| |més|"|.
+"|Profeta|!|"
+—vaig| |dir—|,| |cosa| |del| |mal|!|—profeta| |encara|,| |si| |ocell| |o| |diable|!|—
+Si| |el| |Temptador| |va| |enviar|,| |o| |si| |la| |tempesta| |et| |va| |llançar| |aquí| |a| |terra|,
+Desolada| |però| |impertinent|,| |en| |aquesta| |terra| |deserta| |encantada|...
+En| |aquesta| |casa| |d'|Horror| |embruixada|,| |digueu|-|me| |de| |veritat|,| |us| |imploro|...
+Hi| |ha|...| |hi| |ha| |bàlsam| |a| |Galaad|?,| |digueu|-|me|,| |digueu|-|me|,| |us| |imploro|!|"
+Va| |dir| |el| |corb|:| |"|Mai| |més|"|.
+"|Profeta|!|"
+Vaig| |dir|,| |"|cosa| |del| |mal|,| |profeta| |encara|,| |si| |ocell| |o| |diable|!
+Per| |aquell| |Cel| |que| |s'inclina|,| |nosaltres|,| |per| |aquell| |Déu| |que| |tots| |dos| |adorem
+Digues| |a| |aquesta| |ànima| |carregada| |de| |dolor| |si|,| |dins| |del| |llunyà| |Aidenn|,
+Aferrarà| |una| |donzella| |santa| |a| |qui| |els| |àngels| |anomenen| |Lenore|...
+Agafeu| |una| |donzella| |rara| |i| |radiant| |a| |qui| |els| |àngels| |anomenen| |Lenore|"|.
+Va| |dir| |el| |corb|:| |"|Mai| |més|"|.
+"|Sigui| |aquesta| |paraula| |el| |nostre| |signe| |de| |despedida|,| |ocell| |o| |dimoni|!|"
+Vaig| |cridar|,| |arriscat|...
+"|Torna't| |a| |la| |tempesta| |i| |a| |la| |costa| |plutoniana| |de| |la| |Nit|!
+No| |deixeu| |cap| |ploma| |negra| |com| |a| |mostra| |d'|aquesta| |mentida| |que| |ha| |parlat| |la| |vostra| |ànima|!
+Deixa| |la| |meva| |solitud| |sense| |trencar|-|se|!
+Treu| |el| |teu| |bec| |del| |meu| |cor| |i| |pren| |la| |teva| |forma| |de| |la| |meva| |porta|!|"
+Va| |dir| |el| |corb|:| |"|Mai| |més|"|.
+I| |el| |corb|,| |sense| |volar| |mai|,| |encara| |està| |assegut|,| |encara| |està| |assegut
+Al| |bust| |pàl·lid| |de| |Pal·les| |just| |a| |sobre| |de| |la| |porta| |de| |la| |meva| |cambra|;
+I| |els| |seus| |ulls| |tenen| |tot| |l'|aspecte| |d'|un| |dimoni| |que| |està| |somiant|,
+I| |la| |llum| |de| |la| |làmpada| |sobre| |ell| |arrossega| |la| |seva| |ombra| |a| |terra|;
+I| |la| |meva| |ànima| |d'|aquella| |ombra| |que| |sura| |a| |terra
+S'aixecarà|,| |mai| |més|!

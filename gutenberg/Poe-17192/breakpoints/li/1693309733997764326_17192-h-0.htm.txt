@@ -1,0 +1,542 @@
+The| |Project| |Gutenberg| |eBook| |of| |The| |Raven|,| |door| |Edgar| |Allan| |Poe|.
+‘|t| |Project| |Gutenberg| |e|-|book| |vaan| |De| |Raaf
+Dit| |ebook| |is| |veur| |iedereen|,| |euveral| |in| |de| |Vereinegde| |Staote| |en| |de| |meiste| |aandere| |deile| |vaan| |de| |wereld|,| |zonder| |koste| |en| |zonder| |bekans| |gein| |beperkinge|.
+Geer| |kin| |‘|t| |kopiëre|,| |weggeve| |of| |hergebruke| |volgens| |de| |veurwaardes| |vaan| |de| |Project| |Gutenberg| |License| |die| |bij| |dit| |ebook| |is| |inbegrepe| |of| |online| |op| |www.gutenberg.org| |.
+Es| |geer| |neet| |in| |de| |Vereinegde| |Staote| |zit|,| |mot| |geer| |de| |wètte| |vaan| |‘|t| |land| |boe| |geer| |zit| |controlere| |veurdat| |geer| |dit| |eBook| |gebruuk|.
+Titel| |:| |De| |Raaf
+Auteur| |:| |Edgar| |Allan| |Poe
+Commentator| |:| |Edmund| |Clarence| |Stedman
+Illustrator| |:| |Gustave| |Doré
+Oetgaafdatum| |:| |30| |november| |2005| |[|eBook| |#|17192|]
+Meis| |recent| |bijgewerk|:| |13| |december| |2020
+Taol| |:| |Engels
+Credits| |:| |Geproduceerd| |door| |Jason| |Isbell|,| |Melissa| |Er|-|Raqabi| |en| |de| |Online
+Gedistribueerd| |correctie|-|team| |op| |https://www.pgdp.net|.
+***| |BEGINN| |VAN| |HET| |PROJEK| |GUTENBERG| |EBOOK| |DE| |RAAF| |***
+Achterkant
+Achterkant
+DE| |RAAF
+Bie
+EDGAR| |ALLAN| |POE
+GEILLUSTREED
+Door| |GUSTAVE| |DORÉ
+Titelafbeelding
+Titelafbeelding
+MET| |KOMMENTAR| |VAN| |EDMUND| |C.| |STEDMAN
+NEW| |YORK
+HARPER| |&| |BROTHERS|,| |PUBLISHERS|,| |FRANKLIN| |SQUARE
+1884
+Ingevoerd| |volgens| |de| |Wet| |vaan| |‘|t| |Congres|,| |in| |‘|t| |jaor| |1883|,| |door
+HARPER| |&| |BROTHERS|,
+In| |‘|t| |Bureau| |vaan| |de| |Bibliothecaris| |vaan| |‘|t| |Congres|,| |in| |Washington|.
+Alle| |rechte| |veurbehawwe|.
+Opmerkinge| |vaan| |de| |transcriber
+In| |de| |lies| |vaan| |illustraties| |höb| |ich| |‘|n| |ontbrekende| |aanhaling| |hersjtèld| |nao| |Lenore|!
+wie| |hieronder| |getoent|:
+"|'|Ellendig|,|'| |reep| |ich|,| |'|dien| |God| |heet| |dich| |oetgeliend| |-| |door| |dees| |engele| |heet| |heer| |dich| |gestuurd
+Respijt|—|respijt| |en| |nepenthe| |oet| |dien| |herinneringe| |aon| |Lenore|!|'|"
+De| |lies| |vaan| |illustraties| |gebruuk| |‘|bezeuker|’|,| |boebei| |‘|t| |gediech| |en| |de| |eigenlijke| |illustratie| |‘|bezeuker|’| |gebruke|.
+LIES| |VAN| |ILLUSTRATIES
+Mit| |naome| |vaan| |graveurs
+Titelpagina|,| |ontworpe| |door| |Elihu| |Vedder|.
+Frederick| |Juengling|.
+"|Noets| |mie|.|"
+H.| |Claudius|,| |GJ| |Buechner|.
+ANANKE|.
+H.| |Claudius|.
+"|Eins| |op| |‘|n| |middernach| |droevig|,| |onderwieles| |dat| |ik| |naodrökde|,| |zwak| |en| |vermoeid|,
+Euver| |väöl| |‘|n| |sjarmante| |en| |nuisjiereg| |deil| |vaan| |vergete| |traditie|.|"
+RA| |Muller|.
+"|Ah|,| |ich| |kin| |mich| |duudelik| |herinnere|,| |ut| |waor| |in| |de| |duuster| |december|,
+En| |eder| |apaarte| |stervende| |brand| |smeerde| |zien| |spook| |op| |de| |vloer|.|"
+RG| |Tietze|.
+"|Ich| |wóns| |gretig| |de| |mörge|;| |tevergeefs| |had| |ich| |geprobeerd| |um| |te| |liene
+Oet| |mien| |beuk| |kump| |verdriet| |op| |–| |verdriet| |veur| |de| |verlore| |Lenore|.|"
+H.| |Claudius|.
+"|Droef| |veur| |de| |verlore| |Lenore|.|"
+W.| |Zimmermann|.
+"|Veur| |de| |zeldzame| |en| |straolende| |maedsje| |dee| |de| |ingele| |Lenore| |neume—
+Hei| |veur| |altied| |naamloos|.|"
+Frederick| |Juengling|.
+"|'|'|T| |is| |'|n| |bezuiker| |die| |um| |binne| |te| |gaon| |bij| |mien| |kamerdeur| |-
+‘|N| |late| |bezeuker| |smeekt| |um| |binne| |te| |gaon| |bie| |de| |deur| |vaan| |mien| |kamer|.|'|”
+W.| |Zimmermann|.
+—|"|Hie| |höb| |ich| |de| |deur| |groet| |geopend|;|—| |Duusternis| |dao|,| |en| |niks| |mie|.|"
+H.| |Claudius|.
+"|Twiefelende|,| |druime|,| |druime| |die| |gein| |sterveling| |nog| |oets| |heet| |gewaagd| |te| |druime|.|"
+FS| |King|.
+"|'|Zeker|,|'| |zag| |ich|,| |'|zeker| |dat| |is| |get| |aon| |mien| |raamrooster|;
+Laot| |mich| |dan| |zeen| |wat| |d’|r| |is|,| |en| |dit| |mysterie| |verkinne|.|’|”
+Frederick| |Juengling|.
+"|Hei| |ope|,| |ik| |höb| |de| |sluiter| |gegoejd|.|"
+T.| |Johnson|.
+—|"|Een| |statelijke| |Raaf| |vaan| |de| |heilige| |daog| |vaan| |vreuger|.| |Neet| |de| |minste| |aanbidding| |maakde| |heer|;| |gein| |minuut| |stopde| |of| |bleef| |heer|.|"
+R.| |Staudenbaur|.
+"|Zittend| |op| |un| |buste| |vaan| |Pallas| |zjus| |baove| |mien| |kamerdeur—
+Zat|,| |en| |zaot|,| |en| |niks| |mie|.|"
+RG| |Tietze|.
+"|Wandelend| |vaanaof| |de| |Nachtelijke| |kus|.|"
+Frederick| |Juengling|.
+"|Totdat| |ich| |neet| |mie| |es| |mompelde|:| |'|Aandere| |vrun| |zien| |al| |ieder| |gevloge—
+Op| |de| |volgende| |daag| |zal| |heer| |mich| |verlaote|,| |wie| |miene| |hoop| |eerder| |al| |is| |gevloge|.|’|”
+Frank| |French|.
+"|Toen|,| |wie| |ut| |fluweel| |zonk|,| |begós| |ich| |michzelf| |te| |verbinde
+Fancy| |tot| |fancy|.|"
+R.| |Schelling|.
+"|Maar| |wie| |zien| |fluweel| |violette| |voering| |mit| |‘|t| |lamplich| |dat| |d’|r| |euver| |gloeit
+Ze| |zal| |drukke|,| |ah|,| |noets| |mie|!|"
+George| |Kruell|.
+"|'|Ellendig|,|'| |reep| |ich|,| |'|dien| |God| |heet| |dich| |oetgeliend| |-| |door| |dees| |engele| |heet| |heer| |dich| |gestuurd
+Respijt|—|respijt| |en| |nepenthe| |oet| |dien| |herinneringe| |aon| |Lenore|!|'|"
+Victor| |Bernstrom|.
+"|Op| |dit| |hoes| |door| |Horror| |spook|.|"
+R.| |Staudenbaur|.
+"|'|Zeg| |mich| |woerheid|,| |ich| |smeek| |-| |Is| |d'|r| |-| |is| |d'|r| |balsem| |in| |Gilead|?| |-| |vertel| |mich| |-| |vertel| |mich|,| |ich| |smeek|!|'|"
+W.| |Zimmermann|.
+"|'|Vertel| |deze| |ziel| |mit| |verdriet|,| |es|,| |in| |de| |aafgelege| |Aidenn|,
+‘|t| |Zal| |‘|n| |heilige| |maedsje| |vastpakke| |dee| |de| |ingele| |Lenore| |neume|.|’|”
+FS| |King|.
+"|'|Wees| |dat| |woord| |ós| |teike| |vaan| |afsjeid|,| |vogel| |of| |duivel|!|'
+Ich| |schreeuwde|,| |opgewonde|.|"
+W.| |Zimmermann|.
+"|'|Gao| |dich| |trök| |in| |de| |storm| |en| |de| |Plutonische| |kus| |vaan| |de| |Nach|!|'|"
+Robert| |Hoskin|.
+"|En| |mien| |ziel| |oet| |dee| |sjeem| |dee| |op| |de| |vloer| |zweef
+Zal| |weure| |opgeheve|—|noets| |mie|!|"
+RG| |Tietze|.
+‘|t| |Geheim| |vaan| |de| |Sfinx|.
+R.| |Staudenbaur|.
+COMMENTEER| |OP| |‘|T| |GEDICH|.
+‘|t| |Geheim| |vaan| |‘|n| |gedich|,| |neet| |minder| |es| |‘|n| |grap|,| |ligk| |in| |‘|t| |oer| |vaan| |degene| |dee| |‘|t| |huurt|.
+Geef| |touw| |aon| |de| |spreuk|,| |accepteer| |de| |stemming| |vaan| |‘|t| |diechter|:| |dit| |is| |tenslotte| |wat| |de| |wijze| |beantwoorde| |es| |se| |hun| |vraogt| |nao| |de| |waerde|.
+Alhoewel| |de| |diechter| |zelf|,| |in| |zien| |aandere| |stemming|,| |uch| |vertelt| |dat| |zien| |kunst| |mer| |‘|n| |sleit| |vaan| |de| |hand| |is|,| |‘|t| |ete| |vaan| |zien| |voedseltovenaar|,| |en| |aonbiedt| |um| |uch| |de| |truuk| |daovaan| |te| |laote| |zeen|,| |—| |geluif| |‘|m| |neet|.
+Wach| |op| |zien| |profetische| |oor|;
+geef| |dich| |dan| |aan| |zien| |passie|,| |zien| |vreugde| |of| |pijn|.
+"|We| |zien| |vandaag| |in| |de| |hand| |vaan| |Love|!|"
+zingk| |Gautier|,| |in| |Swinburne|’s| |drijvende| |parafrase|,| |—| |en| |vaan| |mörge| |tot| |zonsondergaank| |weure| |we| |op| |de| |gewelddadige| |zie| |gewaf|:| |d’|r| |is| |mer| |ein| |leefde|,| |ein| |mei|,| |ein| |bloemige| |streng|.
+Leefde| |is| |iewegdurend|,| |alles| |anders| |onwerk| |en| |opzij| |gezat|.
+De| |visie| |heet| |un| |ind|,| |de| |scène| |verandert|;
+mer| |we| |höbbe| |get| |gewonne|,| |de| |herinnering| |aon| |‘|n| |charme|.
+Zoveul| |diechters|,| |zoveul| |sjarme|.
+D’|r| |is| |de| |charme| |vaan| |Evanescence|,| |wat| |‘|n| |aureole| |vaan| |Pathos| |aon| |de| |opperste| |sjoenegheid| |en| |grace| |leent|.
+Deil| |mit| |Landor| |zien| |eine| |"|nach| |vaan| |herinneringe| |en| |zuchte|"| |veur| |Rose| |Aylmer|,| |en| |geer| |höb| |dit| |volledig|.
+En| |neem| |noe| |de| |hand| |vaan| |‘|n| |minstrel| |vaan| |‘|n| |nuie| |wereld|,| |aafdwaald| |vaan| |‘|n| |gooje| |habitat| |nao| |dat| |ongeskik| |en| |dissonant| |Amerika| |dat|,| |wie| |Baudelaire| |zaog|,| |“|veur| |Poe| |mer| |‘|n| |enorme| |gevangenis| |waor| |boe|-|in| |heer| |leep|,| |hier| |en| |dao|,| |mèt| |de| |koortsige| |agitatie| |vaan| |‘|n| |wezen| |gesjöp| |um| |in| |‘|n| |zuuverdere| |wereld| |te| |aoseme|,|”| |en| |boe| |“|zien| |innerlijk| |leve|,| |zoe| |spiritueel|,| |zoe| |geistelek|,| |es| |‘|n| |geistelek| |dronk|,| |waor
+poginge| |um| |te| |ontsnappe| |vaan| |de| |invlood| |vaan| |deze| |antipathetische| |sfeer|.|"
+Pak| |de| |geveulege| |hand| |vaan| |‘|n| |geproblemeerde| |zenger| |dee| |zoe| |zien| |vreem| |drejt|,| |en| |deil| |mèt| |häöm| |‘|t| |klimaat| |boe|-|in| |heer| |zich| |heet| |gevoonde|,| |—| |noets| |gedurende| |de| |ganse| |daag|,| |altied| |in| |de| |nach|,| |—| |es| |neet| |de| |Atlantis| |boe| |heer| |vaandaag| |waor| |gedwaald|,| |op| |z’n| |mins| |‘|n| |toevluchtsoord| |veur| |de| |grenze| |boe|-|in| |heer| |oonder| |daag| |opgeslote| |waor|.
+Allein| |nao| |ein| |land| |heet| |heer| |de| |mach| |um| |uch| |te| |leie|,| |en| |allein| |veur| |ein| |nach| |kinste| |zien| |druim| |deile|.
+Un| |deil| |vaan| |noch| |de| |aarde| |noch| |de| |hiemel|:| |"|No|-|man's|-|land|,|"| |oet| |de| |ruimte|,| |oet| |de| |tied|.
+Hei| |zien| |de| |versteurde|,| |door| |wier| |ouge|,| |wie| |die| |vaan| |de| |Cenci|,| |de| |ziel| |rame| |vindt|,| |hoewel| |de| |geis| |verdoof| |is|;
+hei| |weure| |geeste|,| |die| |nao| |‘|t| |paad| |kieke| |wat| |nao| |de| |Iewegheid| |leidt|,| |weure| |gestop| |en| |vertraog|.
+‘|t| |Is| |de| |limbo| |vaan| |“|planetaire| |ziele|”|,| |boe|-|in| |alle| |onzekerhede| |in| |‘|t| |maonlich| |zien|,| |alle| |verlore| |leefdes| |en| |illusies|.
+Hei| |zien| |sommige| |vasgezat| |in| |trance|,| |de| |insigste| |respijt| |dee| |bereikbaar| |is|;
+aandere
+"|fantastisch| |bewege
+Op| |un| |oneinige| |melodie|:|"
+onderwieles| |d’|r| |euveral| |zien
+"|Geblade| |herinneringe| |vaan| |‘|t| |verleie—
+Gehuldde| |vorme| |die| |beginne| |en| |zuchte
+Wie| |ze| |de| |dwaler| |langsloupe|.|"
+Zoe| |is| |‘|t| |land|,| |en| |veur| |ein| |nach| |gaon| |we| |‘|t| |binne|,| |—| |‘|n| |nach| |vaan| |astrale| |fases| |en| |trökkerende| |klokken|.
+De| |monodies| |zien| |twelf| |gedichte|,| |boevaan| |de| |meziek| |perbeert| |te| |verandere| |mer| |oets| |‘|tzelfde| |is|.
+Ein| |veur| |eine| |klinge| |ze|,| |wie| |‘|t| |geluid| |vaan| |de| |kopere| |en| |ebbenhout| |klok|,| |in| |“|The| |Masque| |of| |the| |Red| |Death|”|,| |wat| |de| |waltzers| |maakde| |pauzere| |mit| |“|ontroosheid| |en| |trilling| |en| |meditatie|”|,| |zoe| |dèks| |es| |‘|t| |oer| |kaom|.
+Vaan| |al| |dees| |mystieke| |cadences| |heet| |de| |klach| |vaan| |De| |Raaf|,| |dee| |door| |‘|t| |portaal| |vibreert|,| |de| |boetewereld| |veural| |indruk| |gemaak|.
+Welke| |dinger| |goon| |bij| |‘|t| |make| |vaan| |‘|n| |gedich|,| |—| |en| |wie| |woer| |is| |dit|,| |wie| |in| |‘|t| |mieste| |aandere|,| |dat| |ras| |dat| |zien| |barde| |“|de| |makers|”| |neumde|?
+‘|n| |Werk| |weurt| |oet| |de| |leegte| |opgerope|.
+Boe| |d’|r| |niks| |waor|,| |blief| |‘|t|,| |—| |‘|n| |nuie| |sjepping|,| |oonderdeil| |vaan| |de| |sjat| |vaan| |de| |minsheid|.
+En| |‘|n| |paar| |oetzonderlike| |tekste|,| |mie| |es| |andere| |die| |eve| |creatief| |zien|,| |dwinge| |us| |um| |opnui| |te| |dinke| |wie| |dapper| |de| |pen| |vaan| |‘|t| |diechter| |de| |dinger| |oonbekind| |maak
+"|aan| |vorme|,| |en| |gief| |aan| |lochtige| |niks
+‘|n| |Lokale| |woening|,| |en| |‘|n| |naom|.|”
+Eeder| |liek| |zoonder| |un| |prototype|,| |mer| |ze| |fascinere| |us| |allemaol| |mit| |eleminte| |die| |oet| |de| |sjeem| |vaan| |‘|t| |Bovenetuurlek| |zien| |gehaold|.
+Noe| |is| |de| |hoegste| |verbeelding| |bezörg| |euver| |de| |ziel| |vaan| |de| |dinger|;
+‘|t| |kin| |al| |daan| |neet| |de| |Fantasie| |inspirere| |dat| |lui| |mit| |beelde| |de| |vage| |tussemaons| |zien|.
+Toch| |heet| |ein| |vaan| |dees| |tekste|,| |op| |zien| |kleinere| |meneer|,| |‘|n| |geveul| |vaan| |uniekheid|,| |zoe| |zeker| |es| |de| |verheve| |werke| |vaan| |‘|n| |bovenetuurleke| |cast|,| |–| |Marlowe|’s| |“|Faustus|”|,| |de| |“|Faust|”| |vaan| |Goethe|,| |“|Manfred|”|,| |of| |zelfs| |die| |etherische| |meesterwerke|,| |“|The| |Tempest|”| |en| |“|A| |Night| |Summers|’|”|.
+Meer| |dan| |ein|,| |hoewel| |uniek|,| |heet| |get
+[|10|]
+[|10|]
+last| |of| |refrain| |dee| |de| |herinnering| |spookt|,| |—| |einmaol| |gehuurd|,| |noets| |vergete|,| |wie| |de| |toon| |vaan| |‘|n| |zelde| |gebruukde| |mer| |kenmerkende| |orgelstop|.
+Opmerkelek| |oonder| |hen| |is| |Bürger|’s| |“|Lenore|”|,| |dee| |spookachtige| |en| |resonantie| |ballade|,| |de| |lokmiddel| |en| |folie| |vaan| |de| |vertaolers|.
+Wienig| |zulle| |ontkenne| |dat| |Coleridge|’s| |wonderbaarlike| |“|Rime| |of| |the| |Ancient| |Mariner|”| |op| |hun| |hoof| |steit|.
+"|Le| |Juif|-|Errant|"| |zouw| |beweringe| |höbbe|,| |es| |Beranger| |un| |groetere| |diechter| |waor| |gewees|;
+en|,| |mer| |vanwege| |hun| |aafstand| |vaan| |volkssympathie|,| |zouwe| |"|De| |Dame| |vaan| |Shalott|"| |en| |"|De| |Gezegende| |Damozel|"| |aon| |de| |lies| |kinne| |weure| |toegevoog|.
+‘|t| |Kreeg| |aon| |Edgar| |Allan| |Poe| |um| |twie| |tekste| |te| |producere|,| |“|The| |Bells|”| |en| |The| |Raven| |,| |die| |elk|,| |hoewel| |mesjiens| |minder| |sjoen| |zien| |es| |die| |vaan| |Tennyson| |en| |Rossetti|,| |uniek| |zien|.
+"|Ulalume|"|,| |hoewel| |eve| |vreem| |en| |verbeeldend| |is|,| |heet| |neet| |de| |universele| |kwaliteit| |dee| |un| |deil| |is| |vaan| |ós| |tes|.
+De| |Raaf| |in| |puur| |poëtische| |bestanddeile| |vèlt| |oonder| |stukke| |wie| |"|Het| |Spookpaleis|"|,| |"|De| |Stad| |in| |de| |Zee|"|,| |"|De| |Slaoper|"| |en| |"|Israfel|"|.
+‘|t| |Gehiel| |zouw| |weure| |oetgewisseld|,| |vermoed| |ich|,| |door| |lezers| |vaan| |‘|n| |kietig| |cast|,| |veur| |passages| |wie| |dees|:
+"|Roond|,| |door| |ophefende| |wind| |vergete|,
+Ontsjlaag| |oonder| |de| |loch
+De| |melancholische| |water| |ligke|.
+Gein| |straole| |oet| |de| |heilige| |hiemel| |komme| |neer
+Op| |de| |lange| |nach| |vaan| |die| |stad|;
+Maar| |leech| |oet| |de| |luride| |zee
+Strömt| |zwijg| |op| |de| |taore—
+·| |·| |·| |·| |·| |·| |·
+Op| |väöl| |en| |väöl| |‘|n| |prachtige| |heiligdom
+Wie| |zien| |gekransde| |frizes| |mit| |elkaar| |verweven
+De| |viool|,| |de| |violet| |en| |de| |wijnstok|.
+·| |·| |·| |·| |·| |·| |·
+Gein| |zwellinge| |vertèlle| |dat| |wind| |kin
+Op| |‘|n| |wied| |weg| |gelukkigere| |zee—
+Gein| |opsjlaag| |wies| |d’|r| |op| |dat| |de| |wind
+Op| |zeeje| |minder| |afsjurend| |sereen|.|"
+‘|t| |Mist| |de| |lochmelodie| |vaan| |‘|t| |diechter| |wiens| |hartsjnaore| |‘|n| |luut| |zien|:
+"|En| |ze| |zègke| |(|het| |sterrekoor
+En| |de| |aandere| |luisterende| |dinger|)
+Dat| |Israfeli|'s| |vuur
+Is| |te| |danke| |aon| |die| |lier
+Door| |welke| |heer| |zit| |en| |zingk—
+De| |trillende| |levende| |draod
+Vaan| |die| |ongewoene| |snaore|.|”
+Maar| |The| |Raven| |,| |net| |wie| |"|The| |Bells|"| |en| |"|Annabel| |Lee|"|,| |pries| |zichzelf| |aan| |de| |väöle| |en| |de| |wienege|.
+Ich| |höb| |elders| |gezag| |dat| |Poe|’s| |zeldzamere| |producties| |veur| |mich| |“|degene| |boe|-|in| |d’|r| |‘|n| |versjijning| |is|,| |op| |z’n| |mins|,| |vaan| |spontaniteit|,| |–| |boe|-|in| |heer| |touwgeef| |aon| |zien| |geveulens|,| |onderwieles| |dat| |stervende| |valle| |en| |cadences| |de| |meis| |muzikale|,| |de| |meis| |melancholische|,| |ónbewus| |vaan| |häöm| |kaome|.|”
+Dit| |is| |nog| |altied| |mien| |geluif|;
+en| |toch|,| |nao| |‘|n| |nuie| |studie| |vaan| |dit| |gediech|,| |maak| |‘|t| |mich| |mie| |onder| |de| |indruk| |es| |ooit| |sinds| |mien| |jongesjtied|.
+Nauwe| |kennisse| |vertelt| |ten| |gunste| |vaan| |eder| |ech| |kunstwerk|.
+Druk| |de| |man|,| |dee| |noch| |kunst| |kent| |noch| |d’|r| |um| |geit|,| |aan| |um| |‘|n| |gedich| |of| |sjilderie| |te| |oonderzeuke|,| |en| |wie| |snel| |de| |krach| |devaan| |häöm| |greep|!
+In| |feite| |zal| |heer| |de| |relatieve| |waerde| |vaan| |‘|t| |ierste| |good| |werk| |boemèt| |zien| |aandach| |redelik| |is| |getrokke| |euversjatte|.
+De| |Raaf| |heet| |ouch| |consistente| |kwaliteite| |die| |zelfs| |‘|n| |expert| |moot| |bewondere|.
+In| |gein| |aander| |vaan| |de| |gediechte| |vaan| |de| |auteur| |is| |‘|t| |motief| |dudeleker| |gedefinieerd|.
+"|The| |Haunted| |Palace|"| |is| |net| |zo| |definitief| |veur| |de| |geselecteerde| |lezer|,| |mer| |Poe| |zou| |dee| |subtiele| |allegorie| |neet| |veur| |‘|n| |kale| |analyse| |höbbe| |genomme|.
+De| |Raaf| |is| |gans| |bezig| |mit| |‘|t| |typisch| |thema| |vaan| |de| |auteur|:| |‘|t| |onherroepbare| |verlees| |vaan| |‘|n| |geïdoliseerde| |en| |sjoen| |vrouw|;
+mer| |op| |aandere| |groonde| |is| |ouch| |‘|t| |publieke| |instinct| |good| |um| |‘|t| |zien| |representatief| |gedich| |te| |dinke|.
+‘|N| |man| |vaan| |genie| |krijg| |miestal| |‘|n| |voot| |mèt| |‘|t| |succes| |vaan| |‘|n| |inspanning|,| |en| |dit| |is| |neet| |altied| |zien| |groetste|.
+Erkinning| |is| |de| |sneller| |veur| |‘|t| |zien| |oetgesteld|.
+Heer| |verwerf| |‘|t| |neet|,| |wie| |‘|t| |fortuin| |vaan| |‘|n| |mizer|,| |munt| |op| |munt|,| |mer| |“|hielemaol| |neet| |of| |al| |in| |al|.|”
+En| |dus| |mit| |aandere| |ambities|:| |de| |hovelink|,| |soldaot|,| |acteur|,| |—| |welke| |rolle| |ouch| |zien|,| |—| |tèlt| |eder| |zien| |triomf| |door| |‘|n| |gelök|.
+Poe|’s| |Raaf| |waor|,| |ondanks| |‘|t| |geluid|,| |veur| |häöm| |“|de| |vogel| |dee| |de| |bries| |maakde| |blaze|.|”
+De| |diechter| |vestigde| |zich| |in| |de| |winter| |vaan| |1844-1845| |in| |New|-|York|,| |boebij| |heer| |werk| |vóng| |aon| |Willis|’| |artikel|,| |“|The| |Evening| |Mirror|”|,| |en| |verdeende| |zien| |inkomste| |oet| |bijdrages| |elders|.
+Zes| |jaor| |laank| |waor| |heer| |‘|n| |actieve| |sjriever| |gewees| |en| |genoot| |vaan| |‘|n| |professionele| |reputatie|;
+woort| |zoewel| |in| |respek| |es| |in| |twiefel| |gehawwe|,| |en| |waor| |gein| |verlies| |veur| |zien| |deil| |vaan| |de| |slech| |betaolde| |journalistiek| |vaan| |die| |daag|.
+Heer| |houw| |ouch| |väöl| |vaan| |zien| |bèste| |werk| |gedoon|,| |wie| |“|Ligeia|”| |en| |“|The| |Fall| |of| |the| |House| |of| |Usher|”| |(|de| |lètste| |bevatte| |die| |mystieke| |tegehanger|,| |in| |verzen|,| |vaan| |“|A| |Lost| |Mind|”| |vaan| |Elihu| |Vedder|)|,| |zoe| |wie| |“|The| |Gold| |Bug|”| |en| |“|The| |Mystery| |of| |Marie| |Roget|”|.
+Heer| |had| |in| |‘|t| |boeteland| |proselyte| |gemaak| |en| |‘|n| |blievende| |greep| |op| |de| |Franse| |geis| |gekrege|.
+Heer| |had| |zien| |eige| |krach| |en| |zwakheid| |gelierd|,| |en| |waor| |op| |zien| |top|,| |en| |neet| |zoonder| |‘|n| |bepaolde| |reputatie|.
+Mer| |heer| |had| |niks| |gesjreve| |wat| |op| |de| |tong| |vaan| |ederein| |waor|.
+Aan| |zeldzaam| |en| |delicaat| |werk| |mot| |d’|r| |‘|n| |populaire| |touch| |weure| |touwgeveug| |um| |‘|t| |algemein| |publiek| |vaan| |emes| |zien| |eige| |tied| |te| |vange|.
+Door| |de| |industrie| |vaan| |Poe|’s| |opeinvolgende| |biograaf| |is| |de| |hit| |vaan| |The| |Raven| |‘|n| |dèks| |vertèld| |verhaol| |gewore|.
+De| |jonge| |vrouw| |vaan| |‘|t| |diechter|,| |Virginia|,| |vervaagde| |veur| |zien| |ouge|,| |mer| |bleef| |nog| |‘|n| |jaor| |in| |de| |sjeem| |vaan| |de| |doed|.
+De| |lange|,| |lage| |kamer| |in| |‘|t| |hoes| |in| |de| |buurt| |vaan| |de| |Bloomingdale| |Road| |is| |es
+[|11|]
+[|11|]
+bekind| |es| |de| |kamer| |boe| |Rouget| |de| |l'|Isle| |de| |Marseillaise| |heet| |gesjreve|.
+Iedereen| |heet| |gehuurd| |dat| |‘|t| |gedich|,| |geteikend| |“|Quarles|”|,| |versjeen| |in| |de| |“|American| |Review|”|,| |mit| |‘|n| |pseudo|-|redactiecommentaar| |op| |de| |vorm|;
+dat| |Poe| |d’|r| |tien| |dollar| |veur| |kreeg|;
+dat| |Willis|,| |de| |aardigste| |en| |mins| |jaloers| |vaan| |modieuze| |sjeidsrechters|,| |‘|t| |herdrukde| |mit| |‘|n| |eulogie| |die| |‘|t| |onmiddellik| |town|-|talk| |maakde|.
+Alle| |twiefel| |euver| |de| |auteursjap| |woort| |verdwene| |wie| |Poe| |‘|t| |zelf| |op| |‘|n| |literaire| |bijeinkoms| |reciteerde|,| |en| |veur| |‘|n| |tied| |waor| |heer| |de| |meis| |bekinde| |Amerikaanse| |auteurs|.
+De| |hit| |stimuleerde| |en| |bemoedigde| |häöm|.
+Net| |wie| |‘|n| |aandere| |en| |trotsere| |satirist|,| |vóng| |heer| |ouch| |“|iets| |vaan| |zomer|”| |zelfs| |“|in| |‘|t| |broom| |vaan| |insekte|.|”
+Helaas| |genog|,| |mer| |d’|r| |zien| |d’|r| |drei| |jaor| |veurbie|,| |–| |‘|n| |periode| |vaan| |invlood|,| |trots|,| |pijn|,| |mer| |altied| |vaan| |verbeeldende| |of| |kritische| |arbeid| |–| |veur| |de| |oeteindeleke| |nederlaog|,| |veurtot| |‘|t| |gordijn| |op| |‘|n| |leve| |veel| |wat| |veur| |häöm| |in| |werkelekheid| |‘|n| |tragedie| |waor|,| |en| |heer| |gaof| |touw| |aon| |“|de| |Verovereerwörm|.|”
+"|The| |American| |Review|:| |A| |Whig| |Journal|"| |waor| |in| |die| |tied| |un| |geloofwaardig| |tiedsjrif|,| |mit| |twie| |kolom|,| |gedruk| |op| |good| |papier| |mit| |helder| |lettertype|,| |en| |geïllustreerd| |mit| |mezzotint| |portrette|.
+Te| |midden| |vaan| |väöl| |zake| |oonder| |de| |huidige| |standaard|,| |bevatte| |‘|t| |get| |die| |eder| |redacteur| |graag| |zouw| |ontvange|.
+‘|t| |Ierste| |volume|,| |veur| |1845|,| |bevat| |artikele| |vaan| |Horace| |Greeley|,| |Donald| |Mitchell|,| |Walter| |Whitman|,| |Marsh|,| |Tuckerman| |en| |Whipple|.
+Ralph| |Hoyts| |sjarmante| |gedich|,| |"|Aajd|"|,| |versjeen| |in| |dit| |deil|.
+En| |hei| |zien| |drie| |tekste| |vaan| |Poe|:| |"|De| |stad| |in| |de| |zee|"|,| |"|De| |vallei| |vaan| |onrus|"| |en| |De| |raaf|.
+Twee| |vaan| |dees| |woorte| |opgebouwd|,| |—| |zoe| |waor| |ziene| |meneer|,| |—| |oet| |iedere| |studies|,| |mer| |de| |achternaom| |kaom| |nao| |boete| |es| |ver| |pas| |gecomponeerd|,| |en| |bekans| |wie| |veer| |‘|t| |noe| |höbbe|.
+De| |verklaoring| |dat| |‘|t| |neet| |daonao| |is| |gereviseerd| |is| |foutief|.
+Elf| |klein| |veranderinge| |in| |de| |teks| |vaan| |‘|t| |tiedsjrif| |versjiene| |in| |The| |Raven| |and| |Other| |Poems| |,| |1845|,| |‘|n| |book| |dat| |de| |diechter| |zich| |kort| |aongemoedig| |voelde| |um| |‘|t| |publiek| |aon| |te| |biede|.
+Dit| |zien| |veural| |veranderinge| |in| |leestekens|,| |of| |in| |enkele| |wäörd|,| |de| |lèste| |soort| |gemaak| |um| |‘|t| |effek| |vaan| |alliteratie| |te| |versterke|.
+In| |Mr.| |Lang|’s| |mooie| |editie| |vaan| |Poe|’s| |vers|,| |oetgebrach| |in| |de| |“|Perchment| |Library|”|,| |heet| |heer| |‘|t| |instinct| |vaan| |‘|n| |gelierde| |getoond|,| |en| |heet| |heer| |verstandig| |gedoon|,| |door| |trök| |te| |gaon| |nao| |de| |teks| |in| |‘|t| |zjus| |geneumde| |deil|,| |zoewie| |in| |‘|t| |Londense| |nummer| |vaan| |1846.| |De| |“|standaard|”| |Griswold|-|verzameling| |vaan| |de| |werke| |vaan| |de| |diechter| |is| |vol| |foute|.
+Dees| |zien| |herhaold| |door| |latere| |redacteure|,| |die| |ouch| |hun| |eige| |foute| |höbbe| |gemaak|.
+Maar| |de| |teks| |vaan| |The| |Raven| |,| |vanwege| |de| |verzeuke| |die| |aon| |de| |auteur| |woort| |gemaak| |um| |kopieje| |vaan| |manuscripte|,| |woort| |door| |häöm| |nog| |wiejer| |gereviseerd|;
+in| |feite| |heet| |heer| |‘|t| |in| |Richmond| |gedruk|,| |zjus| |veur| |zien| |doed|,| |mit| |de| |poëtische| |vervanging| |vaan| |“|serafime| |wier| |vootvalle|”| |veur| |“|engele| |wier| |zwakke| |vootvalle|”|,| |in| |de| |veertiende| |strofe|.
+Ozze| |huidige| |teks|,| |daorum|,| |hoewel| |in| |weze| |die| |vaan| |1845|,| |is| |get| |aongepas| |door| |de| |latere| |lezing| |vaan| |‘|t| |diechter|,| |en| |is|,| |dink| |ich|,| |de| |meis| |correcte| |en| |effectieve| |versie| |vaan| |dit| |inkele| |gediech|.
+De| |meis| |radicale| |verandering| |ten| |opziechte| |vaan| |de| |ierste| |versie| |versjeen| |echter| |in| |‘|t| |volume| |in| |1845|;
+de| |elfde| |strofe| |bevatte| |oorsjprónkelik| |dees| |regels|,| |foutief| |in| |rijm| |en| |aanders| |‘|n| |vlek| |op| |‘|t| |gedich|:
+"|Gevange| |door| |een| |ongelukkige| |meister|,| |die| |ongenadeloze| |Ramp
+Volgde| |snel| |en| |volgde| |sneller|—|dus|,| |wie| |Hope| |heer| |zouw| |bezeuke|,
+Stern| |Despair| |kaom| |trök|,| |in| |plaatsj| |van| |de| |zoete| |hoop| |dee| |heer| |durf| |bewoere—
+Dat| |treurige| |antwoord|:| |‘|Noets| |mie|!|’|”
+‘|t| |Zouw| |good| |zien| |es| |aandere|,| |en| |bekinde|,| |diechters| |zoe| |zeker| |zouwe| |kinne| |zien| |dat| |hun| |veranderinge| |altied| |verbeteringe| |zouwe| |make|.
+Poe| |herhanteerde| |zien| |sjaarse| |show| |vaan| |verzen| |constant|,| |en| |verbeterde| |‘|t| |meistal|.
+De| |Raaf| |waor| |‘|t| |ierste| |vaan| |de| |weineg| |gediechte| |die| |heer| |bekans| |voltooide| |veurtot| |heer| |‘|t| |had| |gedruk|.
+‘|t| |Kin| |zien| |dat| |degene| |die| |um| |gediechte| |zörge| |wieneg| |höbbe| |verlore| |door| |ziene| |doed|.
+Vloeiend| |in| |proza|,| |sjreef| |heer| |noets| |verse| |um| |‘|n| |gedich| |te| |make|.
+Wie| |‘|n| |refrain| |vaan| |‘|n| |beeld| |häöm| |spookde|,| |waor| |de| |tekste| |die| |d’|r| |oet| |kaom| |de| |inspiratie|,| |wie| |heer| |zelf| |zag|,| |vaan| |‘|n| |passie|,| |neet| |vaan| |‘|n| |doel|.
+Dit| |waor| |in| |mominte| |zoe| |zeldzaam| |dat| |bekans| |de| |Fairfield|-|theorie| |te| |rechveerdege| |dat| |eder| |‘|t| |produk| |waor| |vaan| |‘|n| |zenuwcrisis|.
+Wat| |gaof| |‘|t| |diechter| |dan| |zien| |idee| |nao| |The| |Raven|?
+Vaan| |welke| |mistige| |fundering| |kaom| |‘|t| |langzaam| |op| |tot| |‘|n| |muziek| |dee| |langzaam| |aoseemde|?
+Wie| |gebrukelik|,| |is| |d’|r| |mie| |es| |ein| |ding| |gegaange| |nao| |de| |opbouw| |vaan| |‘|n| |zoe| |opmerkelek| |gedich|.
+Gezeen| |de| |langere| |preke| |die| |dèks| |op| |korte| |en| |minder| |suggestieve| |tekste| |weure| |gepreek|,| |hoop| |ich| |neet| |de| |sjöld| |te| |kriege| |veur| |deze| |discussie| |euver| |ein| |liriek|,| |veural| |ein| |dee| |‘|n| |kunsteneer| |wie| |Doré| |‘|t| |oonderwerp| |vaan| |verlore| |illustratie| |heet| |gemaak|.
+Tot| |veur| |kort| |had| |ich| |aongenome| |dat| |dit| |stök|,| |en| |‘|n| |paar| |die| |de| |auteur| |nao| |de| |versjijning| |heet| |gesjreve|,| |oetzunderlek| |waore| |umtot| |‘|t| |in| |zien| |jonges| |vers| |neet| |vaan| |kieme| |waor| |gegreujd|.
+Maar| |Mr.| |Fearing| |Gill| |heet| |mich| |‘|n| |paar| |ongepubliceerde| |strofe| |vaan| |Poe| |getoent|,| |gesjreve| |in| |zien| |achtienste| |jaor|,| |en| |getiteld|,| |“|The| |Demon| |of| |the| |Fire|.|”
+‘|t| |Manuscript| |liek| |in| |‘|t| |vreuge| |handsjrif| |vaan| |‘|t| |diechter| |te| |staon|,| |en| |de| |echtheid| |daovaan| |weurt| |bevestig| |door| |de| |femilie| |in| |wiens| |bezit| |‘|t| |al| |‘|n| |have| |iew| |is| |geblieve|.
+Neve| |de| |dudelikste| |kiemen| |vaan| |"|The| |Bells|"| |en| |"|The| |Haunted| |Palace|"| |bevat| |‘|t| |‘|n| |paar| |regels| |die| |get| |suggerere| |op| |de| |opening| |en| |sleting| |vaan| |The| |Raven| |.
+Wat| |‘|t| |ritme| |vaan| |ós| |gediech| |betröf|,| |gief| |‘|n| |vergelieking| |vaan| |datums| |aon| |dat| |dit| |woort| |beïnvlood| |door| |‘|t| |ritme| |vaan| |“|Lady| |Geraldine|’s| |Courtship|”|.
+Poe| |waor| |ein| |vaan| |de| |ierste| |dee| |‘|t| |genie| |vaan| |Miss| |Barrett| |ierde|;
+heer| |sjreef| |zien| |verzamelde| |gediechte| |aon| |häör| |es| |"|de| |edelste| |vaan| |häör| |geslach|"|,| |en| |waor| |in
+[|12|]
+[|12|]
+sympathie| |veur| |häör| |lyrische| |methode|.
+De| |regels| |oet| |häör| |leefdesgedich|,
+"|Mit| |un| |onzeker| |mompelende| |roer|,| |in| |de| |loch|,| |het| |paarse| |gordijn
+Zwelt| |in| |en| |zwelt| |oet| |roond| |häör| |bewegingsloze| |bleke| |wenkbrauwe|,|"
+heet| |‘|n| |echo| |gevoonde| |in| |dees|:
+"|En| |ut| |zijdeachtige| |droefe| |ónzekere| |gerussel| |vaan| |eder| |paorse| |gordijn
+Heet| |mich| |opgewonde| |-| |heet| |mich| |gevöld| |mit| |fantastische| |verschrikkinge| |die| |ich| |nog| |noets| |veurheen| |höb| |geveuld|.|"
+Hei| |naom| |Poe| |‘|n| |privileesj| |euver| |boeveur| |heer| |Longfellow| |ruweweg| |censureerde|,| |en| |boeveur| |niemand| |oets| |op| |zien| |eige| |terrein| |heet| |gezeuk| |zoonder| |snel| |opsporing| |en| |straof|.
+In| |melodie| |en| |strofe| |zulle| |we| |zien| |dat| |de| |twie| |gediechte| |neet| |versjille|,| |mer| |in| |motief| |zien| |ze| |gans| |versjillend|.
+De| |royaole| |diechter| |voelde| |niks| |mies| |daan| |de| |echte| |originaliteit| |vaan| |de| |diechter|.
+"|Dit| |levendige| |sjrif|!|"
+sjreef| |ze|,|—|"|deze| |krach| |die| |weurt| |geveuld|!|...| |Ozze| |groete| |diechter|,| |Mr.| |Browning|,| |auteur| |vaan| |'|Paracelsus|,|'| |&|c|.|,| |is| |enthousiast| |in| |zien| |bewondering| |veur| |ut| |ritme|.|"
+Mr.| |Ingram|,| |nao| |‘|t| |verwieze| |nao| |“|Lady| |Geraldine|”|,| |wies| |slim| |op| |‘|n| |aandere| |bron| |boevaan| |Poe| |mesjiens| |‘|n| |impuls| |heet| |gekrege|.
+In| |1843| |had| |Albert| |Pike|,| |de| |half|-|Griekse|,| |haaf|-|grensman|,| |diechter| |vaan| |Arkansas|,| |in| |"|The| |New| |Mirror|"|,| |boeveur| |Poe| |toen| |sjreef|,| |get| |verse| |getiteld| |"|Isadore|"| |gedruk|,| |mer| |sindsdeen| |door| |de| |sjriever| |herzien| |en| |"|The| |Widowed| |Heart|"| |geneump|.
+Ich| |selecteer| |oet| |de| |revisie| |vaan| |Mr.| |Pike| |de| |volgende| |strofe|,| |boevaan| |de| |hoofkenmerke| |euvereinkomme| |mit| |de| |orzjinele| |versie|:
+"|Rusteloos| |loupe| |ich| |in| |ós| |eenzame| |kamers|,| |ich| |sjpeel| |ós| |leedsjes| |neet| |mie|,
+De| |stralende| |zon| |sjient| |op| |de| |ongeveegde| |vloer|;
+De| |spotvogel| |zit| |nog| |steeds| |en| |zingk|,| |o| |melancholische| |stam|!
+Want| |mien| |hart| |is| |wie| |‘|n| |herfswolk| |dee| |euverloop| |mit| |rege|;
+Gij| |zit| |veur| |mich| |veur| |eeuwig| |verlore|,| |Isadore|!|"
+Hei| |höbbe| |veer| |‘|n| |langdurige| |maot|,| |‘|n| |euvereinkoms| |vaan| |‘|t| |refrain| |en| |de| |introductie| |vaan| |‘|n| |vogel| |wiens| |leed| |verdriet| |vergroet|.
+D’|r| |zien| |aandere| |routes| |die| |door| |de| |nuisjierege| |kinne| |weure| |gevolg|;
+in| |‘|t| |biezoonder|,| |‘|n| |passaasj| |dee| |Mr.| |Ingram| |keze| |oet| |Poe|’s| |lètste| |recensie| |vaan| |“|Barnaby| |Rudge|”|:
+"|De| |raaf|,| |*| |*| |*| |kin| |ouch| |zien| |gemaak|,| |mie| |es| |veer| |‘|m| |noe| |zien|,| |‘|n| |deil| |vaan| |de| |opvatting| |vaan| |de| |fantastische| |Barnaby|.| |*| |*| |*| |Zien| |personage| |kin|,| |ten| |opziechte| |vaan| |dat| |vaan| |de| |idioot|,| |vrijwel| |‘|tzelfde| |deil| |höbbe| |vervuld| |es|,| |in| |meziek|,| |de| |begeleiding| |ten| |opziechte| |vaan| |de| |loch|.|"
+Toch|,| |nao| |‘|t| |aonwieze| |vaan| |dees| |kieme| |en| |euvereinkomste|,| |is| |de| |waerde| |vaan| |dit| |gediech| |nog| |altied| |te| |vinde| |in| |zien| |originaliteit|.
+De| |progressieve| |meziek|,| |de| |scenische| |details| |en| |‘|t| |contrastereerde| |leech| |en| |sjeem|,| |–| |bove| |alles|,| |de| |spirituele| |passie| |vaan| |de| |nach|,| |make| |‘|t| |‘|t| |werk| |vaan| |‘|n| |informerende| |genie|.
+Wat| |de| |gruweleke| |vogel| |betröf|,| |is| |heer| |anders| |es| |alle| |aandere| |raeve| |vaan| |zien| |clan|,| |vaan| |de| |"|twa| |corbies|"| |en| |"|drei| |raeve|"| |vaan| |de| |balladiste| |tot| |Barnaby|'s| |gekrommelde| |"|Grip|"|.
+Hei| |is| |gein| |liek| |op| |de| |kawende| |rook| |dee| |veurawwerleke| |tore| |spookt| |en| |‘|t| |veld| |vaan| |de| |heraldiek| |trejt|;
+gein| |bodingsfantoom| |boevaan| |Tickell| |dat| |zong|,| |wie|,
+"|drie| |keer| |op| |häör| |rame| |schreeuwend|,
+De| |raaf| |klapde| |mit| |ziene| |vleugel|,
+Te| |good| |wis| |de| |verleefde| |maedsje
+‘|t| |Plechtege| |bodinggeluid|.|”
+Poe|'s| |raaf| |is| |un| |dudelike| |opvatting|;
+de| |incarnatie| |vaan| |de| |pijn| |en| |hooploosheid| |vaan| |‘|n| |rouwe|;
+‘|n| |sabel| |belichaamde| |Herinnering|,| |de| |blievende| |chronicus| |vaan| |de| |dood|,| |‘|n| |soort| |vaan| |‘|t| |Onherstelbaar|.
+Oontsnap| |euver| |de| |Styx|,| |vaan| |"|de| |Plutoniaanse| |kus| |vaan| |de| |Nach|"|,| |liek| |heer| |de| |gebeelde| |ziel| |vaan| |de| |vraoger| |zelf|,| |-| |vaan| |häöm| |dee| |neet| |kin|,| |neet| |zal|,| |de| |soort| |nepenthe| |drinke|,| |umtot| |de| |herinnering| |aon| |Lenore| |alles| |is| |wat| |häöm| |is| |euvergelaote|,| |en| |mit| |de| |opkoms| |vaan| |zien| |verdriet| |zou| |zelfs| |dat| |opzij| |weure| |gezat|.
+De| |Raaf| |kin| |ouch| |weure| |besjouwd| |es| |‘|n| |representatief| |gediech| |vaan| |zien| |auteur|,| |umtot| |‘|t| |veurbeeld| |is| |vaan| |al| |zien| |noties| |euver| |wat| |‘|n| |gedich| |zouw| |motte| |zien|.
+Dees| |zien| |te| |vinde| |in| |zien| |essays| |euver| |“|Ut| |Poëtische| |Princiep|”|,| |“|De| |Rationale| |vaan| |Vers|”| |en| |“|De| |Filosofie| |vaan| |Compositie|.|”
+Poe| |verklaorde| |dat| |"|in| |meziek|,| |mesjiens|,| |de| |ziel| |bekans| |‘|t| |groete| |doel| |bereik| |boeveur| |ze|,| |es| |‘|t| |geïnspireerd| |weurt| |door| |‘|t| |poëtische| |geveul|,| |worstelt| |-| |de| |creatie| |vaan| |supernal| |Schoonheid|....| |Vers| |kin| |neet| |beter| |weure| |aongeduid| |es| |es| |‘|n| |inferieure| |of| |minder| |capabele| |meziek|"|;
+mer| |nog| |‘|nmaol|,| |‘|n| |vers| |wat| |in| |werkelekheid| |de| |“|Poëzie| |vaan| |Wörter|”| |is|,| |is| |“|De| |Ritmische| |Creatie| |vaan| |Sjoenheid|,|”| |–| |dit| |en| |niks| |mie|.
+De| |toon| |vaan| |de| |hoegste| |Schoonheid| |is| |ein| |vaan| |Droefheid|.
+De| |meis| |melancholische| |oonderwerpe| |is| |de| |doed|.
+Dit| |moot| |gekoppeld| |zien| |aon| |Schoonheid|.
+"|De| |doed|,| |dan|,| |vaan| |‘|n| |prachtige| |vrouw| |is|,| |ongetwiefeld|,| |‘|t| |meis| |poëtische| |oonderwerp| |vaan| |de| |wereld|,| |-| |en| |eve| |is| |‘|t| |ongetwiefeld| |dat| |de| |lippe| |die| |‘|t| |beste| |gesjik| |zien| |veur| |zoe’n| |oonderwerp| |die| |vaan| |‘|n| |berouwde| |minnaar|.|"
+Dees| |lètste| |oetdrökkinge| |zien| |geciteerd| |oet| |Poe|’s| |grillige| |analyse| |vaan| |dit| |gediech|,| |mer| |ze| |geve| |perceis| |‘|t| |algemein| |bereik| |vaan| |zien| |vers| |aon|.
+‘|t| |Huugtepunt| |vaan| |“|The| |Bells|”| |is| |de| |gedempte| |monotoon| |vaan| |ghouls|,| |die| |zich| |gloriere| |in| |‘|t| |weege| |vaan| |‘|t| |minselek| |hart|.
+“|Lenore|”|,| |The| |Raven| |,| |“|The| |Sleeper|”|,| |“|To| |One| |in| |Paradise|”| |en| |“|Ulalume|”| |vörme| |‘|n| |tenbrose| |symfonie|,| |en| |“|Annabel| |Lee|”|,| |es| |lètste| |gesjreve|,| |laot| |zien| |dat| |ein| |thema| |‘|m| |tot| |‘|t| |ind| |bezat|.
+Nog| |‘|nmaol|,| |dit| |zien| |allemaol| |niks| |es| |neet| |muzikale|,| |en| |sommige| |zien| |geraak| |door| |die| |kwaliteit| |vaan| |‘|t| |Fantastisch| |dee| |‘|t| |geveul| |vaan| |ontzag| |wek| |en| |‘|n| |nuie| |angs| |touwvoog| |aon| |de| |pijn| |zelf|.
+Door| |alles| |is| |duuster| |besjreve|,| |oonder| |‘|n| |sjemeleke| |paal|,| |de| |ideale| |leefde| |vaan| |‘|t| |diechter|,| |–| |zoe| |dèks| |elders| |half| |besjreve| |–| |de| |begraofde| |vrouw| |vaan| |Usher|,| |de| |Lady| |Ligeia|,| |in
+[|13|]
+[|13|]
+woerheid| |de| |tegehanger| |vaan| |zien| |eige| |aard|.
+Ich| |dink| |dat| |de| |leefde| |vaan| |‘|n| |kunsteneer| |veur| |emes| |“|in| |de| |vorm|”| |noets| |gans| |kin| |rivalisere| |mit| |zien| |toegewijdheid| |aon| |‘|n| |ideaal|.
+De| |vrouw| |in| |de| |buurt| |vaan| |häöm| |mot| |häör| |spreuke| |oetoefene|,| |allemaol| |op| |beurt| |zien| |en| |niks| |lang|,| |häöm| |charmere| |mit| |oneindige| |versjeieheid|,| |of| |tevreje| |zien| |um| |‘|n| |deil| |vaan| |zien| |trouw| |te| |vergete|.
+Heer| |moot| |weure| |gelok| |door| |‘|t| |Onbereikbaar|,| |en| |dit| |is| |oets| |zjus| |boete| |häöm| |in| |zien| |passie| |veur| |creatieve| |kuns|.
+Poe|,| |zjus| |wie| |Hawthorne|,| |kaom| |in| |mit| |de| |val| |vaan| |de| |romantische| |sjoel|,| |en| |niemand| |waor| |zoe| |plezeer| |es| |heer| |um| |te| |lache| |euver| |de| |ramp|.
+Toch| |waor| |zien| |hart| |bij| |de| |romancers| |en| |hun| |oosterse| |of| |gotische| |effecte|.
+Zien| |oetvinding|,| |zoe| |riek| |aon| |prozaverhaole|,| |leek| |‘|m| |te| |verlaote| |wie| |heer| |verse| |sjreef|;
+en| |zien| |oordeel| |vertèlde| |häöm| |dat| |lange| |romantische| |gediechte| |mie| |aafhenkelek| |waore| |vaan| |incidente| |es| |vaan| |inspiratie|,| |—| |en| |dat|,| |um| |de| |gediechte| |vaan| |de| |romantiek| |oet| |te| |spreke|,| |tekste| |genóg| |zouwe| |zien|.
+Vandaor| |zien| |theorie|,| |duudelek| |pas| |bij| |zien| |eige| |beperkinge|,| |dat| |“|‘|n| |‘|lang| |gedich|’| |‘|n| |platte| |tegestrijdigheid| |is| |in| |terme|.|”
+De| |oonderdeile| |vaan| |The| |Raven| |zien| |wienig| |en| |sumpel|:| |‘|n| |man|,| |‘|n| |vogel| |en| |de| |fantastische| |herinnering| |aon| |‘|n| |vrouw|.
+Maar| |‘|t| |stuk| |gief| |‘|n| |mooie| |weergave| |vaan| |romantisch| |materiaal|.
+Wat| |höbbe| |we|?
+De| |middernach|;
+de| |sjemeleke| |kamer| |mit| |zien| |tomes| |vaan| |vergete| |traditie|;
+de| |student|,| |—| |‘|n| |moderne| |Hieronymus|;
+de| |kraan| |vaan| |de| |raaf| |op| |de| |kast|;
+de| |winternach| |en| |‘|t| |stervend| |vuur|;
+de| |zijdeachtige| |door| |de| |wind| |geveegde| |hingsels|;
+de| |dreume| |en| |vaag| |wantrouwe| |in| |de| |echoende| |duisternis|;
+de| |zwarte|,| |onheilspellende| |vogel| |op| |de| |bleek| |borst|;
+de| |accessoires| |vaan| |violet| |fluweel| |en| |de| |gloeiende| |lamp|.
+Al| |dit| |podiumeffect| |vaan| |situatie|,| |leech|,| |kleur|,| |geluid| |is| |puur| |romantisch| |en| |zelfs| |melodramatisch|,| |mer| |vaan| |‘|n| |poëtische| |kwaliteit| |dee| |melodrama| |zelde| |vertoent|,| |en| |gróndeg| |weerspiegelt| |de| |“|iewege| |passie|,| |iewege| |pijn|”| |vaan| |‘|t| |diechter|.
+De| |ritmische| |structuur| |vaan| |The| |Raven| |zou| |zeker| |‘|n| |indruk| |make|.
+Rijm|,| |alliteratie|,| |de| |las|,| |de| |strofevörm|,| |woorte| |mit| |unieke| |behendigheid| |bedach|.
+Ongetwiefeld| |waor| |de| |diechter| |getroffe| |door| |de| |gesjikheid| |vaan| |Miss| |Barrett|’s| |muzikale| |trochaïek|,| |in| |“|achte|”|,| |en| |veural| |door| |de| |arrangement| |dee| |aon| |‘|t| |eind| |vaan| |“|Lady| |Geraldine|”| |woort| |aongenome|:
+"|'|Ouge|,|'| |zag| |heer|,| |'|die| |noe| |door| |mich| |kloppe|!| |Zien| |geer| |ouge| |die| |mich| |höbbe| |oontruimd|?
+Glanzende| |ouge|,| |wie| |antieke| |juwele| |in| |Pariaanse| |standbeeldsjtein|!
+Ónder| |dat| |kalme| |witte| |veurhoof|,| |zien| |geer| |oets| |vriend| |aan| |‘|t| |brande
+O'er| |de| |verlaote| |zandwoestijn| |vaan| |mien| |hart| |en| |leve| |ongedaon|?|'|"
+Zien| |artistieke| |introductie| |vaan| |‘|n| |derde| |rijm| |in| |zoewel| |de| |twiede| |es| |de| |veerde| |regel|,| |en| |de| |toevoeging| |vaan| |‘|n| |vijfde| |regel| |en| |‘|n| |lètste| |refrain|,| |maakde| |de| |strofe| |vaan| |The| |Raven| |.
+De| |hardnekkige| |alliteratie| |liek| |zonder| |meujte| |te| |komme|,| |en| |dèks| |zien| |de| |rijme| |binne| |regels| |verleidend|;
+onderwieles| |dat| |‘|t| |refrain| |of| |de| |las| |‘|t| |ganse| |werk| |domineert|.
+Hei| |had| |heer| |ouch| |geprofiteerd| |vaan| |Miss| |Barretts| |studie| |vaan| |ballades| |en| |romaunts| |in| |häör| |eige| |en| |aandere| |tale|.
+‘|N| |“|refrain|”| |is| |de| |lokmiddel| |boemèt| |‘|n| |diechter| |of| |muzikant| |‘|t| |dwalende| |oer| |heet|,| |de| |trökkerende| |verlange| |vaan| |de| |natuur| |nao| |de| |ierste| |spanning|.
+Ich| |höb| |altied| |de| |prachtige| |refrains| |vaan| |de| |Ingelse| |zangeres| |bewonderd|,|—|“|The| |Nightingales|,| |the| |Nightingales|,|”| |“|Margret|,| |Margret|,|”| |“|My| |Heart| |and| |I|,|”| |“|Toll| |slowly|,|”| |“|The| |River| |floweth| |on|,|”| |“|Pan|,| |Pan| |is| |dead|,|”| |enz|.| |Ze| |gebruukde| |ouch| |wat| |ich| |de| |Repetend| |neump|,| |in| |‘|t| |gebruuk| |vaan| |Poece|,| |wat| |Poece| |dus| |alle| |poets| |heet| |herleef
+ |het|:
+"|O| |gelukkige| |levende| |wezes|!| |gein| |tong
+Hun| |sjoenegheid| |zou| |kinne| |verklaore|:
+‘|n| |Bron| |vaan| |leefde| |spuitde| |oet| |mien| |hart|,
+En| |ich| |zegeneerde| |ze| |oonbewust|:
+Mien| |aordige| |heilige| |had| |zeker| |medeleefde| |mit| |mich|,
+En| |ich| |höb| |ze| |ónbewust| |gezegend|.|"
+Poe| |creëerde| |de| |vijfde| |regel| |vaan| |zien| |strofe| |veur| |de| |magie| |vaan| |de| |herhaoling|.
+Heer| |vertrouwde| |d’|r| |in| |‘|n| |paar| |latere| |gediechte|,| |“|Lenore|”|,| |“|Annabel| |Lee|”|,| |“|Ulalume|”| |en| |“|For| |Annie|”|.
+‘|t| |Heet| |‘|n| |wilde| |en| |melancholische| |meziek| |gekrege|,| |heet| |ich| |gedach|,| |door| |de| |“|zoete| |invloede|”|,| |vaan| |de| |Afrikaanse| |laste| |en| |herhaolinge| |die| |in| |zien| |kindertied| |veur| |häöm| |woorte| |gezonge|,| |en| |de| |stum| |vaan| |ós| |Zuideleke| |diechter| |mèt| |hun| |inheemse| |melodie| |opstemmend|.
+“|De| |filosofie| |vaan| |compositie|”|,| |zien| |analyse| |vaan| |The| |Raven| |,| |is| |‘|n| |technische| |ontleding| |vaan| |de| |methode| |en| |structuur|.
+Noch| |zien| |bekenning| |vaan| |koudbloedige| |kunstwerk|,| |noch| |zien| |dao|-|op| |volgende| |bekenning| |aon| |vriende| |dat| |‘|n| |blootstelling| |vaan| |dit| |kunstwerk| |mer| |‘|n| |aandere| |vaan| |zien| |intellectuele| |hoaxes| |waor|,| |höbbe| |neet| |gans| |gecrediteerd| |te| |weure|.
+Es| |heer| |‘|t| |ganse| |werk| |vaan| |tevore| |had| |ontworpe|,| |zou| |heer| |nauweliks| |zoe| |sjwoer| |‘|n| |prelude| |vaan| |rattle|-|pan|-|rijme| |höbbe| |gemaak| |veur| |de| |heerleke| |melodie| |vaan| |de| |twiede| |strofe|,| |—| |zelfs| |neet| |op| |zien| |theorie| |vaan| |‘|t| |fantastisch|.
+Natuurlik| |zuut| |‘|n| |kunsteneer|,| |naodet| |‘|n| |werk| |heet| |vervolmaak|,,| |wie| |de| |ierste| |kunsteneer|,| |dat| |‘|t| |good| |is|,| |en| |zuut| |boeveur| |‘|t| |good| |is|.
+‘|n| |Vervolgende| |analyse|,| |gekoppeld| |aon| |‘|n| |oontkinning| |vaan| |‘|n| |heilig| |vuur|,| |kin| |zoe| |good| |genóg| |gemaak| |weure|.
+Mien| |euvertuiging| |is| |dat| |de| |ierste| |idee| |en| |ruwe| |versie| |vaan| |dit| |gediech| |kaom| |es| |inspiratie| |altied| |kump|;
+dat| |de| |auteur| |daonao| |zaog| |wie| |‘|t| |koos| |weure| |vervolmaak|,| |en| |‘|m| |de| |lètste| |touch| |gaof| |die| |in| |zien| |hoofstök| |euver| |Compositie| |besjreve| |zien|,| |en| |dat| |de| |lètste|,| |daorum|,| |noch| |gans| |vals| |noch| |gans| |woer| |is|.
+‘|t| |Sjaoj| |vaan| |zoe’n| |analyse| |is| |dat| |‘|t| |‘|n| |beginner| |verleik| |um| |te| |dinke| |dat| |kunstmaotige| |processe| |de| |verbeelding| |kinne| |vervange|.
+De| |impuls| |vaan| |genie| |is| |um| |de| |geheime| |vaan| |zien| |creatieve| |oer| |te| |bewake|.
+Kiekjes| |vaan| |de| |inspanning|,| |de| |verbaasde| |experimente|,| |die| |veur| |‘|n| |triomf| |veurloupe|,| |wie| |in| |‘|t| |sketchwerk| |vaan| |Hawthorne| |dat| |onlangs| |aon| |‘|t| |leech| |is| |gebrach|,| |geve| |de| |oprechte| |kunsteneer| |onverdiende| |instructie| |en| |aanmoediging|.
+Maar| |ein
+[|14|]
+[|14|]
+dee| |zien| |Muse| |vrijwilleg| |aon| |de| |blik| |vaan| |alle| |komers| |blootstèlt|,| |zou| |zich| |‘|t| |lot| |vaan| |keuning| |Candaules| |motte| |herinnere|.
+De| |wereld| |dink| |nog| |altied| |aon| |Poe| |es| |‘|n| |“|gelukkige| |man| |vaan| |genie|.|”
+Ich| |huurde| |häöm| |onlangs| |geneump| |es| |"|iemes| |dee| |iedereen| |liekent| |te| |verkeerd| |veur| |te| |stèlle|,| |te| |beschuldige| |of| |te| |beslachte|.|"
+Maar| |‘|t| |liek| |mich| |dat| |zien| |ongeluk| |eindigde| |mit| |zien| |belachlike| |doed|,| |en| |dat| |sindsdien| |zien| |verdeidiging| |hardnekkig| |is| |gewees|,| |en| |zien| |beroemdheid| |vaan| |zoe| |vas| |greuj| |es| |‘|n| |lijdende| |en| |begaofde| |auteur| |veur| |koos| |bide| |in| |zien| |hoopvolle| |oor|.
+Griswolds| |beschuldiging| |en| |beslachting| |maakde| |de| |strouming| |in| |zien| |guns|.
+Critici| |en| |biografe| |höbbe| |opeinvolgende| |weerlègkinge| |gekomme|,| |mèt| |eerbetoon| |aon| |zien| |personage|,| |mèt| |nuie| |edities| |vaan| |zien| |werk|.
+Zien| |eige| |brieve| |en| |de| |klein| |incidente| |vaan| |zien| |carrière| |ligke| |veur| |us|;
+‘|t| |record|,| |good| |en| |slech|,| |is| |algemein| |bekind|.
+Gein| |appellant| |heet| |‘|n| |teerder| |en| |vergevingsgezind| |oordeil| |oontvange|.
+Zien| |mislukkinge| |in| |‘|t| |leve| |behuurde| |tot| |zien| |regio| |en| |periood|,| |mesjiens| |nog| |mie| |tot| |zien| |eige| |zwakheid| |vaan| |wil|.
+Ongetwiefeld| |waor| |zien| |umgeving| |neet| |umgeving| |um| |‘|n| |fijnkorrelige|,| |ongebalanceerde| |natuur| |te| |besjerme| |tege| |gevare| |boete| |en| |binne|.
+Zien| |sterkste| |wil|,| |um| |heer| |vaan| |zichzelf| |te| |zien|,| |heet| |veur| |häöm| |"|die| |erfenis| |vaan| |wee|"| |verworve|.
+Heer| |bekinde| |zichzelf| |tot| |de| |ongelukkige| |meister| |vaan| |de| |vogel|,| |de| |getroffe| |lijder| |vaan| |dit| |gediech|.
+Maar| |ziene| |waor| |un| |gans| |deil| |vaan| |dat| |dramatische| |humeur| |dat| |zich| |verheug| |in| |de| |veurspelling| |vaan| |zien| |eige| |dood|.
+D’|r| |is| |‘|n| |plezeer| |in| |‘|t| |spele| |vaan| |de| |hoege| |rol|:| |we| |zien| |allemaol| |gladiatore|,| |Ave| |Imperator|!
+Um| |Burke|’s| |feite| |te| |citeren|:| |“|In| |verdriet| |is| |‘|t| |plezeer| |nog| |ummertouw| |‘|t| |opperste|,| |en| |de| |lijde| |die| |veer| |lijde| |liek| |neet| |op| |absolute| |pijn|,| |dee| |altied| |afsjuurend| |is|,| |en| |dee| |veer| |perbere| |zoe| |snel| |meugelek| |aof| |te| |sjake|.|”
+Poe| |ging| |wiejer| |en| |waor| |zelfs| |in| |de| |tragedie| |vaan| |zien| |carrière| |‘|n| |kunsteneer|.
+Es|,| |volgens| |zien| |eige| |euvertuiging|,| |droefheid| |en| |‘|t| |verdwijne| |vaan| |sjoenegheid| |de| |hoegste| |poëtische| |thema|’s| |zien|,| |en| |poëtische| |geveul| |‘|t| |scherpste| |aardse| |plezeer|,| |dan| |waore| |de| |dreug| |en| |de| |duusternis| |vaan| |zien| |gebroke| |leve| |neet| |zoonder| |hun| |frequente| |compensatie|.
+In| |de| |volgende| |pagina|’s| |höbbe| |veer| |‘|n| |nuuj| |veurbeeld| |vaan| |‘|t| |genialiteit| |vaan| |‘|n| |kunsteneer| |dat| |zien| |interpretatie| |vaan| |‘|n| |bekind| |gedich| |kenmerk|.
+Gustave| |Doré|,| |‘|t| |lètste| |werk| |vaan| |wiens| |potlood| |veur| |us| |steit|,| |waor| |neet| |de| |sjilder|,| |of| |zelfs| |de| |teikenmaan|,| |veur| |realiste| |die| |de| |woerheid| |vaan| |toon|,| |figuur| |en| |perfectie| |eiste|.
+Zoe’n| |zake| |bezörgde| |häöm| |minder| |es| |um| |vörm| |en| |aafsjtand|,| |leech| |en| |sjeem| |te| |make|,| |zien| |doel| |te| |helpe|,| |wat| |waor| |um| |de| |ziel|,| |de| |verbeelding|,| |vaan| |de| |kieker| |op| |te| |wekke|.
+Dit| |deeg| |heer| |door| |ós| |geveul| |vaan| |ontzag| |te| |wekke|,| |door| |middel| |vaan| |wonderbaore| |en| |dèks| |verheve| |opvattinge| |vaan| |dinger| |die| |onuitsprekelik| |zien| |en| |vol| |sjuur| |of| |glorie|.
+‘|t| |Weurt| |good| |gezag| |dat| |es| |zien| |werke| |neet| |geweldige| |sjilderieje| |waore|,| |es| |sjilderieje| |ze| |inderdaad| |geweldig| |zien|.
+Es| |"|literaire| |kunsteneer|"|,| |en| |zoe| |waor| |heer|,| |waor| |zien| |krach| |in| |directe| |verhouding| |mèt| |de| |dramatische| |oetvinding| |vaan| |zien| |auteur|,| |mèt| |de| |dappere| |verwaarloezing| |vaan| |de| |geis| |dee| |zien| |eige| |aonbraok|.
+Vandaor| |zien| |succes| |mit| |Rabelais|,| |mit| |“|Le| |Juif|-|Errant|”|,| |“|Les| |Contes| |Drolatiques|”| |en| |“|Don| |Quixote|”|,| |en| |vandaor|,| |umgedrejd|,| |zien| |mislukking| |um| |de| |sjoenegheid| |vaan| |Tennyson|’s| |Idyle|,| |vaan| |“|Il| |Paradiso|”| |vaan| |de| |Hebriewse| |pastorale| |en| |aandere| |tekste| |die| |verheffing|,| |zoetheid| |en| |repositie| |vereiste|,| |oet| |te| |drukke|.
+Heer| |waor| |‘|n| |gebore| |meister| |vaan| |‘|t| |groteske|,| |en| |door| |‘|n| |speciaal| |inziech| |kós| |heer| |de| |spookers| |vaan| |‘|n| |spookachtige| |brein| |besjrieve|.
+Ver| |zien| |veurwerpe| |wie| |zien| |personages| |ze| |zaoge|,| |en| |mit| |de| |ouge| |vaan| |de| |Dwalende| |Joed|,| |de| |verbaasde| |Don|,| |of| |de| |dochter| |vaan| |de| |gouwsmied| |wiens| |fantasie| |de| |keuning| |in| |de| |winkel| |aon| |de| |Pont|-|au|-|Change| |zoe| |verheerlek|.
+‘|t| |Waor| |in| |de| |aard| |vaan| |de| |dinger| |dat| |heer| |aon| |eder| |meesterwerk| |vaan| |vers| |of| |proza| ​​|zouw| |weure| |aongetrokke| |dat| |ich| |uniek| |höb| |geneump|.
+De| |liegere| |keuninkrieke| |woorte| |in| |zien| |deens| |opgerope|;
+zien| |rotse|,| |buim| |en| |berg|,| |de| |loch| |zelf|,| |zien| |levedig| |mit| |motief| |en| |diabelrie|.
+Es| |heer| |had| |geleef| |um| |Shakespeare| |te| |illustrere|,| |zouwe| |veer| |‘|n| |opmerkeleke| |behandeling| |vaan| |Caliban|,| |de| |hekse|,| |de| |sjtorm| |in| |“|Lear|”| |höbbe| |gezeen|;
+mer| |zou| |zien| |ideale| |vaan| |Imogen| |of| |Miranda| |in| |twiefel| |höbbe| |motte| |stèlle|.
+Sjoenheid| |puur| |en| |simpel|,| |en| |de| |volmaakte| |excellentie| |daovaan|,| |leek| |heer| |zelde| |te| |begriepe|.
+Toch| |is| |d’|r| |sjoenegheid| |in| |zien| |ontwerpe| |veur| |de| |“|Ancient| |Mariner|”|,| |wie| |onreaal| |ze| |ouch| |zien|,| |en| |‘|n| |opeinvolging| |dee| |zeldzaam| |is| |in| |‘|n| |serie| |vaan| |Doré|.
+De| |Rime| |gaof| |häöm| |‘|n| |lang| |verhaol|,| |mèt| |väöl| |versjuivinge| |vaan| |de| |scène|.
+In| |The| |Raven| |behawwe| |geluid| |en| |kleur| |hun| |monotoon| |en| |höbbe| |veer| |gein| |verandering| |vaan| |plaots| |of| |gelegenheid|.
+Wat| |is| |ut| |resultaat|?
+Doré| |gief| |‘|n| |reeks| |variaties| |op| |‘|t| |thema| |wie| |heer| |‘|t| |bedach|,| |“|de| |raaisel| |vaan| |de| |doed| |en| |de| |hallucinatie| |vaan| |‘|n| |ontroostbare| |ziel|.|”
+In| |sommige| |vaan| |dees| |teikeninge| |zien| |zien| |foute| |dudelek|;
+aandere| |onthulle| |zien| |krachtige| |originaliteit|,| |en| |de| |beste| |kwaliteite| |boe|-|in| |heer|,| |es| |teikenmaker|,| |allein| |stong|.
+D’|r| |waor| |duudelik| |get| |gemeens| |tusse| |de| |wèrkstemminge| |vaan| |Poe| |en| |Doré|.
+Dit| |zou| |dudeliker| |lieke| |es| |de| |lètste| |zien| |hand| |had| |geprobeerd| |op| |de| |"|Verhaole| |vaan| |‘|t| |Groteske| |en| |de| |Arabesque|.|"
+Beide| |gebruukde| |ze| |dèks| |‘|t| |elfland| |vaan| |fantasie| |en| |romantiek|.
+In| |melodramatische| |prestaties| |vermijde| |ze| |allebei|,| |door| |hun| |beheersing| |euver| |‘|t| |bovennatuurlik|,| |de| |gevaorgrens| |tusse| |‘|t| |ideaal| |en| |‘|t| |absurd|.
+Poe| |waor| |de| |echte| |aanbidder| |vaan| |de| |Sjoene|;
+zien| |leefde| |veur| |‘|t| |waor| |‘|n| |wiejende| |passie|,| |en| |hei| |maak| |heer| |zien| |illustrator| |los|.
+Diechter| |of| |kunsteneer|,| |De| |doed| |transfigureert| |oeteindelik| |alles|:| |in| |de| |sjeem| |vaan| |zien| |sabelharbinger|,| |stèlt| |Vedder|’s| |symbolische| |kleurpotlood| |ze| |gesjik| |gezich| |tege| |gezich|,| |mer| |umhult| |ze| |mèt| |de| |mantel| |vaan| |oonsterfeleke| |wiesheid| |en| |mach|.
+‘|n| |Amerikaanse| |vrouw| |heet| |‘|t| |beeld| |vaan| |‘|n| |genie| |mit| |de| |sterre|-|oege| |gemaak| |mit| |de| |oeteindelike| |torch|,| |de| |verfijnde| |sjijning| |vaan| |emes| |wiens| |visie| |ziet|,| |mer| |wiens| |lippe| |mesjiens| |neet| |oetspreke|,| |de| |geheimnisse| |vaan| |‘|n| |land| |boete| |“|de| |deur| |vaan| |‘|n| |legende| |graaf|.|”
+Edmund| |C.| |Stedman|.
+‘|T| |GEDICH|.
+Illustratie| |1
+Illustratie| |1
+DE| |RAAF|.
+Eins| |op| |‘|n| |droevig| |middernach|,| |onderwieles| |dat| |ik| |naodrökde|,| |zwak| |en| |vermoeid|,
+Euver| |väöl| |sjarmante| |en| |nuisjierege| |deile| |vaan| |vergete| |tradities|,
+Onderwieles| |dat| |ich| |knikde|,| |bekans| |slaope|,| |kaom| |d’|r| |plotseling| |‘|n| |tik|,
+Zoe| |wie| |iemes| |dee| |zach| |rap|,| |rap| |op| |mien| |kamerdeur|.
+"|D’|r| |is| |‘|n| |bezeuker|,|"| |mompelde| |ich|,| |"|dee| |op| |de| |deur| |vaan| |mien| |kamer| |klop—
+Allein| |dit|,| |en| |niks| |mie|.|”
+Ah|,| |ich| |kin| |mich| |duudelik| |herinnere| |dat| |ut| |in| |de| |duuster| |december| |waor|,
+En| |eder| |apaarte| |stervende| |brand| |smeerde| |zien| |spook| |op| |de| |vloer|.
+Ich| |wensde| |gretig| |de| |mörge|:|—tevergeefs| |had| |ich| |geprobeerd| |um| |te| |liene
+Oet| |mien| |beuk| |kump| |‘|n| |opkoms| |vaan| |verdriet|—|verdriet| |veur| |de| |verlore| |Lenore—
+Veur| |de| |zeldzame| |en| |straolende| |maedsje| |dee| |de| |ingele| |Lenore| |neume—
+Naamloos| |hei| |veur| |eeuwig|.
+En| |‘|t| |zijdeachtige| |droevige| |onzekere| |gerussel| |vaan| |eder| |paorse| |gordijn
+Heet| |mich| |opgewonde| |-| |heet| |mich| |gevöld| |mit| |fantastische| |verschrikkinge| |die| |ich| |nog| |nooit| |veurheen| |höb| |geveuld|;
+Zodat| |ich| |noe|,| |um| |de| |klop| |vaan| |mien| |hart| |te| |stoppe|,| |bleef| |herhaole
+"|D'|r| |is| |'|n| |bezeuker| |die| |um| |binne| |te| |gaon| |bij| |mien| |kamerdeur
+Sommige| |late| |bezeuker| |die| |um| |binne| |te| |gaon| |bij| |de| |deur| |vaan| |mien| |kamer|;|—
+Dit| |is| |‘|t|,| |en| |niks| |mie|.|”
+Op| |‘|t| |momint| |woort| |mien| |ziel| |sterker|;
+aarzelend| |dan| |neet| |langer|,
+"|Menier|,|"| |zag| |ich|,| |"|of| |mevrouw|,| |ech| |smeek| |ich| |eur| |vergeving|;
+Maar| |‘|t| |feit| |is| |dat| |ich| |aon| |‘|t| |slaope| |waor|,| |en| |zoe| |zachtelik| |kaomste| |rappe|,
+En| |zoe| |zwak| |kaomste| |kloppe|,| |kloppe| |op| |mien| |kamerdeur|,
+Dat| |ich| |neet| |zeker| |waor| |dat| |ich| |dich| |heurde|"|—hie| |deeg| |ich| |de| |deur| |groet| |ope|;|—
+Duuster| |is| |dao|,| |en| |niks| |mie|.
+Deep| |in| |dee| |duisternis| |loerend|,| |lang| |bleef| |ich| |dao| |verwonderend|,| |bang|,
+Twiefelende|,| |druime|,| |druime| |die| |gein| |sterveling| |nog| |oets| |heet| |gewaagd| |te| |druime|;
+Maar| |de| |sjtille| |waor| |ononderbroke|,| |en| |de| |duisternis| |gaof| |gein| |teken|,
+En| |ut| |insigste| |woord| |dat| |dao| |woort| |gesproke| |waor| |ut| |geflusterde| |woord|:| |"|Lenore|!|"
+Dit| |fluisterde| |ich|,| |en| |‘|n| |echo| |mompelde| |‘|t| |woord| |trök|:| |“|Lenore|!|”
+Allein| |dit| |en| |niks| |mie|.
+Terug| |in| |de| |kamer| |draaiend|,| |al| |mien| |ziel| |in| |mich| |brandend|,
+Al| |gaw| |huurde| |ich| |weer| |‘|n| |tik|,| |get| |louter| |es| |veurheen|.
+"|Zeker|,|"| |zag| |ich|,| |"|zeker| |dat| |is| |get| |aan| |mien| |raamrooster|;
+Laot| |mich| |dan| |zien| |wat| |d’|r| |is|,| |en| |dit| |mysterie| |verkinne—
+Laot| |mien| |hart| |‘|n| |momint| |stil| |staon| |en| |dit| |mysterie| |verkinne|;|—
+'|T| |is| |de| |wind| |en| |niks| |mier|!|"
+Hei| |ope| |goon| |ich| |de| |sluiter|,| |wie|,| |mit| |väöl| |flirt| |en| |fladder|,
+D’|r| |stapde| |‘|n| |statelike| |Raaf| |vaan| |de| |heilige| |daog| |vaan| |vreuger| |binne|.
+Neet| |de| |minste| |aanbidding| |maakde| |heer|;
+gein| |minuut| |stopde| |of| |bleef| |heer|;
+Maar|,| |mit| |‘|n| |geziech| |vaan| |heer| |of| |dame|,| |baove| |mien| |kamerdeur| |—
+Op| |un| |buste| |vaan| |Pallas| |zjus| |baove| |mien| |kamerdeur—
+Zat|,| |en| |zaot|,| |en| |niks| |mier|.
+Toen| |dees| |ebbenhoutvogel| |verleidt| |mien| |treurige| |fantasie| |um| |te| |glimlache|,
+Door| |de| |ernstige| |en| |strenge| |decorum| |vaan| |‘|t| |gezich| |dat| |‘|t| |droog|,
+"|Hoewel| |eur| |wapen| |is| |gesjeurd| |en| |gescheerd|,| |zit| |geer|,|"| |zag| |ik|,| |"|ziet| |geer| |zeker| |gein| |kroon|,
+Verschrikkelik| |somber| |en| |aajd| |Raaf| |dwaalt| |vaanaof| |de| |Nachtelijke| |kus|,|—
+Vertel| |mich| |wat| |eur| |heerleke| |naam| |is| |op| |de| |Plutoniaanse| |oever| |vaan| |de| |Nach|!|"
+Quoth| |de| |Raaf|,| |"|Noets| |mie|.|"
+Ich| |waor| |väöl| |verwonderd| |op| |dees| |óngemaekelike| |vogel| |um| |zoe| |duudelik| |‘|n| |toespraok| |te| |hure|,
+Alhoewel| |ut| |antwoord| |wieneg| |beteikenis| |had| |-| |wieneg| |relevantie| |had|;
+Want| |ver| |kinne| |d’|r| |neet| |van| |aafkomme| |um| |‘|t| |d’|r| |mit| |in| |te| |gaon| |dat| |gein| |levende| |mins
+Waor| |nog| |altied| |gezegevierd| |mit| |‘|t| |zeen| |vaan| |‘|n| |vogel| |baove| |zien| |kamerdeur—
+Vogel| |of| |bies| |op| |de| |gebeeldhouwde| |borst| |baove| |zien| |kamerdeur|,
+Mit| |de| |naam| |es| |"|Nevermore|.|"
+Maar| |de| |Raaf|,| |eenzaam| |op| |de| |rustig| |borst| |zaot|,| |spraok| |allein
+Dat| |eine| |woord|,| |asof| |zien| |ziel| |in| |dat| |eine| |woord| |heer| |heet| |oetgegoejd|.
+Niks| |wiejer| |dan| |sjreef| |heer| |–| |geine| |veer| |toen| |heer| |fladderde| |–
+Totdat| |ich| |neet| |mie| |es| |mompelde|:| |"|Aandere| |vrun| |zien| |al| |ieder| |gevloge—
+Op| |de| |volgende| |daag| |zal| |heer| |mich| |verlaote|,| |wie| |miene| |hoop| |eerder| |al| |is| |gevloge|.|"
+Toen| |zag| |de| |vogel|:| |"|Noets| |mie|.|"
+Verbaasd| |door| |de| |stilte| |die| |door| |‘|n| |zoe| |treffend| |gesproke| |antwoord| |woort| |gebroke|,
+"|Ongetwiefeld|,|"| |zag| |ich|,| |"|wat| |‘|t| |oetspreek| |is| |zien| |enige| |veurraod| |en| |opslag|,
+Gevange| |door| |‘|n| |ongelukkige| |meester| |die| |ongenadeloze| |Ramp
+Volgde| |snel| |en| |volgde| |sneller| |totdat| |zien| |leedsjes| |eine| |las| |draagde—
+Tot| |de| |rouwe| |vaan| |zien| |hoop| |dee| |melancholische| |las| |draagde
+Vaan| |‘|Noets|—|noets| |mie|.|’|”
+Maar| |de| |Raaf| |verleie| |nog| |altied| |al| |mien| |treurige| |ziel| |um| |te| |glimlache|,
+Iech| |heet| |‘|n| |gepolsterde| |zetel| |veur| |de| |vogel| |en| |de| |borst| |en| |de| |deur| |gewield|;
+Toen|,| |wie| |‘|t| |fluweel| |zonk|,| |begos| |ich| |michzelf| |aan| |‘|t| |verbinde
+Fantasie| |tot| |fantasie|,| |dinkend| |wat| |deze| |onheilspellende| |vogel| |vaan| |vreuger—
+Wat| |deze| |grimmige|,| |ongemakkelijke|,| |verschrikkelijke|,| |mager| |en| |onheilspellende| |vogel| |vaan| |vreuger
+Bedoelt| |in| |‘|t| |krake| |vaan| |“|Noets| |mie|.|”
+Dit| |zat| |ich| |bezig| |mit| |‘|t| |raoje|,| |mer| |gein| |lettergreep| |die| |oetdrökde
+Aan| |de| |vogel| |wiens| |vurige| |ouge| |noe| |in| |de| |kern| |vaan| |mien| |boeze| |brande|;
+Dit| |en| |nog| |mie| |zaot| |ich| |te| |waze|,| |mit| |mien| |kop| |op| |mien| |gemaak| |ligkend
+Op| |de| |fluweelvoering| |vaan| |‘|t| |kussen| |boe|-|op| |‘|t| |lamplich| |gloeide|,
+Maar| |wie| |zien| |fluweel| |violette| |voering| |mit| |‘|t| |lamplich| |dat| |d’|r| |euver| |gloeit
+Ze| |zal| |drukke|,| |ah|,| |noets| |meer|!
+Toen|,| |ik| |dach|,| |woort| |de| |loch| |dichter|,| |geparfumeerd| |door| |‘|n| |oonziechbare| |wieroker
+Gezwange| |door| |serafime| |wier| |vootvalle| |op| |de| |getofde| |vloer| |klinkde|.
+"|Ellendig|,|"| |reep| |ich|,| |"|dien| |God| |heet| |dich| |oetgeliend| |-| |door| |dees| |engele| |heet| |heer| |dich| |gestuurd
+Respijt|—|respijt| |en| |nepenthe| |oet| |dien| |herinneringe| |aan| |Lenore|!
+Quaff|,| |oh| |quaff| |dit| |soort| |nepenthe|,| |en| |vergeet| |deze| |verlore| |Lenore|!|"
+Quoth| |de| |Raaf|,| |"|Noets| |mie|.|"
+"|Profeet|!|"
+zag| |ich|,| |"|ding| |vaan| |kwaod|!|—profeet| |nog| |altied|,| |es| |vogel| |of| |duivel|!|—
+Of| |de| |Verleider| |heet| |gestuurd|,| |of| |of| |de| |störm| |dich| |hei| |op| |land| |heet| |gegoejd|;
+Verlaote| |mer| |toch| |onversjrek|,| |op| |dit| |woestijnland| |betoverd—
+Op| |dit| |hoes| |door| |Horror| |gespook|—|zeg| |mich| |woer|,| |ich| |smeek—
+Is| |d’|r| |–| |is| |d’|r| |balsem| |in| |Gilead|?| |–| |vertel| |mich| |–| |vertel| |mich|,| |ich| |smeek|!|”
+Quoth| |de| |Raaf|,| |"|Noets| |mie|.|"
+"|Profeet|!|"
+zag| |ich|,| |"|ding| |vaan| |kwaod|—|profeet| |nog| |altied|,| |es| |vogel| |of| |duivel|!
+Door| |dee| |Hiemel| |dee| |heibove| |buig|,| |us|—|door| |dee| |God| |dee| |we| |allebei| |aanbidde—
+Vertel| |deze| |ziel| |mit| |verdriet|,| |es|,| |in| |de| |aafgelege| |Aidenn|,
+‘|t| |Zal| |‘|n| |heilige| |maedsje| |vastpakke| |dee| |de| |ingele| |Lenore| |neume—
+Maak| |‘|n| |zeldzame| |en| |straolende| |maedsje| |vast| |dee| |de| |ingele| |Lenore| |neume|.|”
+Quoth| |de| |Raaf|,| |"|Noets| |mie|.|"
+"|Wees| |dat| |woord| |ós| |teike| |vaan| |afsjeid|,| |vogel| |of| |duivel|!|"
+Ich| |schreeuwde|,| |opkommend—
+"|Gao| |dich| |trök| |in| |de| |storm| |en| |de| |Plutonische| |kus| |vaan| |de| |Nach|!
+Laot| |gein| |zwarte| |pluim| |achter| |es| |teken| |vaan| |de| |leugen| |die| |eur| |ziel| |heet| |gesproke|!
+Laot| |mien| |eenzaamheid| |ononderbroke|!|—stop| |de| |buste| |baove| |mien| |deur|!
+Haol| |dien| |snavel| |oet| |mien| |hart|,| |en| |haol| |dien| |vörm| |vaan| |mien| |deur|!|"
+Quoth| |de| |Raaf|,| |"|Noets| |mie|.|"
+En| |de| |Raaf|,| |noets| |vliegend|,| |zit| |nog| |steeds|,| |zit| |nog| |steeds
+Op| |de| |bleek| |borst| |vaan| |Pallas| |zjus| |baove| |de| |deur| |vaan| |mien| |kamer|;
+En| |zien| |ouge| |höbbe| |‘|t| |lieke| |vaan| |‘|n| |demoon| |dee| |druimt|,
+En| |‘|t| |lampleech| |euver| |‘|m| |stroumend| |gooit| |zien| |sjeem| |op| |de| |vloer|;
+En| |mien| |ziel| |oet| |dee| |sjeem| |dee| |op| |de| |vloer| |zweef
+Zal| |weure| |opgeheve|—|noets| |mie|!
