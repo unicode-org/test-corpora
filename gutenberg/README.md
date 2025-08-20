@@ -20,11 +20,14 @@ The following formats are available:
 - `txt`: Paragraphs of the HTML with all tags stripped out.
 - `breakpoints`: Sentences with breakpoints between wordlike tokens indicated with pipe characters `|`.
 
-Note that `txt` contains paragraphs (derived from HTML) whereas `breakpoints` contains sentences (derived from the machine translation model). The sentences might also include translatable content that was not HTML text content, such as `title` attributes.
+Not all books have the same set of output formats or languages.
+
+The `txt` contains paragraphs (derived from HTML) whereas `breakpoints` contains sentences (derived from the machine translation model). The sentences might also include translatable content that was not HTML text content, such as `title` attributes.
 
 The breakpoints are the same as those of the transliteration on translate.google.com. For example, translating the text [The quick brown fox jumps over the lazy dog](https://translate.google.com/?sl=en&tl=th&text=The%20quick%20brown%20fox%20jumps%20over%20the%20lazy%20dog.&op=translate) into Thai produces the following output:
 
 > สุนัขจิ้งจอกสีน้ำตาลกระโดดข้ามสุนัขขี้เกียจอย่างรวดเร็ว
+>
 > S̄unạk̄h cîngcxk s̄ī n̂ảtāl kradod k̄ĥām s̄unạk̄h k̄hī̂ keīyc xỳāng rwdrĕw
 
 The corresponding entry in `out/google/breakpoints/th/filename.txt` would contain:

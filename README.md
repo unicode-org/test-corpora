@@ -6,7 +6,7 @@ Corpora in many languages for testing, evaluating, benchmarking, and training Un
 
 The main content in this repository are books from Project Gutenberg, machine translated by Google. Over 200 languages are represented, with outputs as HTML, txt, and segmented text.
 
-See [./gutenberg/README.md].
+See the [gutenberg](./gutenberg/README.md) directory.
 
 ## Copyright & Licenses
 
