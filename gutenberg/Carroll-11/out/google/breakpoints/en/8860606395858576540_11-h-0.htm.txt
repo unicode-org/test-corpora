@@ -1,0 +1,44 @@
+<title>Alice’s Adventures in Wonderland | Project Gutenberg</title>
+<h2 id="pg-header-heading" title="">The Project Gutenberg eBook of <span id="pg-title-no-subtitle" lang="en" xml:lang="en">Alice's Adventures in Wonderland</span></h2>
+<div>This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at <a class="reference external" href="https://www.gutenberg.org">www.gutenberg.org</a>. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.</div>
+<p><strong>Title</strong>: Alice's Adventures in Wonderland</p>
+<p><strong>Author</strong>: Lewis Carroll</p>
+<p><strong>Release date</strong>: June 27, 2008 [eBook #11]<br/>
+                Most recently updated: June 26, 2025</p>
+<p><strong>Language</strong>: English</p>
+<p><strong>Credits</strong>: Arthur DiBianca and David Widger</p>
+<span>*** START OF THE PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN WONDERLAND ***</span>
+<h1 id="pgepubid00000">Alice’s Adventures in Wonderland</h1>
+<h2>by Lewis Carroll</h2>
+<h4 id="pgepubid00001">THE MILLENNIUM FULCRUM EDITION 3.0</h4>
+<h2 id="pgepubid00002">Contents</h2>
+<a class="pginternal" href="8860606395858576540_11-h-1.htm.html#chap01">CHAPTER I.</a>
+<td>Down the Rabbit-Hole</td>
+<a class="pginternal" href="8860606395858576540_11-h-2.htm.html#chap02">CHAPTER II.</a>
+<td>The Pool of Tears</td>
+<a class="pginternal" href="8860606395858576540_11-h-3.htm.html#chap03">CHAPTER III.</a>
+<td>A Caucus-Race and a Long Tale</td>
+<a class="pginternal" href="8860606395858576540_11-h-4.htm.html#chap04">CHAPTER IV.</a>
+<td>The Rabbit Sends in a Little Bill</td>
+<a class="pginternal" href="8860606395858576540_11-h-5.htm.html#chap05">CHAPTER V.</a>
+<td>Advice from a Caterpillar</td>
+<a class="pginternal" href="8860606395858576540_11-h-6.htm.html#chap06">CHAPTER VI.</a>
+<td>Pig and Pepper</td>
+<a class="pginternal" href="8860606395858576540_11-h-7.htm.html#chap07">CHAPTER VII.</a>
+<td>A Mad Tea-Party</td>
+<a class="pginternal" href="8860606395858576540_11-h-8.htm.html#chap08">CHAPTER VIII.</a>
+<td>The Queen’s Croquet-Ground</td>
+<a class="pginternal" href="8860606395858576540_11-h-9.htm.html#chap09">CHAPTER IX.</a>
+<td>The Mock Turtle’s Story</td>
+<a class="pginternal" href="8860606395858576540_11-h-10.htm.html#chap10">CHAPTER X.</a>
+<td>The Lobster Quadrille</td>
+<a class="pginternal" href="8860606395858576540_11-h-11.htm.html#chap11">CHAPTER XI.</a>
+<td>Who Stole the Tarts?</td>
+<a class="pginternal" href="8860606395858576540_11-h-12.htm.html#chap12">CHAPTER XII.</a>
+<td>Alice’s Evidence</td>

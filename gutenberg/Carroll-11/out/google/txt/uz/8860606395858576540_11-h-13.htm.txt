@@ -1,0 +1,104 @@
+Elisning mo''jizalar mamlakatidagi sarguzashtlari | Gutenberg loyihasi
+
+*** GUTENBERG ELISSA MO'JIZALAR DAYOLDAGI SARJUZLARI HAQIDAGI ELEKTRON LOYIHASI ***
+
+Yangilangan nashrlar avvalgisini almashtiradi — eski nashrlar nomi o‘zgartiriladi.
+
+AQSH mualliflik huquqi qonuni bilan himoyalanmagan bosma nashrlardan asar yaratish bu asarlarga nisbatan hech kim Qoʻshma Shtatlar mualliflik huquqiga ega emasligini anglatadi, shuning uchun Fond (va siz!) uni Qoʻshma Shtatlarda ruxsatisiz va mualliflik huquqi toʻlovini toʻlamasdan nusxalashi va tarqatishi mumkin. Ushbu litsenziyaning Umumiy Foydalanish shartlari qismida keltirilgan maxsus qoidalar PROJECT GUTENBERG™ kontseptsiyasi va savdo belgisini himoya qilish uchun Project Gutenberg™ elektron ishlarini nusxalash va tarqatishda qoʻllaniladi. Project Gutenberg roʻyxatdan oʻtgan savdo belgisidir va agar siz elektron kitob uchun toʻlov olsangiz, undan foydalanish mumkin emas, faqat tovar belgisi litsenziyasi shartlariga rioya qilish, shu jumladan Project Gutenberg savdo belgisidan foydalanganlik uchun royalti toʻlash bundan mustasno. Agar siz ushbu elektron kitobning nusxalari uchun hech narsa to'lamasangiz, savdo belgisi litsenziyasiga rioya qilish juda oson. Siz ushbu elektron kitobdan hosilaviy asarlar, hisobotlar, spektakllar va tadqiqotlar yaratish kabi deyarli har qanday maqsadda foydalanishingiz mumkin. Project Gutenberg elektron kitoblari oʻzgartirilishi, chop etilishi va sovgʻa qilinishi mumkin — siz AQSh mualliflik huquqi toʻgʻrisidagi qonun bilan himoyalanmagan elektron kitoblar bilan Qoʻshma Shtatlarda deyarli HAMMA ishni qilishingiz mumkin. Qayta taqsimlash tovar belgisi litsenziyasiga, ayniqsa tijorat qayta taqsimlanishiga bog'liq.
+
+BOSHLASH: TO‘LIQ LITSENZIYA
+
+GUTENBERG LITSENZIYaSI
+
+BU ISHNI TARQATISH YOKI FOYDALANISHDAN OLDIN BUNI O‘QING.
+
+Ushbu ishni (yoki “Project Gutenberg” iborasi bilan bog'liq bo'lgan har qanday boshqa ishni) ishlatish yoki tarqatish orqali Project Gutenberg™ elektron asarlarning bepul tarqatilishini targ'ib qilish missiyasini himoya qilish uchun siz ushbu faylda yoki www.gutenberg.org/license saytida mavjud bo'lgan To'liq Project Gutenberg™ Litsenziyasining barcha shartlariga rioya qilishga rozilik bildirasiz.
+
+1-bo'lim. Umumiy foydalanish shartlari va loyihasi Gutenberg™ elektron ishlarini qayta taqsimlash
+
+1.A. Ushbu Project Gutenberg™ elektron asarining istalgan qismini oʻqish yoki foydalanish orqali siz ushbu litsenziya va intellektual mulk (savdo belgisi/mualliflik huquqi) shartnomasining barcha shartlarini oʻqiganingizni, tushunganingizni, roziligingizni va qabul qilganingizni bildirasiz. Agar siz ushbu shartnomaning barcha shartlariga rioya qilishga rozi bo'lmasangiz, siz foydalanishni to'xtatishingiz va Project Gutenberg™ elektron asarlarining o'zingizdagi barcha nusxalarini qaytarishingiz yoki yo'q qilishingiz kerak. Agar siz Project Gutenberg™ elektron asarining nusxasini olish yoki unga kirish uchun toʻlovni toʻlagan boʻlsangiz va ushbu shartnoma shartlariga rioya qilishga rozi boʻlmasangiz, 1.E.8-bandda koʻrsatilganidek, toʻlovni toʻlagan shaxs yoki yuridik shaxsdan qaytarib olishingiz mumkin.
+
+1.B. "Project Gutenberg" ro'yxatdan o'tgan savdo belgisidir. U faqat ushbu shartnoma shartlariga rozi bo'lgan odamlar tomonidan elektron ishda ishlatilishi yoki har qanday tarzda bog'lanishi mumkin. Ko'pgina Project Gutenberg™ elektron ishlarida, hatto ushbu shartnomaning to'liq shartlariga rioya qilmasdan ham bajarishingiz mumkin bo'lgan bir nechta narsalar mavjud. Quyidagi 1.C bandiga qarang. Agar siz ushbu shartnoma shartlariga rioya qilsangiz va Project Gutenberg™ elektron ishlariga kelajakda bepul kirishni saqlab qolishga yordam bersangiz, Project Gutenberg™ elektron ishlari bilan koʻp narsalarni qilishingiz mumkin. Quyidagi 1.E bandiga qarang.
+
+1.C. Project Gutenberg adabiy arxiv fondi ("Fond" yoki PGLAF) Project Gutenberg™ elektron asarlar to'plamiga mualliflik huquqiga ega. To'plamdagi deyarli barcha individual asarlar Qo'shma Shtatlarda jamoat mulki hisoblanadi. Agar individual asar Qo'shma Shtatlardagi mualliflik huquqi qonuni bilan himoyalanmagan bo'lsa va siz Qo'shma Shtatlarda bo'lsangiz, Gutenberg loyihasiga barcha havolalar olib tashlangan ekan, biz sizni asar asosida nusxa ko'chirish, tarqatish, ijro etish, ko'rsatish yoki hosilaviy asar yaratishga to'sqinlik qilish huquqiga da'vo qilmaymiz. Albatta, Project Gutenberg™ nomini ish bilan bogʻlangan holda saqlab qolish uchun ushbu shartnoma shartlariga muvofiq Project Gutenberg™ ishlarini erkin almashish orqali elektron asarlarga bepul kirishni targʻib qilish boʻyicha Project Gutenberg™ missiyasini qoʻllab-quvvatlaysiz, deb umid qilamiz. Siz uni boshqalar bilan bepul baham ko'rganingizda, ushbu ishni ilova qilingan to'liq Project Gutenberg™ litsenziyasi bilan bir xil formatda saqlash orqali ushbu shartnoma shartlariga osongina rioya qilishingiz mumkin.
+
+1.D. Siz joylashgan joyning mualliflik huquqi qonunlari ham ushbu ish bilan nima qilishingiz mumkinligini boshqaradi. Ko'pgina mamlakatlarda mualliflik huquqi to'g'risidagi qonunlar doimiy ravishda o'zgarib turadi. Agar siz Qo'shma Shtatlardan tashqarida bo'lsangiz, ushbu ish yoki boshqa Project Gutenberg™ ishlariga asoslangan hosila ishlarni yuklab olish, nusxalash, ko'rsatish, bajarish, tarqatish yoki yaratishdan oldin ushbu shartnoma shartlariga qo'shimcha ravishda mamlakatingiz qonunlarini tekshiring. Jamg'arma Qo'shma Shtatlardan boshqa biron bir mamlakatda biron bir asarning mualliflik huquqi maqomi bo'yicha hech qanday bayonot bermaydi.
+
+1.E. Agar siz Gutenberg loyihasiga barcha havolalarni olib tashlamasangiz:
+
+1.E.1. Project Gutenberg™ litsenziyasiga faol havolalar yoki boshqa zudlik bilan kirish huquqiga ega quyidagi jumla Project Gutenberg™ ishining har qanday nusxasi (“Project Gutenberg” iborasi paydo bo‘lgan yoki “Project Gutenberg” iborasi bilan bog‘langan har qanday ish) kirish, ko‘rsatish, bajarish, ko‘rish, ko‘chirish, ko‘chirishda ko‘zga tashlanadi:
+
+Ushbu elektron kitob Qo'shma Shtatlardagi va dunyoning ko'pgina boshqa qismlarida hech qanday to'lovsiz va deyarli hech qanday cheklovlarsiz istalgan kishi uchun mo'ljallangan. Siz uni nusxalashingiz, berishingiz yoki ushbu elektron kitobga kiritilgan Project Gutenberg litsenziyasi shartlariga muvofiq yoki www.gutenberg.org saytida qayta foydalanishingiz mumkin. Agar siz Qo'shma Shtatlarda bo'lmasangiz, ushbu elektron kitobdan foydalanishdan oldin siz joylashgan mamlakat qonunlarini tekshirishingiz kerak bo'ladi.
+
+1.E.2. Agar individual Project Gutenberg™ elektron ishi AQSh mualliflik huquqi qonuni bilan himoyalanmagan matnlardan olingan bo‘lsa (u mualliflik huquqi egasining ruxsati bilan joylashtirilganligini bildiruvchi bildirishnomani o‘z ichiga olmasa), asardan nusxa olish va hech qanday to‘lov yoki to‘lovlarsiz Qo‘shma Shtatlardagi istalgan kishiga tarqatish mumkin. Agar siz asar bilan bogʻlangan yoki asarda paydo boʻladigan “Project Gutenberg” iborasi bilan asarni qayta tarqatayotgan yoki unga kirishni taʼminlayotgan boʻlsangiz, 1.E.1 dan 1.E.7 gacha boʻlgan bandlar talablariga rioya qilishingiz yoki 1.E.8 yoki 1.E.9-bandlarda koʻrsatilganidek, asardan va Project Gutenberg™ savdo belgisidan foydalanishga ruxsat olishingiz kerak.
+
+1.E.3. Agar individual Project Gutenberg™ elektron asari mualliflik huquqi egasining ruxsati bilan joylashtirilgan boʻlsa, foydalanish va tarqatish 1.E.1 dan 1.E.7 gacha boʻlgan ikkala paragrafga va mualliflik huquqi egasi tomonidan qoʻyilgan har qanday qoʻshimcha shartlarga mos kelishi kerak. Qo'shimcha shartlar ushbu ishning boshida topilgan mualliflik huquqi egasining ruxsati bilan joylashtirilgan barcha ishlar uchun Project Gutenberg™ litsenziyasiga bog'lanadi.
+
+1.E.4. Loyiha Gutenberg™ litsenziyasining toʻliq shartlarini ushbu ishdan yoki ushbu ishning bir qismini oʻz ichiga olgan har qanday fayllardan yoki Project Gutenberg™ bilan bogʻliq boshqa ishlarni ajratmang, ajratmang yoki olib tashlamang.
+
+1.E.5. Ushbu elektron ishni yoki ushbu elektron ishning biron bir qismini faol havolalar bilan yoki Project Gutenberg™ Litsenziyasining toʻliq shartlariga zudlik bilan kirish imkoni boʻlgan 1.E.1 bandida koʻrsatilgan jumlani koʻzga koʻrinmas holda koʻchirmang, namoyish qilmang, bajarmang, tarqatmang yoki qayta tarqatmang.
+
+1.E.6. Siz ushbu asarni har qanday ikkilik, siqilgan, belgilangan, mulkiy bo'lmagan yoki mulkiy shaklda, shu jumladan har qanday so'zni qayta ishlash yoki gipermatn shaklida aylantirishingiz va tarqatishingiz mumkin. Biroq, agar siz Project Gutenberg™ asarining “Plain Vanilla ASCII” formatidan boshqa formatda yoki rasmiy Project Gutenberg™ veb-saytida (www.gutenberg.org) joylashtirilgan rasmiy versiyada qo‘llaniladigan boshqa formatda foydalanishga ruxsat bersangiz yoki ularning nusxalarini tarqatsangiz, foydalanuvchiga hech qanday qo‘shimcha to‘lov, to‘lov yoki xarajatsiz uning nusxasini, nusxasini eksport qilish vositasini yoki asl nusxasini “Vanilla” so‘roviga ko‘ra taqdim etishingiz kerak. ASCII” yoki boshqa shakl. Har qanday muqobil format 1.E.1-bandda ko'rsatilganidek, to'liq Project Gutenberg™ litsenziyasini o'z ichiga olishi kerak.
+
+1.E.7. Agar siz 1.E.8 yoki 1.E.9 bandlariga rioya qilmasangiz, Project Gutenberg™ ishlariga kirish, koʻrish, koʻrsatish, bajarish, nusxalash yoki tarqatish uchun toʻlov olmang.
+
+1.E.8. Project Gutenberg™ elektron ishlarining nusxalari yoki ularga kirish yoki tarqatish uchun siz oʻrtacha toʻlovni olishingiz mumkin, agar:
+
+• Siz amaldagi soliqlarni hisoblashda qo‘llagan usulingiz bo‘yicha hisoblangan Project Gutenberg™ ishlaridan foydalanish natijasida olingan yalpi foydaning 20% miqdorida royalti to‘lovini to‘laysiz. To'lov Project Gutenberg™ savdo belgisi egasiga to'lanadi, lekin u ushbu band bo'yicha royaltilarni Project Gutenberg adabiy arxiv fondiga berishga rozi bo'ldi. Royalti toʻlovlari davriy soliq deklaratsiyasini tayyorlagan (yoki qonuniy ravishda tayyorlashi shart boʻlgan) har bir sanadan keyin 60 kun ichida toʻlanishi kerak. Royalti toʻlovlari aniq belgilanishi va Project Gutenberg adabiy arxiv fondiga 4-boʻlimda koʻrsatilgan manzilga yuborilishi kerak, “Loyiha Gutenberg adabiy arxiv fondiga xayriyalar toʻgʻrisida maʼlumot”.
+
+• Loyiha Gutenberg™ Litsenziyasining toʻliq shartlariga rozi emasligini olganingizdan keyin 30 kun ichida yozma ravishda (yoki elektron pochta orqali) xabardor qilgan foydalanuvchi tomonidan toʻlangan pulni toʻliq qaytarib berasiz. Siz bunday foydalanuvchidan jismoniy tashuvchida mavjud boʻlgan asarlarning barcha nusxalarini qaytarish yoki yoʻq qilish hamda Project Gutenberg™ asarlarining boshqa nusxalaridan toʻliq foydalanish va ularga kirishni toʻxtatishni talab qilishingiz kerak.
+
+• 1.F.3 bandiga muvofiq, agar elektron ishdagi nuqson aniqlansa va ish olingan kundan boshlab 90 kun ichida sizga xabar berilsa, ish uchun toʻlangan pul yoki uning oʻrniga nusxasini toʻliq qaytarib berishni taʼminlaysiz.
+
+• Project Gutenberg™ ishlarini bepul tarqatish uchun siz ushbu shartnomaning barcha boshqa shartlariga rioya qilasiz.
+
+1.E.9. Agar siz Project Gutenberg™ elektron asari yoki asarlar guruhini ushbu shartnomada koʻrsatilganidan farqli shartlar asosida toʻlov olmoqchi yoki tarqatmoqchi boʻlsangiz, Project Gutenberg™ savdo belgisi menejeri Project Gutenberg Literary Archive Foundation’dan yozma ruxsat olishingiz kerak. Quyidagi 3-bo'limda ko'rsatilganidek, Jamg'arma bilan bog'laning.
+
+1.F.
+
+1.F.1. Project Gutenberg ko'ngillilari va xodimlari Project Gutenberg™ to'plamini yaratishda AQSh mualliflik huquqi qonuni bilan himoyalanmagan asarlarni aniqlash, mualliflik huquqi bo'yicha tadqiqotlar o'tkazish, transkripsiya qilish va o'qish uchun katta kuch sarflaydi. Ushbu sa'y-harakatlarga qaramay, Project Gutenberg™ elektron ishlari va ular saqlanishi mumkin bo'lgan muhitda to'liq bo'lmagan, noto'g'ri yoki buzilgan ma'lumotlar, transkripsiya xatolari, mualliflik huquqi yoki boshqa intellektual mulkning buzilishi, nuqsonli yoki shikastlangan disk yoki boshqa vosita, kompyuter virusi yoki kompyuter kodlari o'qiy olmaydigan "nuqsonlar" bo'lishi mumkin.
+
+1.F.2. CHEKLANGAN KAFOLAT, ZARARLARNING RADDATI - 1.F.3-bandda tavsiflangan “Almashtirish yoki to'lovni qaytarish huquqi” bundan mustasno, Project Gutenberg adabiy arxiv fondi, Project Gutenberg™ savdo belgisi egasi va Project Gutenberg™ elektron asarini ushbu shartnoma bo'yicha tarqatuvchi har qanday boshqa tomon, barcha zararlar, shu jumladan yuridik xarajatlar, to'lovlarni o'z zimmangizga oladi. SIZ 1.F.3-bandda ko'zda tutilganlardan tashqari, E'tiborsizlik, qat'iy javobgarlik, KAFOLATNI BUZISH YOKI SHARTNOMANI BUZISH UCHUN HECH QANDAY CHORALAR YO'Qligiga rozilik bildirasiz. SIZ FOYDAQ, SAVDO BORGASI SOG'LIGI VA SHU SHARTNOMA BO'YICHA ISHLAB CHIQISH DISTRIBUTOR SIZ OLDINGDA HAQIQIY, TO'G'OVO'SIY, BOSHIRIB, JAZOLIK YOKIRISH UCHUN JAVOB BO'LMAYISHGA RAZI OLASIZ. BUNDAY ZARAR BERISH MUMKINLIGI HAQIDA OGOHLANTIRISH.
+
+1.F.3. ALSHIRISH YOKI QAYTA BERISH HUQUQI CHEKLANGAN - Agar siz ushbu elektron asarda uni olganingizdan so‘ng 90 kun ichida nuqson aniqlangan bo‘lsa, ishni olgan shaxsga yozma tushuntirish yuborish orqali unga to‘lagan pulingizni (agar mavjud bo‘lsa) qaytarib olishingiz mumkin. Agar siz ishni jismoniy vositada olgan bo'lsangiz, uni yozma tushuntirishingiz bilan qaytarishingiz kerak. Sizga nuqsonli ishni taqdim etgan shaxs yoki tashkilot pulni qaytarish o'rniga uning nusxasini taqdim etishni tanlashi mumkin. Agar siz ishni elektron shaklda olgan bo'lsangiz, uni sizga taqdim etayotgan shaxs yoki tashkilot pulni qaytarish o'rniga sizga ishni elektron tarzda olish uchun ikkinchi imkoniyatni tanlashi mumkin. Agar ikkinchi nusxa ham nuqsonli bo'lsa, muammoni hal qilish uchun boshqa imkoniyatlarsiz yozma ravishda pulni qaytarishni talab qilishingiz mumkin.
+
+1.F.4. 1.F.3-bandda belgilangan almashtirish yoki pulni qaytarishning cheklangan huquqi bundan mustasno, bu ish sizga “XAMDA” HAR QANDAY, OG'ROQ YOKI BOSHQA KAFOLATLAR BO'LGAN, JUMLADAN, MERCHANTITURSE POYLIK KO'RSATISh KAFOLATLARI BILAN CHEKLANMAYDI.
+
+1.F.5. Ba'zi davlatlar ba'zi nazarda tutilgan kafolatlardan voz kechishga yoki zararning ayrim turlarini istisno qilish yoki cheklashga ruxsat bermaydi. Agar ushbu shartnomada ko'rsatilgan har qanday rad etish yoki cheklash ushbu shartnomaga nisbatan qo'llaniladigan davlat qonunchiligini buzsa, shartnoma amaldagi shtat qonunchiligi tomonidan ruxsat etilgan maksimal rad etish yoki cheklash uchun talqin qilinadi. Ushbu shartnomaning biron bir qoidasining haqiqiy emasligi yoki bajarilmasligi qolgan qoidalarni bekor qilmaydi.
+
+1.F.6. TOPLASH - Siz Jamg'armaga, savdo belgisi egasiga, Fondning har qanday agentiga yoki xodimiga, ushbu shartnomaga muvofiq Project Gutenberg™ elektron ishlarining nusxalarini taqdim etuvchi har qanday shaxsga hamda Project Gutenberg™ elektron ishlarini ishlab chiqarish, targ'ib qilish va tarqatish bilan bog'liq har qanday ko'ngillilarga to'lovlarni to'lashga rozilik bildirasiz. ro'y berishi: (a) bu yoki har qanday Project Gutenberg™ ishini tarqatish, (b) har qanday Project Gutenberg™ ishiga o'zgartirishlar, o'zgartirishlar yoki qo'shimchalar yoki o'chirishlar va (c) siz sabab bo'lgan har qanday nuqson.
+
+2-bo'lim. Gutenberg™ loyihasining missiyasi haqida ma'lumot
+
+Project Gutenberg™ - bu eskirgan, eski, o'rta va yangi kompyuterlar kabi eng ko'p kompyuterlar tomonidan o'qilishi mumkin bo'lgan formatlarda elektron ishlarni bepul tarqatish bilan sinonimdir. U yuzlab ko'ngillilarning sa'y-harakatlari va hayotning barcha qatlamlaridagi odamlarning xayr-ehsonlari tufayli mavjud.
+
+Ko'ngillilar va ko'ngillilarga kerakli yordamni ko'rsatish uchun moliyaviy yordam Project Gutenberg™ maqsadlariga erishish va Project Gutenberg™ kolleksiyasi kelajak avlodlar uchun bepul bo'lishini ta'minlash uchun juda muhimdir. 2001 yilda Project Gutenberg adabiy arxiv fondi Project Gutenberg ™ va kelajak avlodlar uchun xavfsiz va doimiy kelajakni ta'minlash uchun yaratilgan. Gutenberg adabiy arxiv fondi loyihasi va sizning sa'y-harakatlaringiz va xayr-ehsonlaringiz qanday yordam berishi haqida ko'proq ma'lumot olish uchun 3 va 4 bo'limlarga va www.gutenberg.org saytidagi Jamg'arma ma'lumotlar sahifasiga qarang.
+
+3-bo'lim. Gutenberg adabiy arxiv fondi loyihasi haqida ma'lumot
+
+Project Gutenberg adabiy arxiv fondi 501(c)(3) notijorat ta’lim korporatsiyasi bo‘lib, Missisipi shtati qonunlari asosida tashkil etilgan va Ichki daromad xizmati tomonidan soliqdan ozod qilingan. Jamg'armaning EIN yoki federal soliq identifikatsiya raqami - 64-6221541. Gutenberg adabiy arxiv fondi loyihasiga badallar AQSh federal qonunlari va shtatingiz qonunlari tomonidan ruxsat etilgan darajada soliqdan chegirib tashlanadi.
+
+Jamg'armaning biznes ofisi 809 North 1500 West, Solt Leyk Siti, UT 84116, (801) 596-1887 manzilida joylashgan. Elektron pochta aloqasi havolalari va dolzarb aloqa ma'lumotlarini Fond veb-saytida va www.gutenberg.org/contact rasmiy sahifasida topishingiz mumkin.
+
+4-bo'lim. Gutenberg adabiy arxiv fondi loyihasiga xayr-ehsonlar haqida ma'lumot
+
+Gutenberg ™ loyihasi jamoat mulki va litsenziyalangan asarlar sonini ko'paytirish bo'yicha o'z missiyasini amalga oshirish uchun keng ko'lamli jamoat yordami va xayriyalariga bog'liq va omon qololmaydi, ular mashinada o'qiladigan shaklda erkin tarqatilishi mumkin bo'lgan eng keng uskunalar, shu jumladan eskirgan uskunalar. Ko'pgina kichik xayriyalar (1 dan 5000 dollargacha) IRS bilan soliqdan ozod qilingan maqomini saqlab qolish uchun ayniqsa muhimdir.
+
+Jamg'arma Qo'shma Shtatlarning barcha 50 shtatlarida xayriya va xayriya ishlarini tartibga soluvchi qonunlarga rioya qilish majburiyatini oladi. Muvofiqlik talablari bir xil emas va bu talablarni qondirish va ularga rioya qilish uchun katta kuch, ko'p hujjatlar va ko'plab to'lovlar talab etiladi. Muvofiqligimiz haqida yozma tasdiq olmagan joylarda biz xayriya so'ramaymiz. HAYYARLAR YUBORISH yoki har qanday davlat uchun muvofiqlik holatini aniqlash uchun www.gutenberg.org/donate saytiga tashrif buyuring.
+
+Biz soʻrov talablarini bajarmagan davlatlardan badal soʻrab ololmaymiz va soʻramaymiz ham, bizga xayriya qilish taklifi bilan murojaat qiladigan bunday davlatlardagi donorlardan nomaqbul xayriyalarni qabul qilishga qarshi hech qanday taqiq yoʻqligini bilamiz.
+
+Xalqaro xayriyalar minnatdorchilik bilan qabul qilinadi, biroq biz Qo'shma Shtatlar tashqarisidan olingan xayriyalar soliqqa tortilishi haqida hech qanday bayonot bera olmaymiz. AQSh qonunlarining o'zi bizning kichik xodimlarimizni botqoq qiladi.
+
+Iltimos, joriy xayriya usullari va manzillari uchun Project Gutenberg veb-sahifalarini tekshiring. Xayr-ehsonlar cheklar, onlayn to'lovlar va kredit karta xayriyalari kabi boshqa usullar bilan qabul qilinadi. Xayriya qilish uchun tashrif buyuring: www.gutenberg.org/donate.
+
+5-bo'lim. Project Gutenberg™ elektron ishlari haqida umumiy ma'lumot
+
+Professor Maykl S. Xart Project Gutenberg™ elektron asarlar kutubxonasi kontseptsiyasining asoschisi bo'lib, uni har kim bilan erkin baham ko'rish mumkin edi. Qirq yil davomida u Project Gutenberg™ elektron kitoblarini ishlab chiqardi va tarqatdi, faqat bo'sh ko'ngillilar tarmog'i bilan.
+
+Project Gutenberg™ elektron kitoblari ko'pincha bir nechta bosma nashrlardan yaratiladi, ularning barchasi mualliflik huquqi to'g'risidagi bildirishnoma kiritilmagan bo'lsa, AQShda mualliflik huquqi bilan himoyalanmaganligi tasdiqlanadi. Shunday qilib, biz elektron kitoblarni har qanday qog'oz nashriga muvofiq saqlashimiz shart emas.
+
+Aksariyat odamlar asosiy PG qidiruv tizimiga ega bo'lgan veb-saytimizda boshlanadi: www.gutenberg.org .
+
+Ushbu veb-saytda Project Gutenberg™ haqidagi maʼlumotlar, jumladan, Project Gutenberg adabiy arxiv fondiga qanday xayriya qilish, yangi elektron kitoblarimizni ishlab chiqarishga qanday yordam berish va yangi elektron kitoblar haqida eshitish uchun elektron pochta xabarnomamizga obuna boʻlish kiradi.
+
