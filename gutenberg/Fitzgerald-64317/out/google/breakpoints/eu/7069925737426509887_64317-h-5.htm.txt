@@ -1,0 +1,129 @@
+The| |Great| |Gatsby|-|ren| |Gutenberg| |proiektua
+***| |GUTENBERG| |PROIEKTUAREN| |AMAIERA| |GATSBY| |HANDIA| |EBOOK| |***
+Eguneratu| |diren| |edizioek| |aurrekoa| |ordezkatuko| |dute|;| |edizio| |zaharrei| |izena| |aldatuko| |zaie|.
+AEBetako| |copyright|-|legeak| |babesten| |ez| |dituen| |inprimatutako| |edizioetatik| |lanak| |sortzeak| |esan| |nahi| |du| |inork| |ez| |duela| |Estatu| |Batuetako| |egile|-|eskubiderik| |lan| |horien| |jabea|,| |beraz| |Fundazioak| |(|eta| |zuk|!|)| |Estatu| |Batuetan| |kopiatu| |eta| |banatu| |ahal| |izango| |dituzu| |baimenik| |gabe| |eta| |egile| |eskubideen| |eskubiderik| |ordaindu| |gabe|.
+Lizentzia| |honen| |Erabilera| |Baldintza| |Orokorretan| |ezarritako| |arau| |bereziak| |Project| |Gutenberg|™| |lan| |elektronikoak| |kopiatzeari| |eta| |banatzeari| |aplikatzen| |zaizkio| |PROJECT| |GUTENBERG|™| |kontzeptua| |eta| |marka| |komertziala| |babesteko|.
+Project| |Gutenberg| |marka| |erregistratua| |da|,| |eta| |ezin| |da| |erabili| |liburu| |elektroniko| |bat| |kobratzen| |baduzu|,| |markaren| |lizentziaren| |baldintzak| |jarraituz| |izan| |ezik|,| |baita| |Project| |Gutenberg| |marka| |komertziala| |erabiltzeko| |eskubideen| |ordainketa| |barne|.
+Liburu| |elektroniko| |honen| |kopiengatik| |ezer| |kobratzen| |ez| |baduzu|,| |oso| |erraza| |da| |markaren| |lizentzia| |betetzea|.
+Liburu| |elektroniko| |hau| |ia| |edozein| |helburutarako| |erabil| |dezakezu|,| |hala| |nola| |lan| |eratorriak|,| |txostenak|,| |emanaldiak| |eta| |ikerketak| |sortzeko|.
+Project| |Gutenberg| |liburu| |elektronikoak| |aldatu| |eta| |inprimatu| |eta| |oparitu| |daitezke|;| |ia| |EDOZEIN| |egin| |dezakezu| |Estatu| |Batuetan| |AEBetako| |copyright|-|legeak| |babestuta| |ez| |dituen| |liburu| |elektronikoekin|.
+Birbanaketa| |markaren| |lizentziaren| |menpe| |dago|,| |batez| |ere| |birbanaketa| |komertziala|.
+HASIERA|:| |LIZENTZI| |OSOA
+PROIEKTU| |OSOA| |GUTENBERG| |LIZENTZIA
+MESEDEZ| |IRAKURRI| |HAU| |LAN| |HAU| |BANATU| |EDO| |ERABILI| |AURRETIK
+Lan| |elektronikoen| |doako| |banaketa| |sustatzeko| |Project| |Gutenberg|™| |misioa| |babesteko|,| |lan| |hau| |erabiliz| |edo| |banatuz| |(|edo| |"|Project| |Gutenberg|"| |esaldiarekin| |lotutako| |beste| |edozein| |lan|)| |onartzen| |duzu| |Full| |Project| |Gutenberg|™| |Lizentziaren| |baldintza| |guztiak| |betetzea| |fitxategi| |honekin| |edo| |sarean| |www.gutenberg.org/license| |helbidean|.
+1.| |atala|.| |Erabilera|-|baldintza| |orokorrak| |eta| |proiektua| |Gutenberg|™| |lan| |elektronikoak| |birbanatzea
+1.A.
+Project| |Gutenberg|™| |lan| |elektronikoaren| |edozein| |zati| |irakurriz| |edo| |erabiliz|,| |lizentzia| |eta| |jabetza| |intelektualaren| |(|marka| |komertziala|/|copyright|)| |hitzarmen| |honen| |baldintza| |guztiak| |irakurri|,| |ulertu|,| |onartzen| |eta| |onartzen| |dituzula| |adierazten| |duzu|.
+Hitzarmen| |honetako| |baldintza| |guztiak| |betetzea| |onartzen| |ez| |baduzu|,| |zure| |esku| |dauden| |Project| |Gutenberg|™| |lan| |elektronikoen| |kopia| |guztiak| |erabiltzeari| |utzi| |eta| |itzuli| |edo| |suntsitu| |behar| |duzu|.
+Project| |Gutenberg|™| |lan| |elektroniko| |baten| |kopia| |bat| |lortzeko| |edo| |sartzeko| |kuota| |ordaindu| |baduzu| |eta| |hitzarmen| |honetako| |baldintzekin| |lotzen| |ez| |bazara| |onartzen|,| |kuota| |ordaindu| |diozun| |pertsona| |edo| |entitatearen| |itzulketa| |lor| |dezakezu| |1.E.8| |paragrafoan| |ezarritakoaren| |arabera|.
+1.B.
+"|Project| |Gutenberg|"| |marka| |erregistratua| |da|.
+Hitzarmen| |honetako| |baldintzak| |betetzea| |onartzen| |duten| |pertsonek| |soilik| |erabil| |dezakete| |lan| |elektroniko| |batean| |edo| |inola| |ere| |lotu|.
+Proiektu| |Gutenberg|™| |lan| |elektroniko| |gehienekin| |egin| |ditzakezun| |gauza| |batzuk| |hitzarmen| |honen| |baldintza| |guztiak| |bete| |gabe| |ere| |egin| |ditzakezu|.
+Ikus| |beheko| |1.C| |paragrafoa|.
+Gauza| |asko| |egin| |ditzakezu| |Project| |Gutenberg|™| |lan| |elektronikoekin| |hitzarmen| |honen| |baldintzak| |betetzen| |badituzu| |eta| |etorkizunean| |Project| |Gutenberg|™| |lan| |elektronikoetarako| |doako| |sarbidea| |gordetzen| |laguntzen| |baduzu|.
+Ikus| |behean| |1.E| |paragrafoa|.
+1.C.
+Project| |Gutenberg| |Literary| |Archive| |Foundation| |(|«|Fundazioa|»| |edo| |PGLAF|)|,| |Project| |Gutenberg|™| |lan| |elektronikoen| |bildumako| |konpilazio|-|eskubideen| |jabea| |da|.
+Bildumako| |lan| |indibidual| |ia| |guztiak| |jabari| |publikokoak| |dira| |Estatu| |Batuetan|.
+Estatu| |Batuetako| |egile|-|eskubide|-|legeak| |babestuta| |ez| |badu| |lan| |banako| |bat| |eta| |Estatu| |Batuetan| |kokatuta| |bazaude|,| |ez| |dugu| |eskubiderik| |aldarrikatzen| |obran| |oinarritutako| |lan| |eratorriak| |kopiatu|,| |banatu|,| |interpretatu|,| |bistaratu| |edo| |sortzea| |eragozteko|,| |betiere| |Gutenberg| |Proiektuari| |buruzko| |erreferentzia| |guztiak| |kentzen| |badira|.
+Jakina|,| |Project| |Gutenberg|™| |lan| |elektronikoetarako| |sarbide| |librea| |sustatzeko| |misioa| |babestuko| |duzula| |espero| |dugu| |Project| |Gutenberg|™| |lanak| |aske| |partekatuz|,| |hitzarmen| |honetako| |baldintzak| |betez|,| |lanarekin| |lotutako| |Project| |Gutenberg|™| |izena| |mantentzeko|.
+Akordio| |honetako| |baldintzak| |erraz| |bete| |ditzakezu| |lan| |hau| |formatu| |berean| |atxikita| |dagoen| |Project| |Gutenberg|™| |Lizentzia| |osoa| |duen| |besteekin| |kobratu| |gabe| |partekatzen| |duzunean|.
+1.D.
+Zu| |zauden| |tokiko| |copyright|-|legeek| |ere| |arautzen| |dute| |zer| |egin| |dezakezun| |lan| |honekin|.
+Herrialde| |gehienetan| |egile| |eskubideen| |legeak| |etengabeko| |aldaketan| |daude|.
+Estatu| |Batuetatik| |kanpo| |bazaude|,| |egiaztatu| |hitzarmen| |honetako| |baldintzez| |gain| |zure| |herrialdeko| |legeak|,| |lan| |honetan| |edo| |Project| |Gutenberg|™| |lanetan| |oinarritutako| |lan| |eratorriak| |deskargatu|,| |kopiatu|,| |erakutsi|,| |antzeztu|,| |banatu| |edo| |sortu| |aurretik|.
+Fundazioak| |ez| |du| |inolako| |adierazpenik| |egiten| |Estatu| |Batuetan| |ez| |den| |beste| |edozein| |herrialdetako| |lanen| |copyright|-|egoerari| |buruz|.
+1.E.
+Gutenberg| |proiektuari| |buruzko| |erreferentzia| |guztiak| |kendu| |ez| |badituzu| |behintzat|:
+1.E.1|.
+Proiektu| |Gutenberg|™| |Lizentzia| |osorako| |esteka| |aktiboak| |edo| |berehalako| |beste| |sarbide| |batzuk| |dituen| |esaldi| |hau| |nabarmen| |agertu| |behar| |da| |Project| |Gutenberg|™| |lan| |baten| |kopia| |bat| |(|«|Project| |Gutenberg|»| |esaldia| |agertzen| |den| |edozein| |lan| |edo| |«|Project| |Gutenberg|»| |esaldia| |lotzen| |den|)| |eskuratzen|,| |bistaratzen|,| |egiten|,| |ikusten|,| |kopiatzen| |edo| |banatzen| |den| |bakoitzean|:
+Liburu| |elektroniko| |hau| |Estatu| |Batuetako| |eta| |munduko| |beste| |leku| |gehienetan| |edonork| |erabiltzeko| |da| |kosturik| |gabe| |eta| |ia| |inolako| |murrizketarik| |gabe|.
+Kopiatu|,| |oparitu| |edo| |berrerabili| |dezakezu| |liburu| |elektroniko| |honekin| |jasotako| |Project| |Gutenberg| |Lizentziaren| |baldintzen| |arabera| |edo| |sarean| |www.gutenberg.org| |helbidean|.
+Estatu| |Batuetan| |ez| |bazaude|,| |kokatuta| |zauden| |herrialdeko| |legeak| |egiaztatu| |beharko| |dituzu| |liburu| |elektroniko| |hau| |erabili| |aurretik|.
+1.E.2|.
+Project| |Gutenberg|™| |lan| |elektroniko| |bat| |AEBetako| |egile|-|eskubide|-|legeak| |babestuta| |ez| |dituen| |testuetatik| |eratortzen| |bada| |(|ez| |du| |egile|-|eskubideen| |jabearen| |baimenarekin| |argitaratzen| |den| |oharrik| |jasotzen|)|,| |lana| |kopiatu| |eta| |banatu| |ahal| |izango| |da| |Estatu| |Batuetan|,| |inolako| |kuota| |edo| |kargurik| |ordaindu| |gabe|.
+"|Project| |Gutenberg|"| |esaldia| |lanarekin| |lotutako| |edo| |agertzen| |den| |lan| |bat| |birbanatzen| |ari| |bazara| |edo| |sarbidea| |ematen| |ari| |bazara|,| |1.E.1.etik| |1.E.7|.| |paragrafoetako| |baldintzak| |bete| |beharko| |dituzu|,| |edo| |obra| |eta| |Project| |Gutenberg|™| |marka| |erregistratzeko| |baimena| |lortu| |behar| |duzu| |1.E.8| |edo| |1.E.9| |paragrafoetan| |ezarritakoaren| |arabera|.
+1.E.3|.
+Project| |Gutenberg|™| |lan| |elektroniko| |bat| |egile|-|eskubideen| |jabearen| |baimenarekin| |argitaratzen| |bada|,| |zure| |erabilerak| |eta| |banaketak| |1.E.1.etik| |1.E.7|.| |paragrafoak| |eta| |copyright|-|jabeak| |ezarritako| |baldintza| |osagarriak| |bete| |beharko| |ditu|.
+Baldintza| |gehigarriak| |Project| |Gutenberg|™| |Lizentziarekin| |lotuko| |dira| |lan| |honen| |hasieran| |aurkitutako| |copyright|-|jabearen| |baimenarekin| |argitaratutako| |lan| |guztientzat|.
+1.E.4|.
+Ez| |deslotu|,| |ez| |kendu| |edo| |kendu| |Project| |Gutenberg|™| |Lizentzia|-|baldintza| |osoak| |lan| |honetatik|,| |ezta| |lan| |honen| |zati| |bat| |edo| |Project| |Gutenberg|™|-rekin| |lotutako| |beste| |edozein| |lan| |duen| |fitxategirik| |ere|.
+1.E.5|.
+Ez| |kopiatu|,| |erakutsi|,| |egin|,| |banatu| |edo| |birbanatu| |lan| |elektroniko| |hau|,| |edo| |lan| |elektroniko| |honen| |zatiren| |bat|,| |1.E.1| |paragrafoan| |ezarritako| |esaldia| |nabarmen| |erakutsi| |gabe| |esteka| |aktiboekin| |edo| |Project| |Gutenberg|™| |Lizentziaren| |baldintza| |osoetarako| |berehalako| |sarbidearekin|.
+1.E.6|.
+Lan| |hau| |bihur| |dezakezu| |eta| |bana| |dezakezu| |edozein| |forma| |bitar|,| |konprimitu|,| |markatua|,| |jabegabea| |edo| |jabeduna|,| |edozein| |testu|-|prozesatzeko| |edo| |hipertestu|-|forma| |barne|.
+Hala| |ere|,| |Project| |Gutenberg|™| |lan| |baten| |kopiak| |"|Plain| |Vanilla| |ASCII|"| |ez| |den| |beste| |formatu| |batean| |edo| |Project| |Gutenberg|™| |webgune| |ofizialean| |(|www.gutenberg.org|)| |argitaratutako| |bertsio| |ofizialean| |erabiltzen| |den| |beste| |formatu| |batean| |sartzen| |badituzu| |edo| |banatzen| |badituzu|,| |erabiltzailearentzako| |kopia| |bat|,| |kopia| |bat| |esportatzeko| |modu| |bat| |edo| |kopia| |bat| |eman| |beharko| |diozu| |jatorrizko| |lana| |lortzeko| |eskatuz| |gero|.
+ASCII|”| |edo| |beste| |era| |batean|.
+Ordezko| |formatu| |guztiek| |Project| |Gutenberg|™| |Lizentzia| |osoa| |izan| |behar| |dute| |1.E.1| |paragrafoan| |zehaztutakoaren| |arabera|.
+1.E.7|.
+Ez| |ezazu| |kuotarik| |kobratu| |Project| |Gutenberg|™| |lanetan| |sartzeko|,| |ikusteko|,| |bistaratzeko|,| |interpretatzeko|,| |kopiatzeko| |edo| |banatzeko| |1.E.8| |edo| |1.E.9| |paragrafoak| |betetzen| |ez| |badituzu|.
+1.E.8|.
+Arrazoizko| |kuota| |bat| |kobra| |dezakezu| |Project| |Gutenberg|™| |lan| |elektronikoen| |kopiak| |edo| |haietara| |sarbidea| |emateagatik| |edo| |banatzeagatik|,| |baldin| |eta|:
+•| |Proiektu| |Gutenberg|™| |obrak| |erabiltzeagatik| |lortzen| |dituzun| |irabazi| |gordinen| |%| |20ko| |eskubide|-|kuota| |ordaintzen| |duzu| |dagoeneko| |zure| |zerga| |aplikagarriak| |kalkulatzeko| |erabiltzen| |duzun| |metodoa| |erabiliz| |kalkulatuta|.
+Kuota| |Project| |Gutenberg|™| |marka| |komertzialaren| |jabeari| |zor| |zaio|,| |baina| |paragrafo| |honen| |arabera| |eskubideen| |dohaintza| |onartu| |du| |Project| |Gutenberg| |Literary| |Archive| |Foundation|-|i|.
+Erregelamenduen| |ordainketak| |aldizkako| |zerga|-|aitorpenak| |prestatzen| |dituzun| |(|edo| |legez| |prestatzea| |behartuta| |dauden|)| |egun| |bakoitzaren| |ondorengo| |60| |eguneko| |epean| |ordaindu| |behar| |dira|.
+Eskubideen| |ordainketak| |argi| |eta| |garbi| |markatuta| |egon| |behar| |dira| |eta| |Project| |Gutenberg| |Literary| |Archive| |Foundation|-|era| |bidali| |behar| |dira| |4.| |atalean| |zehaztutako| |helbidean|,| |"|Proiektuaren| |Gutenberg| |Literary| |Archive| |Foundation|-|i| |egindako| |dohaintzei| |buruzko| |informazioa|"|.
+•| |Idatziz| |(|edo| |posta| |elektronikoz|)| |jakinarazten| |dizun| |erabiltzaile| |batek| |ordaintzen| |duen| |diruaren| |guztizko| |itzulketa| |ematen| |diozu| |jaso| |eta| |30| |eguneko| |epean|,| |Project| |Gutenberg|™| |Lizentzia| |osoaren| |baldintzak| |onartzen| |ez| |dituela|.
+Erabiltzaile| |horri| |euskarri| |fisiko| |batean| |dauzkan| |lanen| |kopia| |guztiak| |itzultzeko| |edo| |suntsitzeko| |eskatu| |behar| |diozu|,| |eta| |Project| |Gutenberg|™| |lanen| |beste| |kopien| |erabilera| |eta| |sarbide| |guztiak| |eten|.
+•| |1.F.3| |paragrafoaren| |arabera|,| |lan| |batengatik| |ordaindutako| |diruaren| |itzulketa| |osoa| |edo| |ordezko| |kopia| |bat| |ematen| |duzu|,| |baldin| |eta| |lan| |elektronikoaren| |akatsen| |bat| |aurkitu| |eta| |jakinarazten| |bazaizu|,| |lana| |jaso| |eta| |90| |eguneko| |epean|.
+•| |Akordio| |honetako| |gainerako| |baldintza| |guztiak| |betetzen| |dituzu| |Project| |Gutenberg|™| |lanak| |dohainik| |banatzeko|.
+1.E.9|.
+Kuota| |bat| |kobratu| |nahi| |baduzu| |edo| |Project| |Gutenberg|™| |lan| |elektronikoa| |edo| |lan|-|talde| |bat| |hitzarmen| |honetan| |ezarritako| |baldintza| |ezberdinetan| |banatu| |nahi| |baduzu|,| |idatziz| |baimena| |lortu| |beharko| |duzu| |Project| |Gutenberg| |Literary| |Archive| |Foundation|-|en|,| |Project| |Gutenberg|™| |markaren| |kudeatzailea|.
+Jarri| |harremanetan| |Fundazioarekin| |beheko| |3.| |atalean| |ezarritako| |moduan|.
+1.F.
+1.F.1|.
+Gutenberg| |proiektuko| |boluntarioek| |eta| |langileek| |ahalegin| |handia| |egiten| |dute| |AEBetako| |copyright|-|legeak| |babesten| |ez| |dituen| |lanak| |identifikatzeko|,| |copyright|-|ikerketak| |egiteko|,| |transkribatzeko| |eta| |zuzentzeko| |Project| |Gutenberg|™| |bilduma| |sortzeko|.
+Ahalegin| |horiek| |izan| |arren|,| |Project| |Gutenberg|™| |lan| |elektronikoak| |eta| |horiek| |gorde| |daitezkeen| |euskarriak| |"|akatsak|"| |izan| |ditzakete|,| |hala| |nola|,| |datu| |osatugabeak|,| |zehaztugabeak| |edo| |hondatuak|,| |transkripzio| |akatsak|,| |copyright| |edo| |jabetza| |intelektualaren| |beste| |urraketa| |bat|,| |disko| |edo| |beste| |euskarri| |akastun| |bat| |edo| |hondatuta|,| |birus| |informatiko| |bat| |edo| |zure| |ekipoak| |kaltetu| |edo| |irakurri| |ezin| |dituen| |ordenagailu|-|kodeak|.
+1.F.2|.
+BERME| |MUGATUA|,| |KALTEEN| |EZESKETA| |-| |1.F.3| |paragrafoan| |deskribatutako| |"|Ordezkatzeko| |edo| |itzultzeko| |eskubidea|"| |izan| |ezik|,| |Project| |Gutenberg| |Literary| |Archive| |Foundation|-|ek|,| |Project| |Gutenberg|™| |markaren| |jabeak| |eta| |hitzarmen| |honen| |arabera| |Project| |Gutenberg|™| |lan| |elektroniko| |bat| |banatzen| |duen| |beste| |edozeinek|,| |zureganako| |erantzukizun| |oro| |baztertzen| |dute| |kalte|,| |kostu| |eta| |lege|-|gastuengatik|.
+ONARTZEN| |DUZU| |EZ| |DITUELA| |ERREKURTSOrik| |EZ| |DITUELA| |USTEKIA|,| |ERANTZUKIZUN| |ZORTZA|,| |BERMEA| |HAUSTE| |EDO| |KONTRATUA| |HAUSTEGATIK| |1.F.3|.
+ONARTZEN| |DUZUE| |FUNDAZIOA|,| |MARKAREN| |JABEA| |ETA| |HITZARMEN| |HONEN| |ARABERA| |EDOZEIN| |BANATZAILEAK| |EZ| |DIRA| |EGINDAKO|,| |ZUZENEKO|,| |ZEHARKAKO|,| |ONDORIOZKO|,| |ZIGORRIK| |EDO| |KALTEREEN| |ERANTZUKIZUNA| |EZ| |DIRA| |EGINDAKO| |KALTEEN| |EGINDAKO|,| |ZUZENEKOA|,| |ZUZENEKOA|,| |ONDORIOZKOA|,| |ZIGORRA| |EDO| |GAINBIDEZKO| |KALTEEN| |EGITEKO| |AUKERA| |EMAN| |BADITUZU| |ERE|.
+1.F.3|.
+ORDEZKETA| |EDO| |ITZULKETA| |ESKUBIDE| |MUGATUA| |-| |Lan| |elektroniko| |honetan| |akatsen| |bat| |antzematen| |baduzu|,| |jaso| |eta| |90| |eguneko| |epean|,| |horrengatik| |ordaindu| |duzun| |diruaren| |(|halakorik| |balego|)| |itzul| |dezakezu|,| |lana| |jaso| |duzun| |pertsonari| |idatzizko| |azalpena| |bidalita|.
+Lana| |euskarri| |fisiko| |batean| |jaso| |baduzu|,| |euskarria| |itzuli| |beharko| |duzu| |idatzizko| |azalpenarekin|.
+Lan| |akastunak| |eman| |zizun| |pertsona| |edo| |entitateak| |ordezko| |kopia| |bat| |ematea| |hauta| |dezake| |itzulketaren| |ordez|.
+Lana| |elektronikoki| |jaso| |baduzu|,| |hura| |ematen| |dizun| |pertsonak| |edo| |entitateak| |bigarren| |aukera| |bat| |ematea| |aukera| |dezake| |lana| |elektronikoki| |jasotzeko|,| |itzulketaren| |ordez|.
+Bigarren| |kopia| |ere| |akastuna| |bada|,| |idatziz| |itzultzeko| |eska| |dezakezu| |arazoa| |konpontzeko| |aukerarik| |gabe|.
+1.F.4|.
+1.F.3| |paragrafoan| |ezarritako| |ordezkatzeko| |edo| |itzultzeko| |eskubide| |mugatua| |izan| |ezik|,| |lan| |hau| |"|BELEAN|"| |ematen| |zaizu|,| |EZ| |DAGO| |BESTE| |BERME| |EZ|,| |ADIERAZKO| |EDO| |INPLIZITUZ|,| |MERKATARITZARAKO| |EDO| |HELBURUTARAKO| |EGOKITASUNAREN| |BERMEAK| |BARNE|,| |EZ|.
+1.F.5|.
+Estatu| |batzuek| |ez| |dute| |onartzen| |berme| |inplizitu| |batzuei| |uko| |egitea| |edo| |kalte| |mota| |batzuk| |baztertzea| |edo| |mugatzea|.
+Hitzarmen| |honetan| |ezarritako| |edozein| |uko| |edo| |mugak| |hitzarmen| |honi| |aplikatzen| |zaion| |estatuko| |legea| |urratzen| |badu|,| |hitzarmena| |aplikatuko| |den| |estatuko| |legeak| |onartzen| |duen| |gehieneko| |uko| |edo| |muga| |egiteko| |interpretatuko| |da|.
+Hitzarmen| |honen| |edozein| |xedapen| |baliogabetzeak| |edo| |bete| |ezinak| |ez| |ditu| |gainerako| |xedapenak| |baliogabetuko|.
+1.F.6|.
+KALDE|-|KALDEAK| |-| |Fundazioa|,| |markaren| |jabea|,| |Fundazioko| |edozein| |agente| |edo| |langile|,| |hitzarmen| |honen| |arabera| |Project| |Gutenberg|™| |lan| |elektronikoen| |kopiak| |ematen| |dituen| |edonork| |eta| |Project| |Gutenberg|™| |lan| |elektronikoen| |ekoizpen|,| |sustapen| |eta| |banaketarekin| |lotutako| |edozein| |boluntario|,| |erantzukizun|,| |kostu| |eta| |gastu| |guztietatik| |salbuetsita| |edukitzea| |onartzen| |duzu|,| |zuzenean| |edo| |zeharka| |ondorengo| |banaketagatik| |sortzen| |diren| |legezko| |tasak| |barne|.
+Project| |Gutenberg|™| |lan| |honen| |edo| |edozein| |Project| |Gutenberg|™| |lanaren|,| |(|b|)| |Project| |Gutenberg|™| |lanaren| |aldaketa|,| |aldaketa| |edo| |gehitzeak| |edo| |ezabaketak|,| |eta| |(|c|)| |zuk| |eragiten| |duzun| |edozein| |akats|.
+2.| |atala|.| |Gutenberg|™| |Proiektuaren| |Misioari| |buruzko| |informazioa
+Project| |Gutenberg|™| |lan| |elektronikoen| |doako| |banaketaren| |sinonimoa| |da| |ordenagailu| |askotarikoek| |irakur| |daitezkeen| |formatuetan|,| |zaharkituak|,| |zaharrak|,| |adin| |ertainak| |eta| |berriak| |barne|.
+Ehunka| |boluntarioren| |ahaleginagatik| |eta| |bizitzako| |esparru| |guztietako| |pertsonen| |dohaintzagatik| |existitzen| |da|.
+Boluntarioek| |behar| |duten| |laguntza| |emateko| |boluntarioak| |eta| |laguntza| |ekonomikoa| |funtsezkoak| |dira| |Project| |Gutenberg|™|-ren| |helburuak| |lortzeko| |eta| |Project| |Gutenberg|™| |bilduma| |datozen| |belaunaldientzat| |doan| |egongo| |dela| |ziurtatzeko|.
+2001ean|,| |Project| |Gutenberg| |Literary| |Archive| |Foundation| |sortu| |zen| |Project| |Gutenberg|™| |eta| |etorkizuneko| |belaunaldiei| |etorkizun| |seguru| |eta| |iraunkor| |bat| |eskaintzeko|.
+Project| |Gutenberg| |Literary| |Archive| |Foundation|-|i| |buruz| |eta| |zure| |ahaleginek| |eta| |dohaintzek| |nola| |lagun| |dezaketen| |jakiteko|,| |ikusi| |3.| |eta| |4.| |atalak| |eta| |Fundazioaren| |informazio| |orria| |www.gutenberg.org| |helbidean|.
+3.| |atala|.| |Gutenberg| |Literatur| |Artxiboa| |Fundazioari| |buruzko| |informazioa
+Project| |Gutenberg| |Literary| |Archive| |Foundation| |irabazi|-|asmorik| |gabeko| |501| |(|c|)| |(|3|)| |hezkuntza| |korporazio| |bat| |da|,| |Mississippi| |estatuko| |legeen| |arabera| |antolatua| |eta| |Barne| |Ogasun| |Zerbitzuak| |zerga| |salbuetsitako| |estatusa| |eman| |duena|.
+Fundazioaren| |EIN| |edo| |identifikazio| |fiskalaren| |zenbakia| |64-6221541| |da|.
+Project| |Gutenberg| |Literary| |Archive| |Foundation|-|erako| |ekarpenak| |zerga| |kengarriak| |dira| |AEBetako| |lege| |federalek| |eta| |zure| |estatuko| |legeek| |onartzen| |duten| |neurrian|.
+Fundazioaren| |negozio| |bulegoa| |809| |North| |1500| |West|,| |Salt| |Lake| |City|,| |UT| |84116|,| |(|801|)| |596-1887| |helbidean| |dago|.
+Posta| |elektronikoko| |harremanetarako| |estekak| |eta| |eguneratutako| |harremanetarako| |informazioa| |Fundazioaren| |webgunean| |eta| |www.gutenberg.org/contact| |orrialde| |ofizialean| |aurki| |daitezke|.
+4.| |atala|.| |Gutenberg| |Literatur| |Artxiboa| |Proiektuaren| |Fundazioari| |egindako| |dohaintzei| |buruzko| |informazioa
+Gutenberg|™| |proiektua|,| |eta| |ezin| |du| |bizirik| |iraun| |laguntza| |publiko| |eta| |dohaintzarik| |gabe|,| |domeinu| |publikoko| |eta| |lizentziadun| |lan| |kopurua| |handitzeko| |eginkizuna| |betetzeko|,| |makinaz| |irakur| |daitekeen| |moduan| |eskuragarri| |dauden| |ekipamendu| |sorta| |zabalenak| |barne|,| |ekipamendu| |zaharkituak| |barne|.
+Dohaintza| |txiki| |asko| |(|$| |1| |eta| |$| |5,000|)| |bereziki| |garrantzitsuak| |dira| |IRSrekin| |zerga|-|salbuespen| |egoera| |mantentzeko|.
+Fundazioak| |konpromisoa| |hartu| |du| |Estatu| |Batuetako| |50| |estatu| |guztietan| |ongintzazko| |erakundeak| |eta| |ongintzazko| |dohaintzak| |arautzen| |dituzten| |legeak| |betetzeko|.
+Betetze|-|eskakizunak| |ez| |dira| |uniformeak| |eta| |esfortzu| |handia|,| |tramite| |asko| |eta| |kuota| |asko| |behar| |dira| |eskakizun| |horiek| |betetzeko| |eta| |betetzeko|.
+Ez| |dugu| |dohaintzarik| |eskatzen| |betetzearen| |berrespen| |idatzia| |jaso| |ez| |dugun| |tokietan|.
+DOhaintzak| |bidaltzeko| |edo| |edozein| |estatu| |jakin| |baten| |betetze|-|egoera| |zehazteko|,| |bisitatu| |www.gutenberg.org/donate|.
+Eskaera| |eskakizunak| |bete| |ez| |ditugun| |estatuen| |ekarpenak| |ezin| |ditugu| |eta| |eskatu| |ez| |arren|,| |ez| |dakigu| |dohaintza|-|eskaintzak| |eskaintzen| |dizkiguten| |estatu| |horietako| |emaileen| |eskatu| |gabeko| |dohaintzak| |onartzeko| |debekurik|.
+Nazioarteko| |dohaintzak| |esker| |onez| |onartzen| |dira|,| |baina| |ezin| |dugu| |inolako| |adierazpenik| |egin| |Estatu| |Batuetatik| |kanpo| |jasotako| |dohaintzen| |zerga| |tratamenduari| |buruz|.
+AEBetako| |legeek| |bakarrik| |gure| |langile| |txikiak| |izurtzen| |dituzte|.
+Mesedez|,| |begiratu| |Project| |Gutenberg| |web|-|orrietan| |egungo| |dohaintza|-|metodoak| |eta| |helbideak| |ikusteko|.
+Dohaintzak| |beste| |hainbat| |modutan| |onartzen| |dira|,| |besteak| |beste|,| |txekeak|,| |lineako| |ordainketak| |eta| |kreditu|-|txartelen| |dohaintzak|.
+Dohaintza| |emateko|,| |bisitatu|:| |www.gutenberg.org/donate|.
+5.| |atala|.| |Gutenberg|™| |proiektu| |elektronikoei| |buruzko| |informazio| |orokorra
+Michael| |S.| |Hart| |irakasleak| |Project| |Gutenberg|™| |kontzeptuaren| |sortzailea| |izan| |zen| |edonorekin| |libreki| |parteka| |zitekeen| |lan| |elektronikoen| |liburutegi| |baten| |sortzailea|.
+Berrogei| |urtez|,| |Project| |Gutenberg|™| |liburu| |elektronikoak| |ekoitzi| |eta| |banatu| |zituen| |boluntarioen| |laguntza| |sare| |solte| |batekin|.
+Project| |Gutenberg|™| |liburu| |elektronikoak| |hainbat| |inprimatutako| |edizioetatik| |sortu| |ohi| |dira|,| |eta| |horiek| |guztiak| |AEBetan| |egile|-|eskubideen| |bidez| |babestuta| |ez| |daudela| |baieztatzen| |dira|,| |copyright|-|oharra| |sartzen| |ez| |bada|.
+Beraz|,| |ez| |ditugu| |nahitaez| |liburu| |elektronikoak| |paperezko| |edizio| |jakin| |bat| |betetzen|.
+Jende| |gehienak| |gure| |webgunean| |hasten| |dira|,| |zeinak| |PG| |bilaketa|-|instalazio| |nagusia| |duen|:| |www.gutenberg.org|.
+Webgune| |honek| |Project| |Gutenberg|™|-ri| |buruzko| |informazioa| |biltzen| |du|,| |besteak| |beste|,| |Project| |Gutenberg| |Literary| |Archive| |Foundation|-|ari| |dohaintzak| |nola| |egin|,| |gure| |liburu| |elektroniko| |berriak| |sortzen| |nola| |lagundu| |eta| |gure| |posta| |elektronikoko| |buletinara| |nola| |harpidetu| |liburu| |elektroniko| |berrien| |berri| |izateko|.

@@ -1,0 +1,693 @@
+Ing| |Project| |Gutenberg| |eBook| |ning| |The| |Great| |Gatsby
+III
+Atin| |yang| |musika| |ibat| |keng| |bale| |ning| |siping| |kung| |bale| |keng| |bengi| |ning| |tag|-|init|.
+kareng| |kayang| |asul| |a| |hardin| |ding| |lalaki| |ampo| |ding| |dalagang| |daratang| |la| |ampo| |mamako| |la| |kalupa| |da| |reng| |kulisap| |libutad| |da| |reng| |bulong| |ampo| |ding| |champagne| |ampo| |ding| |batuin|.
+keng| |matas| |a| |danum| |keng| |gatpanapun|,| |linawe| |ku| |kareng| |kayang| |bisita| |a| |mag| |dive| |ibat| |keng| |tower| |ning| |kayang| |balsa|,| |o| |maglawe| |keng| |aldo| |keng| |mapaling| |balas| |ning| |kayang| |pampang| |kabang| |ding| |adwang| |motorboat| |na| |mag| |slit| |la| |keng| |danum| |ning| |Sound|,| |magdrowing| |lang| |aquaplanes| |babo| |ning| |cataracts| |of| |foam|.
+keng| |weekend| |ing| |kayang| |Rolls|-|Royce| |meging| |yang| |omnibus|,| |magdalang| |party| |papunta| |at| |pabalik| |keng| |siudad| |pilatan| |ning| |alas| |nuebe| |ning| |abak| |angga| |na| |keng| |gatpanapun|,| |kabang| |ing| |kayang| |station| |wagon| |maglakbe| |yang| |kalupa| |ning| |metung| |a| |mabilis| |a| |dilaw| |a| |bug| |para| |akit| |nala| |deng| |tren|.
+At| |keng| |lunes| |walung| |talasuyu|,| |kayabe| |na| |ing| |metung| |a| |dagdag| |a| |hardinero|,| |magobra| |lang| |mabilug| |a| |aldo| |kareng| |mops| |ampo| |scrubbing|-|brushes| |ampo| |martilyu| |ampo| |garden|-|shears|,| |a| |mag|-|ayus| |kareng| |ravages| |ning| |benging| |milabas|.
+Balang| |byernis| |limang| |crate| |ning| |oranges| |ampo| |lemons| |ing| |daratang| |ibat| |keng| |metung| |a| |fruiterer| |keng| |New| |York|—|balang| |lunes| |deng| |parehung| |oranges| |ampo| |lemons| |lulual| |la| |keng| |gulut| |nang| |pasbul| |keng| |metung| |a| |pyramid| |a| |pulpless| |halves|.
+Atin| |metung| |a| |makina| |keng| |kusina| |na| |makalual| |keng| |katas| |da| |reng| |adwang| |dalan| |a| |orange| |kilub| |ning| |kapitna| |ning| |oras| |nung| |ing| |malating| |buton| |pindutan| |yang| |adwang| |dalan| |a| |besis| |keng| |taliri| |ning| |mayordomo|.
+Misan| |mu| |keng| |aduang| |duminggu| |ing| |metung| |a| |grupu| |da| |reng| |caterers| |kukuldas| |lang| |ating| |dalan| |a| |talampakan| |a| |canvas| |ampo| |sapat| |a| |kule| |a| |sulu| |para| |gawang| |Christmas| |tree| |ning| |maragul| |a| |hardin| |nang| |Gatsby|.
+kareng| |lamesa| |ning| |buffet|,| |maka|-|garnish| |kareng| |glistening| |hors|-|d'oeuvre|,| |spiced| |baked| |hams| |maka|-|crowd| |la| |kareng| |salads| |a| |harlequin| |designs| |ampo| |pastry| |pigs| |ampo| |turkeys| |a| |maka|-|bewitched| |keng| |dark| |gold|.
+keng| |main| |hall| |metung| |a| |bar| |a| |ating| |tune| |brass| |rail| |ing| |mitalakad|,| |ampo| |atin| |yang| |gins| |ampo| |alak| |ampo| |cordials| |na| |makalingwan| |na| |na| |keraklan| |kareng| |babaing| |bisita| |na| |masyadu| |lang| |kayanakan| |para| |akilala| |de| |ing| |metung| |at| |metung|.
+keng| |alas| |siete| |miras| |ne| |ing| |orchestra|,| |alang| |manipis| |a| |limang| |pirasu|,| |pero| |metung| |yang| |mabilug| |a| |pitful| |a| |oboes| |ampo| |trombones| |ampo| |saxophones| |ampo| |viols| |ampo| |cornets| |ampo| |piccolos|,| |ampo| |mababa| |ampo| |matas| |a| |tambol|.
+Deng| |tauling| |talalango| |linub| |la| |ibat| |keng| |pampang| |ngeni| |at| |magdamit| |la| |babo|;
+ding| |saken| |ibat| |new| |york| |makaparada| |lang| |limang| |kalalam| |keng| |drive|,| |ampo| |ding| |hall| |ampo| |salons| |ampo| |verandas| |gaudy| |la| |kareng| |mumunang| |kule|,| |ampo| |buak| |a| |makabuklat| |keng| |bayung| |paralan|,| |ampo| |shawls| |a| |lampas| |keng| |pangarap| |ning| |Castile|.
+Ing| |bar| |atyu| |ya| |keng| |full| |swing|,| |ampo| |ding| |mangalating| |cocktails| |lulub| |la| |keng| |garden| |kilwal|,| |anggang| |ing| |angin| |mabie| |ya| |keng| |chatter| |ampo| |tawa|,| |ampo| |casual| |innuendo| |ampo| |introductions| |a| |akalingwan| |keng| |lugal|,| |ampo| |masigasig| |a| |pamitipun| |da| |reng| |babaing| |e| |ra| |balu| |ing| |lagyu| |ning| |metung| |at| |metung|.
+Deng| |sulu| |mas| |maslag| |la| |kabang| |ing| |yatu| |lalapit| |ya| |keng| |aldo|,| |at| |ngeni| |ing| |orchestra| |maglarin| |yang| |yellow| |cocktail| |music|,| |at| |ing| |opera| |da| |reng| |siwala| |mas| |matas| |ya|.
+Ing| |tawa| |mas| |mayan| |ya| |minutu|-|minutu|,| |mibubu| |ya| |keng| |prodigality|,| |mibubu| |ya| |keng| |masayang| |amanu|.
+Deng| |grupu| |mas| |mabilis| |lang| |magbayu|,| |daragul| |la| |kareng| |bayung| |datang|,| |lulutu| |la| |ampo| |bubuu| |la| |keng| |metung| |mung| |pangisnawa|;
+atin| |nang| |maglakbe|,| |matapang| |a| |dalagang| |mag|-|weave| |keni| |at| |karin| |kareng| |mas| |matatag| |at| |mas| |matatag|,| |maging| |lang| |mataram|,| |masayang| |penandit| |ing| |sentru| |ning| |metung| |a| |grupu|,| |at| |kaybat|,| |excited| |king| |tagumpe|,| |mag|-|glide| |la| |king| |dayatmalat| |a| |pamagbayu| |da| |reng| |lupa| |at| |siwala| |at| |kule| |lalam| |ning| |parating| |pamagbayu| |ning| |sala|.
+Bigla| |yang| |metung| |kareng| |gypsies|,| |maka|-|trembling| |opal|,| |kinua| |ne| |ing| |cocktail| |keng| |angin|,| |binili| |ne| |para| |keng| |katapangan| |at|,| |kikimut| |ya| |kareng| |gamat| |na| |kalupa| |nang| |Frisco|,| |sinayaw| |yang| |magdili|-|dili| |keng| |canvas| |platform|.
+metung| |a| |saglit| |a| |katahimikan|;
+ing| |lider| |ning| |orchestra| |magbayu| |ya| |keng| |rhythm| |na| |para| |kaya|,| |at| |atin| |yang| |burst| |ning| |chatter| |kabang| |ing| |mali| |a| |balita| |mipapalibut| |ya| |na| |ya| |ing| |understudy| |nang| |Gilda| |Gray| |ibat| |kareng| |Follies|.
+Magumpisa| |na| |ing| |party|.
+Maniwala| |ku| |na| |keng| |mumunang| |bengi| |na| |minta| |ku| |keng| |bale| |nang| |Gatsby| |metung| |ku| |kareng| |mapilan| |a| |bisita| |na| |me|-|imbita|.
+E| |la| |inagyag| |deng| |tau|—|punta| |la| |karin|.
+Sinake| |la| |kareng| |saken| |a| |migdala| |karela| |papunta| |Long| |Island|,| |at| |e| |man| |makanyan| |miras| |la| |keng| |pasbul| |nang| |Gatsby|.
+Inyang| |miras| |la| |karin|,| |pepakilala| |na| |la| |ning| |metung| |a| |taung| |makikilala| |kang| |Gatsby|,| |at| |kaybat| |na| |nita|,| |mig|-|ugali| |la| |agpang| |kareng| |tuntunan| |ning| |pamibiebie| |a| |makasuglung| |king| |metung| |a| |amusement| |park|.
+Minsan| |datang| |la| |at| |mako| |la| |na| |alang| |akatagmu| |kang| |Gatsby|,| |datang| |la| |para| |keng| |party| |na| |ating| |simpling| |pusu| |na| |ing| |sarili| |nang| |ticket| |ning| |pamaglub|.
+Aku| |talaga| |ing| |me|-|imbita|.
+Metung| |a| |chauffeur| |a| |maka| |unipormi| |robin's|-|egg| |blue| |ing| |linabas| |keng| |lawn| |ku| |maranun| |keng| |abak| |ning| |sabado| |a| |maki| |makabigla| |a| |pormal| |a| |sulat| |ibat| |keng| |kayang| |amo|:| |ing| |dangalan| |maging| |ganap| |yang| |kang| |Gatsby|,| |ngana|,| |nung| |munta| |ku| |keng| |kayang| |"|malating| |party|"| |keng| |benging| |ita|.
+Ikit| |na| |kung| |marakal| |a| |besis|,| |at| |balak| |na| |kung| |ausan| |kanitang| |minuna|,| |pero| |metung| |a| |kakaibang| |kombinasyun| |da| |reng| |sitwasyun| |ing| |mekapag|-|abala| |kaniti|—|pinirmahan| |neng| |Jay| |Gatsby|,| |king| |metung| |a| |mangasanting| |a| |gamat|.
+Makapiblas| |kung| |maputing| |flannels| |minta| |ku| |keng| |lawn| |na| |kaybat| |ning| |alas| |siete|,| |at| |miglakbe| |kung| |alang| |kapayapan| |kareng| |swirls| |ampo| |eddies| |da| |reng| |taung| |eku| |balu|—|pero| |keni| |at| |karin| |atin| |kung| |apansinan| |a| |lupa| |keng| |commuting| |train|.
+agad| |kung| |mebigla| |keng| |bilang| |da| |reng| |kayanakan| |a| |english| |a| |makatuknang|;
+makapiblas| |la| |ngan|,| |balamu| |daranup| |la| |ngan|,| |at| |magsalita| |lang| |mababang| |siwala| |kareng| |solidu| |at| |masagana| |a| |amerikanu|.
+siguradu| |ku| |na| |atin| |lang| |pisasali|:| |bond| |o| |insurance| |o| |saken|.
+Ila| |at| |least| |agonizingly| |aware| |la| |keng| |madaling| |pera| |keng| |paligid| |at| |kumbinsidu| |la| |na| |ila| |ing| |karela| |para| |kareng| |mapilan| |a| |amanu| |keng| |ustung| |susi|.
+Inyang| |miras| |ku|,| |sinubukan| |kung| |panintunan| |ing| |kanakung| |host|,| |pero| |ding| |adwa| |o| |atlung| |taung| |kitnan| |ku| |nung| |nukarin| |ya| |linawe| |la| |kanaku| |king| |makabigla| |a| |paralan|,| |at| |tinanggi| |lang| |masikan| |king| |nanu| |mang| |balu| |da| |king| |kayang| |kimut|,| |inya| |miglakbe| |ku| |papunta| |king| |lamesa| |ning| |cocktail|—|ing| |bukud| |mung| |lugal| |king| |hardin| |nung| |nukarin| |ing| |metung| |a| |lalaki| |malyari| |yang| |manatili| |alang| |patugut| |at| |magdili|-|dili|.
+papunta| |ku| |para| |malasing| |keng| |kamarinayan| |inyang| |linwal| |ya| |i| |jordan| |baker| |keng| |bale| |at| |tinalakad| |ya| |keng| |buntuk| |da| |reng| |marmol| |a| |hagdan|,| |makasandal| |yang| |bagya| |at| |makalawe| |keng| |garden|.
+manyaman| |o| |ali|,| |ikit| |ku| |na| |kailangan| |kung| |ilapit| |ing| |sarili| |ku| |keng| |metung| |a| |tau| |bayu| |ku| |magumpisa| |magsalita| |kareng| |taung| |daralan|.
+"|Komusta|!|"
+nganang| |kinuldas|,| |linapit| |ku| |kaya|.
+Ing| |siwala| |ku| |balamu| |e| |ya| |natural| |a| |masikan| |keng| |mabilug| |a| |hardin|.
+"|Akala| |ku| |atyu| |ka| |keni|,|"| |nganang| |mekibat| |a| |alang| |kwenta| |kabang| |linapit| |ku|.
+"|Aganaka| |ku| |na| |siping| |me| |ing—|"
+Tinalan| |ne| |ing| |gamat| |ku| |alang| |personal|,| |bilang| |pangaku| |na| |asikasu| |na| |ku| |kilub| |ning| |metung| |a| |minutu|,| |at| |dininan| |neng| |pamakiramdam| |kareng| |adwang| |dalagang| |maka|-|twin| |yellow| |a| |imalan|,| |a| |tinuknang| |king| |bitis| |ning| |hagdan|.
+"|Komusta|!|"
+miyabe|-|abe| |lang| |menangis|.
+“|Pasensya| |na| |nung| |e| |ka| |sinambut|.|”
+Para| |ya| |ita| |keng| |golf| |tournament|.
+mewala| |ya| |keng| |finals| |keng| |milabas| |a| |duminggu|.
+“|E| |mu| |balu| |nung| |ninu| |kami|,|”| |ngana| |ning| |metung| |karing| |dalagang| |makadilaw|,| |“|pero| |akilala| |daka| |keni| |mga| |metung| |a| |bulan| |ing| |milabas|.|”
+"|Tininan| |me| |ing| |buak| |mu| |manibat| |kanita|,|"| |nganang| |Jordan|,| |at| |megumpisa| |ku|,| |pero| |ding| |dalagang| |miglakbe| |lang| |casual| |at| |ing| |kayang| |sinabi| |makatuki| |ya| |keng| |e| |pa| |panaun| |a| |bulan|,| |a| |megawa| |kalupa| |ning| |apunan|,| |alang| |pamagduda|,| |ibat| |keng| |basket| |ning| |metung| |a| |caterer|.
+Kabang| |ing| |payat| |a| |gintung| |gamat| |nang| |Jordan| |makatuknang| |ya| |keng| |kanakung| |gamat|,| |kinuldas| |kami| |kareng| |hagdan| |at| |miglakbe| |kami| |keng| |hardin|.
+Metung| |a| |tray| |ning| |cocktails| |ing| |linub| |kekami| |keng| |sisilim|,| |at| |linukluk| |kami| |keng| |lamesa| |kayabe| |da| |reng| |adwang| |dalagang| |maka| |yellow| |ampo| |atlung| |lalaki|,| |balang| |metung| |pepakilala| |da| |kekami| |bilang| |Mr.| |Mumble|.
+Maralas| |ka| |bang| |pupunta| |kareng| |party| |a| |reni|?
+kitang| |nang| |Jordan| |keng| |dalagang| |atyu| |siping| |na|.
+"|Ing| |tauli| |yapin| |ing| |metung| |a| |akatagmu| |ku| |keka|,|"| |pekibat| |ning| |dalagita|,| |keng| |metung| |a| |alertung| |tiwala| |a| |siwala|.
+Linawe| |ne| |ing| |kayabe| |na|:| |“|E| |wari| |para| |keka|,| |Lucille|?|”
+Para| |ya| |naman| |kang| |Lucille|.
+"|Mahilig| |kung| |munta|,|"| |sinabi| |nang| |Lucille|.
+"|Ala| |kung| |pakialam| |nung| |nanu| |ing| |gagawan| |ku|,| |inya| |parati| |kung| |masaya|.| |Inyang| |tauli| |kung| |atyu| |keni|,| |ginupit| |ke| |ing| |gown| |ku| |keng| |luklukan|,| |at| |kitang| |na| |kaku| |ing| |lagyu| |ku| |ampo| |address|—|kilub| |ning| |paruminggu|,| |tinggap| |ke| |ing| |metung| |a| |pakete| |ibat| |Croirier|'s| |a| |maki| |bayung| |evening| |gown|.|"
+"|Tinipun| |me|?|"
+kitang| |nang| |Jordan|.
+"|siguradu| |ku|.| |susulud| |ke| |sana| |bengi|,| |pero| |masyadu| |yang| |maragul| |keng| |bust| |at| |kailangan| |yang| |alilan|.| |gas| |blue| |ya| |ampo| |lavender| |beads|.| |adwa| |dalan| |anam| |a| |pulu't| |limang| |dolyar|.|"
+"|Atin| |yang| |makatula| |ing| |metung| |a| |taung| |gagawang| |makanyan|,|"| |sinabi| |na| |ning| |aliwang| |dalagang| |masaya|.
+“|E| |na| |buri| |ing| |nanu| |mang| |problema| |king| |ninu| |mang| |katawan|.|”
+“|Ninu| |ing| |e| |bisa|?|”
+kitang| |ku|.
+"|Gatsby|.| |Atin| |sinabi| |kanaku—|"
+Deng| |adwang| |dalagang| |ampo| |i| |Jordan| |migsandal| |lang| |confidential|.
+"|Ating| |sinabi| |kanaku| |na| |aisip| |da| |na| |mekapate| |yang| |lalaki| |misan|.|"
+Metung| |a| |kilig| |ing| |milabas| |kekami| |ngan|.
+Ding| |atlung| |Mr.| |Mumbles| |linapit| |la| |at| |makiramdam| |lang| |masaya|.
+"|Eku| |isipan| |na| |makanyan| |karakal| |ita|,|"| |nganang| |Lucille| |a| |magduda|;
+“|Mas| |lalu| |na| |ing| |metung| |yang| |espiya| |ning| |Aleman| |kanitang| |gera|.|”
+Metung| |kareng| |lalaki| |ing| |tinangu| |bilang| |kumpirmasyun|.
+"|Dimdam| |ku| |ita| |keng| |metung| |a| |lalaking| |balu| |na| |ing| |sabla| |tungkul| |kaya|,| |meragul| |ya| |kayabe| |na| |keng| |Germany|,|"| |sinabi| |na| |kekami|.
+“|O|,| |ali|,|”| |ngana| |ning| |mumunang| |dalagita|,| |“|e| |malyaring| |makanyan|,| |uling| |atyu| |ya| |king| |sundalus| |ning| |Amerika| |kanitang| |gera|.|”
+kabang| |ing| |kekaming| |kapaniwalan| |mibalik| |ya| |kaya|,| |linapit| |ya| |keng| |arap| |na| |ating| |sigasig|.
+"|Lawen| |me| |ne| |minsan| |nung| |isipan| |na| |ala| |nang| |makalawe| |kaya|.| |Pusta| |ku| |mekapate| |yang| |lalaki|.|"
+kinuldas| |ya| |mata| |at| |mengagatal| |ya|.
+Mengagatal| |ya| |i| |Lucille|.
+Mibalikid| |kami| |ngan| |at| |linawe| |kami| |kang| |Gatsby|.
+Iti| |metung| |yang| |testimonya| |keng| |romantic| |a| |pamag|-|isip| |na| |inspired| |na| |na| |atin| |yang| |bulong| |tungkul| |kaya| |ibat| |kareng| |taung| |menakit| |ditak| |a| |kailangang| |bulong| |tungkul| |kaya| |keng| |yatung| |ayni|.
+Ing| |mumunang| |apunan|—|atin| |pang| |metung| |kaybat| |ning| |gatpanapun|—|mipagsilbi| |ne| |ngeni|,| |at| |inagyag| |na| |kung| |Jordan| |ban| |makiabe| |king| |sarili| |nang| |grupu|,| |a| |makalat| |king| |metung| |a| |lamesa| |king| |aliwang| |gilid| |ning| |mula|.
+Atin| |yang| |atlung| |mikasal| |ampo| |ing| |escort| |nang| |Jordan|,| |metung| |a| |persistent| |undergraduate| |a| |binie| |na| |keng| |violent| |innuendo|,| |ampo| |malino| |keng| |impresyun| |na| |malapit| |o| |malambat| |i| |Jordan| |ibye| |ne| |ing| |kayang| |pangatau| |keng| |mas| |maragul| |o| |mas| |ditak| |a| |degree|.
+Imbes| |na| |mag|-|ramble|,| |ing| |partidung| |ini| |menatili| |yang| |dignified| |homogeneity|,| |at| |inassume| |na| |ing| |function| |na| |ning| |pamagrepresenta| |kareng| |staid| |nobility| |ning| |countryside|—|I| |East| |Egg| |condescending| |ya| |keng| |West| |Egg| |ampo| |maingat| |yang| |mag|-|guard| |laban| |keng| |kayang| |spectroscopic| |gaiety|.
+"|Luwal| |tamu|,|"| |nganang| |Jordan|,| |kaybat| |ning| |metung| |a| |makasayang| |at| |e| |ustung| |kapitna| |ning| |oras|;
+"|masyadu| |yang| |magalang| |ini| |para| |kaku|.|"
+tinalakad| |kami|,| |at| |pepaliwanag| |na| |na| |panintunan| |mi| |ya| |ing| |host|:| |eku| |pa| |bitasang| |akilala|,| |ngana|,| |at| |iti| |gagawan| |na| |kung| |e| |masanting|.
+Ing| |undergraduate| |tinuknang| |ya| |keng| |cynical|,| |melancholy| |a| |paralan|.
+Ing| |bar|,| |nung| |nukarin| |kami| |minunang| |linawe|,| |masikip| |ya|,| |pero| |ala| |ya| |karin| |i| |Gatsby|.
+E| |ne| |akit| |ibat| |keng| |babo| |ning| |hagdan|,| |ampo| |ala| |ya| |keng| |beranda|.
+King| |metung| |a| |chance|,| |sinubukan| |mi| |ing| |metung| |a| |pasbul| |a| |balamu| |importanti|,| |at| |linub| |kami| |king| |metung| |a| |matas| |a| |Gothic| |library|,| |a| |maka|-|panel| |kareng| |carved| |English| |oak|,| |at| |mekad| |me|-|transport| |kumpletu| |ibat| |king| |metung| |a| |ruin| |abroad|.
+Metung| |a| |mataba|,| |middle|-|aged| |a| |lalaki|,| |a| |maki| |maragul| |a| |owl|-|eyed| |spectacles|,| |makalukluk| |yang| |medyu| |malasing| |keng| |gilid| |ning| |metung| |a| |maragul| |a| |lamesa|,| |makalawe| |yang| |e| |matatag| |a| |konsentrasyun| |kareng| |istante| |da| |reng| |libru|.
+Inyang| |lulub| |kami|,| |masaya| |yang| |linawe| |at| |linawe| |ne| |i| |Jordan| |manibat| |buntuk| |angga| |bitis|.
+"|nanu| |ing| |isipan| |mu|?|"
+nganang| |kinutang| |a| |alang| |patugut|.
+"|tungkul| |keng| |nanu|?|"
+Kinaway| |ne| |ing| |gamat| |na| |papunta| |kareng| |istante| |ning| |libru|.
+"|tungkul| |kanita|.| |ing| |tutu| |na| |niti| |e| |mu| |kailangang| |mag|-|abala| |para| |abalu|.| |abalu| |ku|.| |tutu| |la|.|"
+"|Ding| |libru|?|"
+Tumangu| |ya|.
+"|Talagang| |tutu|—|atin| |lang| |bulung| |at| |sabla|.| |Aisip| |ku| |na| |maging| |masanting| |lang| |matibe| |a| |karton|.| |Ing| |tutu| |na| |niti|,| |tutu| |la|.| |Pahina| |at|—|Keni|!| |Ipakit| |ku| |keka|.|"
+Uling| |tinggap| |na| |ing| |kekaming| |pamagduda|,| |migmadali| |yang| |minta| |kareng| |bookcases| |at| |mibalik| |ya| |keng| |Volume| |One| |ning| |Stoddard| |Lectures|.
+"|Lawen|!|"
+matagumpe| |yang| |kinulisak|.
+"|Iti| |metung| |yang| |bona|-|fide| |a| |pirasu| |ning| |makalimbag| |a| |bage|.| |Meloko| |ya| |kanaku|.| |Iting| |lalaki| |metung| |yang| |regular| |a| |Belasco|.| |Iti| |metung| |yang| |tagumpe|.| |Nanu| |ing| |katuliran|!| |Nanu| |ing| |realismu|!| |Balu| |na| |nung| |kapilan| |ya| |tuknang|,| |makanyan| |mu| |naman|—|e| |na| |la| |pinutut| |ding| |bulung|.| |Pero| |nanu| |ing| |buri| |mu|?| |Nanu| |ing| |asahan| |mu|?|"
+Kinua| |ne| |ing| |libru| |kanaku| |at| |pepalitan| |neng| |agad| |keng| |istante| |na|,| |sasabyan| |na| |nung| |ing| |metung| |a| |ladrilyu| |milako| |ya| |ing| |mabilug| |a| |aklatan| |malyari| |yang| |gumulis|.
+“|Ninu| |ing| |migdala| |keka|?|”
+nganang| |kinutang|.
+“|O| |dinatang| |ka| |mu|?| |Aku| |ing| |midala|.| |Keraklan| |kareng| |tau| |midala| |la|.|”
+linawe| |ya| |i| |jordan| |kaya|,| |masaya|,| |alang| |pakibat|.
+"|Dinalan| |naku| |ning| |metung| |a| |babaing| |milagyuan| |Roosevelt|,|"| |ngana| |pa|.
+"|Mrs.| |Claud| |Roosevelt|.| |Kilala| |me|?| |Akilala| |ke| |keng| |metung| |a| |lugal| |napun|.| |Metung| |na| |kung| |duminggu| |ngeni|,| |at| |aisip| |ku| |na| |malyari| |kung| |makalukluk| |keng| |library|.|"
+"|Atin|?|"
+“|Ditak| |mu|,| |isipan| |ku|.| |E| |ku| |pa| |asabi|.| |Metung| |ku| |mung| |oras| |keni|.| |Sinabi| |ku| |na| |keka| |ing| |tungkul| |kareng| |libru|?| |Tutu| |la|.| |Ila—|”
+"|Sinabi| |mu| |kekami|.|"
+Mekipagkamay| |kami| |kaya| |at| |mibalik| |kami| |keng| |kilwal|.
+Atin| |yang| |sayaw| |ngeni| |keng| |canvas| |keng| |garden|;
+ding| |matwang| |lalaki| |tutulak| |da| |la| |reng| |kayanakan| |a| |babai| |pabalik| |keng| |alang| |anggang| |alang| |grasya| |a| |gulis|,| |ding| |matas| |a| |mag|-|asawa| |makayakap| |la| |king| |metung| |at| |metung|,| |maka|-|uso|,| |at| |manatili| |la| |king| |sulok|—|at| |dakal| |a| |dalagang| |alang| |asawa| |a| |sasayaw| |lang| |tunggal|-|tunggal| |o| |mag|-|relieve| |king| |orchestra| |king| |saglit| |king| |pabayat| |ning| |banjo| |o| |ding| |bitag|.
+keng| |kaugtuan| |bengi| |ing| |saya| |meragdagan| |ya|.
+Ing| |metung| |a| |sikat| |a| |tenor| |kinanta| |ya| |keng| |italian|,| |ampo| |ing| |metung| |a| |sikat| |a| |contralto| |kinanta| |ya| |keng| |jazz|,| |ampo| |pilatan| |da| |reng| |bilang| |deng| |tau| |gagawang| |"|stunts|"| |keng| |mabilug| |a| |garden|,| |kabang| |masaya|,| |alang| |kwentang| |tawa| |ing| |tinas| |papunta| |keng| |banua| |ning| |kaleldo|.
+Metung| |a| |pares| |da| |reng| |kambal| |keng| |entabladu|,| |na| |ila| |reng| |babaing| |maka| |yellow|,| |ginawa| |lang| |baby| |act| |keng| |costume|,| |ampo| |ing| |champagne| |mipagsilbi| |ya| |kareng| |basu| |a| |mas| |maragul| |kesa| |kareng| |finger|-|bowls|.
+Ing| |bulan| |tinas| |yang| |mas| |matas|,| |at| |makalutang| |ya| |keng| |Sound| |ing| |metung| |a| |triangle| |ning| |pilak| |a| |kaliskis|,| |gagalgal| |yang| |bagya| |keng| |matigas|,| |tinny| |drip| |da| |reng| |banjoes| |keng| |dikut|.
+Kayabe| |ke| |pa| |i| |Jordan| |Baker|.
+Makalukluk| |kami| |keng| |metung| |a| |lamesa| |kayabe| |ing| |metung| |a| |lalaking| |kalupa| |ku| |edad| |ampo| |ing| |metung| |a| |malating| |dalagang| |magulu|,| |na| |migpaubaya| |keng| |ditak| |mung| |probokasyun| |keng| |e| |na| |a|-|kontrol| |a| |tawa|.
+masaya| |ku| |ngeni|.
+Mengan| |kung| |adwang| |finger|-|bowl| |ning| |champagne|,| |at| |ing| |eksena| |mibayu| |ya| |keng| |arapan| |ku| |keng| |metung| |a| |bage| |a| |makabaldugan|,| |elemental|,| |at| |malalam|.
+keng| |metung| |a| |lull| |keng| |entertainment| |ing| |lalaki| |linawe| |ya| |kanaku| |at| |migsmile| |ya|.
+"|Pamilyar| |ya| |ing| |lupa| |mu|,|"| |sinabi| |nang| |magalang|.
+“|E| |ka| |wari| |kayabe| |king| |Mumunang| |Dibisyon| |kanitang| |gera|?|”
+"|Bakit| |wa|.| |Atyu| |ku| |keng| |Twenty|-|eighth| |Infantry|.|"
+"|Atyu| |ku| |keng| |sixteenth| |angga| |na| |keng| |junio| |disisiyam|-|labing| |walung| |banua|.| |balu| |ku| |ikit| |daka| |keng| |metung| |a| |lugal|.|"
+Mipagsalita| |kami| |saglit| |tungkul| |kareng| |mapilan| |a| |basa|,| |abu|-|abu| |a| |malating| |baryu| |keng| |France|.
+Malino| |na| |manuknangan| |ya| |kening| |paligid|,| |uling| |sinabi| |na| |kaku| |na| |memili| |yang| |hydroplane|,| |at| |subukan| |ne| |keng| |abak|.
+"|Buri| |meng| |tuki| |kanaku|,| |matuang| |sport|?| |Malapit| |mu| |keng| |pampang| |keng| |Sound|.|"
+"|nanu| |oras|?|"
+"|nanu| |mang| |oras| |na| |mas| |makayagpang| |keka|.|"
+Atyu| |keng| |punta| |ning| |dila| |ku| |ing| |ikutang| |ke| |ing| |lagyu| |na| |inyang| |linawe| |ya| |i| |Jordan| |at| |migsmile| |ya|.
+"|Atin| |kang| |oras| |a| |bakla| |ngeni|?|"
+nganang| |kinutang|.
+"|Mas| |masanting|.|"
+Linawe| |kung| |pasibayu| |king| |bayu| |kung| |kakilala|.
+"|E| |ya| |karaniwan| |a| |party| |ini| |para| |kaku|.| |Eku| |pa| |man| |ikit| |ing| |host|.| |Manuknangan| |ku| |karin—|"| |kinaway| |ke| |ing| |gamat| |ku| |keng| |e| |mayayakit| |a| |bakud| |keng| |marayu|,| |"|at| |ining| |lalaking| |ini| |peparala| |neng| |Gatsby| |ing| |kayang| |chauffeur| |a| |maki| |imbitasyun|.|"
+Saglit| |ya| |linawe| |kanaku| |na| |balamu| |e| |na| |aintindian|.
+“|Aku| |i| |Gatsby|,|”| |ngana| |bigla|.
+"|Nanu|!|"
+nganang| |kinulisak|.
+"|O|,| |pakisabi| |kung| |mayap| |keka|.|"
+"|Akala| |ku| |balu| |mu|,| |lumang| |sport|.| |Tatakut| |ku| |ali| |ku| |masyadung| |masanting| |a| |host|.|"
+Mekibat| |yang| |makaintindi|—|mas| |marakal| |pa| |kesa| |keng| |makaintindi|.
+Metung| |ya| |kareng| |pambihirang| |ngisi| |a| |maki| |kalidad| |ning| |alang| |anggang| |kapanaligan|,| |na| |malyari| |mung| |akit| |apat| |o| |limang| |besis| |keng| |bie|.
+Arapan| |na|—|o| |balamu| |arapan| |na|—|ing| |mabilug| |a| |alang| |anggang| |yatu| |king| |metung| |a| |penandit|,| |at| |kaybat| |migkonsentru| |ya| |keka| |king| |metung| |a| |e| |malyaring| |pigilan| |a| |pamanaliwa| |king| |pabor| |mu|.
+aintindian| |na| |ka| |angga| |na| |keng| |buri| |mung| |aintindian|,| |meniwala| |ya| |keka| |antimo| |ing| |buri| |mung| |maniwala| |keng| |sarili| |mu|,| |ampo| |siniguradu| |na| |keka| |na| |atin| |yang| |eksaktung| |impresyun| |keka| |na|,| |keng| |pekamasanting| |mu|,| |asahan| |mung| |ipayabut|.
+keng| |puntong| |ita| |mewala| |ya|—|at| |linawe| |ke| |ing| |metung| |a| |eleganting| |kayanakan| |a| |roughneck|,| |metung| |o| |adwang| |banua| |maygit| |atlung| |pulu|,| |na| |ing| |kayang| |elaborate| |a| |pormalidad| |ning| |pamagsalita| |mewala| |ya| |keng| |absurd|.
+Bayu| |ya| |pepakilala| |ing| |sarili| |na| |atin| |kung| |masikan| |a| |impresyun| |na| |pipilinan| |nala| |deng| |amanu| |na|.
+Halus| |keng| |oras| |na| |inyang| |pepakilala| |neng| |Mr.| |Gatsby| |ing| |sarili| |na|,| |metung| |a| |butler| |ing| |migdalit| |papunta| |kaya| |a| |maki| |impormasyun| |na| |ing| |Chicago| |ausan| |ne| |keng| |wire|.
+Migpasensya| |ya| |keng| |sarili| |na| |keng| |malating| |pana| |na| |kayabe| |na| |ing| |balang| |metung| |kekami|.
+"|Nung| |atin| |kang| |buri| |anyaran| |mu|,| |lumang| |sport|,|"| |nganang| |migsalita| |kanaku|.
+"|Pasensya| |na|.| |Makiabe| |ku| |keka| |mamaya|.|"
+Inyang| |ala| |ne|,| |linawe| |ku| |agad| |kang| |Jordan|—|mepilitan| |kung| |siguraduan| |ing| |kanakung| |pangabigla|.
+Asahan| |ku| |na| |i| |Mr.| |Gatsby| |maging| |yang| |masanting| |a| |tau| |keng| |kayang| |libutad| |ning| |banua|.
+"|Ninu| |ya|?|"
+kitang| |ku|.
+"|balu| |mu|?|"
+"|Metung| |ya| |mung| |lalaking| |milagyuan| |Gatsby|.|"
+"|Nu| |ya| |menibatan|,| |buri| |kung| |sabyan|?| |at| |nanu| |ing| |gagawan| |na|?|"
+"|Ngeni| |magumpisa| |na| |ka| |keng| |paksa|,|"| |pekibat| |na| |ating| |wan| |smile|.
+"|Well|,| |sinabi| |na| |kaku| |misan| |na| |Oxford| |ya|.|"
+Ing| |dim| |background| |megumpisa| |yang| |meging| |porma| |keng| |gulut| |na|,| |pero| |keng| |tutuking| |sinabi| |na| |mewala| |ya|.
+“|Makanyan| |man|,| |e| |ku| |maniwala|.|”
+"|Ot| |ali|?|"
+"|Eku| |balu|,|"| |nganang| |migpilit|,| |"|eku| |isipan| |na| |minta| |ya| |karin|.|"
+Atin| |metung| |a| |bage| |keng| |tono| |na| |na| |pepaganaka| |na| |kaku| |ing| |aliwang| |dalagang| |“|Isipan| |ku| |mekapate| |yang| |lalaki|,|”| |at| |mika| |epektu| |yang| |me|-|stimulate| |keng| |kanakung| |pamag|-|usisa|.
+tinggap| |ku| |sana| |alang| |kutang| |ing| |impormasyun| |na| |i| |Gatsby| |menibatan| |ya| |kareng| |swamps| |ning| |Louisiana| |o| |ibat| |ya| |keng| |lower| |East| |Side| |ning| |New| |York|.
+Maintindihan| |ita|.
+Pero| |deng| |kayanakan| |a| |lalaki| |e| |la|—|at| |least| |keng| |kanakung| |provincial| |inexperience| |maniwala| |ku| |ali| |la|—|mag|-|drift| |coolly| |out| |of| |nowhere| |at| |memili| |lang| |palasyo| |keng| |Long| |Island| |Sound|.
+"|Anyway|,| |mamye| |yang| |maragul| |a| |party|,|"| |sinabi| |nang| |Jordan|,| |alilan| |ne| |ing| |paksa| |keng| |urban| |distaste| |para| |keng| |concrete|.
+"|at| |buri| |ku| |la| |reng| |mangaragul| |a| |party|.| |intimate| |la|.| |kareng| |malating| |party| |ala| |lang| |privacy|.|"
+Atin| |yang| |boom| |ning| |bass| |drum|,| |at| |ing| |siwala| |ning| |orchestra| |leader| |bigla| |yang| |meramdam| |babo| |ning| |echolalia| |ning| |hardin|.
+"|Ginu| |at| |ginu|,|"| |nganang| |kinulisak|.
+"|King| |anyaran| |nang| |Mr.| |Gatsby|,| |patugtugan| |mi| |para| |keka| |ing| |bayung| |obra| |nang| |Mr.| |Vladmir| |Tostoff|,| |a| |mekaakit| |dakal| |a| |pansin| |king| |Carnegie| |Hall| |kanitang| |milabas| |a| |Mayu|.| |Nung| |babasan| |mu| |la| |reng| |dyaryu| |balu| |mu| |na| |mika| |maragul| |a| |sensasyon|.|"
+mig|-|smile| |ya| |keng| |jovial| |condescension|,| |at| |sinabi| |na|:| |"|metung| |a| |sensasyon|!|"
+nung| |nukarin| |ding| |sabla| |tinawa| |la|.
+"|Ing| |piyesa| |kilala| |ya|,|"| |nganang| |meyari|,| |"|bilang| |'|Vladmir| |Tostoff|'s| |Jazz| |History| |of| |the| |World|!|'
+”
+Ing| |kalikasan| |ning| |komposisyun| |nang| |Mr.| |Tostoff| |e| |ku| |akit|,| |uling| |inyang| |megumpisa| |ya|,| |ikit| |ku| |ya| |i| |Gatsby|,| |makatalakad| |yang| |magdili|-|dili| |kareng| |marmol| |a| |hagdan| |at| |lalawe| |ya| |keng| |metung| |a| |grupu| |papunta| |keng| |aliwang| |grupu| |kareng| |mata| |na|.
+Ing| |kayang| |balat| |a| |tanned| |makaguhit| |yang| |masipit| |keng| |lupa| |na| |ampo| |ing| |kayang| |makuyad| |a| |buak| |balamu| |me|-|trim| |ya| |aldo|-|aldo|.
+Ala| |kung| |akakit| |a| |makasumaming| |bage| |kaya|.
+Inisip| |ku| |nung| |ing| |katutwan| |na| |e| |ya| |miminum| |sinaup| |ya| |para| |milako| |ya| |kareng| |bisita| |na|,| |uling| |balamu| |kanaku| |mas| |meging| |ustu| |ya| |kabang| |daragul| |ing| |fraternal| |hilarity|.
+Inyang| |meyari| |ne| |ing| |"|Jazz| |History| |of| |the| |World|"|,| |deng| |dalagang| |babai| |lalage| |da| |la| |reng| |buntuk| |da| |kareng| |pago| |da| |reng| |lalaki| |king| |paralan| |a| |puppyish|,| |convivial|,| |deng| |dalagang| |mag|-|swoon| |la| |pabalik| |a| |maglarin| |kareng| |gamat| |da| |reng| |lalaki|,| |agyang| |kareng| |grupu|,| |balu| |da| |na| |atin| |maka|-|aresto| |kareng| |karelang| |pangabagsak|—|pero| |alang| |me|-|swoon| |pabalik| |kang| |Gatsby|,| |at| |alang| |French| |bob| |a| |menagkat| |kareng| |balikat| |nang| |Gats|,| |at| |alang| |quartet| |a| |mebuu
+Ing| |buntuk| |nang| |Gatsby| |para| |keng| |metung| |a| |link|.
+“|Makisabi| |kung| |kapatawaran| |keka|.|”
+Ing| |mayordomo| |nang| |Gatsby| |bigla| |yang| |makatalakad| |keng| |siping| |mi|.
+"|Miss| |Baker|?|"
+nganang| |kinutang|.
+"|Manyawad| |kung| |kapatawaran| |keka|,| |pero| |i| |Mr.| |Gatsby| |buri| |na| |kang| |magdili|-|dili|.|"
+"|Kayabe| |ku|?|"
+nganang| |kinulisak| |king| |pamagmulala|.
+"|Wa|,| |madame|.|"
+Tinalakad| |yang| |mabagal|,| |tinas| |ne| |ing| |kilay| |na| |kanaku| |keng| |pamagmulala|,| |at| |tinuki| |ya| |keng| |mayordomo| |papunta| |keng| |bale|.
+ikit| |ku| |na| |susulud| |ne| |ing| |evening|-|dress| |na|,| |ding| |sablang| |imalan| |na|,| |kalupa| |da| |reng| |sports| |clothes|—|atin| |yang| |jauntiness| |ing| |kayang| |kimut| |na| |balamu| |minunang| |mebiasa| |yang| |maglakad| |kareng| |golf| |courses| |keng| |malinis|,| |malino| |a| |abak|.
+Magdili|-|dili| |ku| |at| |halus| |alas| |dos| |na|.
+King| |mapilan| |a| |panaun|,| |makalitu| |at| |makabaldugan| |a| |tigtigan| |ing| |linwal| |ibat| |king| |makaba|,| |dakal| |a| |bintana| |a| |silid| |a| |makabitin| |king| |terrace|.
+Eku| |balu| |ing| |undergraduate| |nang| |Jordan|,| |na| |ngeni| |makiabe| |ya| |keng| |obstetrical| |a| |pamisabi|-|sabi| |kareng| |adwang| |chorus| |girls|,| |ampo| |na| |mekisabing| |makiabe| |kaya|,| |linub| |ku|.
+Mitmu| |yang| |tau| |ing| |maragul| |a| |kuartu|.
+Metung| |kareng| |dalagang| |makadilaw| |ing| |magpiano|,| |at| |king| |siping| |na| |makatalakad| |ya| |ing| |metung| |a| |matas|,| |maputing| |buak| |a| |dalagang| |ibat| |king| |metung| |a| |sikat| |a| |koro|,| |a| |makiabe| |king| |kanta|.
+Minum| |yang| |dakal| |a| |champagne|,| |at| |kabang| |magkanta| |ya|,| |megdesisyun| |ya|,| |alang| |kwenta|,| |na| |ing| |sabla| |malungkut| |ya|—|e| |ya| |mu| |magkanta|,| |manangis| |ya| |naman|.
+Nung| |atin| |yang| |pause| |ing| |kanta|,| |katmuan| |ne| |iti| |kareng| |gasping|,| |broken| |sobs|,| |at| |kaybat| |kukuanan| |ne| |ing| |lyric| |pasibayu| |keng| |metung| |a| |quavering| |soprano|.
+Ing| |lua| |na| |tinulu| |ya| |keng| |pisngi| |na|—|e| |malaya|,| |makanyan| |man|,| |uling| |inyang| |akit| |da| |la| |reng| |kayang| |mabayat| |a| |beaded| |a| |pilikmata| |mika| |kule| |lang| |tinta|,| |at| |tinuki| |la| |keng| |mitagan| |dang| |dalan| |keng| |mabagal| |a| |maitim| |a| |sapa|.
+Metung| |a| |makatula| |a| |suhestiyun| |ing| |gewa| |na| |na| |kantaan| |na| |la| |reng| |nota| |keng| |lupa| |na|,| |nung| |nukarin| |tinas| |no| |reng| |gamat| |na|,| |linub| |ya| |keng| |luklukan|,| |at| |minta| |ya| |keng| |malalam| |a| |pangatudtud|.
+"|Mekipaglaban| |ya| |keng| |metung| |a| |lalaki| |na| |sasabing| |asawa| |ne|,|"| |paliwanag| |na| |ning| |metung| |a| |dalagang| |atyu| |keng| |siko| |ku|.
+linawe| |ku| |keng| |paligid|.
+keraklan| |kareng| |mitagan| |a| |babai| |ngeni| |makipaglaban| |la| |kareng| |lalaking| |sasabyan| |dang| |asawa| |da|.
+Agyang| |ing| |partidu| |nang| |Jordan|,| |ing| |quartet| |ibat| |East| |Egg|,| |mesira| |la| |pauli| |ning| |pamisalangsangan|.
+Metung| |kareng| |lalaki| |magsalita| |yang| |curious| |intensity| |keng| |metung| |a| |kayanakan| |a| |artista|,| |at| |ing| |asawa| |na|,| |kaybat| |nang| |sinubukan| |ing| |tumawa| |keng| |sitwasyun| |keng| |dignidad| |at| |alang| |pakialam| |a| |paralan|,| |mesira| |ya| |ngan| |at| |mig|-|atake| |ya| |keng| |gilid|—|keng| |pilatan| |bigla| |yang| |linwal| |keng| |siping| |na| |kalupa| |ning| |metung| |a| |mimua| |a| |diamante|,| |at| |mig|-|hiss| |ya|:| |“|Mengaku| |ka|!|”
+keng| |balugbug| |na|.
+Ing| |pamag|-|abala| |king| |pamagbalik| |bale| |e| |ya| |mu| |kareng| |lalaking| |alang| |patugut|.
+Ing| |hall| |kasalukuyan| |yang| |sasakupan| |da| |reng| |adwang| |lalaking| |e| |makalunus| |at| |ding| |karelang| |asawa| |a| |sobrang| |mimua|.
+Deng| |asawa| |mipagkalub| |la| |keng| |metung| |at| |metung| |keng| |medyu| |matas| |a| |siwala|.
+“|Nung| |akakit| |na| |kung| |masaya| |ku| |buri| |na| |ing| |muli| |ya|.|”
+"|Eku| |pa| |bitasang| |dimdam| |ing| |makanining| |makasarili| |keng| |bie| |ku|.|"
+“|Itamu| |ing| |mumunang| |mumuna|.|”
+"|makanyan| |tamu| |naman|.|"
+"|Na|,| |malapit| |na| |kaming| |tauli| |ngening| |bengi|,|"| |sinabi| |na| |ning| |metung| |kareng| |lalaking| |makarine|.
+"|Ing| |orkestra| |meko| |ya| |kapitna| |nang| |oras| |ing| |milabas|.|"
+Agyang| |ing| |pamikasundu| |da| |reng| |asawa| |na| |ing| |makanyan| |a| |panga|-|marok| |lampas| |ya| |king| |kapanipaniwalan|,| |ing| |pamipatepate| |meyari| |ya| |king| |makuyad| |a| |pamipatepate|,| |at| |ding| |adwang| |asawa| |me|-|angat| |la|,| |sipa|-|sipa|,| |king| |bengi|.
+Kabang| |manaya| |ku| |keng| |sumbrero| |ku| |keng| |hall| |mibuklat| |ya| |ing| |pasbul| |ning| |library| |ampo| |i| |Jordan| |Baker| |ampo| |i| |Gatsby| |linwal| |lang| |miyabe|.
+Sasabian| |na| |ing| |tauli| |nang| |amanu| |kaya|,| |pero| |ing| |pamagmalasakit| |na| |bigla| |yang| |meging| |pormalidad| |kabang| |ding| |mapilan| |a| |tau| |linapit| |la| |kaya| |para| |magpaalam|.
+Ing| |grupu| |nang| |Jordan| |mamaus| |yang| |alang| |pasensya| |kaya| |ibat| |keng| |beranda|,| |pero| |menatili| |yang| |saglit| |para| |makipagkamay|.
+"|Atin| |kung| |dimdam| |a| |makapagmulala|,|"| |nganang| |migbulong|.
+“|Kapilan| |tamu| |karin|?|”
+"|Bakit|,| |mga| |metung| |oras|.|"
+"|Iti|...| |makapagmulala| |ya|,|"| |ulit| |na| |abstractly|.
+"|pero| |sinumpa| |ku| |na| |ali| |ku| |sabyan| |at| |keni| |daka| |akit|.|"
+Meg|-|yawn| |yang| |masanting| |keng| |lupa| |ku|.
+"|Pakisabi| |kung| |mayap| |na| |datang| |ka| |at| |lawan| |mu| |ku|...| |Libru| |ning| |teleponu|...| |King| |lagyu| |nang| |Mrs.| |Sigourney| |Howard|...| |Ing| |tita| |ku|...|"| |Magmadali| |yang| |mako| |kabang| |magsalita| |ya|—|ing| |gamat| |nang| |brown| |kikimut| |yang| |masayang| |saludu| |kabang| |lulub| |ya| |king| |kayang| |party| |king| |pasbul|.
+Mekad| |makarine| |ku| |na| |keng| |mumunang| |pamaglual| |ku| |menatili| |kung| |malambat|,| |mekiabe| |ku| |kareng| |tauling| |bisita| |nang| |Gatsby|,| |na| |makagrupu| |kaya|.
+Buri| |kung| |ipaliwanag| |na| |linawe| |ke| |kanitang| |bengi| |at| |manyawad| |kung| |tawad| |uling| |e| |ke| |akilala| |keng| |hardin|.
+"|E| |mu| |na| |sasabyan|,|"| |inutus| |na| |kaku|.
+"|E| |mu| |na| |isipan| |pa|,| |lumang| |isport|.|"
+Ing| |pamilyar| |a| |ekspresyon| |ala| |yang| |mas| |pamilyar| |kesa| |keng| |gamat| |na| |makayabut| |keng| |balikat| |ku|.
+“|At| |e| |mu| |kakalingwan| |ing| |mumukiat| |tamu| |king| |hydroplane| |bukas| |abak|,| |alas| |nuwebe|.|”
+Kanita| |ing| |mayordomo|,| |keng| |gulut| |na|:
+"|Buri| |nakang| |Philadelphia| |keng| |teleponu|,| |sir|.|"
+"|Sige|,| |keng| |metung| |a| |minutu|.| |Sabyan| |mu| |karela| |na| |miras| |ku| |karin|...| |Mayap| |a| |bengi|.|"
+"|Mayad| |a| |tudtud|.|"
+"|Mayad| |a| |tudtud|.|"
+Mig|-|smile| |ya|—|at| |bigla| |yang| |meging| |masanting| |a| |kabaldugan| |ing| |metung| |ya| |kareng| |tauling| |minta|,| |balamu| |buri| |na| |iti| |parati|.
+Mayap| |a| |bengi|,| |lumang| |sport|...| |Mayap| |a| |bengi|.
+Pero| |kabang| |lalakad| |ku| |pababa| |keng| |hagdan| |ikit| |ku| |na| |ing| |bengi| |ali| |ya| |pa| |meyari|.
+Limang| |pulung| |talampakan| |ibat| |keng| |pasbul| |metung| |a| |dosena| |a| |sulu| |ing| |sinlag| |keng| |metung| |a| |makatula| |at| |makalunus| |a| |eksena|.
+keng| |kanal| |keng| |siping| |ning| |dalan|,| |banda| |wanan| |babo|,| |pero| |maragul| |a| |meputut| |ing| |metung| |a| |gulong|,| |makatuknang| |ya| |ing| |bayung| |coupé| |na| |likuan| |ne| |ing| |drive| |nang| |Gatsby| |e| |pa| |mu| |rin| |adwang| |minutu| |bayu| |ita|.
+Ing| |mataram| |a| |jut| |ning| |pader| |ing| |meging| |sangkan| |ning| |panga|-|detach| |ning| |gulong|,| |na| |ngeni| |makatanggap| |yang| |maragul| |a| |pansin| |ibat| |kareng| |kapitnang| |dosena| |da| |reng| |curious| |a| |drayber|.
+Makanyan| |man|,| |uling| |likuan| |da| |la| |reng| |karelang| |saken| |a| |makasabat| |king| |dalan|,| |metung| |a| |masikan|,| |e| |makayagpang| |a| |din| |ibat| |kareng| |atyu| |king| |gulut| |ing| |dimdam| |da| |king| |mapilan| |a| |panaun|,| |at| |meragdag| |king| |dati| |nang| |maragul| |a| |kaguluan| |ning| |eksena|.
+Metung| |a| |lalaking| |makaba| |a| |duster| |ing| |kinuldas| |ibat| |keng| |mesira| |at| |ngeni| |makatalakad| |ya| |keng| |libutad| |ning| |dalan|,| |lalawe| |ya| |manibat| |keng| |saken| |papunta| |keng| |goma| |ampo| |manibat| |keng| |goma| |papunta| |kareng| |talapanalbe| |keng| |masanting|,| |makalitu| |a| |paralan|.
+"|Lawen|!|"
+paliwanag| |na|.
+"|Minta| |ya| |keng| |kanal|.|"
+Ing| |katutwan| |alang| |kapupusan| |a| |makapagmulala| |kaya|,| |at| |akilala| |ke| |mumuna| |ing| |e| |karaniwan| |a| |kalidad| |ning| |pamagmulala|,| |at| |kaybat| |ing| |lalaki|—|iti| |ing| |mete| |nang| |patron| |ning| |aklatan| |nang| |Gatsby|.
+makananu| |yang| |milyari|?
+kimut| |ya| |balikat|.
+"|Ala| |kung| |balu| |tungkul| |keng| |mekaniku|,|"| |sinabi| |nang| |desisyun|.
+"|pero| |makananu| |ya| |milyari|?| |menabu| |ka| |keng| |pader|?|"
+"|E| |mu| |ku| |kukutang|,|"| |sinabi| |nang| |Owl| |Eyes|,| |kabang| |maghugas| |yang| |gamat| |keng| |mabilug| |a| |bage|.
+"|Ditak| |mu| |ing| |balu| |ku| |keng| |pamagmaneho|—|ala| |mu|.| |milyari| |ita|,| |at| |ita| |mu| |ing| |balu| |ku|.|"
+"|Na|,| |nung| |kalulu| |kang| |driver| |e| |mu| |dapat| |subukan| |magmaneho| |neng| |bengi|.|"
+"|pero| |eku| |man| |sinubukan|,|"| |paliwanag| |nang| |mimua|,| |"|eku| |man| |sinubukan|.|"
+Metung| |a| |makabigla| |a| |katahimikan| |ing| |miragsa| |kareng| |makalawe|.
+"|Buri| |mu| |bang| |magpakamatay|?|"
+"|Maswerti| |ka| |metung| |ya| |mung| |gulong|!| |Ala| |yang| |driver| |at| |e| |na| |man| |sinubukan|!|"
+“|E| |mu| |aintindian|,|”| |paliwanag| |na| |ning| |kriminal|.
+"|Eku| |magmaneho|.| |Atin| |pang| |metung| |a| |lalaki| |keng| |saken|.|"
+Ing| |pangabigla| |na| |tinuki| |keng| |deklarasyun| |ayni| |menakit| |yang| |siwala| |keng| |metung| |a| |sustained| |a| |"|Ah|-|hh|!|"
+kabang| |ing| |pasbul| |ning| |coupé| |mabagal| |yang| |mibuklat|.
+Ing| |keraklan|—|keraklan| |na| |ngeni|—|mibalik| |lang| |alang| |patugut|,| |at| |inyang| |mibuklat| |yang| |malapad| |ing| |pasbul| |mika| |aswang| |a| |pamag|-|pause|.
+Kanita|,| |bagya|-|bagya|,| |bagya|-|bagya|,| |metung| |a| |maputla|,| |makabitin| |a| |indibidwal| |ing| |linwal| |keng| |mesira|,| |pawing| |tentatively| |keng| |gabun| |gamit| |ing| |maragul| |a| |e| |siguradung| |sapatus| |a| |sayaw|.
+Bulag| |ya| |keng| |silaw| |da| |reng| |sulu| |ampo| |megulu| |ya| |keng| |alang| |patugut| |a| |gulisak| |da| |reng| |sungay|,| |ing| |aparisyon| |tinalakad| |yang| |mag|-|sway| |saglit| |bayu| |ne| |ikit| |ing| |lalaking| |atyu| |keng| |duster|.
+"|nanu| |ing| |problema|?|"
+kalmadu| |yang| |kitang|.
+"|Meubus| |kami| |gasolina|?|"
+"|Lawen|!|"
+Kapitnang| |dosenang| |taliri| |ing| |tinuru| |keng| |meputut| |a| |gulong—| |linawe| |ya| |saglit|,| |at| |kaybat| |linawe| |ya| |babo| |na| |balamu| |magduda| |ya| |na| |mebaldug| |ya| |ibat| |banua|.
+"|mepalwal| |ya|,|"| |metung| |a| |migpaliwanag|.
+Tumangu| |ya|.
+"|Nung| |mumuna| |eku| |apansinan| |na| |tinuknang| |kami|.|"
+metung| |a| |pause|.
+Kaybat|,| |mig|-|inga| |yang| |makaba| |at| |pepatulid| |no| |reng| |balikat| |na|,| |sinabi| |na| |king| |metung| |a| |determinadung| |siwala|:
+"|Sabian| |mu| |nung| |nukarin| |ing| |gasolinahan|?|"
+At| |least| |metung| |a| |dosena| |a| |lalaki|,| |deng| |aliwa| |mas| |masanting| |la| |kesa| |kaya|,| |pepaliwanag| |da| |kaya| |na| |ing| |gulong| |ampo| |ing| |saken| |e| |na| |la| |misasanmetung| |keng| |nanu| |mang| |pisikal| |a| |pamiyabe|.
+"|Lual| |ka|,|"| |sinabi| |na| |kaybat| |ning| |saglit|.
+"|Ibili| |me| |keng| |baliktad|.|"
+"|pero| |ing| |gulong| |mewala| |ya|!|"
+Mig|-|alangan| |ya|.
+"|Alang| |masanting| |keng| |pamagpursigi|,|"| |ngana|.
+Ing| |caterwauling| |horns| |miras| |na| |keng| |crescendo| |at| |linawe| |ku| |at| |linabas| |keng| |dikut| |papunta| |bale|.
+linawe| |ku| |pabalik| |misan|.
+Ing| |wafer| |ning| |bulan| |sisilag| |ya| |babo| |ning| |bale| |nang| |Gatsby|,| |gagawan| |neng| |masanting| |ing| |bengi| |antimo| |ing| |minuna|,| |at| |makaligtas| |ya| |keng| |tawa| |ampo| |keng| |siwala| |ning| |kayang| |hardin| |a| |maslag| |pa|.
+Ing| |biglang| |alang| |laman| |balamu| |linwal| |ngeni| |ibat| |kareng| |bintana| |ampo| |kareng| |mangaragul| |a| |pasbul|,| |a| |babie| |ganap| |a| |pamag|-|isolate| |keng| |pigura| |ning| |host|,| |na| |makatalakad| |keng| |porch|,| |ing| |gamat| |na| |makatas| |ya| |bilang| |pormal| |a| |gesture| |ning| |pamagpaalam|.
+keng| |pamamasa| |ku| |kareng| |sinulat| |ku| |angga| |ngeni|,| |akakit| |ku| |na| |dininan| |kung| |impresyun| |na| |ing| |milyari| |keng| |atlung| |bengi| |a| |mapilang| |duminggu| |ing| |pamiyaliwa| |da| |ila| |ngan| |deng| |mekapag|-|absorb| |kanaku|.
+Ing| |kabaligtaran|,| |ila| |mung| |casual| |a| |events| |keng| |masikip| |a| |summer|,| |at|,| |angga| |na| |keng| |bandang| |tauli|,| |e| |da| |ku| |a|-|absorb| |kesa| |kareng| |personal| |kung| |bage|.
+keraklan| |kareng| |oras| |magobra| |ku|.
+keng| |maranun| |a| |abak| |ing| |aldo| |linabas| |ya| |keng| |albugan| |kabang| |magmadali| |kung| |pababa| |keng| |maputing| |bangin| |ning| |mababang| |new| |york| |papunta| |keng| |probity| |trust|.
+balu| |ku| |la| |reng| |aliwang| |clerk| |ampo| |reng| |kayanakan| |a| |bond|-|salesmen| |keng| |lagyu| |da|,| |ampo| |mengan| |ku| |karela| |keng| |madalumdum|,| |masipit| |a| |pipanganan| |keng| |malating| |babi| |sausages| |ampo| |mashed| |potatoes| |ampo| |kape|.
+Atin| |ku| |pang| |ditak| |a| |relasyun| |keng| |metung| |a| |dalagang| |manuknangan| |keng| |Jersey| |City| |ampo| |magobra| |keng| |accounting| |department|,| |pero| |ing| |kapatad| |na| |megumpisa| |yang| |linawe| |kanaku|,| |inya| |inyang| |minta| |ya| |keng| |bakasyon| |na| |inyang| |July| |pepaburen| |keng| |tahimik|.
+Mangan| |ku| |keraklan| |keng| |Yale| |Club|—|para| |keng| |e| |balu| |kung| |sangkan| |ita| |ing| |peka|-|malungkut| |a| |event| |keng| |aldo| |ku|—|at| |kaybat| |minta| |ku| |babo| |keng| |library| |at| |magaral| |kung| |investments| |ampo| |securities| |kilub| |ning| |metung| |a| |oras|.
+Atin| |lang| |mapilan| |a| |rioters|,| |pero| |e| |la| |linub| |keng| |library|,| |inya| |masanting| |yang| |obra|.
+Kaybat| |na| |nita|,| |nung| |malambut| |ya| |ing| |bengi|,| |linakad| |ku| |keng| |Madison| |Avenue| |linabas| |keng| |lumang| |Murray| |Hill| |Hotel|,| |ampo| |keng| |33rd| |Street| |papunta| |keng| |Pennsylvania| |Station|.
+megumpisa| |kung| |megustu| |keng| |new| |york|,| |ing| |racy|,| |adventurous| |a| |pakiramdam| |na| |neng| |bengi|,| |ampo| |ing| |satisfaction| |na| |ing| |alang| |patugut| |a| |kikislap| |da| |reng| |lalaki| |ampo| |babai| |ampo| |makina| |babie| |na| |keng| |e| |mapagal| |a| |mata|.
+buri| |kung| |maglakad| |keng| |Fifth| |Avenue| |ampo| |mamili| |kareng| |romantic| |a| |babai| |ibat| |kareng| |dakal| |a| |tau| |ampo| |isipan| |ku| |na| |kilub| |ning| |mapilan| |a| |minutu| |lungub| |ku| |keng| |bie| |da|,| |at| |alang| |makibalu| |o| |e| |bisa|.
+Minsan|,| |keng| |isip| |ku|,| |tutuki| |ku| |karela| |papunta| |kareng| |karelang| |apartment| |keng| |sulok| |da| |reng| |makasalikut| |a| |dalan|,| |at| |linawe| |la| |at| |migsmile| |la| |kanaku| |bayu| |la| |mewala| |keng| |pasbul| |papunta| |keng| |mapaling| |karalumduman|.
+keng| |enchanted| |metropolitan| |twilight| |atin| |kung| |dimdam| |a| |makatakut| |a| |pamagdili|-|dili| |neng| |misan|,| |ampo| |dimdam| |ku| |iti| |kareng| |aliwa|—|kalulung| |kayanakan| |a| |clerks| |a| |maglakbe| |keng| |arap| |da| |reng| |bintana| |a| |manenaya| |anggang| |miras| |na| |ing| |oras| |para| |keng| |metung| |a| |solitary| |restaurant| |dinner|—|kayanakan| |a| |clerk| |keng| |sisilim|,| |sasayangnan| |da| |ing| |peka| |makalunus| |a| |penandit| |ning| |bengi| |ampo| |bie|.
+Pasibayu| |keng| |alas| |otso|,| |inyang| |ding| |madalumdum| |a| |dalan| |ning| |40| |makalinya| |lang| |limang| |kalalam| |kareng| |taxicabs|,| |papunta| |keng| |theatre| |district|,| |dimdam| |ku| |ing| |pamaglub| |ning| |pusu| |ku|.
+Deng| |porma| |makasandal| |la| |kareng| |taxi| |kabang| |manaya| |la|,| |at| |ding| |siwala| |magkanta| |la|,| |at| |atin| |tawa| |ibat| |kareng| |e| |dimdam| |a| |jokes|,| |at| |ding| |makasindi| |a| |sigarilyu| |gagawang| |e| |aintindian| |a| |gulis| |kilub|.
+Isipan| |ku| |na| |aku|,| |magmadali| |ku| |naman| |papunta| |keng| |saya| |ampo| |ishare| |ku| |ing| |karelang| |intimate| |excitement|,| |buri| |ku| |ing| |mayap| |karela|.
+Metung| |a| |panaun| |e| |ke| |ikit| |i| |Jordan| |Baker|,| |at| |kanitang| |midsummer| |ikit| |ke| |pasibayu|.
+Nung| |mumuna|,| |mebigla| |kung| |munta| |kareng| |lugal| |a| |kayabe| |na|,| |uling| |metung| |yang| |kampeon| |king| |golf|,| |at| |balu| |da| |ngan| |ing| |lagyu| |na|.
+Kanita| |atin| |pang| |aliwa|.
+Eku| |talaga| |lulugud|,| |pero| |atin| |kung| |dimdam| |a| |malambut| |a| |pamag|-|usisa|.
+Ing| |bored| |haughty| |face| |na| |linawe| |na| |keng| |yatu| |atin| |yang| |selikut|—|keraklan| |kareng| |affectations| |atin| |lang| |selikut| |keng| |bandang| |tauli|,| |agyang| |ala| |la| |keng| |umpisa|—|at| |metung| |a| |aldo| |ikit| |ku| |nung| |nanu| |ita|.
+Inyang| |atyu| |kami| |keng| |metung| |a| |house|-|party| |keng| |Warwick|,| |likuan| |ne| |ing| |metung| |a| |saken| |a| |inutang| |na| |keng| |uran| |a| |makababa| |ing| |babo|,| |at| |kaybat| |miglaram| |ya|—|at| |bigla| |kung| |aganaka| |ing| |istorya| |tungkul| |kaya| |na| |e| |ku| |akit| |keng| |benging| |ita| |keng| |Daisy|'s|.
+keng| |mumunang| |maragul| |nang| |golf| |tournament| |atin| |yang| |row| |na| |halus| |miras| |kareng| |dyaryu|—|metung| |a| |suggestion| |na| |linawe| |ne| |ing| |bola| |na| |ibat| |keng| |e| |masanting| |a| |kalaraman| |keng| |semifinal| |round|.
+Ing| |bage| |linapit| |ya| |keng| |proporsiun| |ning| |iskandalu|—|kaybat| |mete| |ya|.
+Ing| |metung| |a| |caddie| |binawi| |ne| |ing| |kayang| |pahayag|,| |at| |ing| |metung| |mung| |saksi| |inamin| |na| |na| |mekad| |mekamali| |ya|.
+Ing| |milyari| |ampo| |ing| |lagyu| |menatili| |la| |keng| |isip| |ku|.
+I| |Jordan| |Baker| |likas| |na| |ing| |pamag|-|iwas| |kareng| |matalino|,| |matalino| |a| |lalaki|,| |at| |ngeni| |ikit| |ku| |na| |iti| |uling| |mas| |ligtas| |ya| |king| |eroplanu| |nung| |nukarin| |ing| |nanu| |mang| |pamiyaliwa| |king| |metung| |a| |code| |isipan| |dang| |imposibli|.
+E| |ya| |matapat| |a| |alang| |paulu|.
+E| |na| |agyung| |tiisan| |ing| |panga|-|disbentaha| |na| |at|,| |uling| |e| |ya| |bisa|,| |bala| |ku| |megumpisa| |yang| |makipag|-|ugnayan| |kareng| |subterfuges| |inyang| |kayanakan| |na| |pa| |ban| |panatilyan| |ing| |cool|,| |insolent| |a| |ngisi| |na| |makabalikid| |ya| |king| |yatu| |at| |makanyan| |man| |a|-|satisfy| |na| |ing| |demands| |ning| |kayang| |masikan|,| |jaunty| |a| |katawan|.
+Ala| |yang| |gewang| |pamiyaliwa| |kanaku|.
+Ing| |e| |katapatan| |keng| |babai| |metung| |yang| |bage| |na| |e| |mu| |sisisyan|—|megsisi| |ku|,| |at| |kaybat| |akalingwan| |ku|.
+keng| |parehung| |house|-|party| |atin| |kaming| |curious| |a| |pamisabi|-|sabi| |tungkul| |keng| |pamagmaneho| |keng| |saken|.
+megumpisa| |ya| |uling| |linabas| |yang| |malapit| |kareng| |mapilan| |a| |magobra| |na| |ing| |kekaming| |fender| |metung| |yang| |button| |keng| |coat| |ning| |metung| |a| |lalaki|.
+“|Mabuluk| |kang| |driver|,|”| |ngakung| |migprotesta|.
+"|Dapat| |kang| |maging| |mas| |maingat|,| |o| |e| |ka| |dapat| |magmaneho|.|"
+“|Maingat| |ku|.|”
+"|Ali|,| |ali| |ka|.|"
+"|Na|,| |deng| |aliwang| |tau| |makanyan| |la|,|"| |nganang| |sinabi|.
+“|Nanu| |ing| |pakialam| |na| |niti|?|”
+"|Ilako| |da| |ing| |dalan| |ku|,|"| |nganang| |migpilit|.
+"|Adwa| |la| |reng| |kailangan| |para| |mika| |aksidenti|.|"
+"|Ipagpalage| |mung| |akatagmu| |me| |ing| |metung| |a| |taung| |kalupa| |mu|.|"
+"|sana| |ali| |ku| |gawan|,|"| |nganang| |mekibat|.
+“|Kaburi| |ku| |kareng| |taung| |alang| |malasakit|.| |Inya| |buri| |da| |ka|.|”
+Deng| |mata| |nang| |abu|-|abu|,| |maka|-|sun|-|strain|,| |makalawe| |lang| |diretsu| |keng| |arap|,| |pero| |sadya| |nang| |linipat| |ing| |relasyun| |mi|,| |at| |saglit| |aisip| |ku| |na| |kaluguran| |ke|.
+Pero| |mabagal| |kung| |mag|-|isip| |at| |mitmung| |tuntunan| |keng| |kilub| |na| |mag|-|preno| |kareng| |kanakung| |kapagnasan|,| |at| |balu| |ku| |na| |mumuna| |kailangan| |kung| |ilako| |ing| |sarili| |ku| |keng| |tangle| |pauli|.
+Susulat| |kung| |sulat| |misan| |keng| |paruminggu| |ampo| |pipirmahan| |ku| |la|:| |"|Lugud|,| |Nick|,|"| |at| |ing| |aisip| |ku| |mu| |nung| |makananu|,| |inyang| |maglarin| |yang| |tennis| |ing| |metung| |a| |dalagang| |ita|,| |metung| |a| |malating| |bigote| |ning| |pawis| |ing| |linwal| |keng| |babo| |nang| |labi|.
+Makanyan| |man| |atin| |yang| |malabo| |a| |pamanintindi| |na| |kailangang| |pututan| |bayu| |ku| |maging| |malaya|.
+Balang| |metung| |magduda| |ya| |keng| |sarili| |na| |keng| |metung| |kareng| |cardinal| |a| |birtud|,| |at| |ini| |ing| |kanaku|:| |metung| |ku| |kareng| |mapilan| |a| |tapat| |a| |taung| |akilala| |ku|.
+IV
+keng| |domingo| |ning| |abak| |kabang| |ding| |kampanilya| |ning| |pisamban| |tigtigan| |la| |kareng| |baryu| |keng| |pampang|,| |ing| |yatu| |ampo| |ing| |kayang| |mistress| |mibalik| |la| |keng| |bale| |nang| |Gatsby| |ampo| |mig|-|winkle| |lang| |makatula| |keng| |kayang| |damulag|.
+"|Metung| |yang| |bootlegger|,|"| |ngara| |reng| |kayanakan| |a| |babai|,| |lilipat| |la| |keng| |pilatan| |da| |reng| |cocktails| |na| |ampo| |reng| |bulaklak| |na|.
+"|Misan| |pete| |ne| |ing| |metung| |a| |lalaki| |na| |abalu| |na| |na| |pamangkin| |neng| |Von| |Hindenburg| |ampo| |pinsan| |ne| |ning| |demonyu|.| |Ibye| |me| |kanaku| |ing| |metung| |a| |rosas|,| |malati|,| |at| |ibulus| |me| |ing| |tauling| |patak| |keng| |kristal| |a| |salamin|.|"
+Misan| |sinulat| |ku| |kareng| |alang| |laman| |a| |espasyu| |ning| |metung| |a| |timetable| |ing| |lagyu| |da| |reng| |minta| |king| |bale| |nang| |Gatsby| |kanitang| |kaleldo|.
+Metung| |yang| |lumang| |timetable| |ngeni|,| |masira| |ya| |keng| |kayang| |folds|,| |at| |ing| |pamagat| |na| |"|Iting| |schedule| |in| |effect| |July| |5th|,| |1922.|"
+Pero| |abasa| |ku| |la| |pa| |rin| |deng| |gray| |a| |lagyu|,| |at| |dinan| |dakang| |mas| |masanting| |a| |impresyun| |kesa| |kareng| |generalities| |ku| |kareng| |taung| |tinanggap| |keng| |pamag|-|host| |nang| |Gatsby| |ampo| |dininan| |deng| |subtle| |tribute| |na| |ala| |lang| |balu| |nanu| |man| |tungkul| |kaya|.
+Manibat| |king| |East| |Egg|,| |kanita|,| |dinatang| |la| |reng| |Chester| |Beckers| |ampo| |reng| |Leeches|,| |ampo| |ing| |metung| |a| |lalaking| |milagyuan| |Bunsen|,| |a| |akilala| |ku| |king| |Yale|,| |ampo| |i| |Doctor| |Webster| |Civet|,| |a| |melunus| |kanitang| |milabas| |a| |summer| |king| |Maine|.
+At| |ding| |Hornbeams| |ampo| |reng| |Willie| |Voltaires|,| |ampo| |ing| |mabilug| |a| |angkan| |a| |milagyuan| |Blackbuck|,| |a| |parating| |mitipun| |king| |metung| |a| |sulok| |at| |mag|-|flip| |up| |la| |asbuk| |da| |antimong| |kambing| |kareng| |ninu| |mang| |lalapit|.
+At| |ding| |Ismays| |ampo| |reng| |Chrysties| |(|o| |mas| |masanting| |i| |Hubert| |Auerbach| |ampo| |ing| |asawa| |nang| |Mr.| |Chrystie|)|,| |ampo| |i| |Edgar| |Beaver|,| |na| |ing| |buak| |na|,| |sabi| |da|,| |meging| |cotton|-|white| |ya| |keng| |metung| |a| |gatpanapun| |ning| |dimla| |alang| |masanting| |a| |sangkan|.
+I| |Clarence| |Endive| |ibat| |ya| |keng| |East| |Egg|,| |atatandanan| |ku|.
+Misan| |yamu| |dinatang|,| |maka|-|knickerbockers| |yang| |maputi|,| |at| |mekipaglaban| |ya| |keng| |metung| |a| |bum| |a| |milagyuan| |Etty| |keng| |garden|.
+Manibat| |keng| |marayu| |keng| |isla| |dinatang| |la| |reng| |Cheadles| |ampo| |reng| |ORP| |Schraeders|,| |ampo| |reng| |Stonewall| |Jackson| |Abrams| |ning| |Georgia|,| |ampo| |reng| |Fishguards| |ampo| |reng| |Ripley| |Snells|.
+I| |Snell| |atyu| |ya| |karin| |atlung| |aldo| |bayu| |ya| |minta| |keng| |penitentiary|,| |malasing| |ya| |keng| |gravel| |drive| |na| |ing| |saken| |nang| |Mrs.| |Ulysses| |Swett| |linabas| |ya| |keng| |wanan| |nang| |gamat|.
+Dinatang| |la| |naman| |deng| |Dancies|,| |ampo| |i| |SB| |Whitebait|,| |na| |maygit| |nang| |anam| |a| |pulung| |banua|,| |ampo| |i| |Maurice| |A.| |Flink|,| |ampo| |reng| |Hammerheads|,| |ampo| |i| |Beluga| |ing| |mag|-|importer| |tabaku|,| |ampo| |reng| |dalagang| |Beluga|.
+Manibat| |la| |keng| |West| |Egg| |deng| |Poles| |ampo| |reng| |Mulreadys| |ampo| |i| |Cecil| |Roebuck| |ampo| |i| |Cecil| |Schoen| |ampo| |i| |Gulick| |ing| |senador| |ning| |estado| |ampo| |i| |Newton| |Orchid|,| |na| |magkontrol| |kareng| |Films| |Par| |Excellence|,| |ampo| |i| |Eckhaust| |ampo| |i| |Clyde| |Cohen| |ampo| |i| |Don| |S.| |Schwartz| |(|ing| |anak|)| |ampo| |i| |Arthur| |McCarty|,| |anggang| |makasuglung| |la| |kareng| |pelikula| |keng| |metung| |o| |aliwang| |paralan|.
+At| |ding| |Catlips| |ampo| |reng| |Bembergs| |ampo| |i| |G.| |Earl| |Muldoon|,| |kapatad| |na| |nitang| |Muldoon| |a| |kaybat| |na| |nita| |linabag| |ne| |ing| |asawa| |na|.
+I| |Da| |Fontano| |ing| |promoter| |dinatang| |ya| |karin|,| |ampo| |i| |Ed| |Legros| |ampo| |i| |James| |B.| |(|"|Rot|-|Gut|"|)| |Ferret| |ampo| |reng| |De| |Jongs| |ampo| |i| |Ernest| |Lilly|—|dinatang| |la| |para| |sugal|,| |at| |inyang| |i| |Ferret| |miglakbe| |ya| |keng| |hardin| |mangabaldugan| |a| |melinis| |ya| |at| |ing| |Associated| |Traction| |kailangan| |yang| |magbayu| |keng| |pakinabang| |keng| |tutuking| |aldo|.
+Metung| |a| |lalaking| |milagyuan| |Klipspringer| |ing| |maralas| |nang| |atyu| |karin| |inya| |sa’t| |mekilala| |ya| |bilang| |“|ing| |boarder|”|—magduda| |ku| |nung| |atin| |yang| |aliwang| |bale|.
+Deng| |taung| |maka|-|teatru| |ila| |di| |Gus| |Waize| |ampo| |i| |Horace| |O'Donavan| |ampo| |i| |Lester| |Myer| |ampo| |i| |George| |Duckweed| |ampo| |i| |Francis| |Bull|.
+Ibat| |la| |naman| |keng| |New| |York| |deng| |Chromes| |ampo| |reng| |Backhyssons| |ampo| |reng| |Dennickers| |ampo| |reng| |Russel| |Betty| |ampo| |reng| |Corrigans| |ampo| |reng| |Kellehers| |ampo| |reng| |Dewars| |ampo| |reng| |Scullys| |ampo| |reng| |SW| |Belcher| |ampo| |reng| |Smirkes| |ampo| |reng| |kayanakan| |a| |Quinns|,| |diborsyadu| |la| |ngeni|,| |ampo| |i| |Henry| |L.| |Palmetto|,| |a| |mekapate| |keng| |sarili| |na| |keng| |pamagluksu| |na| |keng| |arap| |ning| |tren| |keng| |Times| |Square|.
+I| |Benny| |McClenahan| |dinatang| |ya| |parati| |yang| |ating| |apat| |a| |dalagang|.
+E| |la| |parehu| |keng| |pisikal| |a| |pangatau|,| |pero| |parehu| |la| |keng| |metung| |at| |metung| |na| |balamu| |atyu| |na| |la| |kanita|.
+akalingwan| |ku| |la| |reng| |lagyu| |da|—|Jaqueline|,| |isipan| |ku|,| |o| |nung| |ali| |Consuela|,| |o| |Gloria| |o| |Judy| |o| |June|,| |at| |ding| |karelang| |tauling| |lagyu| |ila| |ring| |melodious| |a| |lagyu| |da| |ring| |bulaklak| |at| |bulan| |o| |ding| |mas| |masikan| |a| |lagyu| |da| |ring| |mangaragul| |a| |kapitalistang| |Amerikanu| |a| |ding| |pinsan| |da|,| |nung| |pipilitan| |da| |la|,| |akua| |da| |ing| |karelang| |sarili|.
+Dagdag| |pa| |kareti|,| |atatandanan| |ku| |na| |i| |Faustina| |O'Brien| |dinatang| |ya| |karin| |misan| |mu| |at| |ding| |Baedeker| |girls| |ampo| |ing| |kayanakan| |a| |Brewer|,| |na| |meputut| |ya| |asbuk| |keng| |gera|,| |ampo| |i| |Mr.| |Albrucksburger| |ampo| |i| |Miss| |Haag|,| |ing| |kayang| |fiancée|,| |ampo| |i| |Ardita| |Fitz|-|Peters| |ampo| |i| |Mr.| |P.| |Jewett|,| |misan| |a| |pamuntuk| |ning| |American| |Legion|,| |ampo| |i| |Miss| |Hiudia|,| |metung| |yang| |lalaking| |mipakilala| |kaya
+drayber|,| |at| |metung| |a| |prinsipe| |ning| |metung| |a| |bage|,| |a| |ausan| |ming| |Duke|,| |at| |ing| |lagyu| |na|,| |nung| |balu| |ke|,| |akalingwan| |ke|.
+Deng| |sablang| |taung| |deni| |dinatang| |la| |keng| |bale| |nang| |Gatsby| |keng| |kaleldo|.
+Alas| |nuwebe|,| |metung| |a| |abak| |keng| |bandang| |tauli| |ning| |julio|,| |ing| |masanting| |a| |saken| |nang| |Gatsby| |linub| |ya| |keng| |mabatung| |dalan| |papunta| |keng| |pasbul| |ku| |at| |dininan| |neng| |melody| |ibat| |keng| |atlung|-|noted| |a| |busina|.
+Ita| |ing| |mumunang| |besis| |a| |tinawag| |na| |ku|,| |agyang| |minta| |ku| |kareng| |adwang| |party| |na|,| |makasake| |keng| |hydroplane| |na|,| |at|,| |keng| |mabilis| |nang| |imbitasyun|,| |maralas| |kung| |ginamit| |ing| |pampang| |na|.
+"|Mayap| |a| |abak|,| |matwang| |sport|.| |Kayabe| |daka| |keng| |pamangan| |ngeni| |at| |aisip| |ku| |na| |magsakay| |tamung| |miyabe|.|"
+Ibabalanse| |ne| |ing| |sarili| |na| |keng| |dashboard| |ning| |keang| |saken| |keng| |pamag|-|resourceful| |ning| |kimut| |na| |sobrang| |peculiarly| |American|—|na| |datang|,| |bala| |ku|,| |keng| |alang| |pamag|-|alsa| |obra| |keng| |kayanakan| |at|,| |lalu| |na|,| |keng| |alang| |pormang| |grasya| |da| |reng| |kekaming| |nerbyus|,| |sporadic| |a| |laro|.
+Ing| |kalidad| |ayni| |parati| |yang| |lalabag| |keng| |kayang| |punctilous| |a| |paralan| |keng| |porma| |ning| |e| |kapayapan|.
+E| |ya| |kapilan| |man| |menahimik|;
+parati| |yang| |ating| |tatapik| |a| |bitis| |nung| |nukarin| |o| |ing| |alang| |pasensyang| |pamagbukas| |at| |pamagsara| |ning| |gamat|.
+ikit| |na| |kung| |makalawe| |keng| |saken| |na|.
+"|Masanting| |ya|,| |ali|,| |lumang| |isport|?|"
+linundag| |ya| |para| |akit| |ke| |ing| |mas| |masanting| |a| |panaun|.
+“|E| |mu| |pa| |wari| |ikit| |ita|?|”
+ikit| |ke|.
+Ikit| |da| |ngan| |deng| |sabla|.
+Metung| |yang| |masanting| |a| |kule| |cream|,| |maslag| |ya| |keng| |nickel|,| |mamamaga| |ya| |keni| |at| |karin| |keng| |makalunus| |a| |kaba| |na| |kareng| |triumphant| |hatboxes| |ampo| |supper|-|boxes| |ampo| |toolboxes|,| |ampo| |maka|-|terrace| |ya| |keng| |labyrinth| |da| |reng| |windshields| |na| |mag|-|mirror| |keng| |metung| |a| |dosena| |a| |aldo|.
+Makalukluk| |kami| |keng| |gulut| |da| |reng| |dakal| |a| |layer| |ning| |salamin| |keng| |metung| |a| |uri| |ning| |berding| |balat| |a| |conservatory|,| |megumpisa| |kaming| |minta| |keng| |balen|.
+mekapagsalita| |ku| |kaya| |mekad| |kapitnang| |dosena| |keng| |milabas| |a| |bulan| |at| |ikit| |ku|,| |keng| |kanakung| |pangadismaya|,| |na| |ala| |yang| |asabi|.
+Kaya| |ing| |mumunang| |impresyun| |ku|,| |na| |metung| |yang| |taung| |alang| |kabaldugan|,| |bagya|-|bagya| |yang| |mewala| |at| |meging| |yang| |simpling| |makibandi| |king| |metung| |a| |magarbung| |bale| |king| |dalan| |king| |siping| |bale|.
+at| |kanita| |dinatang| |ing| |makagulung| |pamaglakbe|.
+E| |kami| |pa| |miras| |keng| |West| |Egg| |village| |bayu| |ya| |megumpisa| |i| |Gatsby| |a| |likuan| |na| |ing| |kayang| |eleganting| |sentences| |a| |e| |meyari| |at| |tinampal| |ne| |ing| |sarili| |na| |keng| |tuhod| |ning| |kayang| |caramel|-|coloured| |suit|.
+"|Lawen| |mu| |keni|,| |matwang| |sport|,|"| |nganang| |migsalitang| |makabigla|,| |"|nanu| |ing| |opinyun| |mu| |kanaku|,| |makanyan| |man|?|"
+Medyu| |me|-|overwhelm| |ku|,| |megumpisa| |ku| |kareng| |pangkabilugan| |a| |pamag|-|iwas| |na| |karapat|-|dapat| |keng| |kutang| |a| |ita|.
+“|Na|,| |atin| |kung| |ikwentu| |keka| |tungkul| |keng| |bie| |ku|,|”| |nganang| |migsalita|.
+“|E| |ku| |buring| |mika|-|maling| |ideya| |ka| |kanaku| |kareng| |sablang| |kwentung| |daramdaman| |mu|.|”
+Kaya| |balu| |na| |ing| |makabaldugan| |a| |akusasyon| |na| |maglasa| |keng| |pamisabi|-|sabi| |kareng| |kayang| |hall|.
+“|Sasabian| |ku| |keka| |ing| |katutwan| |ning| |Dyos|.|”
+Ing| |wanan| |nang| |gamat| |bigla| |yang| |inutus| |ing| |banal| |a| |pamanablas| |ban| |talakad| |ya|.
+"|Anak| |ku| |kareng| |mapilan| |a| |mabandi| |keng| |Middle| |West|—|mete| |nala| |ngan| |ngeni|.| |Meragul| |ku| |keng| |America| |pero| |megaral| |ku| |keng| |Oxford|,| |uling| |ding| |sablang| |pipumpunan| |ku| |megaral| |la| |karin| |kilub| |ning| |dakal| |a| |banua|.| |Iti| |metung| |yang| |tradisyun| |ning| |pamilya|.|"
+linawe| |ya| |kanaku| |keng| |gilid|—|at| |balu| |ku| |nung| |bakit| |meniwala| |ya| |i| |jordan| |baker| |na| |maglaram| |ya|.
+Peparala| |ne| |ing| |amanung| |"|megaral| |ya| |keng| |Oxford|,|"| |o| |linulun| |ne|,| |o| |linawe| |ne|,| |balamu| |me|-|abala| |ya| |kanita|.
+At| |keng| |pamagduda| |na|,| |ing| |mabilug| |nang| |sinabi| |mesira| |ya|,| |at| |migmulala| |ku| |nung| |ala| |yang| |bage| |a| |makasumami| |kaya|,| |kaybat|.
+"|Nanu| |ya| |ing| |bage| |keng| |Middle| |West|?|"
+kitang| |kung| |casual|.
+"|San| |Francisco|.|"
+"|Lawen| |ke|.|"
+"|Mete| |la| |ngan| |deng| |pamilya| |ku| |at| |dakal| |kung| |pera|.|"
+Ing| |siwala| |na| |solemni| |ya|,| |balamu| |ing| |alaala| |na| |ning| |biglang| |pangawala| |ning| |metung| |a| |angkan| |ing| |mag|-|abala| |kaya|.
+Saglit| |kung| |aisip| |na| |guguyud| |ne| |ing| |bitis| |ku|,| |pero| |ing| |pamanalbe| |ku| |kaya| |mekumbinsi| |na| |kung| |ali|.
+"|Kaybat| |na| |nita|,| |mebie| |ku| |antimong| |kayanakan| |a| |rajah| |kareng| |sablang| |tungku| |ning| |Europa|—|Paris|,| |Venice|,| |Rome|—|magkolekta| |kung| |alahas|,| |keraklan| |rubies|,| |mangaso| |kareng| |mangaragul| |a| |animal|,| |magpinta| |kung| |ditak|,| |bage| |para| |mu| |king| |sarili| |ku|,| |at| |pagsikapan| |kung| |akalingwan| |ing| |metung| |a| |bage| |a| |makalungkut| |a| |milyari| |kanaku| |kanitang| |minunang| |panaun|.|"
+King| |metung| |a| |upaya|,| |agawa| |kung| |pigilan| |ing| |kanakung| |e| |kapanipaniwalan| |a| |tawa|.
+Deng| |mismung| |amanu| |megamit| |lang| |threadbare| |na| |ala| |lang| |akit| |a| |larawan| |nung| |e| |mu| |ing| |metung| |a| |turbaned| |a| |“|karakter|”| |a| |mag|-|leak| |sawdust| |kareng| |balang| |pore| |kabang| |tutukian| |ne| |ing| |metung| |a| |tigre| |keng| |Bois| |de| |Boulogne|.
+"|Kanita| |dinatang| |ing| |gera|,| |lumang| |sport|.| |Maragul| |a| |kapayapan|,| |at| |sinubukan| |kung| |mate|,| |pero| |balamu| |atin| |kung| |enkantadung| |bie|.| |Tinanggap| |kung| |komisyun| |bilang| |mumunang| |tenyente| |inyang| |megumpisa| |ya|.| |King| |Argonne| |Forest| |kinua| |ku| |la| |reng| |mitagan| |ning| |kanakung| |machine|-|gun| |battalion| |king| |marayung| |paralan| |king| |arap| |a| |atin| |yang| |kapitnang| |milya| |ing| |agwat| |king| |metung| |a| |gilid| |ning| |infantry| |nung| |nukarin| |kami| |malyaring| |sumulung|.
+menatili| |ku| |karin| |aduang| |aldo| |at| |adwang| |bengi|,| |dinalan| |at| |atlung| |pulung| |lalaking| |ating| |labing| |anam| |a| |baril| |a| |Lewis|,| |at| |inyang| |dinatang| |la| |reng| |infantry| |king| |tauli| |ikit| |da| |ing| |insignia| |da| |reng| |atlung| |dibisyon| |ning| |German| |libutad| |da| |reng| |mete|.
+Malating| |Montenegro|!
+Tinas| |no| |reng| |amanu| |at| |tinuknang| |ya| |karela|—|kambe| |ning| |ngisi| |na|.
+Ing| |ngisi| |aintindian| |na| |ing| |masakit| |a| |amlat| |ning| |Montenegro| |ampo| |mekirame| |ya| |kareng| |matapang| |a| |pamaglaban| |da| |reng| |memalen| |ning| |Montenegro|.
+Lubus| |neng| |apahalagahan| |ing| |kadena| |da| |reng| |pambansang| |sitwasyun| |a| |mekapag|-|elicit| |kaniting| |parangal| |ibat| |king| |mainit| |a| |malating| |pusu| |ning| |Montenegro|.
+Ing| |kanakung| |e| |kapaniwalan| |milub| |ya| |keng| |pangabigla| |ngeni|;
+kalupa| |ne| |ning| |pamag|-|skim| |agad| |keng| |metung| |a| |dosena| |a| |magazine|.
+Inabut| |ne| |ing| |bulsa| |na|,| |at| |ing| |metung| |a| |pirasu| |ning| |metal|,| |makabitin| |ya| |keng| |laso|,| |miragsa| |ya| |keng| |palad| |ku|.
+“|Ita| |itang| |ibat| |Montenegro|.|”
+keng| |kanakung| |pamagmulala|,| |ing| |bage| |atin| |yang| |authentic| |a| |itsura|.
+"|Orderi| |di| |Danilo|,|"| |sinabi| |na| |ning| |circular| |legend|,| |"|Montenegro|,| |Nicolas| |Rex|.|"
+"|Ibalik| |me|.|"
+"|Major| |Jay| |Gatsby|,|"| |binasa| |ku|,| |"|Para| |keng| |Valor| |Extraordinary|.|"
+“|Oyni| |pa| |ing| |parati| |kung| |darala|.| |Suvenir| |ning| |Oxford| |days|.| |Mekwa| |ya| |keng| |Trinity| |Quad|—|ing| |lalaking| |atyu| |keng| |kayli| |ku| |ya| |ing| |Earl| |ning| |Doncaster|.|”
+Metung| |yang| |litrato| |ning| |kapitnang| |dosena| |da| |reng| |kayanakan| |a| |lalaking| |maka|-|blazer| |a| |mag|-|loaf| |king| |metung| |a| |archway| |nung| |nukarin| |akakit| |la| |reng| |dakal| |a| |spires|.
+Atin| |ya| |i| |Gatsby|,| |mas| |malati| |ya| |itsura|—|ating| |cricket| |bat| |keng| |gamat| |na|.
+Kanita| |tutu| |ngan| |ita|.
+Ikit| |ku| |lang| |milalablab| |ding| |balat| |da| |ring| |tigre| |king| |palasyu| |na| |king| |Grand| |Canal|;
+ikit| |keng| |binuklat| |ne| |ing| |metung| |a| |kaban| |a| |rubies| |para| |a|-|ease|,| |kareng| |karelang| |crimson|-|lighted| |depths|,| |ing| |gnawings| |ning| |kayang| |mesira| |a| |pusu|.
+"|Gawan| |kung| |maragul| |a| |anyaran| |keka| |ngeni|,|"| |ngana|,| |at| |binulsa| |no| |reng| |souvenir| |na| |king| |kasiyahan|,| |"|nya| |aisip| |ku| |na| |dapat| |kang| |makibalu| |tungkul| |kanaku|.| |E| |ku| |buring| |isipan| |mu| |na| |ala| |kung| |tau|.| |Akakit| |mu|,| |keraklan| |akit| |ku| |ing| |sarili| |ku| |kareng| |e| |ku| |kakilala| |uling| |maglakbe| |ku| |keni| |at| |karin| |ban| |akalingwan| |ing| |malungkut| |a| |bage| |a| |milyari| |kanaku|.|"
+Mig|-|alangan| |ya|.
+“|Daramdaman| |mu| |iti| |ngening| |gatpanapun|.|”
+"|keng| |pamangan|?|"
+"|Ali|,| |ngening| |gatpanapun|.| |Abalu| |ku| |na| |idala| |me| |i| |Miss| |Baker| |keng| |tsa|.|"
+"|buri| |mung| |sabyan| |kaluguran| |me| |i| |miss| |baker|?|"
+"|Ali|,| |matwang| |sport|,| |ali| |ku|.| |Pero| |i| |Miss| |Baker| |mebisa| |yang| |makipagsalita| |keka| |tungkul| |kening| |bage| |ayni|.|"
+Ala| |kung| |balu| |nung| |nanu| |ing| |"|bagay| |ayni|"|,| |pero| |mas| |mebigla| |ku| |kesa| |keng| |interesadu|.
+Eku| |pa| |inaus| |i| |Jordan| |na| |mag|-|tea| |para| |pisabyan| |mi| |i| |Mr.| |Jay| |Gatsby|.
+Siguradu| |ku| |na| |ing| |request| |maging| |yang| |metung| |a| |bage| |a| |lubus| |a| |makapagmulala|,| |at| |king| |metung| |a| |penandit|,| |migsisi| |ku| |uling| |e| |ku| |pa| |mekatalakad| |king| |kayang| |sobrang| |populasyun| |a| |damulag|.
+E| |ya| |bisang| |magsalita| |pa|.
+Ing| |kayang| |katuliran| |meragul| |ya| |kaya| |kabang| |lalapit| |kami| |keng| |siudad|.
+linabas| |kami| |keng| |port| |roosevelt|,| |nung| |nukarin| |atin| |yang| |akit| |a| |red|-|belted| |oceangoing| |a| |barko|,| |ampo| |migbilis| |kami| |keng| |cobbled| |slum| |a| |makalinya| |kareng| |madalumdum|,| |alang| |taung| |saloon| |da| |reng| |faded|-|gilt| |a| |ninteen|-|hundreds|.
+Kanita| |ing| |libis| |ning| |abu| |mibuklat| |ya| |keng| |adwa| |ming| |gilid|,| |at| |ikit| |ke| |i| |Mrs.| |Wilson| |a| |mag|-|strain| |keng| |garage| |pump| |a| |maki| |panting| |vitality| |kabang| |lalakad| |kami|.
+Kareng| |fender| |a| |makalat| |kalupa| |da| |reng| |pakpak|,| |mikalat| |kaming| |sala| |keng| |kapitna| |ning| |Astoria|—|kapitna| |mu|,| |uling| |kabang| |mag|-|twist| |kami| |kareng| |asias| |ning| |matas| |dimdam| |ke| |ing| |pamilyar| |a| |“|jug|-|jug-| |spat| |!|”
+ning| |metung| |a| |motorsiklo|,| |ampo| |ing| |metung| |a| |frantic| |a| |pulis| |sinake| |ya| |keng| |siping| |na|.
+"|Sige|,| |lumang| |sport|,|"| |nganang| |Gatsby|.
+Megpabagal| |kami|.
+kinua| |ne| |ing| |maputing| |card| |keng| |wallet| |na|,| |kinaway| |ne| |keng| |arapan| |ning| |lalaki|.
+"|Tama| |ka|,|"| |ngana| |ning| |pulis|,| |tigkil| |ne| |ing| |cap| |na|.
+"|Akilala| |daka| |keng| |tutuking| |panaun|,| |Mr.| |Gatsby|.| |Pasensya| |na|!|"
+"|nanu| |ita|?|"
+kitang| |ku|.
+"|Ing| |larawan| |ning| |Oxford|?|"
+"|Mekagawa| |kung| |pabor| |keng| |commissioner| |misan|,| |at| |padala| |na| |kung| |Christmas| |card| |balang| |banua|.|"
+babo| |ning| |maragul| |a| |tulay|,| |ing| |aslag| |ning| |aldo| |keng| |girders| |gagawang| |alang| |patugut| |a| |kikislap| |kareng| |kikimut| |a| |saken|,| |ing| |siudad| |tatas| |ya| |keng| |ilug| |keng| |maputing| |tambak| |ampo| |sugar| |lumps| |a| |mitalakad| |keng| |kapagnasan| |ibat| |keng| |nonolfactory| |a| |pera|.
+Ing| |siudad| |a| |akakit| |manibat| |keng| |Queensboro| |Bridge| |parati| |yang| |siudad| |a| |akakit| |keng| |mumunang| |besis|,| |keng| |mumunang| |ligaw| |a| |pangaku| |na| |ning| |sablang| |misteryu| |ampo| |ing| |kayapan| |keng| |yatu|.
+Metung| |a| |mete| |ing| |linabas| |kekami| |keng| |metung| |a| |hearse| |a| |makatambak| |kareng| |bulaklak|,| |tinuki| |la| |reng| |adwang| |kareta| |a| |ating| |blind| |a| |makaguyud|,| |ampo| |reng| |mas| |masayang| |kareta| |para| |kareng| |kakaluguran|.
+Ding| |kakaluguran| |linawe| |la| |kekami| |kareng| |makalunus| |a| |mata| |ampo| |makuyad| |a| |labi| |ning| |mauli|-|aslagan| |ning| |Europa|,| |at| |masaya| |ku| |na| |ing| |pamanalbe| |keng| |masanting| |a| |saken| |nang| |Gatsby| |kayabe| |ya| |keng| |karelang| |malungkut| |a| |bakasyon|.
+Kabang| |lalagpus| |kami| |keng| |Blackwell|'s| |Island|,| |metung| |a| |limousine| |ing| |linabas| |kekami|,| |a| |magmaneho| |keng| |maputing| |chauffeur|,| |nung| |nukarin| |makalukluk| |la| |reng| |atlung| |modish| |a| |negro|,| |adwang| |bucks| |ampo| |metung| |a| |dalagita|.
+tinawa| |kung| |masikan| |kabang| |ding| |yolks| |da| |reng| |karelang| |mata| |gugulisak| |la| |kekami| |keng| |mayabang| |a| |pamipatepate|.
+"|Anu| |mang| |malyari| |ngeni| |uling| |milabas| |na| |kami| |keng| |tulay| |ayni|,|"| |nganang| |miisip|;
+"|nanu| |man|...|"
+Agyang| |i| |Gatsby| |malyari| |ya|,| |alang| |nanu| |mang| |pamagmulala|.
+Maragul| |a| |gatpanapun|.
+keng| |metung| |a| |well|-|fanned| |Forty|-|second| |Street| |cellar| |akilala| |ke| |i| |Gatsby| |para| |keng| |pamangan|.
+linawe| |keng| |liwanag| |ning| |dalan| |keng| |kilwal|,| |ding| |mata| |ku| |linawe| |ya| |keng| |anteroom|,| |makipagsalita| |ya| |keng| |aliwang| |lalaki|.
+"|Mr.| |Carraway|,| |ini| |ing| |kakaluguran| |kung| |Mr.| |Wolfshiem|.|"
+Metung| |a| |malating|,| |patag| |a| |asbuk| |a| |Judio| |ing| |tinas| |ne| |ing| |maragul| |nang| |buntuk| |at| |linawe| |na| |ku| |kareng| |adwang| |mangasanting| |a| |buak| |a| |makalukluk| |keng| |balang| |butul| |ning| |asbuk|.
+Kaybat| |ning| |metung| |a| |penandit|,| |adiskubri| |ku| |la| |reng| |malating| |mata| |na| |keng| |kapitna| |ning| |karalumduman|.
+"|—Inya| |linawe| |ke| |kaya|,|"| |nganang| |Mr.| |Wolfshiem|,| |tigkil| |ne| |ing| |gamat| |ku|,| |"|at| |nanu| |ing| |isipan| |mung| |gewa| |ku|?|"
+"|Nanu|?|"
+Magalang| |kung| |kitang|.
+Pero| |malino| |ali| |na| |ku| |sasabyan|,| |uling| |binili| |ne| |ing| |gamat| |ku| |at| |tinakpan| |ne| |i| |Gatsby| |keng| |kayang| |expressive| |a| |asbuk|.
+"|Binie| |ke| |ing| |pera| |kang| |Katspaugh| |at| |sinabi| |ku|:| |'|Sige|,| |Katspaugh|,| |e| |me| |bayaran| |agyang| |metung| |mung| |sentimu| |anggang| |e| |ne| |isara| |ing| |asbuk| |na|.|'
+Sinara| |ne| |kanita| |at| |karin|.|”
+I| |Gatsby| |tinggap| |ne| |ing| |balang| |metung| |kekami| |at| |linapit| |ya| |keng| |restaurant|,| |nung| |nukarin| |i| |Mr.| |Wolfshiem| |linulun| |ne| |ing| |bayung| |sentence| |a| |magumpisa| |na| |at| |linub| |ya| |keng| |somnambulatory| |abstraction|.
+“|Highballs|?|”
+kitang| |ning| |head| |waiter|.
+"|Masanting| |ya| |ining| |pipanganan| |keni|,|"| |sinabi| |nang| |Mr.| |Wolfshiem|,| |lalawe| |ya| |kareng| |presbyterian| |nymphs| |keng| |kisame|.
+"|pero| |mas| |buri| |ke| |ing| |kabilang| |dalan|!|"
+"|Wa|,| |highballs|,|"| |mebisa| |ya| |i| |Gatsby|,| |at| |kaybat| |kang| |Mr.| |Wolfshiem|:| |"|Masyadu| |yang| |mapali| |karin|.|"
+"|Mapali| |at| |malati|—|wa|,|"| |nganang| |Mr.| |Wolfshiem|,| |"|pero| |mitmu| |yang| |alaala|.|"
+"|Nanung| |lugal| |ita|?|"
+kitang| |ku|.
+"|Ing| |matwang| |Metropole|.|"
+"|Ing| |matwang| |Metropole|,|"| |sinabi| |nang| |Mr.| |Wolfshiem| |a| |malungkut|.
+“|Mitmu| |lang| |lupa| |a| |mete| |at| |mewala|.| |Mitmu| |lang| |kakaluguran| |a| |mewala| |ngeni| |kapilan| |man|.| |Eku| |akalingwan| |kabang| |mabie| |ku| |ing| |benging| |peparala| |de| |i| |Rosy| |Rosenthal| |karin|.| |Anam| |kami| |king| |lamesa|,| |at| |i| |Rosy| |mengan| |ya| |at| |minum| |dakal| |a| |bengi|.| |Inyang| |malapit| |nang| |abak| |ing| |waiter| |linapit| |ya| |kaya| |a| |maki| |makatula| |a| |itsura| |at| |sinabi| |na| |king| |metung| |a| |tau| |buri| |neng| |magsalita| |king| |lual|,| |'|A| |mu| |rin|.
+sabi| |nang| |Rosy|,| |at| |megumpisa| |yang| |tinalakad|,| |at| |ginuyud| |ke| |keng| |luklukan| |na|.
+“| |'|Paburen| |mu| |lang| |lungub| |keni| |deng| |bastardu| |nung| |buri| |da| |ka|,| |Rosy|,| |dapot| |e| |ka|,| |inya| |saupan| |mu| |ku|,| |lumipat| |ka| |king| |lual| |ning| |silid| |a| |ini|.|'
+"|Alas| |kwatru| |ning| |abak| |kanita|,| |at| |nung| |tinas| |mi| |la| |reng| |blinds| |menakit| |kaming| |sala| |ning| |aldo|.|"
+"|Meko| |ya|?|"
+kitang| |kung| |alang| |kasalanan|.
+"|siguradung| |minta| |ya|.|"
+Ing| |asbuk| |nang| |Mr.| |Wolfshiem| |linawe| |ya| |kaku|.
+“|Linawe| |ya| |keng| |pasbul| |at| |ngana|:| |'|E| |mu| |paburen| |ing| |waiter| |a| |ita| |ing| |kuanan| |ne| |ing| |kape| |ku|!|'
+Kaybat| |linwal| |ya| |keng| |bangketa|,| |at| |binaril| |deng| |atlung| |besis| |keng| |mabilug| |nang| |atian| |at| |tinakas| |de|.|”
+"|Apat| |la| |reng| |mekuryenti|,|"| |ngana|,| |aganaka| |ku|.
+"|Lima|,| |kayabe| |nang| |Becker|.|"
+Ing| |asbuk| |na| |linawe| |ya| |kanaku| |keng| |interesadung| |paralan|.
+“|Aintindyan| |ku| |na| |manintun| |kang| |negosyung| |gonnegtion|.|”
+Ing| |pamisanmetung| |da| |reng| |adwang| |amanung| |deni| |makabigla| |ya|.
+I| |Gatsby| |mekibat| |ya| |para| |kaku|:
+"|O|,| |ali|,|"| |ngana|,| |"|ali| |ya| |ini| |ing| |lalaki|.|"
+"|Ali|?|"
+I| |Mr.| |Wolfshiem| |balamu| |mebigu| |ya|.
+"|Kaluguran| |ke| |mu| |ini|.| |sinabi| |ku| |keka| |na| |pisabyan| |tamu| |ita| |keng| |aliwang| |oras|.|"
+"|Pakisabi| |kung| |mayap| |keka|,|"| |nganang| |Mr.| |Wolfshiem|,| |"|Atin| |kung| |mali| |a| |tau|.|"
+Metung| |a| |succulent| |a| |hash| |ing| |dinatang|,| |at| |i| |Mr.| |Wolfshiem|,| |akalingwan| |na| |ing| |mas| |sentimental| |a| |atmospera| |ning| |matwang| |Metropole|,| |megumpisa| |yang| |mengan| |king| |masikan| |a| |delicacy|.
+Deng| |mata| |na|,| |samantalang|,| |mabagal| |lang| |linawe| |keng| |mabilug| |a| |silid|—|ayari| |ne| |ing| |arko| |kapamilatan| |ning| |pamagbalikid| |na| |para| |lawan| |la| |reng| |taung| |atyu| |keng| |gulut|.
+isipan| |ku|,| |maliban| |keng| |presensya| |ku|,| |linawe| |ya| |sana| |keng| |lalam| |ning| |kekaming| |lamesa|.
+"|Lawen| |me| |keni|,| |matuang| |sport|,|"| |sinabi| |nang| |Gatsby|,| |linapit| |ya| |kanaku|,| |"|tatakut| |ku| |na| |pepagal| |daka| |ditak| |ngening| |abak| |keng| |saken|.|"
+Atin| |yang| |ngisi| |pasibayu|,| |pero| |ngening| |oras| |ayni|,| |tinagal| |ku|.
+"|Eku| |buri| |ing| |misteryu|,|"| |pekibat| |ku|,| |"|at| |eku| |aintindian| |nung| |bakit| |e| |ka| |lumual| |prangka| |at| |sabyan| |mu| |kanaku| |nung| |nanu| |ing| |buri| |mu|.| |Bakit| |kailangan| |ing| |sabla| |datang| |ya| |kang| |Miss| |Baker|?|"
+"|O|,| |ala| |yang| |nanu| |mang| |underhand|,|"| |ngana| |kanaku|.
+"|I| |Miss| |Baker| |metung| |yang| |masanting| |a| |sportswoman|,| |balu| |mu|,| |at| |e| |ya| |gagawang| |nanu| |mang| |bage| |na| |e| |ustu|.|"
+Bigla| |yang| |linawe| |keng| |relo| |na|,| |linundag| |ya|,| |at| |migmadali| |yang| |linwal| |keng| |kwartu|,| |likuan| |naku| |kang| |Mr.| |Wolfshiem| |keng| |lamesa|.
+"|Kailangan| |yang| |tumawag|,|"| |sinabi| |nang| |Mr.| |Wolfshiem|,| |tutuki| |ya| |kaya| |kareng| |mata| |na|.
+"|Masanting| |ya|,| |ali| |ya|?| |Masanting| |yang| |lawan| |at| |perpektung| |lalaki|.|"
+"|Wa|.|"
+"|Metung| |yang| |lalaking| |Oggsford|.|"
+"|Ay|!|"
+"|Megaral| |ya| |keng| |Oggsford| |College| |keng| |England|.| |Balu| |me| |ing| |Oggsford| |College|?|"
+“|Dimdam| |ku| |na|.|”
+“|Metung| |ya| |kareng| |peka| |sikat| |a| |kolehiyu| |king| |yatu|.|”
+"|Akilala| |me| |ne| |i| |Gatsby| |keng| |makabang| |panaun|?|"
+kitang| |ku|.
+"|Pilang| |banua|,|"| |pekibat| |na| |king| |metung| |a| |paralan| |a| |masaya|.
+"|Gawan| |ke| |ing| |kaligayahan| |ning| |kayang| |kakilala| |kaybat| |ning| |gera|.| |Pero| |balu| |ku| |na| |adiskubri| |ke| |ing| |metung| |a| |lalaking| |masanting| |a| |pangatau| |kaybat| |kung| |mekipagsalita| |kaya| |metung| |oras|.| |Sinabi| |ku| |keng| |sarili| |ku|:| |'|Atin| |yang| |klasing| |lalaking| |buri| |mung| |idala| |bale| |at| |ipakilala| |kang| |ima| |mu| |ampo| |kapatad| |mung| |babai|.|'
+”| |Tinuknang| |ya|.
+“|Akit| |ku| |na| |lalawen| |me| |ing| |butones| |ku|.|”
+Eku| |pa| |lalawe| |karela|,| |pero| |ngeni|.
+Metung| |la| |kareng| |pamilyar| |a| |pirasu| |ning| |garing|.
+"|Pekamasanting| |a| |specimen| |da| |reng| |molar| |ning| |tau|,|"| |ngana| |kanaku|.
+"|Ustu|!|"
+sinuri| |ku| |la|.
+"|Metung| |yang| |makawili| |a| |ideya| |ita|.|"
+"|Wa|.|"
+linawe| |no| |reng| |manggas| |na| |keng| |lalam| |ning| |amerikana| |na|.
+"|Wa|,| |i| |Gatsby| |maingat| |ya| |kareng| |babai|.| |E| |ya| |man| |lalawe| |keng| |asawa| |ning| |kakaluguran| |na|.|"
+Inyang| |ing| |subject| |na| |niting| |instinctive| |trust| |mibalik| |ya| |keng| |lamesa| |at| |linukluk| |ya|.| |I| |Mr.| |Wolfshiem| |ininum| |ne| |ing| |kape| |na| |at| |tinalakad| |ya|.
+"|Mesaya| |ku| |keng| |pamangan| |ku|,|"| |ngana|,| |"|at| |tumakas| |ku| |kekayung| |adwang| |kayanakan| |a| |lalaki| |bayu| |ku| |milabas| |keng| |pamagtanggap| |ku|.|"
+"|E| |ka| |magmadali| |Meyer|,|"| |sinabi| |nang| |Gatsby|,| |alang| |sigasig|.
+I| |Mr.| |Wolfshiem| |tinas| |ne| |ing| |gamat| |na| |bilang| |bendisyun|.
+"|Magalang| |ka|,| |pero| |kayabe| |ku| |keng| |aliwang| |henerasyun|,|"| |solemne| |nang| |sinabi|.
+"|Lukluk| |ka| |keni| |at| |pag|-|usapan| |mu| |ing| |kekang| |sports| |ampo| |reng| |kekang| |kayanakan| |a| |babai| |ampo| |ing| |kekang—|"| |dininan| |neng| |imaginary| |noun| |ing| |metung| |pang| |wave| |ning| |gamat| |na|.
+“|Nung| |aku|,| |limang| |pulung| |banua| |na| |ku|,| |at| |e| |ku| |na| |ipilit| |ing| |sarili| |ku| |keka|.|”
+Kabang| |makipagkamay| |ya| |at| |tatalikud| |ya| |ing| |makalunus| |nang| |asbuk| |gagalgal| |ya|.
+Inisip| |ku| |nung| |atin| |kung| |sinabi| |na| |makasakit| |lub| |kaya|.
+"|Maging| |sentimental| |ya| |neng| |misan|,|"| |paliwanag| |nang| |Gatsby|.
+"|Metung| |ya| |ini| |kareng| |sentimental| |a| |aldo| |na|.| |Metung| |yang| |karakter| |keng| |New| |York|—|metung| |yang| |memalen| |ning| |Broadway|.|"
+"|Ninu| |ya|,| |makanyan| |man|,| |metung| |yang| |artista|?|"
+"|Ali|.|"
+"|Metung| |a| |dentista|?|"
+"|Meyer| |Wolfshiem|?| |ali|,| |sugal| |ya|.|"
+I| |Gatsby| |mig|-|alangan| |ya|,| |kaybat| |sinabi| |na|,| |coolly|:| |“|Iya| |ing| |taung| |mig|-|ayos| |keng| |World|'s| |Series| |kanitang| |1919.|”
+"|Ayus| |me| |ing| |World|'s| |Series|?|"
+ulit| |ku|.
+Ing| |idea| |mebigla| |ku|.
+Aganaka| |ku|,| |syempre|,| |na| |ing| |World|'s| |Series| |me|-|ayus| |ya| |inyang| |1919|,| |pero| |nung| |aisip| |ke| |man|,| |aisip| |ku| |na| |metung| |yang| |bage| |a| |milyari| |mu|,| |ing| |wakas| |ning| |e| |maliaring| |iwasan| |a| |kadena|.
+Eku| |aisip| |na| |ing| |metung| |a| |tau| |malyari| |yang| |magumpisa| |maglarin| |keng| |kasalpantayanan| |da| |reng| |limang| |pulung| |milyung| |tau|—|keng| |metung| |a| |kaisipan| |ning| |metung| |a| |mapanako| |a| |mag|-|blow| |safe|.
+makananu| |neng| |gewa| |ita|?
+kitang| |ku| |kaybat| |ning| |metung| |a| |minutu|.
+"|Ikit| |na| |ing| |oportunidad|.|"
+"|Bakit| |ala| |ya| |keng| |sukulan|?|"
+"|E| |de| |akit|,| |matuang| |sport|.| |Matalino| |ya|.|"
+pinilit| |kung| |bayaran| |ing| |tseke|.
+kabang| |darala| |ne| |ning| |waiter| |ing| |pamagbayu| |ku| |ikit| |ke| |i| |tom| |buchanan| |keng| |masikip| |a| |silid|.
+"|Makiabe| |ka| |kanaku| |saglit|,|"| |ngana|;
+“|Atin| |kung| |kumusta| |keng| |metung| |a| |tau|.|”
+Inyang| |ikit| |na| |kami|,| |linundag| |ya| |i| |Tom| |at| |miglakbe| |yang| |kapitnang| |dosena| |papunta| |kekami|.
+Nukarin| |ka| |minta|?
+nganang| |kinutang| |a| |masigla|.
+“|Magalit| |ya| |i| |Daisy| |uling| |e| |ka| |pa| |tinawag|.|”
+"|ini| |ya| |i| |Mr.| |Gatsby|,| |Mr.| |Buchanan|.|"
+Mipagkamay| |lang| |saglit|,| |at| |ing| |metung| |a| |e| |pamilyar| |a| |itsura| |ning| |kamarinayan| |linwal| |ya| |keng| |lupa| |nang| |Gatsby|.
+"|Makananu| |ka|,| |makanyan| |man|?|"
+nganang| |Tom| |kanaku|.
+makananu| |kang| |miras| |kening| |marayu| |para| |mangan|?
+"|mengan| |ku| |kang| |Mr.| |Gatsby|.|"
+linawe| |ku| |kang| |Mr.| |Gatsby|,| |pero| |ala| |ne| |karin|.
+Metung| |a| |aldo| |ning| |Oktubri| |ning| |labingsiyam|-|labing| |pitu—
+(|sabi| |nang| |Jordan| |Baker| |kanitang| |gatpanapun|,| |makalukluk| |yang| |matulid| |keng| |luklukan| |keng| |tea|-|garden| |keng| |Plaza| |Hotel|)
+—Lalakad| |ku| |ibat| |keng| |metung| |a| |lugal| |papunta| |keng| |aliwang| |lugal|,| |kapitna| |keng| |bangketa| |ampo| |kapitna| |keng| |dikut|.
+Mas| |masaya| |ku| |keng| |dikut| |uling| |atin| |kung| |sapatus| |ibat| |England| |na| |ating| |rubber| |knobs| |keng| |talampakan| |na| |makagat| |keng| |malambut| |a| |gabun|.
+Atin| |kung| |bayung| |plaid| |a| |palda| |na| |titiup| |bagya| |keng| |angin|,| |at| |balang| |malilyari| |iti| |ding| |maputi|,| |maputi|,| |ampo| |asul| |a| |bandera| |keng| |arap| |da| |reng| |sablang| |bale| |makaunat| |lang| |matigas| |at| |sasabyan| |dang| |tut|-|tut|-|tut|-|tut|,| |keng| |e| |mayap| |a| |paralan|.
+Ing| |pekamaragul| |kareng| |bandera| |ampo| |ing| |pekamaragul| |a| |damulag| |bandi| |ne| |ning| |bale| |nang| |Daisy| |Fay|.
+Labing| |walung| |banua| |ya| |pa| |mu|,| |aduang| |banuang| |mas| |matwa| |kanaku|,| |at| |ya| |ing| |pekasikat| |kareng| |sablang| |kayanakan| |a| |babai| |king| |Louisville|.
+Makapiblas| |yang| |maputi|,| |at| |atin| |yang| |malating| |maputing| |roadster|,| |at| |mabilug| |a| |aldo| |ing| |teleponu| |tigtig| |ya| |keng| |bale| |na| |at| |deng| |excited| |a| |kayanakan| |a| |opisyales| |ibat| |Camp| |Taylor| |inawad| |da| |ing| |pribilehiyu| |na| |magmonopolize| |ya| |keng| |benging| |ita|.
+"|Makanyan| |man|,| |kilub| |ning| |metung| |oras|!|"
+Inyang| |miras| |ku| |keng| |arapan| |ning| |bale| |na| |kanitang| |abak| |a| |ita| |ing| |maputing| |roadster| |na| |atyu| |ya| |keng| |siping| |ning| |kerb|,| |at| |makalukluk| |ya| |karin| |kayabe| |ne| |ing| |metung| |a| |tenyente| |na| |eku| |pa| |ikit|.
+Sobrang| |mebigla| |la| |keng| |metung| |at| |metung| |inya| |e| |naku| |ikit| |angga| |na| |inyang| |limang| |talampakan| |ku|.
+"|Kumusta|,| |Jordan|,|"| |inaus| |na| |ing| |e| |na| |asahan|.
+"|Pakisabi| |kung| |mayap| |munta| |ka| |keni|.|"
+mebigla| |ku| |uling| |buri| |na| |kung| |pakisabyan|,| |uling| |kareng| |sablang| |matwang| |babai| |ing| |peka|-|admire| |ku| |kaya|.
+kitang| |na| |kaku| |nung| |munta| |ku| |keng| |red| |cross| |para| |gawang| |bendahe|.
+Yaku|.
+well|,| |nung| |makanyan|,| |sabyan| |ku| |karela| |na| |ali| |ya| |malyaring| |datang| |keng| |aldong| |ita|?
+linawe| |ya| |ing| |opisyal| |kang| |daisy| |kabang| |magsalita| |ya|,| |king| |paralan| |a| |buri| |da| |reng| |kayanakan| |a| |babai| |ing| |lawan| |de| |misan|,| |at| |uling| |balamu| |romantiku| |ya| |kanaku|,| |aganaka| |ke| |ing| |milyari| |manibat| |kanita|.
+Jay| |Gatsby| |ya| |lagyu|,| |at| |eku| |ne| |ikit| |pasibayu| |kilub| |ning| |apat| |a| |banua|—|agyang| |akilala| |ke| |keng| |Long| |Island| |eku| |aisip| |na| |ita| |mu| |rin| |ing| |lalaki|.
+Labing| |siyam|-|labing| |pitu| |ita|.
+keng| |tutuking| |banua| |atin| |kung| |mapilan| |a| |beaux|,| |at| |megumpisa| |kung| |maglaro| |kareng| |tournament|,| |inya| |eku| |ne| |akit| |i| |Daisy| |maralas|.
+minta| |ya| |kareng| |mas| |matwa|—|nung| |minta| |ya| |kareng| |ninu| |man|.
+Deng| |ligaw| |a| |balita| |mikalat| |la| |tungkul| |kaya|—|nung| |makananu| |neng| |ikit| |ning| |ima| |na| |mag|-|impake| |ya| |keng| |bag| |na| |metung| |a| |bengi| |ning| |dimla| |para| |munta| |keng| |New| |York| |at| |magpaalam| |keng| |metung| |a| |sundalus| |na| |munta| |abroad|.
+me|-|prevent| |ya|,| |pero| |ali| |ya| |mekapagsalita| |kareng| |pamilya| |na| |kilub| |ning| |mapilan| |a| |duminggu|.
+Kaybat| |na| |nita| |e| |na| |la| |mekiabe| |kareng| |sundalus|,| |nune| |kareng| |mapilan| |mung| |kayanakan| |a| |lalaking| |patag| |a| |bitis| |at| |e| |makalawe| |king| |balen|,| |a| |e| |na| |agyung| |lungub| |king| |hukbu|.
+keng| |tutuking| |autumn| |meging| |bakla| |ya| |pasibayu|,| |bakla| |ya| |kalupa| |ning| |dati|.
+Atin| |yang| |debut| |kaybat| |ning| |armistice|,| |at| |inyang| |February| |mekad| |mikasal| |ya| |keng| |metung| |a| |lalaking| |ibat| |New| |Orleans|.
+Inyang| |Junio|,| |mikasal| |ya| |kang| |Tom| |Buchanan| |ning| |Chicago|,| |mas| |maragul| |ing| |pomp| |at| |sirkumstansya| |kesa| |keng| |Louisville| |a| |balu| |na|.
+Dinatang| |ya| |kayabe| |ding| |dinalan| |a| |tau| |kareng| |apat| |a| |pribadung| |saken|,| |at| |mig|-|arkila| |yang| |metung| |a| |mabilug| |a| |palapag| |ning| |Muhlbach| |Hotel|,| |at| |ing| |aldo| |bayu| |ing| |kasal| |dininan| |neng| |metung| |a| |tali| |ning| |perlas| |a| |maki| |ulaga| |atlung| |dalan| |at| |limang| |pulung| |libung| |dolyar|.
+metung| |kung| |bridesmaid|.
+Linub| |ku| |keng| |kwartu| |na| |kapitnang| |oras| |bayu| |ing| |pamamangan| |ning| |nobya|,| |at| |ikit| |keng| |makakera| |ya| |keng| |kama| |na| |kalupa| |ning| |bengi| |ning| |junio| |keng| |kayang| |imalan| |a| |maki| |bulaklak|—|at| |malasing| |ya| |kalupa| |ning| |unggoy|.
+Atin| |yang| |bote| |ning| |Sauterne| |keng| |metung| |nang| |gamat| |ampo| |sulat| |keng| |metung| |nang| |gamat|.
+"|'|Pasalamatan| |mu| |ku|,|"| |nganang| |migsalita|.
+"|Eku| |pa| |bitasang| |minum|,| |pero| |oh| |makananu| |kung| |magsaya|.|"
+“|Nanu| |ing| |malilyari|,| |Daisy|?|”
+mitakutan| |ku|,| |asabi| |ku| |keka|;
+Ala| |kung| |ikit| |a| |babaing| |makanyan|.
+"|keni|,| |kaluguran|.|"
+linawe| |ya| |keng| |basurahan| |a| |atyu| |kaya| |keng| |kama| |ampo| |kinua| |ne| |ing| |tali| |da| |reng| |perlas|.
+"|Idala| |mu| |la| |keng| |lalam| |at| |ibalik| |mu| |la| |nung| |ninu| |man| |ing| |bandi| |da|.| |Sabyan| |mu| |karela| |ngan| |ing| |alilan| |nang| |Daisy| |ing| |kanakung|.| |Sabyan| |mu|:| |'|Ing| |alilan| |nang| |Daisy| |ing| |kanaku|!|'
+”
+Megumpisa| |yang| |menangis|—|menangis| |ya| |at| |menangis|.
+Migdali| |kung| |linwal| |at| |ikit| |ke| |ing| |kasambahay| |nang| |ima| |na|,| |at| |kinandadu| |mi| |ya| |ing| |pasbul| |at| |pepadilu| |mi| |ya| |king| |marimlang| |paliguan|.
+E| |na| |buring| |paburen| |ing| |sulat|.
+Kinua| |ne| |keng| |tub| |kayabe| |na| |at| |sinipit| |ne| |keng| |metung| |a| |basa| |a| |bola|,| |at| |pepaintulutan| |na| |kung| |likuan| |keng| |soap|-|dish| |inyang| |ikit| |na| |na| |mangasira| |ya| |kalupa| |ning| |snow|.
+Oneng| |e| |ya| |migsalita| |pang| |aliwang| |amanu|.
+dininan| |mi| |yang| |ammonia| |ampo| |binili| |mi| |yang| |yelo| |keng| |buntuk| |na| |ampo| |binili| |mi| |yang| |pasibayu| |keng| |imalan| |na|,| |at| |kaybat| |ning| |kapitna| |ning| |oras|,| |inyang| |linwal| |kami| |keng| |kwartu|,| |ding| |perlas| |atyu| |la| |keng| |gulut| |na| |at| |meyari| |na| |ing| |insidenti|.
+keng| |tutuking| |aldo| |alas| |singku|,| |mikasal| |ya| |kang| |tom| |buchanan| |a| |alang| |patugut|,| |at| |megumpisa| |yang| |atlung| |bulan| |a| |pamaglakbe| |papunta| |keng| |south| |seas|.
+Ikit| |ku| |la| |king| |Santa| |Barbara| |inyang| |mibalik| |la|,| |at| |bala| |ku| |ala| |kung| |ikit| |a| |dalagang| |makanyan| |ka|-|buri| |king| |asawa| |na|.
+nung| |mako| |ya| |keng| |kwartu| |kilub| |ning| |metung| |a| |minutu|,| |lumawe| |ya| |keng| |paligid| |na| |alang| |kapayapan|,| |at| |sabyan| |na|:| |"|nu| |ya| |karin| |i| |tom|?|"
+at| |susulud| |ne| |ing| |peka| |abstract| |a| |itsura| |anggang| |ikit| |neng| |lulub| |keng| |pasbul|.
+Dati| |makalukluk| |ya| |keng| |balas| |a| |ing| |buntuk| |na| |atyu| |keng| |kandungan| |na| |balang| |oras|,| |kukuskus| |no| |reng| |taliri| |na| |kareng| |mata| |na| |at| |lalawen| |ne| |ing| |e| |na| |aintindian| |a| |tula|.
+Maka|-|touch| |ing| |akakit| |mu| |lang| |miyabe|-|abe|—|mekatawa| |ka| |keng| |tahimik|,| |at| |mebigla| |a| |paralan|.
+Inyang| |Agosto| |ita|.
+Metung| |a| |duminggu| |kaybat| |kung| |meko| |Santa| |Barbara|,| |menabu| |ya| |i| |Tom| |keng| |wagon| |keng| |Ventura| |road| |metung| |a| |bengi|,| |at| |mesira| |ya| |ing| |gulong| |ning| |saken| |na|.
+Ing| |dalagang| |kayabe| |na|,| |linub| |ya| |naman| |karing| |dyaryu|,| |uling| |mepakli| |ya| |gamat|—|metung| |ya| |karing| |chambermaids| |king| |Santa| |Barbara| |Hotel|.
+keng| |tutuking| |abril| |i| |daisy| |mika| |anak| |yang| |anak| |a| |babai|,| |at| |minta| |la| |keng| |france| |kilub| |ning| |metung| |a| |banua|.
+ikit| |ku| |la| |keng| |metung| |a| |spring| |keng| |Cannes|,| |at| |kaybat| |keng| |Deauville|,| |at| |kaybat| |mibalik| |la| |Chicago| |para| |manuknangan|.
+Sikat| |ya| |i| |Daisy| |keng| |Chicago|,| |antimo| |ing| |balu| |mu|.
+Miglakbe| |la| |kareng| |mabilis| |a| |grupu|,| |ila| |ngan| |kayanakan| |la| |at| |mabandi| |at| |ligaw|,| |pero| |linwal| |ya| |keng| |ganap| |a| |perpektung| |reputasyun|.
+Siguru| |uling| |e| |ya| |miminum|.
+Maragul| |a| |bentahe| |ing| |e| |ka| |miminum| |kareng| |taung| |masikan| |a| |miminum|.
+Malyari| |meng| |pigilan| |ing| |kekang| |dila| |at|,| |lalu| |na|,| |malyari| |meng| |orasan| |ing| |nanu| |mang| |ditak| |a| |irregularidad| |ning| |kekang| |sarili| |ban| |ding| |aliwa| |bulag| |la| |at| |e| |la| |manakit| |o| |makialam|.
+Siguru| |e| |ya| |pa| |linub| |i| |Daisy| |para| |keng| |amour|—|at| |makanyan| |man| |atin| |yang| |bage| |keng| |siwala| |na|...
+Well|,| |mga| |anam| |a| |duminggu| |na| |ing| |milabas|,| |dimdam| |ne| |ing| |lagyung| |Gatsby| |keng| |mumunang| |besis| |kilub| |ning| |dakal| |a| |banua|.
+Ita| |inyang| |kitnan| |daka|—|atandanan| |mu| |pa|?|—nung| |balu| |me| |i| |Gatsby| |keng| |West| |Egg|.
+Kaybat| |mung| |minuli| |linub| |ya| |keng| |kwartu| |ku| |at| |ginising| |na| |ku|,| |at| |ngana|:| |"|Nanu| |Gatsby|?|"
+at| |inyang| |ilarawan| |ke|—|kapitna| |kung| |matudtud|—|sabi| |na| |king| |peka|-|kakaibang| |siwala| |na| |siguru| |ita| |ing| |lalaking| |balu| |na|.
+Eku| |pa| |akayabe| |ining| |Gatsby| |keng| |opisyal| |keng| |maputing| |saken| |na|.
+Inyang| |meyari| |neng| |sinabi| |Jordan| |Baker| |ing| |sablang| |ayni|,| |likuan| |mi| |ne| |ing| |Plaza| |kilub| |ning| |kapitnang| |oras| |at| |magmaneho| |kami| |keng| |victoria| |papunta| |keng| |Central| |Park|.
+Ing| |aldo| |linub| |ya| |keng| |gulut| |da| |reng| |matas| |a| |apartment| |da| |reng| |movie| |stars| |keng| |West| |Fifties|,| |at| |ding| |malino| |siwala| |da| |reng| |kayanakan|,| |a| |mitipun| |na| |kalupa| |da| |reng| |kuliglig| |keng| |dikut|,| |tinas| |la| |keng| |mapaling| |sisilim|:
+“|Aku| |ing| |Sheik| |ning| |Araby|.
+Ing| |lugud| |mu| |kanaku| |ya|.
+King| |bengi| |potang| |matudtud| |ka
+keng| |tolda| |mu| |lungub| |ku—|”
+"|metung| |yang| |kakaibang| |coincidence|,|"| |ngana|.
+"|pero| |ali| |ya| |metung| |a| |coincidence|.|"
+"|Ot| |ali|?|"
+"|I| |Gatsby| |binili| |ne| |ing| |bale| |para| |i| |Daisy| |atyu| |ya| |keng| |kabilang| |bay|.|"
+Kanita| |e| |la| |mu| |kabud| |ding| |batuin| |a| |pignasan| |na| |king| |benging| |ita| |ning| |Junio|.
+Mebie| |ya| |kanaku|,| |bigla| |yang| |miligtas| |ibat| |king| |atian| |ning| |alang| |patugut| |nang| |ligaya|.
+"|Buri| |nang| |abalu|,|"| |tinuglung| |nang| |Jordan|,| |"|nung| |agkatan| |me| |i| |Daisy| |keng| |bale| |mu| |keng| |gatpanapun| |at| |kaybat| |paburen| |meng| |datang|.|"
+Ing| |kababan| |lub| |ning| |demand| |mekapagyugse| |ya| |kanaku|.
+Menaya| |yang| |limang| |banua| |at| |memili| |yang| |mansion| |nung| |nukarin| |ya| |mamye| |sulu| |kareng| |casual| |a| |kulisap|—|ban| |kanita| |malyari| |yang| |“|munta|”| |king| |metung| |a| |gatpanapun| |king| |mula| |ning| |metung| |a| |e| |na| |kakilala|.
+"|kailangan| |ku| |bang| |abalu| |ini| |bayu| |ya| |mangutang| |keng| |malating| |bage|?|"
+"|Tatakut| |ya|,| |makaba| |ya| |panayan|.| |Aisip| |na| |na| |mekad| |mimua| |ka|.| |Akakit| |mu|,| |regular| |yang| |masikan| |keng| |lalam| |na| |niti|.|"
+Atin| |kung| |apag|-|abala|.
+“|Bakit| |e| |na| |ka| |inaus| |ban| |mag|-|arrange| |tamung| |meeting|?|”
+"|Buri| |na| |ing| |akit| |ne| |ing| |bale| |na|,|"| |paliwanag| |na|.
+"|at| |ing| |bale| |mu| |atyu| |ya| |keng| |siping|.|"
+"|Ay|!|"
+"|Isipan| |ku| |na| |asahan| |na| |ing| |maglakbe| |ya| |keng| |metung| |kareng| |party| |na|,| |balang| |bengi|,|"| |sinabi| |nang| |Jordan|,| |"|pero| |e| |na| |bitasang| |gewa|.| |Kanita| |megumpisa| |yang| |mengutang| |kareng| |tau| |nung| |balu| |de|,| |at| |aku| |ing| |mumunang| |ikit| |na|.| |Ita| |ing| |benging| |ita| |pepayaus| |na| |ku| |keng| |kayang| |sayaw|,| |at| |dapat| |dimdam| |mu| |ing| |masanting| |a| |paralan| |na| |ning| |pamagobra| |na| |para| |kaniti|.| |Syempre|,| |agad| |kung| |migmungkahi| |king| |metung| |a| |lunch|—|at| |aisip| |ku| |king| |New| |York|—|at| |aisip| |ku| |king| |New| |York|.
+mabaliw| |ya|:
+“| |'|Eku| |buring| |gawan| |ing| |nanu| |mang| |bage| |a| |e| |makatuliran|!|'
+pane| |nang| |sasabyan| |'|Buri| |keng| |akit| |keng| |siping| |bale|.|'
+"|Inyang| |sinabi| |ku| |na| |metung| |kang| |partikular| |a| |kakaluguran| |nang| |Tom|,| |megumpisa| |neng| |likuan| |ing| |mabilug| |a| |ideya|.| |E| |ya| |masyadung| |balu| |tungkul| |kang| |Tom|,| |agyang| |sinabi| |na| |na| |mebasa| |yang| |metung| |a| |dyaryu| |king| |Chicago| |kilub| |ning| |dakal| |a| |banua| |para| |mu| |akit| |ne| |ing| |lagyu| |nang| |Daisy|.|"
+Madalumdum| |na| |ngeni|,| |at| |kabang| |maglub| |kami| |lalam| |ning| |malating| |tulay|,| |kinuyad| |ke| |ing| |gintung| |balikat| |nang| |Jordan| |at| |inaus| |ke| |kanaku| |at| |inaus| |ke| |ing| |pamangan|.
+Bigla| |kung| |eku| |na| |aisip| |i| |Daisy| |ampo| |i| |Gatsby|,| |nune| |ining| |malinis|,| |masikan|,| |limitadu| |a| |tau|,| |na| |makipagdebate| |keng| |universal| |a| |pamagduda|,| |ampo| |na| |sinandal| |yang| |masaya| |keng| |kilub| |ning| |kanakung| |gamat|.
+Metung| |a| |amanu| |ing| |megumpisa| |keng| |balugbug| |ku| |na| |ating| |metung| |a| |uri| |ning| |makalunus| |a| |kilig|:| |"|Atin| |mung| |tutukian|,| |tutukian|,| |busy|,| |ampo| |mapagal|.|"
+"|At| |dapat| |atin| |yang| |bage| |i| |Daisy| |keng| |bie| |na|,|"| |nganang| |Jordan| |kanaku|.
+"|Buri| |neng| |akit| |i| |Gatsby|?|"
+"|E| |na| |dapat| |abalu| |ita|.| |E| |na| |buring| |abalu| |Gatsby|.| |Dapat| |mung| |agkatan| |me| |keng| |tsa|.|"
+linabas| |kami| |keng| |barrier| |da| |reng| |madalumdum| |a| |dutung|,| |at| |saka| |ing| |façade| |ning| |Fifty|-|Ninth| |Street|,| |metung| |a| |bloke| |ning| |maselan| |a| |maputing| |sulu|,| |sinlag| |ya| |pababa| |keng| |park|.
+E| |anti| |kang| |Gatsby| |ampo| |i| |Tom| |Buchanan|,| |ala| |kung| |babaing| |alang| |katawan| |a| |lupa| |na| |makalutang| |kareng| |madalumdum| |a| |cornices| |ampo| |makabulag| |a| |karatula|,| |at| |inya| |ginuyud| |ke| |ing| |dalagang| |atyu| |king| |siping| |ku|,| |higpitan| |ku| |la| |reng| |gamat| |ku|.
+Ing| |kayang| |wan|,| |mapaglait| |a| |asbuk| |ngumiti| |ya|,| |at| |inya| |linapit| |ke| |pasibayu|,| |ngening| |oras| |ayni| |keng| |lupa| |ku|.

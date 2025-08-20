@@ -1,0 +1,694 @@
+Proyek| |Gutenberg| |eBook| |Gatsby| |si| |Hebat| |.
+III| |.
+Lit| |musik| |i| |bas| |rumah| |tetanggaku| |nari| |i| |bas| |berngi|-|berngi| |musim| |panas|.
+I| |bas| |pekenna| |si| |biru|,| |dilaki| |ras| |diberu| |reh| |ras| |lawes| |bagi| |ngengat| |i| |tengah|-|tengah| |bisik|-|bisik| |ras| |sampanye| |ras| |bintang|-|bintang|.
+I| |bas| |pasang| |surut| |karaben| |kuperdiateken| |tamuna| |nyelam| |i| |bas| |menara| |rakitna| |nari|,| |ntah| |pe| |ndatken| |matawari| |i| |bas| |pasir| |si| |gara| |i| |pantaina| |sanga| |dua| |perahu| |motorna| |ngeruntuhken| |lau| |Sound|,| |nggambarken| |pesawat| |akua| |i| |datas| |katarak| |busa|.
+I| |bas| |akhir| |pekan| |Rolls|-|Royce|-|na| |jadi| |omnibus|,| |maba| |pesta|-|pesta| |ku| |ras| |ku| |kota| |antara| |jam| |sembilan| |erpagi|-|pagi| |ras| |ndekah| |lewat| |tengah| |berngi|,| |sedangken| |gerobak| |stasiunna| |erdalan|-|dalan| |bagi| |bug| |kuning| |si| |cepat| |guna| |njumpai| |kerina| |kereta| |api|.
+Janah| |i| |bas| |wari| |Senin| |lit| |waluh| |kalak| |suruh|-|suruhen|,| |termasuk| |sekalak| |tukang| |kebun| |tambahen|,| |erdahin| |sedekah| |sada| |wari| |alu| |pel| |ras| |sikat|-|sikat| |gosok| |ras| |palu| |ras| |gunting|-|gunting| |kebun|,| |mpehuli| |si| |nggo| |ceda| |i| |bas| |berngi| |si| |lewat|.
+Tiap| |wari| |Jumat| |lima| |peti| |jeruk| |ras| |lemon| |reh| |i| |bas| |sekalak| |tukang| |buah| |i| |New| |York| |nari|—|tiap| |wari| |Senin| |jeruk| |ras| |lemon| |si| |seri| |enda| |ndarat| |i| |bas| |pintun| |pudina| |nari| |i| |bas| |piramida| |setengah| |si| |la| |lit| |pulpana|.
+Lit| |sada| |mesin| |i| |dapur| |si| |banci| |ngeluahken| |jus| |dua| |ratus| |jeruk| |i| |bas| |setengah| |jam| |adi| |sada| |tombol| |sitik| |itekan| |dua| |ratus| |kali| |alu| |jempol| |kepala| |pelayan|.
+Sitik|-|sitik| |dua| |minggu| |sekali| |nusur| |sada| |korps| |katering| |maba| |kanvas| |piga|-|piga| |ratus| |kaki| |ras| |lampu| |si| |cukup| |erwarna| |guna| |erbahan| |pohon| |Natal| |taman| |Gatsby| |si| |mbelin| |e|.
+I| |babo| |meja| |prasmanan|,| |si| |ihiasi| |alu| |hors|-|d’oeuvre| |si| |erkilat|,| |ham| |si| |ipanggang| |si| |ibumbui| |rame|-|rame| |ngelawan| |salad| |si| |desain| |harlequin| |ras| |kue|-|kue| |babi| |ras| |kalkun| |si| |tersihir| |ku| |emas| |si| |gelap|.
+I| |bas| |aula| |utama| |ibahan| |sada| |bar| |si| |lit| |rel| |tembaga| |si| |tuhu|-|tuhu|,| |janah| |iisi| |alu| |gin| |ras| |minuman| |keras| |bage| |pe| |alu| |kordial| |si| |enggo| |ndekah| |ilupaken| |seh| |maka| |sebagin| |besar| |tamuna| |diberu| |nguda| |denga| |guna| |nandai| |sada| |ras| |si| |debanna|.
+Jam| |pitu| |enggo| |seh| |orkes|,| |la| |lit| |urusen| |lima| |si| |tipis|,| |tapi| |sada| |lubang| |si| |dem| |alu| |oboe| |ras| |trombon| |ras| |saksofon| |ras| |biola| |ras| |kornet| |ras| |piccolo|,| |ras| |gendang| |si| |rendah| |ras| |si| |meganjang|.
+Kalak| |si| |terakhir| |si| |erlangi| |enggo| |masuk| |i| |pantai| |nari| |genduari| |janah| |sangana| |erpaken| |i| |datas|;
+mobil|-|mobil| |i| |New| |York| |nari| |parkir| |lima| |i| |bas| |perdalanen|,| |janah| |enggo| |me| |aula| |ras| |salon| |ras| |beranda|-|beranda| |si| |mejile| |alu| |warna|-|warna| |primer|,| |ras| |buk| |si| |igunting| |alu| |cara|-|cara| |si| |mbaru| |si| |aneh|,| |ras| |selendang| |si| |luar| |biasa| |i| |bas| |nipi| |Kastilia|.
+Bar| |e| |sangana| |erdalan| |alu| |mehuli|,| |janah| |putaren|-|putaren| |koktail| |si| |melayang|-|layang| |meresap| |ku| |taman| |i| |darat|,| |seh| |maka| |udara| |nggeluh| |alu| |cakap|-|cakap| |ras| |tawa|,| |ras| |sindiran| |santai| |ras| |perkenalen| |si| |ilupaken| |i| |bas| |inganna|,| |ras| |perjumpan| |si| |antusias| |antara| |diberu|-|diberu| |si| |la| |pernah| |saling| |nandai| |gelarna|.
+Lampu|-|lampu| |e| |reh| |terangna| |sanga| |doni| |enda| |erguling|-|guling| |ndauh| |arah| |matawari| |nari|,| |janah| |gundari| |orkestra| |e| |rende| |musik| |koktail| |si| |warnana| |kuning|,| |janah| |opera| |sora|-|sora| |e| |nggedapken| |sada| |kunci|.
+Tawa| |lebih| |gampang| |menit| |demi| |menit|,| |tumpah| |alu| |kebodohen|,| |tip| |out| |ibas| |kata| |si| |meriah| |ukur|.
+Kelompok|-|kelompok| |e| |reh| |pedasna| |berubah|,| |membengkak| |ras| |kalak| |si| |mbaru| |reh|,| |larut| |ras| |terbentuk| |i| |bas| |napas| |si| |seri|;
+enggo| |lit| |kalak| |si| |erdalan|-|dalan|,| |diberu|-|diberu| |si| |percaya| |diri| |si| |menenun| |ku| |jenda| |ku| |jenda| |i| |tengah|-|tengah| |si| |lebih| |megegeh| |ras| |lebih| |stabil|,| |jadi| |guna| |sada| |momen| |si| |tajam|,| |meriah| |ukur| |pusat| |sada| |kelompok|,| |janah| |kenca| |si| |e|,| |alu| |semangat| |alu| |kemenangan|,| |meluncur| |terus| |arah| |laut|-|perubahen| |ayo| |ras| |sora| |ras| |warna| |i| |teruh| |terang| |si| |lalap| |berubah|.
+Rempet| |salah| |sada| |gipsi| |enda|,| |i| |bas| |opal| |si| |nggirgir|,| |ngerebut| |sada| |koktail| |i| |bas| |udara| |nari|,| |iambekkenna| |ku| |teruh| |guna| |keberanian| |janah|,| |nggerakken| |tanna| |bagi| |Frisco|,| |landek|-|landek| |ndarat| |sisada| |i| |datas| |peron| |kanvas|.
+Sada| |sinik| |si| |kentisik|;
+pemimpin| |orkestra| |e| |erbage|-|bage| |ritmena| |alu| |kewajiben| |man| |bana|,| |janah| |lit| |sada| |ledaken| |bicara|-|bicara| |sanga| |berita| |si| |salah| |erdalan|-|dalan| |maka| |ia| |me| |understudy| |Gilda| |Gray| |i| |bas| |Follies| |nari|.
+Pesta| |enggo| |ibenaken|.
+Tek| |aku| |maka| |ibas| |berngi| |si| |pemena| |aku| |ku| |rumah| |Gatsby| |aku| |salah| |sada| |ibas| |piga|-|piga| |tamu| |si| |situhuna| |enggo| |iundang|.
+Labo| |iundang| |kalak|—|ia| |lawes| |ku| |je|.
+Kalak| |enda| |masuk| |ku| |bas| |mobil| |si| |mabai| |kalak| |enda| |ndarat| |ku| |Long| |Island|,| |janah| |entah| |kuga| |dungna| |kalak| |enda| |seh| |i| |pintun| |rumah| |Gatsby|.
+Kenca| |seh| |i| |je| |kalak| |enda| |ipetandaken| |sekalak| |si| |nandai| |Gatsby|,| |kenca| |si| |e| |kalak| |enda| |erperilaku| |sue| |ras| |aturen| |perbahanen| |si| |lit| |hubungenna| |ras| |taman| |hiburen|.
+Maun|-|maun| |reh| |ras| |lawes| |ia| |la| |pernah| |jumpa| |ras| |Gatsby| |sekali| |pe|,| |reh| |guna| |pesta| |e| |alu| |kesederhanaan| |pusuh| |si| |jadi| |tiket| |masukna| |sendiri|.
+Aku| |situhuna| |enggo| |iundang|.
+Sekalak| |sopir| |si| |make| |seragam| |biru| |telur| |robin| |mentasi| |rumputku| |erpagi|-|pagi| |Sabtu| |e| |alu| |sada| |cataten| |formal| |si| |mengejutken| |i| |bas| |majikenna| |nari|:| |kehormaten| |e| |sepenuhna| |man| |Gatsby|,| |nina|,| |adi| |aku| |ikut| |“|pesta| |kitik|”|-na| |berngi| |e|.
+Enggo| |piga|-|piga| |kali| |ia| |ngidah| |aku|,| |janah| |enggo| |ndekah| |ia| |ersura|-|sura| |ndahi| |aku|,| |tapi| |kombinasi| |keadaan| |si| |aneh| |enggo| |ngambati| |ia|—|itandatangani| |Jay| |Gatsby|,| |alu| |tan| |si| |meganjang|.
+Erbaju| |flanel| |mbentar| |aku| |lawes| |ku| |rumputna| |sitik| |kenca| |jam| |pitu|,| |janah| |erdalan|-|dalan| |aku| |agak| |la| |nyaman| |i| |tengah|-|tengah| |pusaran| |ras| |pusaran| |kalak| |si| |la| |kutandai|—|aminna| |pe| |i| |jenda| |ras| |i| |jenda| |lit| |sada| |ayo| |si| |pernah| |kuperdiateken| |i| |bas| |kereta| |api| |si| |erdalan|-|dalan|.
+Minter| |aku| |terkejut| |ngidah| |buena| |anak| |perana| |Inggris| |si| |ertitik|-|titik|;
+kerina| |erpaken| |si| |mehuli|,| |kerina| |teridah| |sitik| |melihe|,| |janah| |kerina| |ngerana| |alu| |sora| |si| |rendah| |ras| |tutus| |man| |kalak| |Amerika| |si| |solid| |ras| |sejahtera|.
+Tek| |aku| |maka| |lit| |si| |idayaken| |kalak| |e|:| |obligasi| |ntah| |pe| |asuransi| |ntah| |pe| |mobil|.
+Kalak| |enda| |setidaknya| |menderita| |sadar| |kerna| |sen| |si| |gampang| |i| |sekitarna| |ras| |yakin| |maka| |e| |me| |sikerajangenna| |guna| |piga|-|piga| |kata| |i| |bas| |kunci| |si| |benar|.
+Kenca| |aku| |seh|,| |kubahan| |sada| |usaha| |ndarami| |tuan| |rumahku|,| |tapi| |dua| |ntah| |telu| |kalak| |si| |kusungkun| |i| |ja| |ia|,| |natap| |aku| |alu| |cara| |si| |luar| |biasa|,| |janah| |menyangkal| |alu| |tuhu|-|tuhu| |lit| |pemetehna| |kerna| |pergerakenna|,| |seh| |maka| |aku| |nggedap| |ku| |arah| |meja| |koktail|—|sada|-|sadana| |ingan| |si| |la| |lit| |i| |bas| |taman| |e| |i| |ja| |sekalak| |jelma| |banci| |natap| |alu| |sada| |pe|.
+Aku| |sangana| |i| |bas| |perdalanen| |guna| |mabuk| |si| |merawa| |erkiteken| |mela| |kal|,| |sanga| |Jordan| |Baker| |ndarat| |i| |bas| |rumah| |nari| |janah| |tedis| |i| |ulu| |tangga| |marmer|,| |ersandar| |sitik| |ku| |pudi| |janah| |natap| |alu| |minat| |si| |menghina| |ku| |teruh| |ku| |taman|.
+Selamat| |datang| |ntah| |lang|,| |perlu| |kuakap| |ngeleketken| |diriku| |man| |sekalak| |jelma| |ope| |denga| |aku| |arus| |mulai| |mereken| |kata|-|kata| |si| |mehuli| |man| |kalak| |si| |lewat|.
+"|Halo|!|"
+Kuraung|-|raung|,| |maju| |ku| |ia|.
+Sorangku| |tempa|-|tempa| |la| |wajar| |megang| |i| |seberang| |peken|.
+“|Kuakap| |banci| |saja| |kam| |i| |jenda|,|”| |nina| |njabap| |alu| |la| |nggit| |sanga| |aku| |reh|.
+“|Kuinget| |kam| |tading| |i| |sebelah—|”
+Ipegangna| |tanku| |alu| |la| |pribadi|,| |sebage| |janji| |maka| |ia| |ngurus| |aku| |i| |bas| |sada| |menit| |nari|,| |janah| |iberekenna| |cuping| |man| |dua| |anak| |diberu| |si| |make| |baju| |kuning| |kembar|,| |si| |ngadi| |i| |teruh| |tangga|.
+"|Halo|!|"
+tangis| |ia| |ras|-|ras|.
+“|Maaf| |kam| |la| |menang|.|”
+Enda| |me| |guna| |turnamen| |golf|.
+Ia| |nggo| |talu| |bas| |final| |minggu| |si| |lewat|.
+Nina| |sekalak| |anak| |diberu| |si| |make| |baju| |kuning| |e|,| |“|Labo| |ietehndu| |ise| |kami|,| |tapi| |kira|-|kira| |sebulan| |si| |lewat| |kami| |jumpa| |ras| |kam| |i| |jenda|.|”
+“|Enggo| |iwarnaindu| |bukndu| |mulai| |je| |nari|,|”| |nina| |Jordan|,| |janah| |mulai| |aku|,| |tapi| |anak|-|anak| |diberu| |e| |enggo| |pindah| |alu| |santai| |janah| |komentarna| |e| |itujuken| |man| |bulan| |si| |lenga| |seh| |waktuna|,| |si| |ihasilken| |bagi| |pangan| |berngi|,| |la| |iraguken|,| |i| |bas| |keranjang| |katering| |nari|.
+Alu| |tan| |emas| |si| |ramping| |Jordan| |si| |itamaken| |i| |bas| |tanku|,| |nusur| |kami| |ku| |tangga| |janah| |erdalan|-|dalan| |i| |taman| |e|.
+Sada| |nampan| |koktail| |melayang|-|layang| |ku| |kami| |arah| |senja|,| |janah| |kundul| |kami| |i| |meja| |ras| |dua| |diberu| |si| |make| |baju| |kuning| |ras| |telu| |dilaki|,| |masing|-|masing| |ipetandakenna| |man| |kami| |selaku| |Tuan| |Mumble|.
+“|Rusur| |nge| |kam| |reh| |ku| |pesta|-|pesta| |enda|?|”
+nina| |Jordan| |nungkun| |man| |diberu| |si| |lit| |i| |sampingna|.
+“|Si| |terakhir| |e| |me| |si| |jumpa| |aku| |ras| |kam|,|”| |nina| |diberu| |e| |njabapsa| |alu| |sora| |si| |waspada| |ras| |percaya| |diri|.
+Ibalikkenna| |man| |temanna|,| |”|La| |kin| |man| |bandu|,| |Lucille|?|”
+Enda| |pe| |man| |Lucille|.
+Nina| |Lucille|,| |“|Meriah| |kel| |kuakap| |reh|.
+"|La| |pernah| |kuperdiateken| |kai| |si| |kulakoken|,| |emaka| |lalap| |aku| |ermeriah| |ukur|.| |Sanga| |aku| |i| |jenda| |terakhir| |kucabut| |bajungku| |i| |kursi|,| |janah| |isungkunna| |aku| |gelar| |ras| |alamatku|—|ibas| |sada| |minggu| |kudat| |sada| |paket| |i| |bas| |Croirier| |nari| |si| |lit| |baju| |berngi| |si| |mbaru| |i| |bas|.|"
+“|Enggo| |kin| |isimpanndu|?|”
+nina| |Jordan| |nungkun|.
+"|Pasti| |kubahan|.| |Kupake| |ateku| |berngi| |enda|,| |tapi| |mbelin| |kel| |i| |bas| |dadana| |janah| |arus| |iubah|.| |Warna| |biru| |gas| |ras| |manik|-|manik| |lavender|.| |Dua| |ratus| |enem| |puluh| |lima| |dolar|.|"
+“|Lit| |si| |lucu| |i| |bas| |sekalak| |teman| |si| |bakal| |ngelakoken| |hal| |si| |bage|,|”| |nina| |diberu| |si| |deban| |alu| |meriah| |ukur|.
+“|La| |atena| |lit| |persoalen| |ras| |kula| |kai| |pe|.|”
+“|Ise| |si| |la| |nggit|?|”
+Kusungkun| |ia|.
+"|Gatsby|.| |Lit| |si| |ngatakenca| |man| |bangku—|"
+Dua| |diberu| |e| |ras| |Jordan| |ersandar| |alu| |rahasia|.
+“|Lit| |si| |ngatakenca| |man| |bangku| |maka| |iakapna| |ia| |munuh| |sekalak| |dilaki| |sekali|.|”
+Sada| |keriahen| |ukur| |lewat| |i| |bas| |kami| |kerina|.
+Teluna| |Tuan| |Mumbles| |e| |nunduk| |ku| |lebe| |janah| |megiken| |alu| |meriah| |ukur|.
+“|Kuakap| |labo| |bage| |buena| |,|”| |nina| |Lucille| |alu| |skeptis|;
+“|Lebih| |asa| |si| |e|,| |ia| |mata|-|mata| |Jerman| |sanga| |perang|.|”
+Salah| |sada| |dilaki| |e| |nganggukken| |takalna| |tanda| |konfirmasi|.
+“|Kubegi| |e| |arah| |sekalak| |dilaki| |si| |meteh| |kerina| |kerna| |ia|,| |mbelin| |ras| |ia| |i| |Jerman|,|”| |nina| |njamin| |kami| |alu| |positif|.
+Nina| |diberu| |si| |pemena|,| |“|Oh|,| |lang|,| |labo| |banci| |bage|,| |perban| |ia| |jadi| |tentara| |Amerika| |sanga| |perang|.|”
+Sanga| |kredulitas| |kami| |beralih| |mulihi| |man| |bana| |ia| |condong| |ku| |lebe| |alu| |semangat|.
+"|Iperdiatekenndu| |ia| |maun|-|maun| |sanga| |iakapna| |la| |lit| |si| |ngenehen| |ia|.| |Kutaruhken| |ia| |munuh| |sekalak| |dilaki|.|"
+Ipekitikna| |matana| |janah| |nggirgir| |ia|.
+Ngirgir| |kel| |Lucille|.
+Kami| |kerina| |erkusur| |janah| |ndarami| |Gatsby|.
+Enda| |me| |kesaksin| |kerna| |spekulasi| |romantis| |si| |iilhamkenna| |maka| |lit| |bisik|-|bisik| |kerna| |ia| |i| |bas| |kalak| |si| |enggo| |ndatken| |sitik| |si| |perlu| |i| |bisiken| |i| |doni| |enda|.
+Makan| |malam| |si| |pemena|—|lit| |kari| |si| |deban| |kenca| |tengah| |berngi|—|gundari| |sangana| |ibahan|,| |janah| |iundang| |Jordan| |aku| |ikut| |i| |bas| |rombongenna| |sendiri|,| |si| |erbelang|-|belang| |i| |sekeliling| |meja| |i| |sebrang| |taman|.
+Lit| |telu| |kalak| |si| |enggo| |erjabu| |ras| |pengiring| |Jordan|,| |sekalak| |sarjana| |si| |gigih| |ibereken| |man| |sindiran| |kekerasen|,| |janah| |jelas| |i| |teruh| |kesan| |maka| |lambat| |laun| |Jordan| |nandangi| |mereken| |dirina| |man| |bana| |ku| |tingkat| |si| |lebih| |ntah| |pe| |si| |kurang|.
+Asangken| |merawa|,| |partai| |enda| |enggo| |mpertahanken| |homogenitas| |si| |bermartabat|,| |ras| |ngasumsiken| |man| |bana| |fungsi| |mewakili| |bangsawan| |si| |tetap| |i| |pedesaan|—|Telur| |Timur| |merendahken| |diri| |man| |Telur| |Barat| |ras| |alu| |hati|-|hati| |erjaga|-|jaga| |nandangi| |keriahen| |ukur| |spektroskopisna|.
+“|Mari| |kita| |ndarat|,|”| |nina| |Jordan| |alu| |megang| |sora|,| |kenca| |setengah| |jam| |si| |entah| |kuga| |boros| |ras| |la| |pantas|;
+“|enda| |me| |si| |terlalu| |sopan| |man| |bangku|.|”
+Kami| |keke|,| |janah| |ijelaskenna| |maka| |kami| |lawes| |ndarami| |tuan| |rumah|:| |La| |pernah| |aku| |jumpa| |ras| |ia|,| |nina|,| |janah| |e| |erban| |aku| |la| |tenang|.
+Sarjana| |e| |nganggukken| |takalna| |alu| |cara| |si| |sinis|,| |melankolis|.
+Bar|,| |ingan| |kami| |ngelirik| |lebe|,| |rame|,| |tapi| |Gatsby| |la| |lit| |i| |je|.
+Labo| |idatna| |ia| |i| |datas| |tangga| |nari|,| |janah| |la| |ia| |i| |beranda|.
+I| |bas| |sada| |kesempaten|,| |icubai| |kami| |sada| |pintun| |si| |teridah| |penting|,| |janah| |masuk| |kami| |ku| |sada| |perpustakaan| |Gotik| |si| |meganjang|,| |si| |ipanel| |alu| |kayu| |ek| |Inggris| |si| |iukir|,| |janah| |mungkin| |iangkut| |lengkap| |i| |bas| |piga|-|piga| |reruntuhen| |i| |luar| |negeri| |nari|.
+Sekalak| |dilaki| |si| |mbentar|,| |setengah| |umur|,| |alu| |kacamata| |si| |mbelin| |bagi| |mata| |burung| |hantu|,| |kundul| |agak| |mabuk| |i| |tepi| |meja| |si| |mbelin|,| |natap| |alu| |konsentrasi| |si| |la| |mantap| |ku| |rak|-|rak| |buku|.
+Sanga| |kami| |masuk| |ia| |erroda| |alu| |meriah| |ukur| |janah| |iperiksana| |Jordan| |mulai| |takal| |nari| |seh| |ku| |nahe|.
+“|Kai| |nge| |pendapatndu|?|”
+nina| |nungkun| |alu| |la| |erngadi|-|ngadi|.
+“|Kerna| |kai|?|”
+Ilambaikenna| |tanna| |ku| |rak|-|rak| |buku|.
+"|Tentang| |si| |e|.| |Situhuna| |labo| |perlu| |kam| |repot|-|repot| |guna| |memastikan|.| |Kupastikan|.| |Si| |e| |nyata|.|"
+“|Buku|-|buku| |e|?|”
+Ia| |nganggukken| |takalna|.
+"|Mutlak| |nyata|—|lit| |halamen| |ras| |kerinana|.| |Kuakap| |e| |me| |sada| |kardus| |si| |tahan| |lama| |si| |mehuli|.| |Situhuna|,| |nyata| |kel|.| |Halamen| |ras|—|I| |jenda|!| |Lemme| |ncidahken| |man| |bandu|.|"
+Erkiteken| |la| |iakapna| |skeptisisme| |kami|,| |kiam| |ia| |ku| |rak|-|rak| |buku| |janah| |mulihken| |ia| |maba| |Jilid| |Sada| |Kuliah| |Stoddard| |.
+"|Nin|!|"
+nina| |erlebuh| |alu| |kemenangen|.
+"|Enda| |sada| |cetak| |si| |bona|-|fide|.| |Enda| |me| |si| |erbahanca| |aku| |bodoh|.| |Kalak| |enda| |Belasco| |biasa|.| |Enda| |sada| |kemenangan|.| |Ketelitian| |kai|!| |Realisme| |kai|!| |Itehna| |ndigan| |ngadi|,| |uga|—|la| |iguntingna| |halamenna|.| |Tapi| |kai| |atendu|?| |Kai| |si| |iarapkenndu|?|"
+Irampasna| |buku| |e| |i| |bas| |aku| |nari| |janah| |igantikenna| |alu| |mejingkat| |i| |bas| |rakna|,| |alu| |ngungut|-|ngungut| |maka| |adi| |sada| |batu| |bata| |itangtangi|,| |kerina| |perpustakaan| |e| |banci| |runtuh|.
+“|Ise| |si| |maba| |kam|?|”
+nina| |nungkun|.
+“|Ntah| |kam| |ngenca| |reh|?| |Aku| |ibaba|.| |Kebanyaken| |kalak| |ibaba|.|”
+Jordan| |natap| |ia| |alu| |waspada|,| |meriah| |ukurna|,| |la| |ia| |ngaloi|.
+Ilanjutkenna|,| |”|Aku| |ibaba| |sekalak| |diberu| |si| |gelarna| |Roosevelt|.
+"|Bu| |Claud| |Roosevelt|.| |Itandaindu| |nge| |ia|?| |Kujumpai| |ia| |i| |bas| |sada| |ingan| |berngi| |si| |lewat|.| |Enggo| |kira|-|kira| |sada| |minggu| |aku| |mabuk|,| |janah| |kuakap| |banci| |saja| |sadar| |aku| |kundul| |i| |perpustakaan|.|"
+“|Enggo| |nge|?|”
+"|Sitik|,| |kuakap|.| |Labo| |banci| |kukataken|.| |Sada| |jam| |ngenca| |aku| |i| |jenda|.| |Kuturiken| |nge| |man| |bandu| |kerna| |buku|-|buku| |e|?| |Buku|-|buku| |e| |nyata|.| |Buku|-|buku| |e—|"
+“|Ikatakenndu| |man| |kami|.|”
+Ijabat| |kami| |ia| |alu| |serius| |janah| |mulihken| |kami| |ku| |darat|.
+Lit| |nari| |genduari| |i| |datas| |kanvas| |i| |peken|;
+dilaki|-|dilaki| |si| |enggo| |metua| |si| |mendorong| |anak|-|anak| |diberu| |si| |nguda| |denga| |ku| |pudi| |i| |bas| |lingkaran|-|lingkaran| |si| |la| |lit| |perkuah| |ate| |si| |rasa| |lalap|,| |pasangan| |si| |unggul| |si| |saling| |memegang| |alu| |berliku|-|liku|,| |moderen|,| |ras| |tetap| |i| |bas| |sudut|-|sudut|—|ras| |melala| |anak|-|anak| |diberu| |si| |la| |erjabu| |si| |landek|-|landek| |secara| |pribadi| |ntah| |pe| |ngelepasken| |orkestra| |sejenak| |i| |bas| |beban| |banjo| |ntah| |pe| |jebaken|-|jebaken|.
+Tengah| |berngi| |enggo| |reh| |buena| |keriahen| |ukur|.
+Sekalak| |tenor| |si| |terkenal| |enggo| |rende| |i| |bas| |bahasa| |Italia|,| |janah| |sekalak| |contralto| |si| |terkenal| |enggo| |rende| |i| |bas| |bahasa| |jazz|,| |janah| |i| |tengah|-|tengah| |angka|-|angka| |e| |kalak| |sangana| |erbahan| |“|aksi|”| |i| |belang|-|belang| |taman|,| |sementara| |tawa| |si| |meriah| |ras| |hampa| |nangkih| |ku| |langit| |musim| |panas|.
+Sepasang| |kembar| |panggung|,| |si| |ternyata| |anak|-|anak| |diberu| |si| |make| |baju| |kuning|,| |erbahan| |akting| |bayi| |alu| |kostum|,| |janah| |sampanye| |isajiken| |i| |bas| |gelas| |si| |mbelinen| |asangken| |mangkuk|-|mangkuk| |jari|.
+Bulan| |enggo| |reh| |ganjangna|,| |janah| |si| |ngambang| |i| |Suara| |e| |me| |segitiga| |sisik| |pirak|,| |nggirgir| |sitik| |nandangi| |tetesen| |banjo| |si| |kaku| |ras| |kaleng| |i| |rumput|.
+Aku| |pe| |sangana| |ras| |Jordan| |Baker|.
+Kami| |kundul| |i| |meja| |ras| |sekalak| |dilaki| |si| |kira|-|kira| |seri| |umurna| |ras| |aku| |ras| |sekalak| |anak| |diberu| |si| |kitik| |si| |gaduh|,| |si| |mereken| |dalan| |adi| |lit| |provokasi| |sitik| |pe| |tawa| |si| |la| |terkendaliken|.
+Aku| |sangana| |ermeriah| |ukur| |gundari|.
+Enggo| |kubuat| |dua| |mangkuk| |sampanye| |jari|-|jari|,| |janah| |pemandangan| |e| |enggo| |berubah| |i| |lebe|-|lebe| |matangku| |jadi| |sada| |hal| |si| |signifikan|,| |unsur|,| |ras| |mbages|.
+I| |bas| |sada| |waktu| |si| |tenang| |i| |bas| |hiburen|,| |itatap| |dilaki| |e| |aku| |janah| |senyum|.
+Nina| |alu| |sopan|,| |“|Ayondu| |enggo| |biasa|.|”
+“|La| |kin| |kam| |ikut| |Divisi| |Pertama| |sanga| |perang| |e|?|”
+"|Engkai| |maka| |bage|.| |Aku| |sangana| |i| |bas| |Infanteri| |Dua| |Puluh| |Waluh|.|"
+"|Aku| |i| |bas| |tahun| |Sepuluh| |Enem| |seh| |ku| |bulan| |Juni| |sepuluh| |sembilan|-|sepuluh| |waluh|.| |Kueteh| |enggo| |pernah| |kuidah| |kam| |i| |japa| |pe|.|"
+Ercakap|-|cakap| |kami| |kentisik| |kerna| |piga|-|piga| |kuta| |si| |kitik| |si| |basah| |ras| |abu|-|abu| |i| |Prancis|.
+Teridah| |ia| |tading| |i| |daerah| |enda|,| |sabap| |iturikenna| |man| |bangku| |maka| |ia| |mbaru| |denga| |nukur| |pesawat| |hidroplane|,| |janah| |nandangi| |icubana| |pagi|.
+"|Atendu| |ikut| |ras| |aku|,| |olahraga| |tua|?| |Deher| |pantai| |saja| |i| |sepanjang| |Suara|.|"
+“|Jam| |piga|?|”
+“|Waktu| |kai| |pe| |si| |cocokna| |man| |bandu|.|”
+Enggo| |i| |ujung| |dilahku| |nungkun| |gelarna| |sanga| |Jordan| |natap| |ku| |sekelilingna| |janah| |senyum|.
+“|Lit| |nge| |waktundu| |si| |gay| |gundari|?|”
+nina| |nungkun|.
+“|Ndauh| |ulin|.|”
+Kubalikken| |mulihi| |ku| |kenalanku| |si| |mbaru|.
+"|Enda| |sada| |pesta| |si| |luar| |biasa| |man| |bangku|.| |Lenga| |pe| |kuidah| |tuan| |rumahna|.| |Aku| |tading| |i| |je—|"| |Kulambaiken| |tanku| |ku| |pagar| |si| |la| |teridah| |i| |dauh|-|dauh| |nari|,| |"|janah| |dilaki| |enda| |isuruh| |Gatsby| |supirna| |alu| |undangan|.|"
+Sejenak| |ia| |natap| |aku| |tempa|-|tempa| |gagal| |ia| |ngangkai|.
+“|Aku| |Gatsby|,|”| |nina| |rempet|.
+"|Kai|!|"
+nina| |aku| |alu| |sora| |si| |megang|.
+“|O|,| |mindo| |maaf| |aku| |man| |bandu|.|”
+"|Kuakap| |enggo| |tehndu|,| |olahraga| |tua|.| |Mbiar| |aku| |labo| |tuan| |rumah| |si| |mehuli| |kel|.|"
+Senyum| |ia| |alu| |pengertin|—|ndauh| |lebih| |asangken| |pengertin|.
+Enda| |salah| |sada| |senyum| |si| |langka| |si| |lit| |kualitas| |jaminen| |si| |rasa| |lalap| |i| |bas| |ia|,| |si| |banci| |saja| |empat| |ntah| |lima| |kali| |kam| |jumpa| |i| |bas| |kegeluhen|.
+Ihadapina|—|ntah| |pe| |tempa|-|tempa| |ihadapina|—|kerina| |doni| |si| |rasa| |lalap| |sejenak|,| |kenca| |si| |e| |erkonsentrasi| |man| |bandu| |alu| |prasangka| |si| |la| |tertahanken| |si| |mendukung| |kam|.
+Iangkaina| |kam| |saja| |sedekah| |si| |atendu| |ipahami|,| |tek| |ia| |man| |bandu| |bagi| |atendu| |tek| |man| |dirindu| |sendiri|,| |janah| |ipastikenna| |man| |bandu| |maka| |justru| |lit| |kesan| |kerna| |kam| |si|,| |alu| |mehuli|,| |iarapkenndu| |guna| |ipesehndu|.
+Tepat| |i| |bas| |paksa| |si| |e| |me| |ia| |lesap|—|janah| |aku| |sangana| |ngenehen| |sekalak| |anak| |muda| |si| |elegan| |si| |kasar|,| |setahun| |ntah| |dua| |tahun| |lebih| |telu| |puluh| |tahun|,| |si| |formalitas| |pengeranana| |si| |rumit| |saja| |rindu| |jadi| |absurd|.
+Piga|-|piga| |waktu| |ope| |ia| |mpetandaken| |dirina| |enggo| |lit| |kesan| |si| |megegeh| |man| |bangku| |maka| |ia| |milih| |kata|-|katana| |alu| |megermet|.
+Hampir| |ibas| |paksa| |si| |e| |tupung| |Tuan| |Gatsby| |ncidahken| |dirina| |sekalak| |kepala| |pelayan| |pedas|-|pedas| |ndahi| |ia| |alu| |informasi| |maka| |Chicago| |si| |ertelepon| |man| |bana| |arah| |kawat|.
+Iberekenna| |alasen| |alu| |rukur| |si| |kitik| |si| |mencakup| |kami| |sekalak|-|sekalak| |alu| |ergiliren|.
+“|Adi| |lit| |atendu| |pindo| |saja|,| |olahraga| |tua|,|”| |nina| |ngajuk| |aku|.
+"|Maaf|.| |Aku| |kari| |ras| |kam| |mulihi|.|"
+Kenca| |ia| |lanai| |lit| |minter| |aku| |nolih| |ku| |Jordan|—|terpaksa| |guna| |njamin| |ia| |kerna| |kejutenku|.
+Enggo| |kuarapken| |maka| |Tuan| |Gatsby| |jadi| |kalak| |si| |mejile| |ras| |mejile| |i| |bas| |tahun|-|tahun| |pertengahenna|.
+“|Ise| |kin| |ia|?|”
+Kutuntut|.
+“|Itehndu| |nge|?|”
+“|Ia| |sekalak| |dilaki| |si| |gelarna| |Gatsby|.|”
+“|I| |ja| |nari| |ia|,| |maksudku|?| |Janah| |kai| |si| |ilakokenna|?|”
+“|Gundari| |enggo| |mulai| |kam| |ngerana| |kerna| |topik| |e|,|”| |nina| |njabap| |alu| |senyum| |si| |la| |mehuli|.
+“|Enggo|,| |pernah| |iturikenna| |man| |bangku| |maka| |ia| |kalak| |Oxford|.|”
+Latar| |belakang| |si| |redup| |mulai| |terbentuk| |i| |pudina|,| |tapi| |i| |bas| |komentarna| |si| |seterusna|,| |latar| |belakang| |e| |memudar|.
+“|Tapi|,| |la| |aku| |tek|.|”
+"|Uga| |maka| |lang|?|"
+Nina| |diberu| |e| |alu| |tegas|,| |”|La| |kueteh|,| |tapi| |kuakap| |labo| |ia| |lawes| |ku| |je|.|”
+Lit| |bas| |nada| |sorana| |si| |ngingetken| |aku| |kerna| |kata|-|kata| |diberu| |si| |deban| |“|Kuakap| |ia| |munuh| |sekalak| |dilaki|,|”| |janah| |lit| |efekna| |erban| |aku| |penasaran|.
+Kualoken| |nge| |alu| |la| |ersoal| |informasi| |maka| |Gatsby| |turah| |i| |bas| |rawa|-|rawa| |Louisiana| |nari| |ntah| |pe| |i| |Sisi| |Timur| |New| |York| |si| |arah| |teruh| |nari|.
+Enda| |banci| |iangka|.
+Tapi| |anak| |perana| |labo|—|setidaknya| |i| |bas| |pengalamenku| |si| |la| |lit| |i| |bas| |provinsi| |tek| |aku| |labo|—|melayang| |alu| |dingin| |i| |bas| |ingan| |si| |la| |lit| |nari| |janah| |nukur| |istana| |i| |Long| |Island| |Sound|.
+“|Bagepe|,| |ia| |mereken| |pesta|-|pesta| |si| |mbelin|,|”| |nina| |Jordan|,| |ngubah| |topik| |alu| |cian| |ate| |perkotaan| |nandangi| |beton|.
+"|Janah| |aku| |pe| |meriah| |akapku| |pesta|-|pesta| |si| |mbelin|.| |Intim| |kel| |ia|.| |I| |bas| |pesta|-|pesta| |si| |kitik| |la| |lit| |privasi|.|"
+Lit| |sora| |gendang| |bass| |si| |ergeruhguh|,| |janah| |sora| |pemimpin| |orkes| |terbegi| |rempet| |i| |datas| |echolalia| |taman| |e|.
+Nina| |alu| |tangis|,| |“|O| |tuan|-|tuan| |ras| |tuan|-|tuan|.
+“|Arah| |pemindon| |Tuan| |Gatsby| |kami| |nandangi| |mainken| |man| |bandu| |karya| |terbaru| |Tuan| |Vladmir| |Tostoff|,| |si| |menarik| |perhatian| |si| |mbelin| |i| |Carnegie| |Hall| |bulan| |Mei| |si| |lewat|.| |Adi| |ibacandu| |makalah|-|makalah| |e| |ietehndu| |lit| |sensasi| |si| |mbelin|.|”
+Senyum| |ia| |alu| |merendahken| |diri| |si| |meriah| |ukurna|,| |janah| |nina|,| |”|Piga|-|piga| |sensasi|!|”
+Emaka| |kerina| |kalak| |tawa|.
+Nina| |alu| |nafsu|,| |”|Karya| |e| |itandai| |kalak| |selaku| |’|Sejarah| |Jazz| |Doni| |Vladmir| |Tostoff|!|’
+”| |.
+Sifat| |komposisi| |Tuan| |Tostoff| |menghindar| |i| |bas| |aku| |nari|,| |erkiteken| |pas| |mulai| |matangku| |ndabuh| |ku| |Gatsby|,| |tedis| |sisada| |i| |tangga| |marmer| |ras| |natap| |i| |bas| |sada| |kelompok| |nari| |ku| |kelompok| |si| |deban| |alu| |mata| |si| |merestui|.
+Kulitna| |si| |enggo| |sawo| |matang| |e| |igambarken| |alu| |menarik| |alu| |rapat| |i| |bas| |ayona| |janah| |bukna| |si| |gendek| |tempa|-|tempa| |ipangkas| |tiap| |wari|.
+La| |lit| |kuidah| |si| |jahat| |i| |bas| |ia| |nari|.
+Kusungkun| |diringku|,| |apakah| |kenyataan| |maka| |ia| |la| |minem| |e| |nampati| |ia| |ndarat| |i| |bas| |tamuna| |nari|,| |sabap| |tempa|-|tempa| |ia| |reh| |benarna| |erkiteken| |reh| |buena| |hilaritas| |persaudaraan|.
+Sanga| |“|Sejarah| |Jazz| |Dunia|”| |enggo| |dung|,| |anak|-|anak| |diberu| |sangana| |namaken| |takalna| |ku| |bahu| |dilaki| |alu| |cara| |si| |bagi| |anak| |anjing|,| |si| |mehuli|,| |anak|-|anak| |diberu| |sangana| |pingsan| |mundur| |alu| |main|-|main| |ku| |bas| |pelukan| |dilaki|,| |bahkan| |ku| |bas| |kelompok|-|kelompok|,| |ietehna| |maka| |lit| |si| |nangkap| |kejatuhenna|—|tapi| |la| |lit| |si| |pingsan| |mundur| |ku| |Gatsby|,| |la| |lit| |si| |menyentuh| |Gatsby| |bobyts|'
+terbentuk| |alu| |takal| |Gatsby| |guna| |sada| |tauten|.
+“|Kupindo| |maaf| |man| |bandu|.|”
+Kepala| |pelayan| |Gatsby| |rempet| |tedis| |i| |samping| |kami|.
+“|Nona| |Baker|?|”
+nina| |nungkun|.
+“|Kupindo| |maaf| |man| |bandu|,| |tapi| |Tuan| |Gatsby| |nggit| |ngerana| |ras| |kam| |saja|.|”
+“|Ras| |aku|?|”
+nina| |diberu| |e| |alu| |sengget|.
+“|Enggo|,| |bu|.|”
+Tedis| |ia| |alu| |manjar|-|anjar|,| |iangkatna| |alisna| |man| |bangku| |alu| |sengget|,| |janah| |iikutkenna| |kepala| |pelayan| |e| |ku| |rumah|.
+Kuperdiateken| |maka| |ipakena| |baju| |malamna|,| |kerina| |bajuna|,| |bagi| |baju| |olahraga|—|lit| |sada| |jauntiness| |kerna| |gerakenna| |tempa|-|tempa| |ia| |tangtangna| |erlajar| |erdalan| |i| |datas| |lapangan| |golf| |i| |bas| |erpagi|-|pagi| |si| |bersih| |ras| |renyah|.
+Aku| |sisada| |janah| |enggo| |hampir| |dua|.
+Piga|-|piga| |waktu| |dekahna| |sora|-|sora| |si| |bingung| |ras| |menarik| |enggo| |ndarat| |i| |bas| |sada| |ruangen| |si| |gedang| |ras| |melala| |jendelana| |si| |nggantung| |ku| |teras|.
+Menghindar| |i| |bas| |sarjana| |Jordan| |nari|,| |si| |gundari| |sangana| |ercakap|-|cakap| |kerna| |kebidanan| |ras| |dua| |anak| |diberu| |paduan| |suara|,| |janah| |si| |mindo|-|mindo| |aku| |gelah| |ikut| |ras| |ia|,| |masuk| |aku| |ku| |bas|.
+Ruang| |si| |galang| |e| |dem| |alu| |jelma|.
+Salah| |sada| |anak| |diberu| |si| |make| |baju| |kuning| |sangana| |main| |piano|,| |janah| |i| |sampingna| |tedis| |sekalak| |singuda|-|nguda| |si| |meganjang|,| |si| |merawa| |bukna| |i| |bas| |paduan| |suara| |si| |terkenal| |nari|,| |si| |sangana| |rende|.
+Ia| |enggo| |minem| |sampanye| |si| |melala|,| |janah| |i| |bas| |perdalanen| |laguna| |enggo| |iputuskenna|,| |alu| |la| |beluh|,| |maka| |kerinana| |tuhu|-|tuhu| |ceda| |ate|—|ia| |labo| |saja| |rende|,| |ia| |pe| |tangis|.
+Tep|-|tep| |lit| |jeda| |i| |bas| |lagu| |e| |iisi| |alu| |tangis| |si| |megang|,| |si| |putus|-|putus|,| |kenca| |si| |e| |ibuatna| |mulihi| |lirikna| |alu| |sopran| |si| |nggirgir|.
+Iluh| |e| |ndabuh| |ku| |pipina|—|tapi| |labo| |bebas|,| |sabap| |sanga| |ia| |bersentuhan| |ras| |bulu| |matana| |si| |mberat| |manik|-|manikna|,| |warnana| |jadi| |tinta|,| |janah| |idalanina| |sisa| |dalanna| |i| |bas| |batang| |lau| |si| |mbentar| |si| |lambat|.
+Ibereken| |sada| |saran| |si| |lucu| |gelah| |iendekenna| |not|-|not| |si| |lit| |i| |bas| |ayona|,| |kenca| |si| |e| |iambekkenna| |tanna| |ku| |datas|,| |tenggelam| |ia| |ku| |kursi|,| |janah| |tunduh| |ia| |alu| |mbages|.
+“|Ia| |erjengil| |ras| |sekalak| |dilaki| |si| |ngatakenca| |ia| |perbulangenna|,|”| |nina| |sekalak| |diberu| |si| |lit| |i| |sikungku|.
+Kupernehen| |ku| |sekelewetku|.
+Kebanyaken| |diberu| |si| |tading| |e| |gundari| |sangana| |erjengil| |ras| |dilaki| |si| |ikataken| |perbulangenna|.
+Bahkan| |partai| |Jordan|,| |kuartet| |i| |East| |Egg| |nari|,| |enggo| |terpecah|-|pecah| |erkiteken| |perpecahen|.
+Salah| |sada| |dilaki| |e| |sangana| |ngerana| |alu| |intensitas| |penasaran| |man| |sekalak| |aktris| |si| |nguda| |denga|,| |janah| |ndeharana|,| |kenca| |iusahakenna| |tawa| |nandangi| |situasi| |e| |alu| |cara| |si| |martabat| |ras| |la| |peduli|,| |putus| |asa| |kerina| |janah| |igunakenna| |serangan|-|serangan| |arah| |sampingna|—|i| |bas| |selang|-|seling| |waktu| |ia| |rempet| |muncul| |i| |sampingna| |bagi| |berlian| |si| |merawa|,| |janah| |erdesis|:| |“|Enggo| |kam| |erjanji|!|”
+ku| |bas| |cupingna|.
+Si| |la| |nggit| |mulih| |ku| |rumah| |labo| |terjeng| |dilaki| |si| |la| |mehuli|.
+Aula| |e| |gundari| |ingan| |dua| |dilaki| |si| |sadar| |kel| |ras| |ndeharana| |si| |merawa| |kel|.
+Ndehara|-|ndehara| |e| |saling| |bersimpati| |alu| |sora| |si| |agak| |meganjang|.
+“|Tiap| |idahna| |aku| |sangana| |ermeriah| |ukur|,| |atena| |mulih|.|”
+“|La| |pernah| |kubegi| |lit| |si| |bage| |egoisna| |bas| |geluhku|.|”
+“|Kami| |lalap| |si| |pemena| |lawes|.|”
+“|Bage| |ka| |pe| |kita|.|”
+“|Enggo|,| |kita| |enggo| |hampir| |terakhir| |berngi| |enda|,|”| |nina| |sekalak| |dilaki| |e| |alu| |mbiar|.
+“|Orkes| |enggo| |berkat| |setengah| |jam| |si| |lewat|.|”
+Aminna| |pe| |ndehara|-|ndehara| |e| |setuju| |maka| |kejahaten| |si| |bage| |la| |terpercaya|,| |tapi| |perjengilen| |e| |dung| |alu| |pergumulen| |si| |kentisik|,| |janah| |duana| |ndehara| |e| |iangkat|,| |itendang|,| |ku| |bas| |berngi|.
+Sanga| |aku| |nimai| |topiku| |i| |aula| |pintu| |perpustakaan| |terbuka| |janah| |Jordan| |Baker| |ras| |Gatsby| |ndarat| |ras|-|ras|.
+Ia| |sangana| |ngataken| |piga|-|piga| |kata| |terakhir| |man| |bana|,| |tapi| |keriahen| |ukur| |i| |bas| |carana| |reh| |ketatna| |rempet| |jadi| |formalitas| |sanga| |piga|-|piga| |kalak| |ndeheri| |ia| |guna| |ngataken| |selamat| |tinggal|.
+Pesta| |Jordan| |sangana| |erlebuh| |alu| |la| |sabar| |man| |bana| |i| |teras| |nari|,| |tapi| |ia| |ertahan| |kentisik| |guna| |erjabat| |tan|.
+Nina| |alu| |megang| |sorana|,| |“|Baru| |denga| |kubegi| |si| |luar| |biasana|.
+“|Piga| |dekahna| |kita| |i| |je|?|”
+“|Ngkai|,| |kira|-|kira| |sada| |jam|.|”
+“|Enda|...| |luar| |biasa| |saja|,|”| |nina| |ngulangi| |alu| |abstrak|.
+“|Tapi| |ersumpah| |aku| |la| |kuturiken| |janah| |i| |jenda| |kugoda| |kam|.|”
+Ia| |menguap| |alu| |mehuli| |i| |bas| |ayongku|.
+“|Tolong| |reh| |kam| |jumpa| |ras| |aku|...| |Buku| |telepon|...| |Alu| |gelar| |Mrs| |Sigourney| |Howard|...| |Bibingku|...|”| |Ia| |sangana| |erpedas|-|pedas| |lawes| |sanga| |ia| |ngerana|—|tanganna| |si| |coklat| |melambai|-|lambaiken| |salut| |si| |mejile| |sanga| |ia| |meleleh| |ku| |pestana| |i| |pintun|.
+Agak| |mela| |aku| |maka| |ibas| |penampilenku| |si| |pemena| |enggo| |aku| |tading| |seh| |terlambat|,| |aku| |ikut| |ras| |tamu| |Gatsby| |si| |terakhir|,| |si| |erkelompok| |i| |sekelewetna|.
+Ateku| |kujelasken| |maka| |enggo| |kuburu| |ia| |karaben|-|karaben| |janah| |mindo| |maaf| |perban| |la| |kutandai| |ia| |i| |taman|.
+“|Ula| |kataken|,|”| |nina| |alu| |meriah| |ukur| |nuruh| |aku|.
+“|Ula| |bereken| |perukuren| |si| |deban|,| |olahraga| |tua|.|”
+Ekspresi| |si| |akrab| |e| |la| |lebih| |menahan| |keakraban| |asangken| |tan| |si| |alu| |menenangkan| |menyikat| |bahuku|.
+“|Janah| |ula| |lupa| |kita| |nangkih| |alu| |pesawat| |hidro| |pagi| |erpagi|-|pagi|,| |jam| |sembilan|.|”
+Jenari| |kepala| |pelayan|,| |i| |pudi| |bahu|:
+“|Filadelfia| |atena| |kam| |ertelepon|,| |tuan|.|”
+"|Baiklah|,| |sada| |menit| |nari|.| |Kataken| |man| |bana| |maka| |aku| |pasti| |reh| |ku| |je|...| |Selamat| |berngi|.|"
+"|Selamat| |malam|.|"
+"|Selamat| |malam|.|"
+Senyum| |ia|—|janah| |rempet| |tempa|-|tempa| |lit| |makna| |si| |mehuli| |i| |bas| |ia| |jadi| |salah| |sada| |si| |terakhir| |lawes|,| |tempa|-|tempa| |enggo| |lalap| |isurakenna|.
+“|Selamat| |berngi|,| |olahraga| |tua|...| |Selamat| |berngi|.|”
+Tapi| |sanga| |aku| |nusur| |arah| |tangga| |kuidah| |maka| |karaben| |e| |lenga| |bo| |tuhu|-|tuhu| |dung|.
+Lima| |puluh| |meter| |arah| |pintun| |nari| |lit| |selusin| |lampu| |si| |nerangi| |sada| |pemandangan| |si| |aneh| |ras| |gejolak|.
+I| |bas| |parit| |i| |tepi| |dalan|,| |sebelah| |kanan| |ku| |datas|,| |tapi| |alu| |ganas| |igunting| |sada| |roda|,| |istirahat| |sada| |coupé| |si| |mbaru| |si| |enggo| |nadingken| |perdalanen| |Gatsby| |la| |dua| |menit| |ope| |si| |e|.
+Jut| |si| |tajam| |i| |bas| |sada| |tembok| |erbahanca| |roda| |e| |terlepas|,| |si| |gundari| |ndatken| |perhatian| |si| |cukup| |mbelin| |i| |bas| |setengah| |lusin| |supir| |si| |penasaran| |nari|.
+Tapi|,| |erkiteken| |itadingkenna| |mobilna| |ngalangi| |dalan|,| |sora| |din| |si| |keras| |ras| |la| |ersada| |i| |bas| |kalak| |si| |i| |pudi| |nari| |enggo| |terbegi| |piga|-|piga| |waktu| |dekahna|,| |janah| |nambahi| |kebingungan| |si| |enggo| |ganas| |i| |bas| |ingan| |e|.
+Sekalak| |dilaki| |si| |make| |debu| |si| |gedang| |enggo| |nusur| |i| |bas| |kapal| |si| |bengket| |ku| |kapal| |e| |nari| |janah| |gundari| |tedis| |ia| |i| |tengah| |dalan|,| |natap| |i| |bas| |mobil| |nari| |ku| |ban| |ras| |i| |bas| |ban| |nari| |ku| |kalak| |si| |ngenehen| |alu| |cara| |si| |mehuli| |ras| |bingung|.
+"|Nin|!|"
+nina| |nerangkenca|.
+“|Enggo| |lawes| |ku| |parit|.|”
+Kenyataan| |e| |la| |terbatas| |erbahanca| |ia| |sengget|,| |janah| |kutandai| |lebe| |kualitas| |keheranen| |si| |luar| |biasa|,| |kenca| |si| |e| |dilaki| |e|—|e| |me| |almarhum| |pelanggan| |perpustakaan| |Gatsby|.
+“|Uga| |maka| |terjadi|?|”
+Ipegangna| |bahu|.
+Nina| |alu| |tegas|,| |“|La| |lit| |kueteh| |kai| |pe| |kerna| |mekanik|.|”
+“|Tapi| |uga| |maka| |terjadi|?| |Kam| |kiam| |ku| |tembok|?|”
+“|Ula| |sungkunndu| |aku|,|”| |nina| |Mata| |Burung| |Hantu|,| |iburihina| |tanna| |kerna| |kerina| |persoalen| |e|.
+"|Sitik| |kel| |ngenca| |kuetehna| |kerna| |ermotor|—|hampir| |la| |lit.| |Kejadin| |e| |terjadi|,| |janah| |e| |me| |ngenca| |si| |kuetehna|.|"
+“|Enggo|,| |adi| |kam| |supir| |si| |musil| |la| |patut| |icubakenndu| |ermotor| |berngi|.|”
+Ijelaskenna| |alu| |merawa|,| |”|Tapi| |aku| |pe| |la| |erusaha|,| |la| |pe| |aku| |erusaha|.|”
+Kesunyian| |si| |luar| |biasa| |ndabuh| |ku| |kalak| |si| |ngenehen|.
+“|Atendu| |kin| |bunuh| |diri|?|”
+“|Beruntung| |kam| |roda| |saja|!| |Supir| |si| |la| |mehuli| |janah| |la| |pe| |iusahakenna|!|”
+“|La| |kam| |ngangkai|,|”| |nina| |penjahat| |e| |nerangkenca|.
+“|Labo| |aku| |si| |ermotor|.| |Lit| |sekalak| |dilaki| |si| |deban| |bas| |mobil| |e|.|”
+Kejutan| |si| |ngikutken| |deklarasi| |enda| |ndatken| |sora| |i| |bas| |“|Ah|-|hh|!|”
+bagi| |pintun| |kupe| |si| |ayun|-|ayun| |alu| |manjar|-|anjar| |terbuka|.
+Kalak| |si| |nterem|—|gundari| |enggo| |nterem|—|mundur| |alu| |la| |sengaja|,| |janah| |kenca| |pintun| |enggo| |terbuka| |mbelin| |lit| |jeda| |si| |hantu|.
+Jenari|,| |alu| |manjar|-|anjar|,| |bagin|-|bagin|,| |sekalak| |individu| |si| |pucat| |ras| |menjuntai| |ndarat| |i| |bas| |kapal| |si| |bengket| |ku| |kapal| |e| |nari|,| |erkusur|-|kusur| |ia| |alu| |sementara| |ku| |taneh| |alu| |sepatu| |nari| |si| |mbelin| |si| |la| |pasti|.
+Buta| |erkiteken| |silau| |lampu| |ras| |bingung| |erkiteken| |sora| |tanduk| |si| |la| |erngadi|-|ngadi|,| |penampaken| |e| |tedis| |ergoyang|-|goyang| |kentisik| |ope| |denga| |idahna| |dilaki| |si| |lit| |i| |bas| |duster| |e|.
+“|Kai| |kin| |masalahna|?|”
+nina| |nungkun| |alu| |tenang|.
+“|Enggo| |nge| |kita| |kehabisen| |gas|?|”
+"|Nin|!|"
+Setengah| |lusin| |jari|-|jarina| |nuduhken| |roda| |si| |enggo| |ipotong| |e|—|itatapna| |kentisik|,| |kenca| |si| |e| |itatapna| |ku| |datas| |tempa|-|tempa| |curiga| |ia| |roda| |e| |ndabuh| |i| |langit| |nari|.
+Lit| |si| |njelasken|,| |“|Enggo| |ndarat|.|”
+Ia| |nganggukken| |takalna|.
+“|Mulana| |aku| |din|’| |mperdiateken| |kami| |enggo| |ngadi|.|”
+Sada| |jeda|.
+Jenari|,| |ernafas| |ndekah| |ia| |janah| |ipepinterna| |bahu|,| |alu| |sora| |si| |ertekad| |ikatakenna|:
+“|Wonder’ff| |katakenndu| |i| |ja| |lit| |SPBU|?|”
+Sitik|-|sitik| |lit| |sepuluh| |dilaki|,| |piga|-|piga| |i| |bas| |ia| |nari| |lebih| |mehuli| |sitik| |asangken| |ia|,| |njelasken| |man| |bana| |maka| |roda| |ras| |mobil| |lanai| |ipersada| |alu| |ikaten| |fisik| |kai| |pe|.
+“|Mulihlah| |ku| |darat|,|”| |nina| |saran| |kenca| |piga|-|piga| |waktu|.
+“|Taruhken| |ia| |i| |bas| |si| |terbalik|.|”
+“|Tapi| |roda| |’|na| |enggo| |mate|!|”
+Ragu|-|ragu| |ia|.
+Nina|,| |“|La| |lit| |salahna| |adi| |siusahaken|.|”
+Tanduk| |caterwauling| |enggo| |seh| |ku| |crescendo| |janah| |aku| |mulihken| |janah| |ngelewati| |rumput| |arah| |rumah|.
+Kupernehen| |ku| |pudi| |sekali|.
+Sada| |wafer| |bulan| |ersinar| |i| |datas| |rumah| |Gatsby|,| |erbahanca| |berngi| |e| |mehuli| |bagi| |si| |mbarenda|,| |janah| |selamat| |i| |bas| |tawa| |ras| |sora| |tamanna| |si| |tetap| |ersinar|.
+Sebuah| |kekosongen| |si| |rempet| |tempa|-|tempa| |maler| |genduari| |arah| |jendela| |ras| |pintu|-|pintu| |si| |mbelin|,| |mereken| |isolasi| |si| |lengkap| |man| |sosok| |tuan| |rumah|,| |si| |tedis| |i| |teras|,| |tanna| |iangkat| |alu| |gerak| |perpisahan| |si| |resmi|.
+Ngoge| |kai| |si| |enggo| |kutulisken| |sedekah| |enda|,| |kuidah| |enggo| |kubereken| |kesan| |maka| |peristiwa| |telu| |berngi| |piga|-|piga| |minggu| |si| |bedana| |e| |me| |kerina| |si| |ngeresapken| |aku|.
+Sebalikna|,| |e| |hanya| |peristiwa| |santai| |i| |bas| |musim| |panas| |si| |rame|,| |janah|,| |seh| |asa| |ndauh| |kenca| |si| |e|,| |e| |ngeresapken| |aku| |alu| |la| |terbatas| |kurang| |asangken| |urusen| |pribadiku|.
+Melala| |waktuku| |erdahin|.
+Erpagi|-|pagi| |matawari| |ngelemparken| |bayanganku| |ku| |barat| |sanga| |aku| |erdalan| |alu| |pedas| |ku| |jurang|-|jurang| |si| |mbentar| |i| |New| |York| |si| |arah| |teruh| |ku| |Probity| |Trust|.
+Kutandai| |juru| |tulis| |ras| |penjual| |obligasi| |si| |nguda| |denga| |alu| |gelarna|,| |janah| |man| |siang| |ras| |ia| |i| |restoran| |si| |gelap| |ras| |rame| |alu| |sosis| |babi| |si| |kitik| |ras| |kentang| |tumbuk| |ras| |kopi|.
+Bahkan| |lit| |hubungenku| |si| |kentisik| |ras| |sekalak| |diberu| |si| |tading| |i| |Jersey| |City| |janah| |erdahin| |i| |departemen| |akuntansi|,| |tapi| |kakakna| |mulai| |ngelemparken| |tatapen| |si| |jahat| |ku| |arahku|,| |emaka| |sanga| |ia| |lawes| |liburan| |bulan| |Juli| |kupelepas| |ia| |ertiup| |alu| |teneng|.
+Kupan| |berngi| |biasana| |i| |Yale| |Club|—|entah| |engkai| |maka| |e| |me| |acara| |si| |suramna| |i| |bas| |waringku|—|kenca| |si| |e|,| |lawes| |aku| |ku| |datas| |ku| |perpustakaan| |janah| |kupelajari| |investasi| |ras| |surat| |berharga| |sedekah| |sada| |jam| |alu| |tutus|.
+Umumna| |lit| |piga|-|piga| |kalak| |si| |erbahan| |kerusuhen| |i| |sekelewetna|,| |tapi| |la| |pernah| |kalak| |e| |masuk| |ku| |perpustakaan|,| |emaka| |ingan| |si| |mehuli| |guna| |erdahin|.
+Kenca| |si| |e|,| |adi| |berngi| |e| |mehuli|,| |erdalan|-|dalan| |aku| |i| |Madison| |Avenue| |ngelewati| |Hotel| |Murray| |Hill| |si| |nggo| |ndekah|,| |janah| |lewat| |Jalan| |33| |ku| |Stasiun| |Pennsylvania|.
+Mulai| |me| |aku| |ngena| |ateku| |New| |York|,| |perasan| |si| |racy| |ras| |petualang| |i| |bas| |berngi|,| |ras| |kepuasen| |si| |ibereken| |kedip|-|kedip| |si| |lalap| |dilaki| |ras| |diberu| |bage| |pe| |mesin| |man| |mata| |si| |la| |tenang|.
+Mehuli| |kuakap| |erdalan| |ku| |Fifth| |Avenue| |janah| |milih| |diberu|-|diberu| |si| |romantis| |i| |bas| |jelma| |si| |nterem| |nari| |janah| |kubayangken| |maka| |piga|-|piga| |menit| |nari| |aku| |nandangi| |masuk| |ku| |bas| |kegeluhenna|,| |janah| |la| |lit| |si| |metehsa| |ntah| |pe| |la| |setuju|.
+Maun|-|maun|,| |i| |bas| |ukurku|,| |kuikutken| |kalak| |e| |ku| |apartemenna| |i| |sudut|-|sudut| |dalan| |si| |terbuni|,| |janah| |kalak| |e| |nolih| |janah| |senyum| |mulihi| |man| |bangku| |ope| |denga| |ia| |memudar| |arah| |sada| |pintun| |ku| |bas| |kegelapen| |si| |hangat|.
+I| |bas| |senja| |metropolitan| |si| |terpesona| |kugejapken| |kesepian| |si| |menghantui| |maun|-|maun|,| |janah| |kugejapken| |e| |i| |bas| |kalak| |si| |deban|—|petugas|-|petugas| |muda| |si| |musil| |si| |erdalan|-|dalan| |i| |lebe|-|lebe| |jendela| |nimai| |seh| |waktuna| |man| |berngi| |i| |restoran| |si| |kesepian|—|petugas|-|petugas| |muda| |i| |bas| |senja|,| |si| |mbuang|-|mbuang| |momen|-|momen| |si| |paling| |menyengat| |i| |bas| |berngi| |ras| |kegeluhen|.
+Sekali| |nari| |jam| |waluh|,| |sanga| |jalur|-|jalur| |si| |gelap| |tahun| |Empat| |Puluhen| |enggo| |erbaris| |lima| |mbages| |alu| |taksi| |si| |erdenyut|-|denyut|,| |nuju| |ku| |distrik| |teater|,| |igejapkenku| |sada| |tenggelam| |i| |bas| |pusuhku|.
+Bentuk|-|bentuk| |ersandar| |i| |bas| |taksi|-|taksi| |sanga| |nimai|,| |janah| |sora|-|sora| |rende|,| |janah| |lit| |tawa| |arah| |canda|-|canda| |si| |la| |terbegi|,| |ras| |sigaret| |si| |ipasang| |erbahan| |lingkaran| |si| |la| |terangka| |i| |bas|.
+Membayangken| |maka| |aku| |pe|,| |pedas|-|pedas| |nuju| |keriahen| |ukur| |ras| |mbagiken| |kegembiraan| |intim| |kalak| |e|,| |kuarapken| |mehuli| |man| |kalak| |e|.
+Piga|-|piga| |waktu| |dekahna| |lanai| |kuidah| |Jordan| |Baker|,| |kenca| |si| |e| |bas| |pertengahen| |musim| |panas| |jumpa| |aku| |mulihi| |ras| |ia|.
+Tangtangna| |aku| |tersanjung| |guna| |lawes| |ku| |ingan|-|ingan| |ras| |ia|,| |perban| |ia| |juara| |golf|,| |janah| |kerina| |kalak| |meteh| |gelarna|.
+Jenari| |lit| |si| |lebih|.
+Situhuna| |labo| |aku| |erjabu|,| |tapi| |lit| |kuakap| |rasa| |penasaran| |si| |lembut|.
+Wajah| |sombong| |si| |bosan| |si| |ibalikkenna| |ku| |doni| |enda| |mbuniken| |sada| |hal|—|sebagian| |besar| |afeksi| |mbuniken| |sada| |hal| |dungna|,| |aminna| |pe| |la| |bage| |i| |bas| |awalna|—|janah| |i| |bas| |sada| |wari| |kudatken| |kai| |si| |lit.
+Sanga| |kami| |ras|-|ras| |i| |bas| |pesta| |rumah| |i| |datas| |Warwick|,| |itadingkenna| |sada| |mobil| |si| |ipinjamna| |i| |darat| |i| |bas| |udan| |alu| |datasna| |ku| |teruh|,| |kenca| |si| |e| |erbual| |ia| |kerna| |si| |e|—|janah| |rempet| |kuinget| |cerita| |kerna| |ia| |si| |la| |terbegi| |aku| |berngi| |e| |i| |rumah| |Daisy|.
+I| |bas| |turnamen| |golf| |si| |mbelin| |si| |pemena| |lit| |sada| |perjengilen| |si| |hampir| |seh| |ku| |koran|-|koran|—|sada| |saran| |maka| |ia| |nggo| |mindahken| |bolana| |arah| |kebohongen| |si| |la| |mehuli| |i| |bas| |babak| |semifinal|.
+Hal| |e| |ndeher| |ras| |proporsi| |skandal|—|kenca| |si| |e| |mate|.
+Sekalak| |caddy| |menarik| |pernyataanna|,| |janah| |sada| |ngenca| |saksi| |si| |deban| |si| |ngaku| |maka| |banci| |saja| |ia| |salah|.
+Kejadin| |ras| |gelar| |e| |enggo| |tetap| |ras|-|ras| |i| |bas| |ukurku|.
+Jordan| |Baker| |secara| |naluriah| |menghindari| |dilaki|-|dilaki| |si| |cerdik| |ras| |pentar|,| |janah| |gundari| |kuidah| |maka| |enda| |erkiteken| |ia| |lebih| |aman| |iakapna| |i| |bas| |pesawat| |i| |ja| |perbedaan| |kai| |pe| |i| |bas| |sada| |kode| |nari| |iakapna| |la| |mungkin|.
+Ia| |la| |jujur| |si| |la| |tertambari|.
+Ia| |la| |ngasup| |tahan| |i| |bas| |kerugian| |ras|,| |nginget| |la| |nggitna| |enda|,| |kuakap| |ia| |enggo| |mulai| |berurusen| |i| |bas| |subterfuges| |sanga| |ia| |nguda| |denga| |guna| |njaga| |senyum| |si| |keren|,| |sombong| |e| |berbalik| |ku| |doni| |enda| |janah| |amin| |bage| |gia| |memuasken| |tuntuten| |dagingna| |si| |keras| |ras| |jaunty|.
+La| |lit| |bedana| |man| |bangku|.
+Ketidakjujuren| |i| |bas| |sekalak| |diberu| |eme| |sada| |hal| |si| |la| |pernah| |isalahkenndu| |alu| |mbages|—|aku| |iseng|-|iseng| |erkadiola|,| |kenca| |si| |e| |lupa| |aku|.
+I| |bas| |pesta|-|pesta| |rumah| |si| |seri| |e| |me| |kami| |ercakap|-|cakap| |si| |penasaran| |kerna| |maba| |mobil|.
+Ibenaken| |perban| |lewat| |ia| |ndeher| |kel| |ras| |piga|-|piga| |buruh| |seh| |maka| |spakbor| |kami| |nggedapken| |tombol| |mantel| |sekalak| |dilaki|.
+“|Kam| |supir| |si| |busuk|,|”| |ningku| |protes|.
+“|Arusna| |kam| |lebih| |hati|-|hati|,| |ntah| |pe| |la| |kam| |ermotor| |sekali| |pe|.|”
+“|Aku| |metenget|.|”
+“|Lang|,| |labo| |kam|.|”
+Nina| |alu| |enteng|,| |“|Enggo|,| |kalak| |si| |deban| |pe| |bage|.|”
+“|Kai| |hubungenna| |ras| |si| |e|?|”
+Nina| |alu| |tegas|,| |”|Labo| |kalak| |e| |ndauh| |arah| |dalanku|.|”
+“|Perlu| |dua| |kalak| |guna| |erban| |kecelakaan|.|”
+“|Misalna| |jumpa| |kam| |ras| |kalak| |si| |ceroboh| |bagi| |kam|.|”
+Ijabapna|,| |“|Kuarapken| |la| |pernah| |bage|.|”
+"|Segat| |ateku| |kalak| |si| |ceroboh|.| |E| |me| |sabapna| |maka| |ngena| |ateku| |kam|.|"
+Matana| |si| |abu|-|abu| |ras| |enggo| |tegang| |matawari| |natap| |lurus| |ku| |lebe|,| |tapi| |sengaja| |ia| |nggeser| |hubungen| |kami|,| |janah| |sejenak| |kuakap| |keleng| |ateku| |ia|.
+Tapi| |aku| |lambat|-|lambat| |rukur| |ras| |dem| |alu| |aturen|-|aturen| |batin| |si| |jadi| |rem| |nandangi| |sura|-|surangku|,| |janah| |kueteh| |maka| |lebe| |aku| |arus| |ndatken| |diriku| |alu| |pasti| |ndarat| |i| |bas| |kusut| |e| |nari| |mulih| |ku| |rumah|.
+Enggo| |seminggu| |sekali| |aku| |nulis| |surat| |janah| |kutandatangani|:| |“|Keleng|,| |Nick|,|”| |janah| |si| |banci| |kuukuri| |eme| |kuga|,| |sanga| |diberu| |tertentu| |e| |main| |tenis|,| |lit| |kumis| |keringat| |si| |samar|-|samar| |i| |bas| |bibirna| |si| |arah| |datas|.
+Amin| |bage| |gia| |lit| |sada| |pemahamen| |si| |la| |jelas| |si| |arus| |iputusken| |alu| |bijaksana| |ope| |denga| |aku| |bebas|.
+Kerina| |kalak| |curiga| |man| |dirina| |setidaknya| |salah| |sada| |kebajiken| |kardinal|,| |janah| |enda| |me| |si| |lit| |bas| |aku|:| |Aku| |salah| |sada| |i| |bas| |piga|-|piga| |kalak| |si| |jujur| |si| |pernah| |kutandai|.
+IV| |.
+I| |bas| |wari| |Minggu| |erpagi|-|pagi| |sanga| |lonceng| |gereja| |erbunyi| |i| |kuta|-|kuta| |i| |tepi| |pantai|,| |doni| |ras| |gundikna| |mulihken| |ku| |rumah| |Gatsby| |janah| |erkilap|-|kilap| |alu| |lucu| |i| |rumputna|.
+“|Ia| |pencuri|,|”| |nina| |diberu|-|diberu| |si| |nguda| |denga|,| |pindah|-|pindah| |ia| |ku| |sada| |ingan| |i| |antara| |koktailna| |ras| |bungana|.
+"|I| |bas| |sada| |paksa| |ibunuhna| |sekalak| |dilaki| |si| |enggo| |meteh| |maka| |ia| |kempu| |Von| |Hindenburg| |ras| |sepupu| |kedua| |iblis|.| |Dahikenlah| |man| |bangku| |sada| |bunga| |mawar|,| |madu|,| |janah| |tuangenlah| |man| |bangku| |sada| |tetes| |terakhir| |ku| |bas| |gelas| |kristal| |e|.|"
+Pernah| |kutulisken| |i| |bas| |ingan| |si| |kosong| |i| |bas| |sada| |jadwal| |waktu| |gelar| |kalak| |si| |reh| |ku| |rumah| |Gatsby| |bas| |musim| |panas| |e|.
+Enda| |sada| |jadwal| |si| |ndekah| |gundari|,| |si| |nggo| |hancur| |i| |bas| |lipatanna|,| |janah| |lit| |judulna| |“|Jadwal| |enda| |mulai| |berlaku| |tanggal| |5| |Juli| |1922.|”
+Tapi| |banci| |denga| |kubaca| |gelar|-|gelar| |si| |abu|-|abu| |e|,| |janah| |e| |mereken| |kesan| |si| |lebih| |mehuli| |man| |bandu| |asangken| |umumku| |kerna| |kalak| |si| |ngaloken| |keramahan| |Gatsby| |ras| |mereken| |penghormaten| |halus| |man| |bana| |alu| |la| |meteh| |kai| |pe| |kerna| |ia|.
+I| |Telur| |Timur| |nari|,| |maka| |reh| |me| |keluarga| |Chester| |Beckers| |ras| |keluarga| |Lintah|,| |ras| |sekalak| |dilaki| |si| |gelarna| |Bunsen|,| |si| |kutandai| |i| |Yale|,| |ras| |Dokter| |Webster| |Civet|,| |si| |lemas| |musim| |panas| |si| |lewat| |i| |Maine|.
+Janah| |keluarga| |Hornbeam| |ras| |Willie| |Voltaires|,| |ras| |sada| |marga| |si| |gelarna| |Blackbuck|,| |si| |lalap| |pulung| |i| |bas| |sada| |sudut| |janah| |ibalikkenna| |igungna| |bagi| |kambing| |man| |ise| |pe| |si| |ndeher|.
+Janah| |keluarga| |Ismays| |ras| |Chrysties| |(|ntah| |pe| |lebih| |tepatna| |Hubert| |Auerbach| |ras| |ndehara| |Tuan| |Chrystie|)|,| |ras| |Edgar| |Beaver|,| |si| |bukna|,| |nina|,| |berubah| |jadi| |mbentar| |bagi| |kapas| |i| |bas| |sada| |wari| |musim| |dingin| |si| |la| |lit| |alasen| |si| |mehuli|.
+Clarence| |Endive| |eme| |kalak| |Telur| |Timur|,| |bagi| |si| |kuinget|.
+Sekali| |ngenca| |ia| |reh|,| |make| |knickerbockers| |si| |mbentar|,| |janah| |erperang| |ia| |ras| |sekalak| |bum| |si| |gelarna| |Etty| |i| |taman|.
+I| |bas| |Pulau| |si| |ndauh| |nari| |reh| |me| |keluarga| |Cheadle| |ras| |keluarga| |Schraeder| |ORP|,| |ras| |keluarga| |Jackson| |Abrams| |i| |Georgia| |nari|,| |bage| |pe| |keluarga| |Penjaga| |Ikan| |ras| |keluarga| |Ripley| |Snells|.
+Snell| |enggo| |i| |je| |telu| |wari| |ope| |ia| |lawes| |ku| |penjara|,| |seh| |maka| |mabuk| |ia| |i| |bas| |perdalanen| |kerikil| |seh| |maka| |mobil| |Bu| |Ulysses| |Swett| |erdalan| |i| |datas| |tanna| |si| |kemuhen|.
+Kalak| |Dancies| |pe| |reh|,| |ras| |S.| |B.| |Whitebait|,| |si| |enggo| |lebih| |enem| |puluh| |tahun|,| |ras| |Maurice| |A.| |Flink|,| |ras| |kalak| |Hammerheads|,| |ras| |Beluga| |si| |importir| |tembakau|,| |ras| |anak|-|anak| |diberu| |Beluga|.
+I| |bas| |Telur| |Barat| |nari| |reh| |kalak| |Polandia| |ras| |Mulreadys| |ras| |Cecil| |Roebuck| |ras| |Cecil| |Schoen| |ras| |Gulick| |senator| |Negara| |ras| |Newton| |Anggrek|,| |si| |ngkuasai| |Films| |Par| |Keunggulen|,| |ras| |Eckhaust| |ras| |Clyde| |Cohen| |ras| |Don| |S.
+Janah| |keluarga| |Catlip| |ras| |Bemberg| |ras| |G.| |Earl| |Muldoon|,| |senina| |Muldoon| |e| |si| |kenca| |si| |e| |mencekik| |ndeharana|.
+Da| |Fontano| |promotor| |reh| |ku| |je|,| |janah| |Ed| |Legros| |ras| |James| |B.| |(|“|Busuk|-|Usus|”|)| |Ferret| |ras| |keluarga| |De| |Jongs| |ras| |Ernest| |Lilly|—|reh| |ia| |erjudi|,| |janah| |sanga| |Ferret| |erdalan|-|dalan| |ku| |taman| |berarti| |ia| |enggo| |ibersihken| |janah| |Tarikan| |Berhubungen| |arus| |berfluktuasi| |alu| |untung| |i| |bas| |wari| |si| |pepagina|.
+Sekalak| |dilaki| |si| |gelarna| |Klipspringer| |rusur| |kel| |i| |je|,| |emaka| |itandai| |kalak| |ia| |selaku| |“|kost|”|—ragu| |aku| |lit| |nge| |rumahna| |si| |deban|.
+I| |bas| |kalak| |si| |erteater| |lit| |Gus| |Waize| |ras| |Horace| |O’Donavan| |bage| |pe| |Lester| |Myer| |ras| |George| |Duckweed| |ras| |Francis| |Bull|.
+Bagepe| |i| |New| |York| |nari| |eme| |keluarga| |Krom| |ras| |keluarga| |Backhysson| |ras| |keluarga| |Dennicker| |ras| |Russel| |Betty| |ras| |keluarga| |Corrigan| |ras| |keluarga| |Kellehers| |ras| |keluarga| |Dewar| |ras| |keluarga| |Scullys| |ras| |keluarga| |SW| |Belcher| |ras| |keluarga| |Smirkes| |ras| |keluarga| |Quinn| |si| |nguda| |denga|,| |si| |enggo| |erjabu| |genduari|,| |ras| |Henry| |L.| |Palmetto|,| |si| |munuh| |dirina| |i| |bas| |sada| |subway| |i| |lebe|-|lebe| |Times| |Square|.
+Benny| |McClenahan| |reh| |lalap| |ras| |empat| |anak| |diberu|.
+Labo| |pernah| |ia| |tuhu|-|tuhu| |seri| |secara| |fisik|,| |tapi| |ia| |tuhu|-|tuhu| |identik| |sada| |ras| |si| |debanna| |seh| |maka| |la| |terhindarken| |tempa|-|tempa| |ia| |enggo| |pernah| |lit| |i| |je|.
+Enggo| |kulupaken| |gelarna|—|Jaqueline|,| |kuakap|,| |ntah| |pe| |Consuela|,| |ntah| |Gloria| |ntah| |Judy| |ntah| |June|,| |janah| |gelar| |keluargana| |e| |me| |gelar|-|gelar| |bunga| |ras| |bulan| |si| |merdu| |ntah| |pe| |gelar|-|gelar| |si| |lebih| |keras| |i| |bas| |kapitalis|-|kapitalis| |hebat| |Amerika| |si| |sepupuna|,| |adi| |itekan|,| |pasti| |iakuina| |dirina|.
+Selain| |si| |e| |kerina| |banci| |kuinget| |maka| |Faustina| |O’Brien| |reh| |ku| |je| |sitik|-|sitik| |sekali| |ras| |anak|-|anak| |diberu| |Baedeker| |ras| |Brewer| |si| |nguda| |denga|,| |si| |igungna| |itembak| |i| |bas| |perang|,| |ras| |Tuan| |Albrucksburger| |ras| |Nona| |Haag|,| |tunanganna|,| |ras| |Ardita| |Fitz|-|Peters| |ras| |Tuan| |P.| |Jewett| |si| |Amerika| |ras| |Nona| |Claudigion|,| |sekali| |.
+terberita| |jadi| |supirna|,| |ras| |sekalak| |pangeran| |sada| |hal|,| |si| |igelari| |kami| |Adipati|,| |janah| |gelarna|,| |adi| |pernah| |kuetehna|,| |enggo| |kulupaken|.
+Kerina| |kalak| |enda| |reh| |ku| |rumah| |Gatsby| |ibas| |musim| |panas|.
+Jam| |sembilan|,| |i| |bas| |sada| |erpagi|-|pagi| |akhir| |bulan| |Juli|,| |mobil| |Gatsby| |si| |mejile| |e| |erdalan|-|dalan| |i| |datas| |dalan| |si| |erbatu|-|batu| |ku| |pintun| |rumahku| |janah| |iberekenna| |melodi| |si| |megang| |arah| |tandukna| |si| |lit| |telu| |notna|.
+Enda| |me| |tangtangna| |ia| |ndahi| |aku|,| |aminna| |pe| |aku| |nggo| |lawes| |ku| |dua| |pestana|,| |nangkih| |ku| |pesawat| |hidroplanena|,| |janah|,| |erkiteken| |undangenna| |si| |mendesak|,| |rusur| |kugunaken| |pantaina|.
+"|Selamat| |pagi|,| |olahraga| |tua|.| |Kam| |man| |siang| |ras| |aku| |sendah| |janah| |kuakap| |kita| |ras|-|ras| |nangkih|.|"
+Ia| |sangana| |ngimbangi| |dirina| |i| |bas| |dasbor| |mobilna| |alu| |kepandaian| |geraken| |si| |seh| |kal| |anehna| |Amerika|—|si| |reh|,| |kuakap|,| |alu| |la| |litna| |dahin| |ngangkat| |i| |bas| |masa| |nguda| |ras|,| |lebih| |asa| |si| |e|,| |alu| |perkuah| |ate| |si| |la| |erbentuk| |i| |bas| |permainan| |kami| |si| |gugup| |ras| |sporadis|.
+Kualitas| |enda| |terus|-|menerus| |menerobos| |carana| |si| |tepat| |waktu| |ibas| |bentuk| |gelisah|.
+Ia| |la| |pernah| |cukup| |tenang|;
+lalap| |lit| |nahe| |si| |nepuk|-|nepuk| |i| |japa| |pe| |ntah| |pe| |si| |la| |sabar| |mbuka| |ras| |nutup| |tan|.
+Idahna| |aku| |natap| |alu| |kagum| |ku| |mobilna|.
+“|Mejile| |kel|,| |tuhu|,| |olahraga| |si| |ndekah|?|”
+Lompat| |ia| |gelah| |banci| |kuidah| |alu| |mehuli|.
+“|La| |kin| |pernah| |idahndu|?|”
+Enggo| |kuidah|.
+Kerina| |kalak| |enggo| |ngidahsa|.
+Warna| |krim| |si| |mejile|,| |terang| |alu| |nikel|,| |bengkak| |ku| |jenda| |ku| |jenda| |i| |bas| |gedangna| |si| |monster| |alu| |kotak|-|kotak| |topi| |si| |menang| |ras| |kotak|-|kotak| |man|-|man| |ras| |kotak|-|kotak| |alat|,| |janah| |ertingkat| |alu| |labirin| |kaca| |depan| |si| |ncidahken| |selusin| |matawari|.
+Kundul| |kami| |i| |balik| |melala| |lapis| |kaca| |i| |bas| |semacam| |konservatorium| |kulit| |si| |warnana| |hijau|,| |mulai| |me| |kami| |ku| |kota|.
+Enggo| |mungkin| |setengah| |lusin| |kali| |aku| |ngerana| |ras| |ia| |bas| |sada| |bulan| |si| |lewat| |janah| |kudat|,| |si| |erbanca| |aku| |kecewa|,| |la| |lit| |sitik| |pe| |si| |banci| |ikatakenna|.
+Jadi| |kesanku| |si| |pemena|,| |maka| |ia| |sekalak| |si| |lit| |konsekuensi| |si| |la| |terdefinisiken|,| |enggo| |manjar|-|anjar| |memudar| |janah| |ia| |enggo| |jadi| |sederhana| |pemilik| |rumah| |jalan| |si| |rumit| |i| |sebelah| |rumahna|.
+Janah| |kenca| |si| |e| |reh| |me| |perdalanen| |si| |erban| |bingung| |e|.
+Kami| |lenga| |seh| |i| |desa| |West| |Egg| |ope| |denga| |Gatsby| |mulai| |nadingken| |kalimat|-|kalimatna| |si| |elegan| |si| |la| |dung| |ras| |nampar| |dirina| |alu| |la| |erputusen| |i| |bas| |lutut| |jasna| |si| |warnana| |karamel|.
+“|Nehenlah| |ku| |jenda|,| |olahraga| |tua|,|”| |nina| |alu| |sengget|,| |“|kai| |pendapatndu| |kerna| |aku|,| |ugapa| |pe|?|”
+Sitik| |kewalahen|,| |kubenaken| |penghindaren| |si| |umum| |si| |pantas| |man| |penungkunen| |e|.
+“|Enggo|,| |lit| |ateku| |kuturiken| |kerna| |kegeluhenku|,|”| |nina| |motong| |cakapna|.
+“|La| |ateku| |salah| |perukurenndu| |kerna| |aku| |arah| |kerina| |turi|-|turin| |si| |ibegindu| |enda|.|”
+Emaka| |sadar| |ia| |kerna| |tuduhen|-|tuduhen| |si| |aneh| |si| |erbahanca| |turah| |percakapen| |i| |aula|-|aulana|.
+“|Kuturiken| |man| |bandu| |kebenaren| |Dibata|.|”
+Tanna| |si| |kemuhen| |rempet| |merentahken| |balasen| |ilahi| |gelah| |tedis| |i| |deherna|.
+"|Aku| |anak| |piga|-|piga| |kalak| |bayak| |i| |Barat| |Tengah|—|kerina| |nggo| |mate| |gundari|.| |Aku| |ipebelin|-|belin| |i| |Amerika| |tapi| |erlajar| |i| |Oxford|,| |perban| |kerina| |nini|-|niningku| |nggo| |ertahun|-|tahun| |erlajar| |i| |je|.| |Enda| |sada| |tradisi| |keluarga|.|"
+Itatapna| |aku| |ku| |samping|—|janah| |kueteh| |ngkai| |maka| |Jordan| |Baker| |enggo| |tek| |maka| |ia| |erbual|.
+Ipercepatna| |kalimat| |“|terdidik| |i| |Oxford|,|”| |ntah| |pe| |itelenna|,| |ntah| |pe| |icekikna|,| |tempa|-|tempa| |enggo| |pernah| |ngganggu| |ia|.
+Janah| |alu| |keraguan| |enda|,| |kerina| |pernyataanna| |e| |ndabuh| |ku| |bas|,| |janah| |tersungkun|-|sungkun| |aku|,| |la| |kin| |lit| |sitik| |si| |sinister| |i| |bas| |ia| |nari|,| |dungna|.
+“|Bagin| |si| |apai| |i| |Barat| |Tengah|?|”
+Kusungkun| |alu| |santai|.
+“|I| |San| |Fransisko|.|”
+"|Ku| |idah|.|"
+“|Keluargaku| |mate| |kerina| |janah| |aku| |ndatken| |sen| |si| |mehuli|.|”
+Sorana| |serius|,| |tempa|-|tempa| |ingeten| |kerna| |kepunahen| |sada| |marga| |si| |rempet| |e| |tetap| |menghantui| |ia|.
+Sejenak| |kucurigai| |maka| |ia| |si| |narik| |nahengku|,| |tapi| |sada| |tatapen| |man| |bana| |erbahanca| |aku| |tek| |maka| |la| |bage|.
+“|Kenca| |si| |e|,| |aku| |nggeluh| |bagi| |sekalak| |raja| |si| |nguda| |denga| |i| |kerina| |ibukota| |Eropa|—|Paris|,| |Venesia|,| |Roma|—|ngumpulken| |permata|,| |terutama| |batu| |rubi|,| |erburu| |binatang| |si| |mbelin|,| |ngelukis| |sitik|,| |barang|-|barang| |guna| |diringku| |saja|,| |janah| |erusaha| |ngelupaken| |sada| |hal| |si| |seh| |kel| |sedihna| |si| |pernah| |terjadi| |man| |bangku| |mbarenda|.|”
+Alu| |sada| |usaha| |berhasil| |kutahan| |tawaku| |si| |la| |tek|.
+Frasa|-|frasa| |e| |sendiri| |enggo| |ipake| |seh| |maka| |la| |lit| |gambaren| |si| |ipeturahna| |kecuali| |“|karakter|”| |si| |ersorban| |si| |bocor| |serbuk| |gergaji| |i| |tep|-|tep| |pori|-|pori| |sanga| |ia| |ngayak|-|ngayak| |sada| |harimau| |arah| |Bois| |de| |Boulogne|.
+"|Kenca| |si| |e| |reh| |me| |perang|,| |olahraga| |tua|.| |Enda| |sada| |kelegaan| |si| |mbelin|,| |janah| |kuusahaken| |kal| |mate|,| |tapi| |tempa|-|tempa| |aku| |nanggung| |kegeluhen| |si| |terpesona|.| |Kualoken| |sada| |tugas| |jadi| |letnan| |pertama| |sanga| |mulai|.| |I| |Hutan| |Argonne| |kubaba| |sisa|-|sisa| |batalion| |senapan| |mesinku| |seh| |maka| |ndauh| |ku| |lebe| |i| |ja| |lit| |ga| |either| |kami| |setengah
+la| |banci| |maju.Kami| |tading| |i| |je| |dua| |wari| |dua| |berngi|,| |seratus| |telu| |puluh| |kalak| |si| |lit| |sepuluh| |enem| |senjata| |Lewis|,| |janah| |sanga| |infanteri| |reh| |dungna| |idatna| |lambang| |telu| |divisi| |Jerman| |i| |tengah|-|tengah| |tumpuken| |kalak| |si| |mate| |Aku| |naik| |pangkat| |jadi| |mayor|,| |janah| |tep|-|tep| |pemerentahen| |Monteneria| |Sekutu| |mereken| |sada| |li—| |me|.
+ |Lawet|!|"
+Montenegro| |si| |kitik|!
+Iangkatna| |kata|-|kata| |e| |janah| |ianggukkenna| |takalna| |man| |kalak| |e|—|alu| |senyumna|.
+Senyum| |e| |ngangkai| |sejarah| |Montenegro| |si| |ermasalah| |ras| |simpati| |nandangi| |perjuangen| |si| |berani| |si| |ilakoken| |bangsa| |Montenegro|.
+Iergai| |alu| |lengkap| |rantai| |keadaan| |nasional| |si| |enggo| |ndatken| |penghormaten| |enda| |i| |bas| |pusuh| |si| |kitik| |si| |hangat| |Montenegro| |nari|.
+Ketidakpercayaanku| |enggo| |terbenam| |ibas| |ketertariken| |genduari|;
+bali| |bagi| |si| |erdalan|-|dalan| |alu| |erpotong|-|potong| |i| |bas| |selusin| |majalah|.
+Ibuatna| |kantongna|,| |janah| |sada| |logam|,| |si| |igantungken| |ku| |pita|,| |ndabuh| |ku| |telapak| |tanku|.
+“|Enda| |me| |si| |rehna| |i| |Montenegro| |nari|.|”
+Si| |erbanca| |aku| |sengget|,| |barang| |e| |lit| |rupana| |si| |otentik|.
+I| |bas| |legenda| |si| |melingkar| |e|,| |”|Perentah| |Danilo|,|”| |nina|,| |“|Montenegro|,| |Nicolas| |Rex|.|”
+“|Balikkenlah|.|”
+Kuoge|,| |”|Mayor| |Jay| |Gatsby|,| |bagi| |Keberanian| |si| |Luar| |Biasa|.|”
+"|Enda| |sada| |nari| |si| |lalap| |kubaba|.| |Kenang|-|kenangan| |jaman| |Oxford|.| |Ibuat| |i| |bas| |Trinity| |Quad|—|dilaki| |si| |arah| |kawesku| |gundari| |eme| |Earl| |Doncaster|.|"
+Enda| |me| |foto| |setengah| |lusin| |anak| |perana| |make| |blazer| |si| |erdalan|-|dalan| |i| |bas| |sada| |lengkungen| |si| |arah| |e| |teridah| |melala| |menara|.
+Lit| |Gatsby|,| |teridah| |sitik|,| |labo| |melala|,| |nguda| |denga|—|lit| |kelelawar| |jangkrik| |i| |bas| |tanna|.
+Kenca| |bage| |kerina| |tuhu|.
+Kuidah| |kulit| |harimau| |si| |gara| |i| |bas| |istanana| |i| |Terusan| |Besar|;
+Kuidah| |ia| |mbuka| |sada| |peti| |batu| |rubi| |guna| |ringan|,| |alu| |kedalemenna| |si| |ersinalsal| |megara|,| |nggedapken| |pusuhna| |si| |enggo| |ceda|.
+"|Aku| |nandangi| |erbahan| |sada| |pemindon| |si| |mbelin| |man| |bandu| |sendah|,|"| |nina|,| |ncikep| |kenang|-|kenanganna| |alu| |puas|,| |"|emaka| |kuakap| |kam| |arus| |meteh| |piga|-|piga| |hal| |kerna| |aku|.| |La| |ateku| |kam| |erpengakap| |aku| |hanya| |piga|-|piga| |kalak| |si| |la| |lit.| |Idahndu|,| |aku| |biasana| |jumpa| |ras| |diriku| |i| |tengah|-|tengah| |kalak| |si| |la| |itandaina| |erkiteken| |aku| |melayang| |ku| |jenda| |ras| |ku| |jenda| |hal|-|hal| |si| |sapened| |ku|.|"
+Ragu|-|ragu| |ia|.
+“|Ibegindu| |kari| |kerna| |si| |e| |karaben| |enda|.|”
+“|I| |bas| |waktu| |man| |siang|?|”
+"|Lang|,| |karaben| |enda|.| |Kebetulen| |kueteh| |maka| |ibabandu| |Nona| |Baker| |man| |teh|.|"
+“|Maksudndu| |kam| |enggo| |erjabu| |ras| |Nona| |Baker|?|”
+"|Lang|,| |olahraga| |tua|,| |aku| |labo|.| |Tapi| |Nona| |Baker| |enggo| |alu| |mehuli| |setuju| |ngerana| |ras| |kam| |kerna| |persoalen| |enda|.|"
+Labo| |lit| |sada| |pe| |pengertinku| |kerna| |kai| |kin| |“|persoalen| |enda|”|,| |tapi| |aku| |lebih| |kesal| |asangken| |tertarik|.
+Labo| |pernah| |kusuruh| |Jordan| |man| |teh| |guna| |mbahas| |Pak| |Jay| |Gatsby|.
+Aku| |yakin| |pemindon| |e| |jadi| |sada| |hal| |si| |tuhu|-|tuhu| |fantastis|,| |janah| |sejenak| |aku| |erkadiola| |perban| |pernah| |kutamaken| |naheku| |ku| |rumputna| |si| |melala| |pendudukna|.
+Labo| |atena| |ngataken| |kata| |si| |deban|.
+Kebenarenna| |reh| |belinna| |i| |bas| |ia| |sanga| |kami| |ndeher| |ku| |kuta|.
+Ilewati| |kami| |Port| |Roosevelt|,| |i| |je| |lit| |sekilas| |kapal|-|kapal| |si| |erlayar| |ku| |lawit| |si| |ersabuk| |merah|,| |janah| |erdalan| |alu| |cepat| |i| |bas| |sada| |kuta| |kumuh| |si| |erbatu|-|batu| |si| |i| |je| |lit| |saloon|-|saloon| |si| |gelap| |ras| |la| |melungun| |i| |bas| |sepuluh| |sembilan| |ratus| |tahun| |si| |enggo| |pudar| |ras| |emas|.
+Jenari| |lembah| |abu| |terbuka| |i| |bas| |duana| |pihak| |kami|,| |janah| |kuidah| |sekilas| |Bu| |Wilson| |si| |tegang| |i| |bas| |pompa| |garasi| |alu| |vitalitas| |si| |menggeleng|-|geleng| |sanga| |kami| |lewat|.
+Alu| |spakbor| |si| |ipebelang| |bagi| |sayap| |kami| |merap| |terang| |arah| |setengah| |Astoria|—|setengah| |ngenca|,| |sabap| |sanga| |kami| |erputar|-|putar| |i| |tengah|-|tengah| |tiang|-|tiang| |si| |meganjang| |kubegi| |sora| |“|jug|-|jug-| |spat| |!|”
+sada| |motor|,| |janah| |sekalak| |polisi| |si| |nggedang|-|nggedang| |erdalan| |i| |sampingna|.
+“|Baiklah|,| |olahraga| |tua|,|”| |nina| |Gatsby|.
+Ipelambat| |kami| |perdalanenna|.
+Ibuatna| |sada| |kartu| |mbentar| |i| |bas| |dompetna| |nari|,| |ilambaina| |i| |lebe|-|lebe| |mata| |dilaki| |e|.
+“|Benar| |kam|,|”| |setuju| |polisi| |e|,| |janah| |icucukkenna| |topina|.
+“|Kutandai| |kam| |i| |bas| |waktu| |si| |reh|,| |Tuan| |Gatsby|.| |Permisi| |!|”
+“|Kai| |kin| |e|?|”
+Kusungkun| |ia|.
+“|Gambar| |Oxford| |e|?|”
+“|Banci| |kubahan| |sada| |si| |mehuli| |man| |komisaris| |e| |sekali|,| |janah| |tiap| |tahun| |ikirimna| |kartu| |Natal| |man| |bangku|.|”
+I| |babo| |jembatan| |si| |mbelin|,| |alu| |sinar| |matawari| |arah| |tangga|-|tangga| |si| |erbahan| |kilap|-|kilap| |si| |tetap| |i| |datas| |mobil|-|mobil| |si| |erdalan|,| |alu| |kota| |si| |nangkih| |ku| |datas| |ngelewati| |lau| |e| |i| |bas| |tumpuken|-|tumpuken| |si| |mbentar| |ras| |gumpalan|-|gumpalan| |gula| |kerina| |ibangun| |alu| |sura|-|sura| |i| |bas| |sen| |si| |la| |erbau| |nari|.
+Kota| |si| |teridah| |arah| |Jembatan| |Queensboro| |lalap| |kota| |si| |teridah| |tangtangna|,| |i| |bas| |janji| |liarna| |si| |pemena| |kerna| |kerina| |misteri| |ras| |keindahen| |i| |doni| |enda|.
+Sekalak| |dilaki| |si| |nggo| |mate| |ngelewati| |kami| |alu| |mobil| |jenazah| |si| |dem| |bunga|-|bunga|,| |ilanjutken| |dua| |gereta| |si| |lit| |tirai| |si| |itarik|,| |ras| |gerbong| |si| |lebih| |meriah| |ukur| |man| |teman|-|teman|.
+Teman|-|teman| |e| |natap| |kami| |alu| |mata| |si| |tragis| |ras| |bibir| |atas| |si| |gendek| |bagi| |Eropa| |tenggara|,| |janah| |meriah| |ukurku| |perban| |pemandangan| |mobil| |Gatsby| |si| |mejile| |e| |termasuk| |i| |bas| |liburan| |si| |somber| |kalak| |e|.
+Sanga| |kami| |mentasi| |Pulau| |Blackwell|,| |lit| |sada| |limusin| |si| |ibaba| |supir| |kulit| |mbentar|,| |janah| |i| |bas| |limusin| |e| |kundul| |telu| |kalak| |negro| |si| |modis|,| |dua| |dolar| |ras| |sekalak| |diberu|.
+Kutawaken| |alu| |sora| |megang| |sanga| |kuning| |bola| |mata| |kalak| |e| |erguling|-|guling| |ku| |kami| |alu| |persaingen| |si| |meganjang| |ukur|.
+“|Kai| |pe| |banci| |terjadi| |genduari| |enggo| |kita| |meluncur| |ngelewati| |jembatan| |enda|,|”| |ningku| |bas| |ukurku|;
+“|kai| |pe| |si| |lit|...|”
+Bahkan| |Gatsby| |pe| |banci| |terjadi|,| |tanpa| |lit| |keajaiban| |khusus|.
+Megang| |tengah| |wari|.
+I| |bas| |sada| |ruangen| |i| |teruh| |taneh| |i| |Jalan| |Empat| |Puluh| |Dua| |si| |erkipas| |alu| |mehuli|,| |jumpa| |aku| |ras| |Gatsby| |man| |siang|.
+Erkedip|-|kedip| |terang| |dalan| |i| |darat|,| |matangku| |milih| |ia| |ndarat| |alu| |la| |jelas| |i| |ruang| |ante|,| |ngerana| |ras| |dilaki| |si| |deban|.
+“|Tuan| |Carraway|,| |enda| |temanku| |Tuan| |Wolfshiem|.|”
+Sekalak| |kalak| |Jahudi| |si| |kitik| |ras| |rata| |igungna| |ngangkat| |takalna| |si| |mbelin| |janah| |natap| |aku| |alu| |dua| |pertumbuhen| |buk| |si| |mejile| |si| |mewah| |i| |bas| |duana| |lubang| |igungna|.
+Kenca| |piga|-|piga| |waktu| |kujumpai| |matana| |si| |kitik| |e| |i| |bas| |setengah| |gelap|.
+“|—Emaka| |kuperdiateken| |ia| |sada| |kali|,|”| |nina| |Tuan| |Wolfshiem|,| |janah| |ijabatna| |tanku| |alu| |tutus|,| |“|janah| |menurutndu| |kai| |si| |kubahan|?|”
+"|Kai|?|"
+Kusungkun| |alu| |sopan|.
+Tapi| |teridah| |labo| |ia| |ngerana| |man| |bangku|,| |sabap| |ipesusurna| |tanku| |janah| |itutupina| |Gatsby| |alu| |igungna| |si| |ekspresif|.
+“|Kubereken| |sen| |e| |man| |Katspaugh| |janah| |ningku|:| |‘|Baiklah|,| |Katspaugh|,| |ula| |bayar| |sada| |sen| |pe| |man| |bana| |seh| |maka| |itutupna| |babahna|.|’
+Itutupna| |paksa| |si| |e|.|”
+Gatsby| |muat| |sada| |lengan| |kami| |sekalak|-|sekalak| |janah| |maju| |ku| |bas| |restoran|,| |i| |ja| |Tuan| |Wolfshiem| |menelan| |sada| |kalimat| |si| |mbaru| |si| |ibenakenna| |ras| |lapse| |jadi| |abstraksi| |somnambulatory|.
+“|Bola| |si| |meganjang|?|”
+nina| |kepala| |pelayan| |nungkun|.
+“|Enda| |me| |restoran| |si| |mehuli| |i| |jenda|,|”| |nina| |Tuan| |Wolfshiem|,| |janahna| |ngenehen| |nimfa|-|nimfa| |presbiterian| |si| |lit| |i| |langit|-|langit|.
+“|Tapi| |ulin| |kuakap| |i| |seberang| |dalan|!|”
+“|Payo|,| |bola|-|bola| |si| |meganjang|,|”| |setuju| |Gatsby|,| |kenca| |si| |e| |man| |Tuan| |Wolfshiem|,| |“|Panas| |kel| |i| |je|.|”
+Nina| |Tuan| |Wolfshiem|,| |“|Panas| |ras| |kitik|—|tuhu|,| |tapi| |dem| |alu| |kenangan|.|”
+“|Ingan| |kai| |kin| |e|?|”
+nina| |aku| |nungkun|.
+“|Metropolis| |si| |ndekah|.|”
+“|Metropole| |si| |ndekah|,|”| |nina| |Tuan| |Wolfshiem| |alu| |suram|.
+"|Iisi| |alu| |ayo| |mate| |ras| |lanai| |lit.| |Iisi| |alu| |teman|-|teman| |si| |lanai| |lit| |genduari| |rasa| |lalap|.| |La| |banci| |kulupaken| |sedekah| |aku| |nggeluh| |berngi| |si| |itembak| |kalak| |e| |Rosy| |Rosenthal| |i| |je|.| |Kami| |enem| |kalak| |i| |meja|,| |janah| |Rosy| |enggo| |melala| |man| |ras| |minem| |sepanjang| |berngi|.| |Sanga| |enggo| |hampir| |erpagi|-|pagi| |pelayan| |e| |reh| |wanny| |ku| |ia| |wanbody| |look| |to| |sside| |out| |ras| |a|.
+‘|Baiklah|,|’| |nina| |Rosy|,| |janah| |mulai| |ia| |keke|,| |janah| |kutarik| |ia| |ku| |teruh| |i| |kursina|.
+“| |‘|Biarlah| |kalak| |bangsat| |e| |masuk| |ku| |jenda| |adi| |atena| |kam|,| |Rosy|,| |tapi| |ula| |kam|,| |emaka| |sampati| |aku|,| |pindah| |ku| |darat| |kamar| |enda|.|’
+“|Paksa| |si| |e| |jam| |empat| |erpagi|-|pagi|,| |janah| |adi| |enggo| |iangkat| |kami| |tirai|,| |enggo| |banci| |idah| |kami| |terang| |wari|.|”
+“|Enggo| |kin| |ia| |lawes|?|”
+nina| |aku| |nungkun| |alu| |la| |ersalah|.
+“|Pasti| |ia| |lawes|.|”
+Igung| |Tuan| |Wolfshiem| |erbinar|-|binar| |man| |bangku| |alu| |merawa|.
+”|Ibalikkenna| |i| |bas| |pintun| |janah| |nina|,| |‘|Ula| |pelepas| |pelayan| |e| |muat| |kopiku|!|’| |Nina|.
+Kenca| |si| |e|,| |ndarat| |ia| |ku| |trotoar|,| |janah| |itembak| |kalak| |e| |ia| |telu| |kali| |i| |bas| |beltekna| |si| |dem| |janah| |ipelawesna|.|”
+Nina|,| |“|Empat| |kalak| |e| |kena| |listrik|,|”| |ningku| |nginget|-|nginget|.
+“|Lima|,| |ras| |Becker|.|”
+Lubang| |igungna| |erkusur| |ku| |aku| |alu| |cara| |si| |menarik|.
+“|Kuangka| |kam| |ndarami| |gonnegtion| |usaha|.|”
+Penjajaren| |dua| |komentar| |enda| |erbahanca| |kita| |sengget|.
+Gatsby| |njabapsa| |man| |bangku|:
+Nina| |alu| |sora| |si| |megang|,| |“|Oh|,| |lang|,| |enda| |labo| |dilaki| |e|.|”
+"|Lang|?|"
+Tempa|-|tempa| |kecewa| |kel| |Pak| |Wolfshiem|.
+"|Enda| |teman| |saja|.| |Kukataken| |man| |bandu| |maka| |kita| |ngerana| |kerna| |si| |e| |i| |bas| |waktu| |si| |deban|.|"
+Nina| |Tuan| |Wolfshiem|,| |“|Kupindo| |maaf| |man| |bandu|,| |lit| |sekalak| |dilaki| |si| |salah| |bas| |aku|.|”
+Sebuah| |hash| |si| |mejile| |reh|,| |janah| |Tuan| |Wolfshiem|,| |lupa| |ia| |nandangi| |suasana| |Metropole| |si| |lebih| |sentimental|,| |mulai| |ia| |man| |alu| |kelezaten| |si| |ganas|.
+Matana|,| |sementara|,| |erdalan|-|dalan| |alu| |manjar|-|anjar| |kel| |ku| |sekelewet| |ruangen| |e|—|idungina| |busur| |alu| |erkusur| |guna| |mereksa| |kalak| |si| |langsung| |i| |pudi|.
+Kuakap|,| |kecuali| |kehadirenku|,| |pasti| |ia| |sada| |kali| |ngenca| |ngenehen| |ku| |teruh| |meja| |kami| |sendiri|.
+“|Nehenlah| |i| |jenda|,| |olahraga| |tua|,|”| |nina| |Gatsby|,| |ersandar| |ia| |man| |bangku|,| |“|mbiar| |aku| |kubahan| |kam| |merawa| |sitik| |pagi| |enda| |i| |bas| |mobil|.|”
+Lit| |ka| |mulihi| |senyum| |e|,| |tapi| |sekali| |enda| |kutahan| |ngelawanca|.
+"|La| |aku| |nggit| |misteri|,|"| |ningku| |njabapsa|,| |"|janah| |la| |kuakap| |ngkai| |maka| |la| |kam| |nggit| |ndarat| |alu| |terus| |terang| |janah| |nuriken| |kai| |si| |atendu| |man| |bangku|.| |Engkai| |maka| |kerina| |e| |arus| |reh| |arah| |Nona| |Baker|?|"
+“|O|,| |labo| |lit| |si| |i| |teruh| |tan|,|”| |nina| |njamin| |aku|.
+“|Miss| |Baker| |sekalak| |olahragawan| |si| |hebat|,| |tehndu|,| |janah| |la| |pernah| |ilakokenna| |kai| |pe| |si| |la| |mehuli|.|”
+Rempet| |itatapna| |jam| |tanganna|,| |lompat| |ia|,| |janah| |pedas| |ia| |ndarat| |i| |bas| |kamar| |nari|,| |itadingkenna| |aku| |ras| |Tuan| |Wolfshiem| |i| |meja|.
+“|Arus| |ia| |ertelepon|,|”| |nina| |Tuan| |Wolfshiem|,| |ngikutken| |ia| |alu| |matana|.
+"|Mehuli| |temanndu|,| |tuhu|?| |Ganteng| |iakapna| |ngenehensa| |janah| |sekalak| |dilaki| |si| |sempurna|.|"
+"|Ue|.|"
+“|Ia| |kalak| |Oggsford|.|”
+"|O|!|"
+“|Ia| |sekolah| |i| |Perguruan| |Tinggi| |Oggsford| |i| |Inggris|.| |Itehndu| |nge| |Perguruan| |Tinggi| |Oggsford|?|”
+“|Enggo| |kubegi| |kerna| |si| |e|.|”
+“|Enda| |salah| |sada| |perguruan| |tinggi| |si| |terkenal| |i| |doni|.|”
+“|Enggo| |ndekah| |kam| |nandai| |Gatsby|?|”
+Kusungkun| |ia|.
+Ijabapna| |alu| |cara| |si| |puas|,| |“|Piga|-|piga| |tahun|.|”
+"|Kubahan| |kesenangen| |kenalan| |ras| |ia| |kenca| |perang|.| |Tapi| |kueteh| |maka| |enggo| |kudat| |sekalak| |dilaki| |si| |mehuli| |perkembangenna| |kenca| |aku| |ngerana| |ras| |ia| |sada| |jam|.| |Ningku| |bas| |ukurku|:| |'|Lit| |jenis| |dilaki| |si| |atendu| |ibabandu| |ku| |rumah| |janah| |ipetandakenndu| |man| |nande| |ras| |turangndu|.|'
+”| |Ngadi| |ia| |kentisik|.
+“|Kuidah| |kam| |sangana| |ngenehen| |kancing| |mansetku|.|”
+Labo| |pernah| |kuperdiateken| |kalak| |e|,| |tapi| |gundari| |nggo| |kuperdiateken|.
+Kalak| |enda| |terdiri| |arah| |potongan|-|potongan| |gading| |si| |aneh| |ras| |si| |enggo| |biasa|.
+Ikatakenna| |man| |bangku|,| |”|Spesimen| |gigi| |geraham| |manusia| |si| |mehulina|.|”
+"|Malem|!|"
+Kuperiksa| |kalak| |e|.
+“|Enda| |sada| |ide| |si| |menarik| |kel|.|”
+"|Ue|.|"
+Ibalikkenna| |lengan| |bajuna| |ku| |datas| |i| |teruh| |mantelna|.
+"|Enggo|,| |Gatsby| |tuhu|-|tuhu| |hati|-|hati| |nandangi| |diberu|.| |Labo| |pernah| |ia| |tuhu|-|tuhu| |ngenehen| |ndehara| |teman|.|"
+Sanga| |subjek| |kepercayaan| |naluriah| |enda| |mulihken| |ku| |meja| |ras| |kundul| |Tuan| |Wolfshiem| |minem| |kopina| |alu| |sentak| |janah| |tedis|.
+Nina|,| |“|Enggo| |meriah| |kuakap| |man| |siangku|,| |janah| |lawes| |aku| |kiam| |i| |bas| |kam| |duana| |anak| |perana| |nari| |ope| |denga| |aku| |ngalo|-|ngalo| |aku|.|”
+“|Ula| |kam| |pedas|-|pedas| |Meyer|,|”| |nina| |Gatsby|,| |alu| |la| |semangat|.
+Pak| |Wolfshiem| |ngangkat| |tanna| |alu| |semacam| |pasu|-|pasu|.
+“|Sopan| |kel| |kam|,| |tapi| |aku| |generasi| |si| |deban|,|”| |nina| |alu| |serius|.
+“|Kundul| |kam| |i| |jenda| |janah| |mbahas| |olahragandu| |ras| |diberu|-|diberundu| |si| |nguda| |denga| |ras| |kam—|”| |Iberekenna| |sada| |kata| |benda| |khayalen| |alu| |gelombang| |tanna| |si| |deban|.
+“|Adi| |aku|,| |umurku| |enggo| |lima| |puluh| |tahun|,| |lanai| |aku| |nggit| |memaksaken| |diringku| |man| |bandu|.|”
+Sanga| |ia| |erjabat| |tan| |ras| |mundur| |igungna| |si| |tragis| |e| |nggirgir|.
+Kuukuri|,| |lit| |nge| |si| |kukataken| |si| |erban| |ia| |tersinggung|.
+“|Ia| |jadi| |sentimental| |kel| |maun|-|maun|,|”| |nina| |Gatsby| |nerangken|.
+"|Enda| |salah| |sada| |warina| |si| |sentimental|.| |Ia| |cukup| |karakter| |i| |sekelewet| |New| |York|—|penduduk| |Broadway|.|"
+“|Ise| |kin| |ia|,| |bage| |pe|,| |sekalak| |aktor|?|”
+"|Lang|.|"
+“|Dokter| |gigi|?|”
+“|Meyer| |Wolfshiem|?| |Labo|,| |ia| |sekalak| |si| |erjudi|.|”
+Gatsby| |ragu|-|ragu|,| |kenca| |si| |e| |itambahina| |alu| |dingin|,| |”|Ia| |me| |kalak| |si| |mpehuli| |World|’s| |Series| |i| |bas| |tahun| |1919| |nari|.|”
+“|Iperbaiki| |Seri| |Doni| |enda|?|”
+Kuulihi| |ka|.
+Ide| |e| |erban| |aku| |tertegun|.
+Kuinget|,| |tentu| |saja|,| |maka| |Seri| |Dunia| |enggo| |iperbaiki| |i| |bas| |tahun| |1919|,| |tapi| |adi| |enggo| |kuukuri| |saja| |pasti| |kuukuri| |e| |sebage| |hal| |si| |terjadi| |saja| |,| |ujung| |piga|-|piga| |rantai| |si| |la| |terhindarken|.
+La| |pernah| |terlintas| |bas| |ukurku| |maka| |sekalak| |jelma| |banci| |mulai| |main|-|main| |ras| |kiniteken| |lima| |puluh| |juta| |kalak|—|alu| |sada| |ukur| |bagi| |pencopet| |si| |niup| |brankas|.
+“|Kuga| |maka| |kebetulen| |ia| |ngelakoken| |si| |e|?|”
+Kusungkun| |kenca| |sada| |menit|.
+“|Idahna| |saja| |kesempaten|.|”
+“|Engkai| |maka| |la| |ia| |i| |penjara|?|”
+"|Labo| |banci| |idat| |kalak| |e| |ia|,| |olahraga| |tua|.| |Ia| |kalak| |pentar|.|"
+Kupegegehi| |gelah| |kugalari| |cek| |e|.
+Sanga| |ibaba| |pelayan| |e| |duit| |perubahenku|,| |kuidah| |Tom| |Buchanan| |i| |sebrang| |ruangen| |si| |rame|.
+Nina|,| |“|Mari| |ras| |aku| |sada| |menit|;
+“|Arus| |kukataken| |mejuah|-|juah| |man| |sekalak| |jelma|.|”
+Sanga| |idah| |kami| |Tom| |lompat| |janah| |erdalan| |setengah| |lusin| |langkah| |ku| |arah| |kami|.
+“|I| |ja| |kam| |enggo|?|”
+nina| |nungkun| |alu| |meriah| |ukur|.
+“|Merawa| |kel| |Daisy| |perban| |la| |kam| |ertelepon|.|”
+“|Enda| |me| |Tuan| |Gatsby|,| |Tuan| |Buchanan|.|”
+Erjabat| |tan| |kalak| |e| |kentisik|,| |janah| |rupa| |mela| |si| |tegang| |ras| |la| |biasa| |reh| |ku| |ayo| |Gatsby|.
+“|Uga| |enggo| |kam|,| |uga|?|”
+nina| |Tom| |nungkun| |man| |bangku|.
+“|Kuga| |maka| |kebetulen| |kam| |reh| |ku| |datas| |seh| |ku| |jenda| |guna| |man|?|”
+“|Enggo| |aku| |man| |siang| |ras| |Tuan| |Gatsby|.|”
+Kubalikken| |ku| |arah| |Tuan| |Gatsby|,| |tapi| |lanai| |ia| |i| |je|.
+Sada| |wari| |bulan| |Oktober| |i| |bas| |tahun| |sepuluh| |sembilan|-|sepuluh| |pitu—
+(|nina| |Jordan| |Baker| |karaben| |e|,| |kundul| |ia| |alu| |lurus| |kel| |i| |kursi| |si| |lurus| |i| |tea|-|garden| |i| |Plaza| |Hotel|)| |.
+—Aku| |sangana| |erdalan|-|dalan| |i| |bas| |sada| |ingan| |ku| |ingan| |si| |deban|,| |setengah| |i| |trotoar| |janah| |setengah| |i| |rumput|.
+Lebih| |meriah| |ukurku| |i| |rumput| |perban| |lit| |sepatuku| |si| |rehna| |i| |Inggris| |nari| |si| |lit| |tombol| |karetna| |i| |tapakna| |si| |nggedap| |ku| |taneh| |si| |lembut|.
+Aku| |enggo| |make| |rok| |kotak|-|kotak| |si| |mbaru| |pe| |si| |ertiup| |sitik| |i| |bas| |angin|,| |janah| |tep|-|tep| |kali| |enda| |terjadi| |spanduk| |si| |merawa|,| |mbentar|,| |ras| |biru| |i| |lebe|-|lebe| |kerina| |rumah|-|rumah| |e| |iperpanjang| |kaku| |janah| |ikatakenna| |tut|-|tut|-|tut|-|tut| |,| |alu| |cara| |si| |la| |setuju|.
+Si| |mbelinna| |i| |bas| |spanduk| |ras| |si| |mbelinna| |i| |bas| |rumput| |e|,| |eme| |rumah| |Daisy| |Fay|.
+Ia| |baru| |sepuluh| |waluh| |tahun|,| |dua| |tahun| |lebih| |tua| |asangken| |aku|,| |janah| |ndauh| |ia| |si| |terkenal| |i| |bas| |kerina| |anak| |diberu| |si| |nguda| |denga| |i| |Louisville|.
+Ia| |make| |baju| |mbentar|,| |janah| |lit| |sada| |roadster| |si| |kitik| |si| |mbentar|,| |janah| |sedekah| |sada| |wari| |erbunyi| |telepon| |i| |rumahna| |janah| |perwira|-|perwira| |muda| |si| |semangat| |i| |Camp| |Taylor| |nari| |mindo| |hak| |istimewa| |guna| |memonopoli| |ia| |berngi| |e|.
+“|Pokokna|,| |sada| |jam| |dekahna|!|”
+Sanga| |aku| |reh| |i| |seberang| |rumahna| |erpagi|-|pagi| |e|,| |roadsterna| |si| |mbentar| |lit| |i| |samping| |pinggir| |dalan|,| |janah| |ia| |kundul| |i| |je| |ras| |sekalak| |letnan| |si| |lenga| |pernah| |kuidah|.
+Saling| |terbawa| |kalak| |e|,| |emaka| |la| |idahna| |aku| |seh| |lima| |meter| |dauhna|.
+“|Halo|,| |Jordan|,|”| |nina| |alu| |la| |isangka|-|sangka|.
+“|Tolong| |reh| |ku| |jenda|.|”
+Aku| |tersanjung| |maka| |ia| |nggit| |ngerana| |ras| |aku|,| |erkiteken| |i| |bas| |kerina| |diberu| |si| |lebih| |tua| |si| |paling| |kukagumi| |ia|.
+Isungkunna| |aku|,| |lawes| |nge| |aku| |ku| |Palang| |Merah| |guna| |erban| |perban|.
+Aku|.
+Adi| |bage|,| |kukataken| |nge| |man| |kalak| |e| |maka| |la| |banci| |ia| |reh| |bas| |wari| |e|?
+Petugas| |e| |natap| |Daisy| |sanga| |ia| |ngerana|,| |alu| |cara| |si| |ate| |tep|-|tep| |anak| |diberu| |si| |nguda| |denga| |itatap| |piga|-|piga| |waktu|,| |janah| |erkiteken| |tempa|-|tempa| |romantis| |man| |bangku| |enggo| |kuinget| |kejadin| |e| |mulai| |je| |nari|.
+Gelarna| |Jay| |Gatsby|,| |janah| |lanai| |kuperdiateken| |ia| |lebih| |empat| |tahun| |dekahna|—|bahkan| |kenca| |jumpa| |aku| |ras| |ia| |i| |Long| |Island| |la| |kusadari| |maka| |ia| |dilaki| |si| |seri|.
+Enda| |me| |tahun| |sepuluh| |sembilan|-|sepuluh| |pitu|.
+I| |bas| |tahun| |si| |reh|,| |lit| |piga|-|piga| |beauxku| |sendiri|,| |janah| |mulai| |aku| |main| |bas| |turnamen|,| |emaka| |lanai| |rusur| |kuidah| |Daisy|.
+Lawes| |ia| |ras| |jelma| |si| |nterem| |si| |lebih| |tua| |sitik|—|asum| |ia| |lawes| |ras| |ise| |pe|.
+Liar| |lit| |berita|-|berita| |si| |la| |mehuli| |kerna| |ia|—|kuga| |nandena| |ndatken| |ia| |sangana| |ngemas| |tasna| |i| |bas| |sada| |berngi| |musim| |dingin| |guna| |lawes| |ku| |New| |York| |janah| |ngataken| |selamat| |jalan| |man| |sekalak| |prajurit| |si| |nandangi| |lawes| |ku| |luar| |negeri|.
+Ia| |secara| |efektif| |icegah|,| |tapi| |ia| |la| |ercakap|-|cakap| |ras| |keluargana| |piga|-|piga| |minggu| |dekahna|.
+Kenca| |si| |e| |lanai| |ia| |main|-|main| |ras| |prajurit|-|prajurit| |e|,| |tapi| |ras| |piga|-|piga| |anak| |perana| |si| |rata| |nahena|,| |si| |la| |erpengidah| |i| |kota|,| |si| |la| |banci| |masuk| |tentara| |sada| |pe|.
+I| |bas| |musim| |gugur| |si| |reh| |ia| |enggo| |gay| |mulihi|,| |gay| |bagi| |si| |gelgel|.
+Ia| |lit| |debutna| |kenca| |gencatan| |senjata|,| |janah| |i| |bas| |bulan| |Februari| |ia| |ianggap| |enggo| |ertunangan| |ras| |sekalak| |dilaki| |i| |New| |Orleans| |nari|.
+I| |bas| |bulan| |Juni| |erjabu| |ia| |ras| |Tom| |Buchanan| |i| |Chicago| |nari|,| |alu| |kemegahen| |ras| |keadaan| |si| |lebih| |asangken| |si| |pernah| |iteh| |Louisville| |ope| |denga| |si| |e|.
+Nusur| |ia| |ras| |seratus| |kalak| |alu| |empat| |mobil| |pribadi|,| |janah| |isewana| |sada| |lantai| |Hotel| |Muhlbach|,| |janah| |sada| |wari| |ope| |perjabun| |iberekenna| |man| |bana| |sada| |tali| |mutiara| |si| |ergana| |telu| |ratus| |lima| |puluh| |ribu| |dolar|.
+Aku| |sekalak| |pengantin| |diberu|.
+Aku| |masuk| |ku| |kamarna| |setengah| |jam| |ope| |denga| |man| |berngi| |penganten|,| |janah| |kudapeti| |ia| |medem| |i| |babo| |ingan| |medemna| |si| |mejile| |bagi| |berngi| |bulan| |Juni| |alu| |bajuna| |si| |erbunga|-|bunga|—|janah| |mabuk| |bagi| |kera|.
+Lit| |botol| |Sauterne| |i| |bas| |sada| |tanna| |janah| |i| |bas| |tanna| |si| |deban| |lit| |surat|.
+“| |‘|Katakenlah| |selamat| |man| |bangku|,|’| |nina| |alu| |megang| |sorana|.
+“|La| |pernah| |aku| |minem|,| |tapi| |oh| |tuhu|-|tuhu| |meriah| |kuakap|.|”
+“|Kai| |si| |terjadi|,| |Daisy|?|”
+Mbiar| |aku|,| |banci| |kuturiken| |man| |bandu|;
+La| |pernah| |kuidah| |diberu| |si| |bage|.
+“|I| |jenda|,| |teman|-|temanku|.|”
+Ipergermetkenna| |i| |bas| |keranjang| |sampah| |si| |lit| |bas| |ia| |i| |datas| |ingan| |medem| |janah| |ibuatna| |tali| |mutiara|.
+"|Babalah| |ia| |ku| |teruh| |janah| |berekenlah| |mulihken| |man| |ise| |pe| |si| |empuna|.| |Kataken| |man| |bana| |kerina| |maka| |Daisy| |enggo| |nggantiken| |tambangna|.| |Katakenlah|:| |'|Daisy| |nggantiken|'| |tambangna|!|'
+”| |.
+Mulai| |me| |ia| |tangis|—|tangis| |ia| |janah| |tangis|.
+Kudarat| |alu| |pedas| |janah| |kudat| |pembantu| |nandena|,| |janah| |ikunci| |kami| |pintun| |janah| |imasukken| |kami| |ia| |ku| |bas| |pancuran| |si| |mbergeh|.
+La| |ia| |nggit| |ngelepasken| |surat| |e|.
+Ibabana| |ku| |bas| |bak| |mandi| |ras| |ia| |janah| |iperesna| |ku| |datas| |jadi| |bola| |si| |basah|,| |janah| |ipediatna| |saja| |aku| |nadingkenca| |i| |bas| |piring| |sabun| |sanga| |idahna| |maka| |enggo| |mulai| |erbelah|-|belah| |bagi| |salju|.
+Tapi| |la| |lit| |kata| |si| |deban| |si| |ibelaskenna|.
+Ibereken| |kami| |ia| |spiritus| |amonia| |ras| |itamaken| |kami| |es| |ku| |perdempakenna| |janah| |ikaitken| |kami| |ia| |mulihi| |ku| |bajuna|,| |janah| |setengah| |jam| |kenca| |si| |e|,| |sanga| |kami| |ndarat| |i| |bas| |kamar| |nari|,| |mutiara|-|mutiara| |e| |enggo| |i| |kerahungna| |janah| |kejadin| |e| |enggo| |dung|.
+Pepagina| |jam| |lima| |erjabu| |ia| |ras| |Tom| |Buchanan| |alu| |la| |lit| |sitik| |pe| |nggirgir|,| |janah| |mulai| |ia| |erdalan| |telu| |bulan| |ku| |Laut| |Selatan|.
+Kuidah| |kalak| |e| |i| |Santa| |Barbara| |sanga| |mulih|,| |janah| |kuakap| |la| |pernah| |kuidah| |sekalak| |diberu| |si| |bage| |gilana| |nandangi| |perbulangenna|.
+Adi| |ndarat| |ia| |bas| |kamar| |nari| |sada| |menit|,| |pasti| |itatapna| |ku| |sekelewetna| |alu| |la| |tenang|,| |janah| |nina|,| |”|I| |ja| |Tom| |lawes|?|”
+janah| |make| |ekspresi| |si| |paling| |abstrak| |seh| |maka| |idahna| |ia| |reh| |ku| |pintun|.
+Ia| |biasa| |kundul| |i| |datas| |pasir| |alu| |takalna| |i| |bas| |pangkuanna| |erjam|-|jam|,| |iusapna| |jari|-|jarina| |ku| |matana| |janah| |natap| |ia| |alu| |meriah| |ukur| |si| |la| |terkira|.
+Mehuli| |kel| |akapndu| |ngidah| |kalak| |e| |ras|-|ras|—|erbanca| |kam| |tawa| |alu| |cara| |si| |sinik| |janah| |terpesona|.
+Enda| |terjadi| |bas| |bulan| |Agustus|.
+Seminggu| |kenca| |aku| |nadingken| |Santa| |Barbara| |Tom| |kiam| |ku| |sada| |gereta| |i| |dalan| |Ventura| |i| |bas| |sada| |berngi|,| |janah| |icetakna| |sada| |roda| |lebe| |i| |bas| |mobilna| |nari|.
+Diberu| |si| |ras| |ia| |e| |pe| |masuk| |ku| |bas| |kertas|-|kertas| |e|,| |perban| |tanna| |enggo| |patah|—|ia| |salah| |sada| |pembantu| |kamar| |i| |Hotel| |Santa| |Barbara|.
+Bulan| |April| |si| |reh|,| |lit| |anakna| |si| |diberu| |si| |kitik| |denga|,| |janah| |lawes| |kalak| |e| |ku| |Prancis| |setahun| |dekahna|.
+Kuidah| |kalak| |e| |sada| |musim| |semi| |i| |Cannes|,| |janah| |dungna| |i| |Deauville|,| |kenca| |si| |e| |mulihken| |kalak| |e| |ku| |Chicago| |guna| |ringan|.
+Daisy| |populer| |i| |Chicago|,| |bagi| |si| |nggo| |itehndu|.
+Kalak| |enda| |pindah| |ras| |jelma| |si| |nterem| |si| |pedas|,| |kerinana| |nguda| |denga| |ras| |bayak| |ras| |liar|,| |tapi| |ia| |ndarat| |alu| |reputasi| |si| |mutlak| |sempurna|.
+Banci| |saja| |perban| |la| |ia| |minem|.
+Memang| |sada| |keuntungen| |si| |mbelin| |adi| |la| |minem| |i| |tengah|-|tengah| |kalak| |si| |keras| |minem|.
+Banci| |itahanndu| |dilahndu| |janah|,| |lebih| |asa| |si| |e|,| |banci| |ibahanndu| |waktu| |ketidakteraturan| |si| |kitik|-|kitik| |si| |lit| |bas| |dirindu| |sendiri| |seh| |maka| |kerina| |kalak| |si| |deban| |pentang| |seh| |maka| |la| |ia| |ngidah| |ntah| |pe| |la| |erdiate|.
+Mungkin| |Daisy| |la| |pernah| |masuk| |ku| |bas| |amour| |sama| |sekali|—|janah| |amin| |bage| |gia| |lit| |sitik| |i| |bas| |sorana| |e|...
+Emaka|,| |kira|-|kira| |enem| |minggu| |si| |lewat|,| |tangtangna| |kel| |ibegina| |gelar| |Gatsby| |kenca| |piga|-|piga| |tahun|.
+Enda| |me| |paksa| |kusungkun| |kam|—|ingetndu| |denga| |nge|?|—adi| |itandaindu| |Gatsby| |i| |West| |Egg|.
+Kenca| |kam| |enggo| |mulih| |reh| |ia| |ku| |kamarku| |janah| |ipekekena| |aku|,| |janah| |nina|:| |“|Gatsby| |kai|?|”
+janah| |sanga| |kugambarken| |ia|—|aku| |setengah| |tunduh|—|nina| |alu| |sora| |si| |anehna| |maka| |pasti| |dilaki| |si| |biasa| |itandaina|.
+Labo| |seh| |paksa| |si| |e| |maka| |kuhubungken| |Gatsby| |enda| |ras| |petugas| |si| |lit| |bas| |mobilna| |si| |mbentar|.
+Kenca| |dung| |Jordan| |Baker| |nuriken| |kerina| |enda| |enggo| |setengah| |jam| |kami| |nadingken| |Plaza| |janah| |sangana| |ermotor| |alu| |victoria| |ngelewati| |Central| |Park|.
+Matawari| |enggo| |sundut| |i| |balik| |apartemen|-|apartemen| |si| |meganjang| |bintang|-|bintang| |film| |i| |bas| |tahun| |Lima| |Puluhen| |Barat|,| |janah| |sora| |anak|-|anak| |si| |jelas|,| |enggo| |pulung| |bagi| |jangkrik| |i| |datas| |dukut|,| |nangkih| |arah| |senja| |si| |panas|:
+“|Aku| |kap| |Syekh| |Arab|.
+KekelengenNdu| |aku| |empuna|.
+Berngi| |sanga| |kam| |tunduh| |.
+Ku| |bas| |kemahndu| |aku| |merayap—|”
+Nina|,| |“|Kebetulen| |si| |aneh| |kel| |e|.
+“|Tapi| |labo| |kebetulen| |saja|.|”
+"|Uga| |maka| |lang|?|"
+“|Itukur| |Gatsby| |rumah| |e| |gelah| |Daisy| |banci| |saja| |i| |sebrang| |teluk|.|”
+Adi| |bage|,| |labo| |bintang|-|bintang| |saja| |si| |isura|-|surakenna| |i| |bas| |berngi| |bulan| |Juni| |e|.
+Ia| |reh| |nggeluh| |ndahi| |aku|,| |ipulahi| |alu| |rempet| |i| |bas| |bertin| |kemulianNa| |si| |la| |lit| |tujunna| |nari|.
+Ilanjutken| |Jordan|,| |”|Itehna| |atena| |adi| |iundangndu| |Daisy| |ku| |rumahndu| |piga|-|piga| |karaben| |janah| |kenca| |si| |e| |ipediatndu| |ia| |reh|.|”
+Kesopanan| |tuntuten| |e| |erbahanca| |aku| |terguncang|.
+Enggo| |lima| |tahun| |ia| |nimai| |janah| |itukurna| |sada| |rumah| |mewah| |inganna| |mereken| |terang| |bintang| |man| |ngengat| |santai|—|gelah| |banci| |ia| |“|reh|”| |piga|-|piga| |karaben| |ku| |kebun| |kalak| |si| |la| |itandaina|.
+“|Arus| |kin| |kuetehna| |kerina| |enda| |ope| |denga| |ia| |nungkun| |si| |kitik| |bage|?|”
+"|Mbiar| |ia|,| |enggo| |ndekah| |ia| |nimai|.| |Iakapna| |banci| |saja| |kam| |tersinggung|.| |Idahndu|,| |ia| |rusur| |tangguh| |i| |teruh| |si| |e| |kerina|.|"
+Lit| |si| |erban| |aku| |kuatir|.
+“|Engkai| |maka| |la| |isuruhna| |kam| |ngaturken| |perjumpan|?|”
+Ijelaskenna|,| |”|Atena| |gelah| |idah| |diberu| |e| |rumahna|.
+“|Janah| |rumahndu| |pe| |lit| |i| |sebelahna|.|”
+"|O|!|"
+"|Kuakap| |setengah| |iarapkenna| |ia| |erdalan|-|dalan| |ku| |salah| |sada| |pesta|-|pestana|,| |piga|-|piga| |berngi|,|"| |nina| |Jordan| |terus|,| |"|tapi| |la| |pernah| |ilakokenna|.| |Kenca| |si| |e| |mulai| |isungkunna| |kalak| |alu| |santai| |adi| |itandaina| |ia|,| |janah| |aku| |me| |si| |pemena| |idatna|.| |Berngi| |e| |me| |isuruhna| |aku| |i| |bas| |tarianna|,| |janah| |arusna| |enggo| |ibegindu| |cara| |si| |rumit| |ia| |erdahin| |seh| |ku| |je|,| |tentu| |saja| |O.
+Kuakap| |ia| |enggo| |gila|:
+“| |‘|La| |ateku| |ngelakoken| |kai| |pe| |si| |la| |mehuli|!|’
+lalap| |nina|,| |'|Kuidah| |ateku| |ia| |tepat| |i| |sebrang| |rumah|.|'
+"|Sanga| |kukataken| |man| |bandu| |teman| |Tom| |si| |tertentu|,| |mulai| |itadingkenna| |kerina| |gagasen| |e|.| |Labo| |melala| |si| |ietehna| |kerna| |Tom|,| |aminna| |pe| |ikatakenna| |maka| |enggo| |ertahun|-|tahun| |ia| |ngoge| |sada| |koran| |Chicago| |alu| |kesempaten| |saja| |guna| |ngidah| |gelar| |Daisy|.|"
+Gundari| |enggo| |gelap|,| |janah| |sanga| |kami| |cebuni| |i| |teruh| |jembatan| |si| |kitik|,| |kupeluk| |bahu| |emas| |Jordan| |janah| |kutarik| |ia| |ku| |aku| |janah| |kusuruh| |ia| |man| |berngi|.
+Rempet| |lanai| |aku| |ngukuri| |Daisy| |ras| |Gatsby|,| |tapi| |kalak| |si| |bersih|,| |keras|,| |terbatas| |enda|,| |si| |berurusen| |ras| |skeptisisme| |universal|,| |ras| |si| |ersandar| |alu| |jauntily| |saja| |i| |bas| |lingkaran| |lengan| |ku|.
+Sada| |kalimat| |mulai| |erdegup| |i| |bas| |cupingku| |alu| |semacam| |keriahen| |ukur| |si| |erbahanca| |takal|:| |“|Lit| |ngenca| |si| |iayak|-|ayak|,| |si| |iayak|-|ayak|,| |si| |sibuk|,| |ras| |si| |latih|.|”
+“|Janah| |Daisy| |arus| |lit| |si| |man| |pangan| |i| |bas| |geluhna|,|”| |nina| |Jordan| |jungut|-|jungut| |man| |bangku|.
+“|Nggit| |nge| |ia| |jumpa| |ras| |Gatsby|?|”
+"|Labo| |ia| |meteh| |kerna| |si| |e|.| |La| |ate| |Gatsby| |metehsa|.| |Seharusna| |kam| |saja| |si| |ngundang| |ia| |man| |teh|.|"
+Ilewati| |kami| |sada| |penghalang| |batang| |kayu| |si| |gelap|,| |kenca| |si| |e| |fasad| |Jalan| |Lima| |Puluh| |Sembilan|,| |sada| |blok| |cahaya| |si| |pucat| |si| |halus|,| |ersinar| |ku| |teruh| |ku| |taman|.
+La| |bagi| |Gatsby| |ras| |Tom| |Buchanan|,| |la| |lit| |sekalak| |diberu| |si| |ayona| |si| |la| |ertubuh| |melayang|-|layang| |i| |kornis| |si| |gelap| |ras| |tanda|-|tanda| |si| |erbahanca| |buta|,| |emaka| |kugambarken| |diberu| |si| |lit| |i| |sampingku|,| |kuperketat| |tanku|.
+Babahna| |si| |wan|,| |si| |menghina| |senyum|,| |janah| |alu| |bage| |kutarik| |ia| |mulihi| |ndeher|,| |sekali| |enda| |ku| |ayongku|.

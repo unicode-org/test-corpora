@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/64317"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.13.7 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Great Gatsby</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>The Great Gatsby by F. Scott Fitzgerald</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-0.htm.html#pgepubid00001"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-0.htm.html#chapter-1"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-0.htm.html#chapter-2"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-1.htm.html#chapter-3"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-1.htm.html#chapter-4"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-2.htm.html#chapter-5"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-2.htm.html#chapter-6"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-3.htm.html#chapter-7"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-4.htm.html#chapter-8"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-4.htm.html#chapter-9"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>THE FULL PROJECT GUTENBERG LICENSE</text>
+      </navLabel>
+      <content src="7069925737426509887_64317-h-5.htm.html#pg-footer-heading"/>
+    </navPoint>
+  </navMap>
+</ncx>
