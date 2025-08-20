@@ -1,0 +1,99 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify
+    }
+p {
+    margin: 0;
+    text-indent: 1em
+    }
+hr {
+    border: none;
+    border-top: 1px solid;
+    height: 0;
+    margin: 1.5em auto;
+    width: 25%
+    }
+h1, h2 {
+    font-variant: small-caps;
+    text-align: center;
+    margin: 3em 0
+    }
+p.continued, h2 + p, hr + p, p:first-child {
+    text-indent: 0
+    }
+cite {
+    display: block;
+    font-style: normal;
+    font-variant: small-caps;
+    margin-top: 1em;
+    text-align: right
+    }
+b {
+    font-variant: small-caps;
+    font-weight: normal
+    }
+.toc {
+    text-align: center
+    }
+.toc h2 {
+    margin-bottom: 1em
+    }
+.toc ol {
+    display: inline-block;
+    list-style: none;
+    margin: auto;
+    padding-left: 0
+    }
+ul {
+    list-style: none;
+    padding: 0
+    }
+.header {
+    font-variant: small-caps;
+    text-align: center
+    }
+.valediction {
+    margin-top: 1em;
+    text-align: right
+    }
+.signature {
+    font-variant: small-caps;
+    text-align: right
+    }
+table {
+    margin: 1em 2em
+    }
+td {
+    padding: 0 0.5em;
+    vertical-align: bottom
+    }
+td.right {
+    text-align: center
+    }
+.dedication {
+    font-variant: small-caps;
+    text-align: center;
+    margin: 3em auto;
+    max-width: 80%
+    }
+.verse p {
+    text-indent: 0
+    }
+.verse p span {
+    text-indent: -1em;
+    padding-left: 1em
+    }
+.verse p span.i1 {
+    text-indent: -1em;
+    padding-left: 2em
+    }
+.verse p span.i2 {
+    text-indent: -1em;
+    padding-left: 3em
+    }
+.epigraph {
+    font-style: italic;
+    margin: 3em auto;
+    max-width: 40em
+    }
