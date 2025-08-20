@@ -1,8 +1,14 @@
 # Unicode Test Corpora
 
-Corpora in many languages for testing, evaluating, benchmarking, and training Unicode algorithms
+Corpora in many languages for testing, evaluating, benchmarking, and training Unicode algorithms.
 
-### Copyright & Licenses
+## Project Gutenberg Corpora, Translated by Google
+
+The main content in this repository are books from Project Gutenberg, machine translated by Google. Over 200 languages are represented, with outputs as HTML, txt, and segmented text.
+
+See the [gutenberg](./gutenberg/README.md) directory.
+
+## Copyright & Licenses
 
 Copyright © 2023-2024 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
 
