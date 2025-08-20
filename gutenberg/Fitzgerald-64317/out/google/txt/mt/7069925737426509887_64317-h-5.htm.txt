@@ -1,0 +1,104 @@
+Il-Proġett Gutenberg eBook tal-Kbir Gatsby
+
+*** TMIEM TAL-PROĠETT GUTENBERG EBOOK IL-KBIR GATSBY ***
+
+L-edizzjonijiet aġġornati se jieħdu post dik ta' qabel—l-edizzjonijiet il-qodma se jingħataw isimhom mill-ġdid.
+
+Il-ħolqien tax-xogħlijiet minn edizzjonijiet stampati mhux protetti mil-liġi tad-drittijiet tal-awtur tal-Istati Uniti jfisser li ħadd ma għandu copyright tal-Istati Uniti f'dawn ix-xogħlijiet, għalhekk il-Fondazzjoni (u int!) tista' tikkopja u tqassamha fl-Istati Uniti mingħajr permess u mingħajr ma tħallas id-drittijiet tal-awtur. Regoli speċjali, stipulati fil-parti tat-Termini Ġenerali tal-Użu ta’ din il-liċenzja, japplikaw għall-ikkupjar u d-distribuzzjoni ta’ xogħlijiet elettroniċi tal-Proġett Gutenberg™ biex jipproteġu l-kunċett u t-trademark tal-PROĠETT GUTENBERG™. Project Gutenberg hija trademark reġistrata, u ma tistax tintuża jekk titlob ħlas għal eBook, ħlief billi ssegwi t-termini tal-liċenzja tat-trademark, inkluż il-ħlas tad-drittijiet għall-użu tat-trademark tal-Proġett Gutenberg. Jekk ma tiċċarġja xejn għal kopji ta' dan l-eBook, li tikkonforma mal-liċenzja tat-trademark hija faċli ħafna. Tista' tuża dan l-eBook għal kważi kull skop bħal ħolqien ta' xogħlijiet derivattivi, rapporti, prestazzjonijiet u riċerka. L-eBooks tal-Proġett Gutenberg jistgħu jiġu modifikati u stampati u jingħataw—tista' tagħmel prattikament XEJN fl-Istati Uniti b'eBooks mhux protetti mil-liġi tal-awtur tal-Istati Uniti. Id-distribuzzjoni mill-ġdid hija soġġetta għal-liċenzja tat-trademark, speċjalment ir-ridistribuzzjoni kummerċjali.
+
+BIDU: LIĊENZJA SĦIĦA
+
+IL-LIĊENZJA GUTENBERG TAL-PROĠETT SĦIĦ
+
+JEKK JOGĦĠBOK AQRA DAN QABEL MA Tqassam JEW TUŻA DAN I-XOGĦOL
+
+Biex tipproteġi l-missjoni tal-Proġett Gutenberg™ li tippromwovi d-distribuzzjoni ħielsa ta’ xogħlijiet elettroniċi, billi tuża jew tqassam dan ix-xogħol (jew kwalunkwe xogħol ieħor assoċjat b’xi mod mal-frażi “Proġett Gutenberg”), inti taqbel li tikkonforma mat-termini kollha tal-Liċenzja Sħiħa tal-Proġett Gutenberg™ disponibbli ma’ dan il-fajl jew onlajn fuq www.gutenberg.org/license.
+
+Taqsima 1. Termini Ġenerali ta 'Użu u distribuzzjoni mill-ġdid ta' xogħlijiet elettroniċi tal-Proġett Gutenberg™
+
+1.A. Billi taqra jew tuża kwalunkwe parti minn dan ix-xogħol elettroniku tal-Proġett Gutenberg™, tindika li qrajt, fhimt, taqbel ma' u taċċetta t-termini kollha ta' dan il-ftehim ta' liċenzja u proprjetà intellettwali (trademark/copyright). Jekk ma taqbilx li tirrispetta t-termini kollha ta’ dan il-ftehim, trid tieqaf tuża u tirritorna jew teqred il-kopji kollha tax-xogħlijiet elettroniċi tal-Proġett Gutenberg™ fil-pussess tiegħek. Jekk ħallast miżata għall-kisba ta’ kopja ta’ jew aċċess għal xogħol elettroniku tal-Proġett Gutenberg™ u ma taqbilx li tkun marbut bit-termini ta’ dan il-ftehim, tista’ tikseb rifużjoni mill-persuna jew entità li lilha ħallset il-miżata kif stipulat fil-paragrafu 1.E.8.
+
+1.B. "Proġett Gutenberg" hija trademark reġistrata. Jista' jintuża biss fuq jew assoċjat b'xi mod ma' xogħol elettroniku minn nies li jaqblu li jkunu marbuta bit-termini ta' dan il-ftehim. Hemm ftit affarijiet li tista’ tagħmel bil-biċċa l-kbira tax-xogħlijiet elettroniċi tal-Proġett Gutenberg™ anki mingħajr ma tikkonforma mat-termini sħaħ ta’ dan il-ftehim. Ara l-paragrafu 1.C hawn taħt. Hemm ħafna affarijiet li tista’ tagħmel bix-xogħlijiet elettroniċi tal-Proġett Gutenberg™ jekk issegwi t-termini ta’ dan il-ftehim u tgħin biex tippreserva aċċess ħieles fil-futur għax-xogħlijiet elettroniċi tal-Proġett Gutenberg™. Ara l-paragrafu 1.E hawn taħt.
+
+1.C. Il-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg (“il-Fondazzjoni” jew PGLAF), għandha awtur ta’ kumpilazzjoni fil-kollezzjoni ta’ xogħlijiet elettroniċi tal-Proġett Gutenberg™. Kważi x-xogħlijiet individwali kollha fil-kollezzjoni huma fid-dominju pubbliku fl-Istati Uniti. Jekk xogħol individwali ma jkunx protett mil-liġi tad-drittijiet tal-awtur fl-Istati Uniti u inti tinsab fl-Istati Uniti, aħna ma nippretendux dritt li nipprevjenuk milli tikkopja, tqassam, twettaq, turi jew toħloq xogħlijiet derivattivi bbażati fuq ix-xogħol sakemm ir-referenzi kollha għall-Proġett Gutenberg jitneħħew. Naturalment, nittamaw li inti tappoġġja l-missjoni tal-Proġett Gutenberg ™ li tippromwovi aċċess ħieles għal xogħlijiet elettroniċi billi taqsam liberament ix-xogħlijiet tal-Proġett Gutenberg ™ f'konformità mat-termini ta 'dan il-ftehim biex jinżamm l-isem tal-Proġett Gutenberg ™ assoċjat max-xogħol. Tista' faċilment tikkonforma mat-termini ta' dan il-ftehim billi żżomm dan ix-xogħol fl-istess format mal-Liċenzja sħiħa tal-Proġett Gutenberg™ mehmuża meta taqsamha mingħajr ħlas ma' oħrajn.
+
+1.D. Il-liġijiet tad-drittijiet tal-awtur tal-post fejn tinsab jirregolaw ukoll x’tista’ tagħmel b’dan ix-xogħol. Il-liġijiet tad-drittijiet tal-awtur fil-biċċa l-kbira tal-pajjiżi jinsabu fi stat kostanti ta’ bidla. Jekk inti barra mill-Istati Uniti, iċċekkja l-liġijiet ta 'pajjiżek flimkien mat-termini ta' dan il-ftehim qabel ma tniżżel, tikkopja, turi, twettaq, tqassam jew toħloq xogħlijiet derivattivi bbażati fuq dan ix-xogħol jew kwalunkwe xogħol ieħor tal-Proġett Gutenberg™. Il-Fondazzjoni ma tagħmel l-ebda rappreżentazzjoni dwar l-istatus tad-drittijiet tal-awtur ta’ kwalunkwe xogħol fi kwalunkwe pajjiż għajr l-Istati Uniti.
+
+1.E. Sakemm ma neħħejtx ir-referenzi kollha għall-Proġett Gutenberg:
+
+1.E.1. Is-sentenza li ġejja, b’links attivi għal, jew aċċess ieħor immedjat għal, il-Liċenzja sħiħa tal-Proġett Gutenberg™ trid tidher b’mod prominenti kull meta kwalunkwe kopja ta’ xogħol ta’ Proġett Gutenberg™ (kwalunkwe xogħol li fuqu tidher il-frażi “Proġett Gutenberg”, jew li magħha l-frażi “Proġett Gutenberg” hija assoċjata) tiġi aċċessata, murija, imwettqa, jaraha, ikkupjata jew imqassma:
+
+Dan l-eBook huwa għall-użu minn kulħadd kullimkien fl-Istati Uniti u l-biċċa l-kbira tal-partijiet l-oħra tad-dinja mingħajr ebda spiża u kważi bl-ebda restrizzjonijiet. Tista' tikkopjaha, tagħtiha jew terġa' tużaha taħt it-termini tal-Liċenzja tal-Proġett Gutenberg inkluża ma' dan l-eBook jew onlajn fuq www.gutenberg.org . Jekk m'intix fl-Istati Uniti, ikollok tiċċekkja l-liġijiet tal-pajjiż fejn tinsab qabel tuża dan l-eBook.
+
+1.E.2. Jekk xogħol elettroniku individwali tal-Proġett Gutenberg™ huwa derivat minn testi mhux protetti mil-liġi tad-drittijiet tal-awtur tal-Istati Uniti (ma fihx avviż li jindika li huwa mibgħut bil-permess tad-detentur tad-drittijiet tal-awtur), ix-xogħol jista’ jiġi kkupjat u mqassam lil xi ħadd fl-Istati Uniti mingħajr ma jitħallas ebda ħlas jew ħlasijiet. Jekk qed tqassam mill-ġdid jew tipprovdi aċċess għal xogħol bil-frażi “Proġett Gutenberg” assoċjata ma’ jew tidher fuq ix-xogħol, trid tikkonforma jew mar-rekwiżiti tal-paragrafi 1.E.1 sa 1.E.7 jew tikseb permess għall-użu tax-xogħol u t-trademark tal-Proġett Gutenberg™ kif stipulat fil-paragrafi 1.E.8 jew 1.E.9.
+
+1.E.3. Jekk xogħol elettroniku individwali tal-Proġett Gutenberg™ jitpoġġa bil-permess tad-detentur tad-drittijiet tal-awtur, l-użu u d-distribuzzjoni tiegħek għandhom jikkonformaw maż-żewġ paragrafi 1.E.1 sa 1.E.7 u kwalunkwe terminu addizzjonali impost mid-detentur tad-drittijiet tal-awtur. Termini addizzjonali se jkunu marbuta mal-Liċenzja tal-Proġett Gutenberg™ għax-xogħlijiet kollha mibgħuta bil-permess tad-detentur tad-drittijiet tal-awtur li jinsab fil-bidu ta’ dan ix-xogħol.
+
+1.E.4. Tneħħix rabta jew tneħħix jew tneħħi t-termini sħaħ tal-Liċenzja tal-Proġett Gutenberg™ minn dan ix-xogħol, jew kwalunkwe fajl li jkun fih parti minn dan ix-xogħol jew kwalunkwe xogħol ieħor assoċjat mal-Proġett Gutenberg™.
+
+1.E.5. M'għandekx tikkopja, turi, twettaq, tqassam jew tqassam mill-ġdid dan ix-xogħol elettroniku, jew kwalunkwe parti minn dan ix-xogħol elettroniku, mingħajr ma turi b'mod prominenti s-sentenza stipulata fil-paragrafu 1.E.1 b'links attivi jew aċċess immedjat għat-termini sħaħ tal-Liċenzja tal-Proġett Gutenberg™.
+
+1.E.6. Tista' tikkonverti għal u tqassam dan ix-xogħol fi kwalunkwe forma binarja, ikkompressata, immarkata, mhux proprjetarja jew proprjetarja, inkluż kwalunkwe forma ta' proċessar ta' kliem jew ipertest. Madankollu, jekk tipprovdi aċċess għal jew tqassam kopji ta’ xogħol ta’ Project Gutenberg™ f’format ieħor għajr “Plain Vanilla ASCII” jew format ieħor użat fil-verżjoni uffiċjali mibgħuta fuq il-websajt uffiċjali tal-Proġett Gutenberg™ (www.gutenberg.org), trid, mingħajr ebda spiża, ħlas jew spiża addizzjonali lill-utent, tipprovdi kopja, mezz ta’ kif tesporta kopja, jew mezz biex tikseb kopja oriġinali tagħha. ASCII” jew forma oħra. Kwalunkwe format alternattiv għandu jinkludi l-Liċenzja sħiħa tal-Proġett Gutenberg™ kif speċifikat fil-paragrafu 1.E.1.
+
+1.E.7. Tiċċarġjax ħlas għall-aċċess għal, tara, turi, twettaq, tikkopja jew tqassam xi xogħlijiet tal-Proġett Gutenberg™ sakemm ma tikkonformax mal-paragrafu 1.E.8 jew 1.E.9.
+
+1.E.8. Tista' titlob ħlas raġonevoli għal kopji ta' jew tipprovdi aċċess għal jew tqassam xogħlijiet elettroniċi tal-Proġett Gutenberg™ sakemm:
+
+• Inti tħallas miżata tar-royalties ta' 20% tal-profitti gross li tikseb mill-użu tax-xogħlijiet tal-Proġett Gutenberg™ ikkalkulati bl-użu tal-metodu li diġà tuża biex tikkalkula t-taxxi applikabbli tiegħek. Il-miżata hija dovuta lis-sid tat-trademark tal-Proġett Gutenberg™, iżda huwa qabel li jagħti royalties taħt dan il-paragrafu lill-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg. Il-pagamenti tar-royalties għandhom jitħallsu fi żmien 60 jum wara kull data li fiha inti tipprepara (jew legalment mitlub li tipprepara) il-prospetti tat-taxxa perjodiċi tiegħek. Il-pagamenti tar-royalties għandhom ikunu mmarkati b’mod ċar bħala tali u jintbagħtu lill-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg fl-indirizz speċifikat fit-Taqsima 4, “Informazzjoni dwar donazzjonijiet lill-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg.”
+
+• Inti tipprovdi rifużjoni sħiħa ta' kwalunkwe flus imħallsa minn utent li jinnotifikak bil-miktub (jew permezz ta' e-mail) fi żmien 30 jum minn meta tirċievi li ma jaqbilx mat-termini tal-Liċenzja sħiħa tal-Proġett Gutenberg™. Int trid tirrikjedi li utent bħal dan jirritorna jew jeqred il-kopji kollha tax-xogħlijiet fil-pussess f'mezz fiżiku u jwaqqaf kull użu ta' u aċċess kollu għal kopji oħra tax-xogħlijiet tal-Proġett Gutenberg™.
+
+• Int tipprovdi, skont il-paragrafu 1.F.3, rifużjoni sħiħa ta’ kwalunkwe flus imħallsa għal xogħol jew kopja ta’ sostituzzjoni, jekk jiġi skopert difett fix-xogħol elettroniku u jiġi rrappurtat lilek fi żmien 90 jum minn meta tirċievi x-xogħol.
+
+• Inti tikkonforma mat-termini l-oħra kollha ta 'dan il-ftehim għal distribuzzjoni b'xejn ta' xogħlijiet tal-Proġett Gutenberg™.
+
+1.E.9. Jekk tixtieq titlob ħlas jew tqassam xogħol elettroniku tal-Proġett Gutenberg™ jew grupp ta’ xogħlijiet fuq termini differenti minn dawk stabbiliti f’dan il-ftehim, trid tikseb permess bil-miktub mill-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg, il-maniġer tat-trademark tal-Proġett Gutenberg™. Ikkuntattja lill-Fondazzjoni kif stipulat fit-Taqsima 3 hawn taħt.
+
+1.F.
+
+1.F.1. Il-voluntiera u l-impjegati tal-Proġett Gutenberg jagħmlu sforz konsiderevoli biex jidentifikaw, jagħmlu riċerka dwar id-drittijiet tal-awtur fuq, jittraskrivu u jivverifikaw xogħlijiet mhux protetti mil-liġi tal-awtur tal-Istati Uniti fil-ħolqien tal-kollezzjoni tal-Proġett Gutenberg™. Minkejja dawn l-isforzi, ix-xogħlijiet elettroniċi tal-Proġett Gutenberg™, u l-mezz li fuqu jistgħu jinħażnu, jista’ jkun fihom “Difetti,” bħal, iżda mhux limitati għal, data mhux kompluta, mhux preċiża jew korrotta, żbalji ta’ traskrizzjoni, awtur jew ksur ieħor ta’ proprjetà intellettwali, disk difettuż jew bil-ħsara jew mezz ieħor, virus tal-kompjuter, jew kodiċi tal-kompjuter li jagħmlu ħsara jew ma jistgħux jinqraw mit-tagħmir tiegħek.
+
+1.F.2. GARANZIJA LIMITATA, ĊAĦDA TA’ DANNI - Ħlief għad-“Dritt ta’ Sostituzzjoni jew Rifużjoni” deskritt fil-paragrafu 1.F.3, il-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg, is-sid tat-trademark tal-Proġett Gutenberg™, u kwalunkwe parti oħra li tqassam xogħol elettroniku tal-Proġett Gutenberg™ taħt dan il-ftehim, jiċħad kull responsabbiltà lejk għal danni, spejjeż u spejjeż legali. INT TAQBEL LI GĦANDEK L-EBDA RIMEDJU GĦAL NEGLIĠENZA, RESPONSABBILTÀ STRETTA, KIS TA’ GARANZIJA JEW KIS TA’ KUNTRATT Ħlief DAWK PROVVDUTI FIL-PARAGRAFU 1.F.3. INTI TAQBEL LI L-FONDAZZJONI, IS-SID TA' TRADEMARK, U KULL DISTRIBUTUR TAĦT DAN IL-FTEHIM MHUX SE JKUNU RESPONSABLI LEJK GĦAL DANNI ATTWALI, DIRETTI, INDIRETTI, KONSEKWENZJALI, PUNITTIVI JEW INĊIDENTALI ANKE JEKK TGĦATI AVVIŻ DWAR IL-POSSIBILITÀ.
+
+1.F.3. DRITT LIMITAT TA’ SOSTITUZZJONI JEW RIFUŻJONI - Jekk tiskopri difett f’dan ix-xogħol elettroniku fi żmien 90 jum minn meta tirċievih, tista’ tirċievi rifużjoni tal-flus (jekk ikun hemm) li tkun ħallast għaliha billi tibgħat spjegazzjoni bil-miktub lill-persuna li tkun irċevejt ix-xogħol mingħandha. Jekk irċevejt ix-xogħol fuq mezz fiżiku, trid tirritorna l-mezz bl-ispjegazzjoni bil-miktub tiegħek. Il-persuna jew l-entità li pprovdietlek ix-xogħol difettuż tista' tagħżel li tipprovdi kopja ta' sostituzzjoni minflok rifużjoni. Jekk irċevejt ix-xogħol b'mod elettroniku, il-persuna jew l-entità li tipprovdih tista' tagħżel li tagħtik it-tieni opportunità biex tirċievi x-xogħol elettronikament minflok rifużjoni. Jekk it-tieni kopja hija wkoll difettuża, tista' titlob rifużjoni bil-miktub mingħajr aktar opportunitajiet biex tirranġa l-problema.
+
+1.F.4. Ħlief għad-dritt limitat ta' sostituzzjoni jew rifużjoni stipulat fil-paragrafu 1.F.3, dan ix-xogħol jiġi pprovdut lilek 'KIF INHI', BL-EBDA GARANZIJI OĦRA TA' KULL TIP, ESPRESSI JEW IMPLIKATI, INKLUŻI IMMA MHUX LIMITATI GĦAL GARANZIJI TA' KUMMERĊJALI JEW ADATTAZZJONI GĦAL KWALUNKWE GĦAN.
+
+1.F.5. Xi stati ma jippermettux ċaħdiet ta’ ċerti garanziji impliċiti jew l-esklużjoni jew il-limitazzjoni ta’ ċerti tipi ta’ danni. Jekk xi ċaħda jew limitazzjoni stipulata f'dan il-ftehim tikser il-liġi tal-istat applikabbli għal dan il-ftehim, il-ftehim għandu jiġi interpretat biex jagħmel iċ-ċaħda jew limitazzjoni massima permessa mil-liġi tal-istat applikabbli. L-invalidità jew in-nuqqas ta' infurzar ta' kwalunkwe dispożizzjoni ta' dan il-ftehim m'għandhiex tħassar id-dispożizzjonijiet li jifdal.
+
+1.F.6. INDENNITÀ - Inti taqbel li tindennizza u żżomm lill-Fondazzjoni, is-sid tat-trademark, kwalunkwe aġent jew impjegat tal-Fondazzjoni, kull min jipprovdi kopji ta’ xogħlijiet elettroniċi ta’ Proġett Gutenberg™ skont dan il-ftehim, u kwalunkwe voluntiera assoċjati mal-produzzjoni, promozzjoni u distribuzzjoni ta’ xogħlijiet elettroniċi ta’ Proġett Gutenberg™, bla ħsara minn kull responsabbiltà, spejjeż u spejjeż, inklużi miżati legali, li jseħħu direttament jew indirettament minn: ta' dan jew kwalunkwe xogħol tal-Proġett Gutenberg™, (b) alterazzjoni, modifika, jew żidiet jew tħassir għal kwalunkwe xogħol tal-Proġett Gutenberg™, u (c) kwalunkwe Difett li tikkawża.
+
+Taqsima 2. Informazzjoni dwar il-Missjoni tal-Proġett Gutenberg™
+
+Il-Proġett Gutenberg™ huwa sinonimu mad-distribuzzjoni bla ħlas ta’ xogħlijiet elettroniċi f’formati li jinqraw mill-akbar varjetà ta’ kompjuters inklużi kompjuters skaduti, qodma, ta’ età medja u ġodda. Jeżisti minħabba l-isforzi ta’ mijiet ta’ voluntiera u donazzjonijiet minn nies f’kull qasam tal-ħajja.
+
+Il-voluntiera u l-appoġġ finanzjarju biex jipprovdu lill-voluntiera bl-għajnuna li jeħtieġu huma kritiċi biex jintlaħqu l-għanijiet tal-Proġett Gutenberg™ u jiġi żgurat li l-kollezzjoni tal-Proġett Gutenberg™ tibqa’ disponibbli b’mod liberu għall-ġenerazzjonijiet li ġejjin. Fl-2001, il-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg inħolqot biex tipprovdi futur sigur u permanenti għall-Proġett Gutenberg™ u l-ġenerazzjonijiet futuri. Biex titgħallem aktar dwar il-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg u kif l-isforzi u d-donazzjonijiet tiegħek jistgħu jgħinu, ara t-Taqsimiet 3 u 4 u l-paġna ta’ informazzjoni tal-Fondazzjoni fuq www.gutenberg.org.
+
+Taqsima 3. Informazzjoni dwar il-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg
+
+Il-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg hija korporazzjoni edukattiva 501(c)(3) mingħajr skop ta' qligħ organizzata taħt il-liġijiet tal-istat ta 'Mississippi u mogħtija status eżenti mit-taxxa mill-Internal Revenue Service. L-EIN tal-Fondazzjoni jew in-numru ta' identifikazzjoni tat-taxxa federali huwa 64-6221541. Il-kontribuzzjonijiet lill-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg huma deduċibbli mit-taxxa sal-limitu kollu permess mil-liġijiet federali tal-Istati Uniti u l-liġijiet tal-istat tiegħek.
+
+L-uffiċċju tan-negozju tal-Fondazzjoni jinsab fi 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Links ta' kuntatt bl-email u informazzjoni ta' kuntatt aġġornata jistgħu jinstabu fuq il-websajt tal-Fondazzjoni u l-paġna uffiċjali fuq www.gutenberg.org/contact
+
+Taqsima 4. Informazzjoni dwar Donazzjonijiet lill-Fondazzjoni Arkivju Letterarju tal-Proġett Gutenberg
+
+Il-Proġett Gutenberg™ jiddependi fuq u ma jistax jgħix mingħajr appoġġ pubbliku mifrux u donazzjonijiet biex iwettaq il-missjoni tiegħu li jżid in-numru ta 'dominju pubbliku u xogħlijiet liċenzjati li jistgħu jitqassmu liberament f'forma li tinqara mill-magni aċċessibbli mill-akbar firxa ta' tagħmir inkluż tagħmir skadut. Ħafna donazzjonijiet żgħar ($ 1 sa $ 5,000) huma partikolarment importanti biex jinżamm status eżenti mit-taxxa mal-IRS.
+
+Il-Fondazzjoni hija impenjata li tikkonforma mal-liġijiet li jirregolaw il-karitajiet u d-donazzjonijiet tal-karità fil-50 stat tal-Istati Uniti. Ir-rekwiżiti ta' konformità mhumiex uniformi u jeħtieġ sforz konsiderevoli, ħafna burokrazija u ħafna ħlasijiet biex jintlaħqu u tlaħħaq ma' dawn ir-rekwiżiti. Aħna ma nitolbux donazzjonijiet f'postijiet fejn ma nkunux irċevejna konferma bil-miktub ta' konformità. Biex TIBGĦAT DONAZZJONIJIET jew tiddetermina l-istatus ta' konformità għal kwalunkwe stat partikolari żur www.gutenberg.org/donate .
+
+Filwaqt li ma nistgħux u ma nitolbux kontribuzzjonijiet minn stati fejn ma nkunux issodisfajna r-rekwiżiti ta’ solleċitazzjoni, ma nafu bl-ebda projbizzjoni li naċċettaw donazzjonijiet mhux mitluba minn donaturi fi stati bħal dawn li javviċinawna b’offerti ta’ donazzjoni.
+
+Donazzjonijiet internazzjonali huma aċċettati bi grat, iżda ma nistgħu nagħmlu l-ebda dikjarazzjoni dwar it-trattament tat-taxxa tad-donazzjonijiet riċevuti minn barra l-Istati Uniti. Il-liġijiet ta' l-Istati Uniti waħedhom jgħajtu lill-istaff żgħir tagħna.
+
+Jekk jogħġbok iċċekkja l-paġni web tal-Proġett Gutenberg għal metodi u indirizzi ta’ donazzjoni attwali. Id-donazzjonijiet huma aċċettati f'numru ta' modi oħra inklużi ċekkijiet, ħlasijiet onlajn u donazzjonijiet bil-kards ta' kreditu. Biex tagħti donazzjoni, jekk jogħġbok żur: www.gutenberg.org/donate.
+
+Taqsima 5. Informazzjoni Ġenerali Dwar ix-xogħlijiet elettroniċi tal-Proġett Gutenberg™
+
+Il-Professur Michael S. Hart kien l-oriġinatur tal-kunċett tal-Proġett Gutenberg™ ta’ librerija ta’ xogħlijiet elettroniċi li jistgħu jinqasmu liberament ma’ kulħadd. Għal erbgħin sena, huwa pproduċa u qassam eBooks tal-Proġett Gutenberg™ b'netwerk ta' appoġġ volontarju biss.
+
+L-eBooks tal-Proġett Gutenberg™ ħafna drabi huma maħluqa minn diversi edizzjonijiet stampati, li kollha huma kkonfermati bħala mhux protetti bid-drittijiet tal-awtur fl-Istati Uniti sakemm ma jkunx inkluż avviż dwar id-drittijiet tal-awtur. Għalhekk, mhux neċessarjament inżommu eBooks f'konformità ma 'xi edizzjoni tal-karta partikolari.
+
+Ħafna nies jibdew fil-websajt tagħna li għandha l-faċilità ewlenija ta 'tfittxija PG: www.gutenberg.org .
+
+Din il-websajt tinkludi informazzjoni dwar il-Proġett Gutenberg™, inkluż kif tagħmel donazzjonijiet lill-Fondazzjoni tal-Arkivju Letterarju tal-Proġett Gutenberg, kif tgħin fil-produzzjoni tal-eBooks ġodda tagħna, u kif tabbona man-newsletter tal-email tagħna biex tisma’ dwar eBooks ġodda.
+

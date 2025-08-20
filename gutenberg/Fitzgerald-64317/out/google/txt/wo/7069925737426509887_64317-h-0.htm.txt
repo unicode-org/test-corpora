@@ -1,0 +1,634 @@
+Projet Gutenberg eBook bu Gatsby bu Mag bi
+
+Projet Gutenberg eBook bu Gatsby bu Mag bi
+
+Ebook bii ku nekk mën nako jëfandikoo fépp fu mu mëna nekk ci Etats Unis ak ci yeneen barab yu bari ci àdduna bi te kenn duko fay, te daanaka amul benn tënk. Mën nga ko kopie, jox ko wala nga jëfandikoowaat ko ci anam wu méngoo ak sàrti Licence Projet Gutenberg biñ boole ci ebook bii wala ci net bi ci www.gutenberg.org . Sudee nekkoo ci Etats Unis, fàww nga xoolaat yooni réew mi nga nekk balaa ngay jëfandikoo téere elektronik bii.
+
+Titre : Gatsby bu Mag bi
+
+Auteur : F. Skott Fitzgerald
+
+Bisu génn : 17 saŋwiye 2021 [ebook #64317] Biñu mujjee yeesal: 26 saŋwiye 2025
+
+Làkk : Àngle
+
+Crédit yi : Alex Cabal moo ko defar ngir projet Standard Ebooks, dafa sukkandikoo ci benn transkripsioŋ buñ defaree projet Gutenberg Australie.
+
+*** TÀMBALI BI GUTENBERG GATSBY BU MÀGG BI ***
+
+Gatsby bu Mag bi ci F. Skott Fitzgerald
+
+Ëmbiit li
+
+man
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+Benn yoon ngir Zelda
+
+Soo noppee nga sol mbaxana wurus bi, su ko neexee;
+
+Soo mënee rebondir lu kawe, rebondil ko itam,
+
+Ba muy yuuxu “Mbëggeel, mbaxana wurus, bëgg-bëgg bu kawe,
+
+Dama wara am la!”
+
+Thomas Parke d'Invilliers
+
+man
+
+Bi may gëna ndaw, sama pàppa daf ma jox ay xelal yoo xamni booba ba leegi maa ngi ciy xalaat.
+
+Muni ma, "Saa yoo bëggee ŋàññi kenn, fàttaliku ni nit ñi ci àdduna bi amul li nga am ci yaw."
+
+Mu waxul lenn, waaye saa yu nekk dañu daan jokkoo ci anam wu nëbbu, te xamnaa ni limu bëggoon wax moo ëpp loolu. Kon damay bëgga tëye bépp àtte, muy jikko ju ubbil ma nature yu bari yu bëgga xam, ba noppi tax ma nekk victime bu bari ay veteran bores. Xalaat bu jaarul yoon dafay gaawa gis ak tënk boppam ci jikko ju baax ji su feeñee ci nit ku baax, moo tax mu dem ba ci universite ñu jiiñ ma ni politik laa, ndax xamoon naa naqar yu nëbbu yu nit ñu ñaaw, ñu xamul. Li gëna bari ci wóolu yi ma doon wër, barina lu may def ni damay nelaw, jaaxle, wala nekk lu woyof luy bañ, ginaaw bima gisee ci yenn màndarga yu wóorul ni amna feeñu bu xóot buy yëngu ci horizon bi; ndax li xale yu góor yi di fësal ci seen biir, wala kàddu yi ñu leen di fësalee, dañuy faral di nekk ay plagiat, te dañuy yàqu ci ay mbir yu leer. Teg àtte yi, yaakaar gu amul àpp la. Ba leegi damay ragal ñàkk dara su ma fàtte ni, ni ko sama pàppa waxee ci xol bu neexul, te maa ngi koy baamtu ci xol bu neexul, yëg-yëgu njubte yu am solo yi dañuy xaajaloo ci anam wu wuute ci juddu.
+
+Te ginaaw bima gëmee sama muñ ci anam wii, ma ñëw ci nangu ni amna àpp. Jëf mën na nekk ci kaw xeer wu dëgër wala ci tool yu tooy, waaye ginaaw benn poñ, faale wuma luñu ko tabax. Bima jogee penku ci lolli gi weesu, yëg naa ni bëggoon naa àdduna bi nekk ci uniforme ak ci xeetu xel mu dal ba fàww; Bëggatuma woon tukki yu bari coow ak gis-gis yu am solo ci xol doomu aadama. Gatsby kese, waa ji jox turam ci téere bii, moo mucc ci sama gis-gis—Gatsby, moo màndargaal lépp luma réccu te kenn mënu la wax. Sudee nit ki dafay nuru ay yëngu-yëngu yu am solo, kon amna lu rafet ci moom, muy yëg-yëg bu gëna rëy ci dige yu dundu, melni dafa bokk ci benn ci masin yu xarañ yiy bind suuf suy yëngu fukki junni kilomeetar ci sori. Tontu boobu amul lenn lumuy lëkkale ak impressionability flabby bi ñuy jox ngor ci turu "temperament creatif" - kado bu amul fenn la woon ngir yaakaar, waajal mbëggeel buma musul gis ci keneen nit te nuruwul ni duma ko gisati. Déedet—Gatsby mujjee nekk lu baax ci njeexte li; mooy li Gatsby dundu, pënd bu tilim bi doon féey ci gémmiñam yi mu tëj sama bëgg-bëgg ci naqar yu metti yi ak bànneexu nit ñi ci diir bu gàtt.
+
+Sama famiy nit ñu siiw lañu, am xaalis ci dëkk bii di Moyen Ouest defna ñatti jikkoom. Carraways dañu melni benn clan, te amnanu cosaan ak aada ni nu juddoo ci Dukes of Buccleuch, waaye ki sos sama lignée mooy rakk sama maam, mu ñëw fi ci juróom ñatti fukki at ak benn, yónnee fa wuutukat ci Geer Siwil, ba noppi tàmbali liggéeyum hardware ci oto bu sama pàppa tay.
+
+Musu ma gis sama ndijaay bu mag bii, waaye dama wara niru ak moom—maa ngi koy méngale ak tablo bu dëgër bi ñu takk ci biro sama pàppa. Ci atum 1915 laa jeexal sama njàng ci New Haven, di ñatti fukki at ginaaw sama pàppa, ci diir bu gàtt ma bokk ci migration Teutonic bu yeex bi ñuy woowe Xeex bu Mag bi. Ma kontaan lool ci counter-raid bi ba ma dellusi sama xol jeex. Moyen Ouest warul nekk barab bu tàng ci àdduna bi, waaye leegi dafa melni barab bu xawa yàqu ci univers bi—ci noonu ma jël dogal dem Penku ngir jàng liggéeyu bond yi. Képp ku ma xamoon a ngi ci liggéeyum bond, kon jàpp naa ni mën na jàppale beneen góor bu sësul. Samay tànta ak ndijaay yépp waxtaan nañu ci melni dañu may tànn ekol buy waajal jàngi, ñu mujjee ma wax, “Lu tax—waaw,” ak kanam yu tiis, yu xawa sax. Baay nangu na may may xaalis ci diiru benn at, ginaaw ay yeexal yu bari ma ñëw Penku, ba fàww, ma xalaat, ci pringtemps bu ñaar fukki ak ñaar.
+
+Li gënoon am solo mooy wut néeg ci ville bi, waaye jamono jooju tàngoor la woon, te daa jota génn ci réew mu bari gazon yu yaatu ak garab yu baax, kon bi benn xale bu góor ci biro bi digal ñu bokk dëkkuwaay ci benn ville bu nit ñi di daje, dafa melni xalaat bu baax. Mu gis kër gi, ap bungalow bu ñu defaree karton, muy juróom ñatti fukki waxtu ci weer wi, waaye ci mujjentalu simili bi, liggéeyukaay bi daal di koy sant mu dem Washington, man kese ma dem ci àll bi. Amoon naa xaj—maa ngi ko yor ay fan yu néew ba mu daw—ak benn Dodge bu mag ak benn jigéen bu waa Finlande, mu defar sama lal, togg sama ndékki, di muuñ ci boppam xam-xam bu waa Finlande ci kaw fuur bi.
+
+Maa ngi nekkoon ci wéet benn bis wala lu ko gëna néew, ba ci benn suba, waa ju ma gëna yegsi, daal di may gaare ci tali.
+
+"Nooy def ba yegg ci village West Egg?" mu laaj ak xol bu neexul.
+
+Ma wax ko. Bi may dox, dootu ma wéet. Man guide laa woon, nit kuy wut yoon, nekkoon kolon bu njëkk. Daf ma jox moom sa bopp ci dëkkandoo yi.
+
+Kon ak jant bu tàng bi ak xob yu bari yiy màgg ci garab yi, ni mbir yi di màggee ci filmu yu gaaw yi, ma gëmoon ni dundu gi mingi tàmbaliwaat ci ete bi.
+
+Amoon na lu bari luñu wara jàng, lu ci melni, ak wérgi-yaram wu baax wu bari lool wuñu wara génne ci ngelaw lu ndaw luy dundal ngelaw li. Ma jënd fukk ak ñaari téere ci wàllu bànk, leble ak dugal xaalis, ñu taxaw ci sama etaser ñu xonk ak wurus melni xaalis bu bees bu bawoo ci mint, dige ni dina ñu fësal sekkere yu leer yooyu Midas ak Morgan ak Maecenas kese ñoo ko xam. Ak yéene naa jàng yeneen téere yu bari ginaaw loolu. Bi may jàngi universite, dama daan gëna jàng bind, benn at dama bind ay editorial yu am solo te leer ci Yale News, leegi dama nara delloosi mbir yu mel noonu ci sama dundu, nekkaat ki gëna néew doole ci specialist yépp, "nit ku mat sëkk." Lii epigram rekk la—suñu xoolee dundu gi ci benn palanteer, ginaaw lépp.
+
+Dama mujjee luwe kër ci benn ci dëkk yi gëna doywaar ci Amerique du Nord. Moo nekkoon ci ile bu sew bu bari coow, bu yam ci penku New York—ak foofu la am, ci yeneen mbir yu yéeme, ñaari xeeti suuf yu wuute ak yeneen yi. mile ci dëkk bi, ñaari nen yu mag, yu nuróo ci contour te ñu tàqale leen ci benn bay bu rafet, ñu génn ci ndox mu xorom mi gëna yar ci hemisphere bu bëtu Soow, barnyard bu tooy bu Long Island Sound. Duñu oval yu mat sëkk—ni nen bi ci jaar-jaaru Columbus, ñoom ñaar ñépp dañu dagg ci catu barab bi ñuy laal—waaye seen nuru yaram dafa wara nekk luy yéem ba fàww ci gull yiy naaw ci kaw seen bopp. Ngir ñi amul laaf, li gëna yéeme mooy seeni wuute ci lu nekk ludul ci jëmm ak dayo.
+
+Maa ngi dëkkoon ci West Egg, di—waaw, di barab bi gëna néew luñu koy jëfandikoo ci ñaar ñi, waaye lii tag bu gëna suufe la ngir fësal wuute gi doywaar te baña tuuti ci seen biir. Sama kër mingi woon ci catu nen bi, juróom ñatti fukki meetar ci Sound, mu nekkoon ci diggante ñaari barab yu rëy yu ñuy luwe fukk ak ñaar wala fukk ak juróomi junni ci sesoŋ bi. Benn bi ci sama ndeyjoor nekkoon na lu rëy lool ci anam wumu mëna doon, muy nuru benn Hôtel de Ville ci Normandie, am tour ci genn wet gi, muy nuru lu bees ci suufu sikkim bu woyof bu am ivy bu ñor, ak piscine marbre, ak lu ëpp ñeent-fukki ektaari gazon ak jardin. Këru Gatsby la woon. Wala, ginaaw xamuma woon M. Gatsby, kër gu mag la woon gu góor gu tuddu noonu dëkkoon. Sama kër daa melni luy metti bët, waaye bët bu ndaw la woon, te kenn mënu la woon xool, moo tax ma mëna gis ndox mi, gis tuuti gason sama dëkkandoo, ak jegewaale bu neex bi am ci ay milioŋeer, lépp ci juróom ñatti fukki dolaar weer wu nekk.
+
+Ci wetu booru courtesy bay, palaas yu weex yu East Egg yi dañuy melax ci ndox mi, te taarixu ete bi mingi tàmbali ci guddi gi ma dawal foofu ngir reer ak Tom Buchanans. Daisy mooy sama ñaareelu cousin biñu ko dindi, te xamoon naa Tom ci universite. Ginaaw xare bi, ma nekk ak ñoom ñaari fan ci Chicago.
+
+Jëkëram, ci biir ay mbir yu bari yu mu def ci yaram, nekkoon kenn ci ñi gëna am doole ci ñi musa football ci New Haven - nit ku siiw ci réew mi ci anam wumu mëna doon, kenn ci góor ñiy yegg ba yegg ci xarañteef bu gàtt ci ñaar fukki at ak benn ba lépp ginaaw ga dafay nuru anticlimax. Mbokkoom amoon nañu xaalis bu bari - ba ci universite, moom sa bopp ci xaalis nekkoon na luñuy xas - waaye leegi dafa bàyyi Chicago ñëw penku ci anam wu gëna xëcc sa ngelaw: ci misaal, dafa indi ay poney polo yu bawoo Lake Forest. Yàgg naa xam ni nit ku nekk ci sama jamono amoon na xaalis bu doy ngir mëna def loolu.
+
+Xamuma lu tax ñu ñëw penku. Def nañu benn at ci France te kenn xamul luko waral, ñu daal di dem fépp fu nit ñi daan fowee polo, bokk am xaalis. Daisy wax ci telefon ni lii ab toxu bu nara yàgg la, waaye gëmu ma ko—amul woon benn gis-gis ci xolu Daisy, waaye yëg naa ni Tom dina wéy di wër, ak tuuti naqar, jafe-jafe yu mag yi ci benn match futbal buñu dul delloo.
+
+Ci noonu la amee ci benn guddi, ngelaw lu tàng, ma dawal ba ci East Egg ngir gise ak ñaari xarit yu yàgg yu ma xamul woon dara. Seen kër rafetoon na lool nimu ma yaakaare woon, muy kër bu mag bu weex ak xonk bu waa Georgie Kolonial tabaxoon, di xool ci géej gi. Gason bi tàmbali ci tefes gi, daw jubal ci buntu kër ga, di tëb ci kaw reloj yi ak doxantu brik yi ak jardin yu tàng yi, mu dem ba yegsi ci kër gi, mu yéeg ci wet gi ci garabi reen yu leer, melni dafa joge ci dooley dawam. Benn palanteer bu français moo ko dagg ci kanam gi, di melax leegi ak wurus buy feeñ, ubbeeku bu baax ci ngelaw lu tàng li ci boori tisbaar bi, Tom Buchanan soloon yéere dawal taxaw di tàqale ay tànk ci porche bi ci kanam.
+
+Bimu nekkee New Haven ba leegi mingi soppiku. Leegi góor gu dëgër la woon, am kawar gu ñax, am fan weeri at, am gémmiñam gu dëgër ak jikko ju réy. Ñaari bët yu yànj yu réy ñoo ko jiital ci kanamam, diko jox melokaanu kuy jéng saa yu nekk ci kanam. Ba ci yéere yu jigéen yi mu àndaloon mënu ñu nëbb doole ju rëy ji mu àndaloon ci yaramam, mu melni ku fees ci dàll yu melax yi ba mu laxas buum gi ci kaw, te mën nga gis sidit yu bari yuy yëngu su mbaggam daal di yëngu ci suufu màntoo bu woyof bi. Yaram wu mëna def lu bari la woon—yaram wu metti.
+
+Baatu wax, tenor bu dëgër, yokk ci yëg-yëgu fractiousness bimu doon fësal. Amoon na lu melni xañ pàppa, ba ci nit ñi mu bëggoon—te amoon na góor ci New Haven ñu bañoon limu bëggoon.
+
+Mu melni ku wax ne: “Leegi, bul jàpp ni sama xalaat ci mbir yooyu mooy mujj, ndax dama la gëna am doole, gëna nekk góor.” Nu ngi nekkoon ci benn sosiete senior, te doonte musu nu déggoo, damay faral di yëg ni daf ma nangu te bëgg nama ma bëgg ko ak ay yëg-yëg yu metti, yu amul benn werante.
+
+Nu waxtaan ay simili yu néew ci veranda bi am naaj wu bari.
+
+Muni, "amnaa barab bu baax fii," bëtëm yi di melax fu nekk.
+
+Mu wëlbatima ak benn loxoom, daal di yëngal loxoom bu yaatu ci kanam, boole ci baleem jardin italien bu suux, genn-wàllu hectare rose yu xóot, yu saf, ak gaal gu am bakkan bu snub buy mbëkk maree bi ci tefes gi.
+
+"Demaine moo ko moomoon, waa petroleum bi." Mu wëlbatima, ci anam wu woyof, ci saasi. “Dina nu dugg ci biir.”
+
+Nu dox jaar ci benn hall bu kawe, nu dugg ci barab bu rose bu yànj, palanteer yu français tëju ci biir kër gi ci ñaari catu kër gi. Palanteer yaa ngi ubbeeku, di weex di melax ci ñax mu fere mi ci biti, melni dafay màgg tuuti ci biir kër gi. Benn ngelaw dafa dugg ci biir néeg bi, dugal ay rido ci benn catu bi, genne ko ci beneen catu bi ni ay darapo yu lewet, di leen wëlbatiku ci gato céet bu tàng bi ci plafoŋ bi, ba noppi di laxasu ci kaw tapi bu am melo vin, di ci def lëndëm ni ngelaw li di defee ci géej gi.
+
+Benn mbir kese moo taxawoon ci biir néeg bi, mooy benn kanape bu rëy, ñu tëdd ci kaw ñaari xale yu jigéen melni dañu nekk ci kaw balon buñ ancre. Ñoom ñaar ñépp dañu sol yéere yu weex, seen yéere di yëngu di naaw melni dañu leen naaw ñu dellu ci biir kër gi ab diir. Amaana dama taxaw ab diir di déglu futtu bi ak yëngu-yëngu rido yi ak onku nataal bi ci kuuraŋ bi. Mu am luy yuuxu bi Tom Buchanan tëjee palanteer yi ci ginaaw, ngelaw li daal di jeex ci néeg bi, rido yi ak moket yi ak ñaari xale yu jigéen yi daal di wàcci ndànk ci suuf.
+
+Ki gëna ndaw ci ñoom ñaar gan la woon ci man. Ñu tàllal ko yaram wi yépp ci catu divan bi, amul benn yëngu, sikimam siggil tuuti, melni dafay balanse dara lu nara daanu. Suma gisee ci koñu bëtëm, waxul dara ci loolu—ci dëgg, daanaka daa yéemu ci ni may muuñ di jéggalu ndax lima ko jaaxal ci dugg.
+
+Beneen xale bu jigéen bi, Daisy, jéem na jog—mu jéng tuuti ci kanam ak kanam gu ànd ak konsiëns—mu daal di ree, ree gu ndaw gu ñàkk njariñ, man itam ma ree ba noppi ma ñëw ci biir néeg bi.
+
+"Dama p-paralize ndax bànneex."
+
+Mu reetaanaat, melni dafa wax lu yéeme, ba noppi mu jàpp sama loxo ab diir, xool sama kanam, ni amul kenn ci àdduna bi mu bëgga gis nii. Noonu la amee. Muni ci ay yuuxu ni surnaalu xale bu jigeen bi mooy Baker. (Dégg naa ñu wax ni muuñtu Daisy ngir nit ñi bëgg ko; ŋàññi bu amul benn njariñ bu tax mu baña gëna neex.)
+
+Lumu mëna doon, bëti Miss Baker dañu tàng xol, mu yëngal boppam ci man te kenn xamul, ba noppi mu dellu ginaaw ci saasi—limu doon balance dafa yëngu tuuti, daal di koy tiital. Waaye samay gémmiñ daal di melni jéggalu. Daanaka bépp fësal ni nit ñi mën nañu doylu seen bopp, daf may sargal bu baax.
+
+Ma xoolaat sama cousin, mu tàmbali ma laaj ak baat bu woyof, ànd ak mbégte. Mooy xeetu baat bi nopp di topp ci kaw ak ci suuf, melni kàddu bu nekk dafay boole ay note yuñ dul jogaat ba fàww. Kanamam dafa tiis te rafet ak ay mbir yu leer ci biir, bët yu leer ak gémmiñam gu leer gu ànd ak bëgg-bëgg, waaye amoon na mbégte ci baat bi góor ñi ko toppato jafe woon ñu fàtte: ab way buy forse, ab baat bu woyof "Déglul," ab dige ni defna gay, mbir yu neex ay mbir yu am solo ci diir bu gàtt hociyur ci, ak loolu.
+
+Ma nettali ko ni dama taxawoon benn bis ci Chicago ci sama yoon ngir dem penku, ak ni fukk ak ñaari nit yónnee ma seen mbëggeel.
+
+"Dañu ma namm?" mu jooy ak mbégte.
+
+"Dëkk bi yépp daa ñàkk kenn. Oto yépp ñu ngi pente pënu ginaaw bu cammoy bi ñu ñuul ngir nuru coronu naqar, ñuy jooy guddi gi yépp ci tefesu nord bi."
+
+"Loolu rafet na! Nanu dellu, Tom. Suba!" Ba noppi mu yokk ci lu amul benn njariñ: "Danga wara gis liir bi."
+
+“Bëgg naa ko.”
+
+"Mingi nelaw. Amna ñatti at. Ndax musuloo ko gis?"
+
+"Mës a."
+
+"Waaw leegi danga ko wara gis. Dafa..."
+
+Tom Buchanan mi doon wëréelu ci biir néeg bi, daal di taxaw daal di tëye loxoom ci sama mbagg.
+
+"Looy def, Nick?"
+
+"Man bond laa."
+
+"Kan ak moom?"
+
+Ma wax ko.
+
+Mu tontu ko ni, "Musu ma dégg ñuy wax ci ñoom."
+
+Loolu daf ma soof.
+
+Ma tontu ko ci diir bu gàtt, "Dinga ko def." "Di nga ko am sudee danga dëkk ci penku."
+
+Muni ma, "Oh, dinaa des ci penku, bul jaaxle," ba noppi xoolaat Daisy ba noppi xoolaat ma, melni ku bëgga xam leneen. "Dinaa nekk dof su ma dëkkee feneen."
+
+Ci noonu la Miss Baker niko: "Waawaw!" Ci saasi ma tàmbali wax—mooy baat bimu njëkka wax bima duggee ci néeg bi. Daa melni daf ko yéem niko ma yéem, ndax mu baamtu, yëngu-yëngu yu gaaw, jog taxaw dugg ci néeg bi.
+
+Mu ni, "Dama dëgërul, yàgg naa tëdd ci kanape bi, ba leegi maa ngi fàttaliku."
+
+Daisy tontu ko, "Bul ma xool, maa ngi lay jéema yóbbu New York ci boori tisbaar bi yépp."
+
+"Déedet, jërëjëf," la Miss Baker wax ñeenti koktel yi génne ci pantry bi. "Maa ngi ci tàggat yaram."
+
+Ki ko dalal xool ko ak jaaxle.
+
+"Yaa ngi!" Mu wàcce limu naan melni luy tiflit ci suufu kaaas. "Ni ngay def ba mëna def dara, mënu ma ko."
+
+Ma xool Miss Baker, may xalaat lumu "def." Dama kontaan lool ci xool ko. Xale bu jigéen la woon bu sew, am ween yu ndaw, yor wagon bu jub, mu daan sànni yaram wi ci ginaaw ci mbagg yi ni xale bu góor bu nekk cadet. Bëtëm yu dóomu taal yi naaj wi tàng, xoolaat ma ak yëg-yëg, kanam gu weex, taaru, gu ñàkk mbégte. Leegi daf ma ni ci sama xel, gis naa ko, wala nataalam, fenn bu njëkk.
+
+Muni ma ak xol bu neexul, "Yaa ngi dëkk ci West Egg." "Xamnaa fa ku nekk."
+
+“Xamuma benn...”
+
+"Danga wara xam Gatsby."
+
+"Gatsby?" Daisy laaj. "Waa Gatsby?"
+
+Balaa may tontu ni sama dëkkandoo la, ñu yëgle reer bi; wedging tension loxoom ci suufu sama loxo, Tom Buchanan forse ma génn ci néeg bi melni dafay toxal dame ci beneen kare.
+
+Ñaari xale yu jigéen yi dañu sew, seen loxo tëdd ci seen pooj, ñu jiitu nu ci barab bu am melo rose, ubbeeku ci wetu jant buy so, foofu la ñeenti sonndel di melax ci kaw taabal ji ci ngelaw lu néew li.
+
+" Lu tax sonndel?" Daisy niko, di sëgg. Mu daal di leen dindi ak baraamam. "Ci ñaari ayu-bis, bis bi mooy bis bi gëna gudd ci at mi." Mu xool nu ñépp ak limyéer. "Ndax dangay faral di seetaan bis bi gëna gudd ci at mi ba noppi nga namm ko? Damay faral di seetaan bis bi gëna gudd ci at mi ba noppi nga namm ko."
+
+Miss Baker ni, "Danu wara waajal dara," muy toog ci taabal ji melni kuy tëdd ci lal bi.
+
+Daisy niko, "kon baaxna." "Lu nu nara waajal?" Mu wëlbatiku ci man niko, "Lu nit ñi di waajal?"
+
+Balaa may tontu, bëtëm yi daal di tàng xol, baraam bu ndaw bi dafa ànd ak tiitaange.
+
+"Melokaan!" mu ñaxtu; "Dama ko gaañ."
+
+Nun ñépp nu xool—baat bi dafa ñuul ak baxa.
+
+Muni ma, "Yaw nga ko def, Tom." "Xamnaa ni bëggoo woon, waaye def nga ko. Loolu mooy limay am ci sëy ak ab góor gu ñaaw, ku rëy, nekk xeetu yaram wu rëy, melni..."
+
+Tom niko, "Bañ naa baat 'hulking', doonte damay kaf."
+
+Daisy niko, "Dafa rëy."
+
+Yenn saa mu ak Miss Baker dañu daan waxtaan ci saasi, te kenn duko gis, ba noppi ànd ak kaf gu amul benn werante, lu sedd ni seeni robb yu weex ak seeni bët yu amul benn bëgg-bëgg. Ñu ngi woon fi, te nangu nañu man ak Tom, def ludul jéego yu neex ngir dalal nit ñi wala ñu dalal leen. Xamoon nañu ni reer bi dina jeex ci diir bu gàtt, guddi gi itam dina jeex, ñu bàyyi ko. Wuutewoon na lool ak sowwu jant, fu benn guddi gaawantu ci ay faas dem ba ci njeexteem, ci ay xaar yu metti mbaa ci tiitaange gu rëy ci saa si ci boppam.
+
+"Yaa ngi may yëgloo ni amul siwilisasioŋ, Daisy," laa wax ci sama ñaareelu kaasu claret bu liege waaye gëna yéeme. "Mën ngeen wax ci mbay mi wala lu mell nonu?"
+
+Bëgguma woon wax dara ci kàddu yii, waaye dañu ko jëlee ci anam wuma xamul woon.
+
+Tom niko ak fitna, "Siwilisasioŋ mingi dem ba yàqu." "Dama mujjee nekk nit ku yaakaar lu baax ci mbir yi. Ndax jàng nga téere bii tuddu The Rise of the Colored Empires , bindkat bii di Goddard?"
+
+Mani ko, "Déedet," muy yéemu ci kàddoom.
+
+"Waaw leegi, téere bu baax la, te ku nekk daf ko wara jàng. Li am mooy sudee bàyyi wuñu xel ci nit ñu weex ñi, dina ñu ñàkk seen bakkan ci ndox mi. Lépp ay mbirum science la, te firnde nañu ko."
+
+Daisy ni, "Tom mingi gëna xóot lool," ak kanam gu ànd ak naqar guñu xalaatul woon. "Dafay jàng téere yu xóot yu am kàddu yu gudd ci biir. Lan mooy kàddu yooyu nu..."
+
+Tom niko, "waaw, téere yii yépp ay science lañu," muy xool ko ak xol bu neexul. "Kii defar na mbir yépp. Nun ñooy race bi ëpp doole, nu moytu wala yeneen race yi ñoo yor mbir yi."
+
+Daisy ni ci baat bu woyof, "Danu leen wara dóor," muy xool jant bu tàng bi ak xol bu neex.
+
+"Danga wara dëkk Californie..." Seytu Baker tàmbali wax, waaye Tom daal di koy dagg ndax dafa yëngu bu baax ci toogukaay bi.
+
+"Lii mooy nu waa nordic lanu. Man maa ngi, te yaw nga, te yaa ngi, te..." Ginaaw bimu xalaatee bu baax, mu daal di woo Daisy, mu yëngal boppam tuuti, mu siggiwaat ma. "—Te defar nanu mbir yépp yuy indi siwilisasioŋ—oh, science ak art, ak ñoom seen lépp. Ndax gis nga ko?"
+
+Amoon na lu tiis ci limu bàyyi xelam ci xelam, melni limu àndaloon, gëna tar bu njëkk ba, doyatul woon ci moom. Bi, daanaka ci saasi, telefon bi sone ci biir, majordome bi génn ci porche bi, Daisy daal di jàpp ci dagg gi ci diir bu gàtt, daal di jéem ñëw ci man.
+
+Mu wax ci baat bu woyof, "Dinaa la wax sekkere famiy bi." "Dafay wax ci bakkanu majordome bi. Bëgg nga dégg bakkanu majordome bi?"
+
+"Moo tax ma ñëw ci guddi gi."
+
+"Waaw, du saa yu nekk lay mayordomo; dafa daan nekk poliseer xaalis ci yenn nit ci New York yu amoon serwiisu xaalis buy jël ñaari téemeeri nit. Dafa ko daan polise suba ba guddi, ba mujj tàmbali di laal bakkanam..."
+
+Seytukat Baker dafa wax ni, "mbiri àdduna dafa gëna tar."
+
+"Waaw. Mbir yi dañu gëna tar, ba ci yàgg mu bàyyi liggéeyam."
+
+Ci diir bu gàtt, jant bu mujj bi dafa wàcci ak mbëggeel gu romantik ci kanamam gu leer gi; baat bi daf ma yóbbu ci kanam, may déglu, leer gi daal di ni mes, leer gu nekk bàyyi ko ak réccu gu yàgg, melni xale yuy bàyyi mbedd mu neex ci bëccëg.
+
+Majordome bi daal di dellusi, muuñ lu jege noppu Tom, ci noonu la Tom tilim, dellu ginaaw toogukaay bi, daal di dugg ci biir te waxul dara. Melni ñàkka am luy dundal xolam, Daisy sëggaat ci kanam, baat bi di melax di way.
+
+"Dama bëgg la gis ci sama taabal, Nick. Yaa ngi may fàttali rose, rose bu mat sëkk. Ndax noonu la?" Mu wëlbatiku ci Miss Baker ngir firnde ko: "Rose bu mat sëkk?"
+
+Loolu amul benn dëgg. Duma melni rose bu woyof. Dafa doon extemporize rek, waaye tàngoor wu metti wi dafa doon génn ci moom, melni xolam mingi jéema génn ci yaw, mu nëbbu ko ci benn ci kàddu yu neex yooyu, yu amul noyyig xol. Ci saasi mu sànni napkinam ci kaw taabal ji, daal di jéggalu, daal di dugg ci kër gi.
+
+Man ak Seytu Baker nu xoolante lu gàtt te nu xamni amul benn njariñ. Dama doon waaja wax, mu jog toog niko, “ Sh! ” ak baat buy àrtu. Ñu dégg benn yuuxu bu woyof ci biir néeg bi ci ginaaw, Miss Baker daal di jéema dégg te rus ci dara. Murmur bi di lox ci wetu coherence, mu suux, yéeg ak bànneex, daal di dakkal lëmm.
+
+Ma tàmbali ni, "Mr. Gatsby bi nga wax sama dëkkandoo la..."
+
+"Bul wax. Bëgg naa dégg li xew."
+
+"Amna lu xew?" Ma laaj te amul benn ñaawtéef.
+
+"Danga bëgga wax ni xamoo ko?" Seytukat Baker dafa jaaxle ci dëgg. "Dama jàppoon ni ñépp xam nañu ko."
+
+"Duggukaay."
+
+Muni ak sax, "Lu tax...". "Tom amna jigéen ci New York."
+
+"Am nga jigéen?" Ma baamtu ci lu amul dara.
+
+Soxna Baker yëngal boppam.
+
+"Mën na am xel mu dal te baña woo ko ci waxtu reer. Yaakaar nga loolu?"
+
+Balaa may xam lumuy tekki, dégg naa robb buy yëngu ak dàll der yuy gëdd, Tom ak Daisy daal di toog ci taabal ji.
+
+“Mënu ñu ko woon baña def!” Daisy yuuxuna ak bànneex bu metti.
+
+Mu daal di toog, xool Miss Baker ak xool man, ba noppi mu dellu ni: "Xool naa ci biti ab diir, gis naa ni dafa romantik lool ci biti. Amna picc ci gazon bi, jàpp naa ni nightingale la, mu ñëw ci Cunard wala White Star Line. Mingi way fu sori..." Baatu Tomn' romantik la..."
+
+Muni ma, "dafa romantik lool," ba noppi ni ak tiis: "Sudee ginaaw reer bi leer na, dama bëgga yóbbu la ci géttu baayima yi."
+
+Telefon bi sone ci biir, jaaxle, bi Daisy yëngal boppam ak jom ci Tom, mbir mi ci géttu gétt yi, muy wax ci mbir yépp, ni mes ci jawwu ji. Ci biir fragment yu yàqu yi ci juróomi simili yu mujj yi ñu toog ci taabal ji, maa ngi fàttaliku ni ñu taal sonndel yi, amul benn njariñ, te xamoon naa ni dama bëggoon xool ñépp, te ba noppi moytu bët yépp. Mënu ma woon xam li Daisy ak Tom doon xalaat, waaye gëmu ma ni Seytu Baker, mi melni ku xarañ lool ci lu amul benn werante, mënoon na dindi juroom bi gan gi ci xel mi. Ci yenn nit, mbir mi mënoon na nuru lu jaaxal nit ñi, ndax sama xel mooy woo poliis ci saasi.
+
+Fas yi, jarul ñu wax, waxatu ñu ci dara. Tom ak Miss Baker, ak ay pied yu gudd ci seen biir, doxantu dellu ci biir bibliotek bi, melni dañu nekk ci wetu neew buñ mëna jot, ci noonu ma jéema nuru ku am yéene ak tëx tuuti, ma topp Daisy wër benn caden buy boole veranda yi ak porche bi ci kanam. Ci biir lëndëm gu xóot gi nu toog ñoom ñaar ci kanape buñ defaree ñax.
+
+Daisy dafa jàpp kanamam ci loxoom melni kuy yëg jëmmam ju rafet ji, bëtëm yi dem ndànk dem ci lëndëm gi. Ma gis ni dafa ànd ak yëg-yëg yu metti, ma laaj ko lima yaakaar ni dina nekk ay laaj yuy féexal xolam ci doomam bu jigéen bi.
+
+Mu jekki saa rek niko, "Nick, xamante wunu bu baax." "Doon te ay cousin lanu, ñëwoo ci sama céet."
+
+"Delluwatuma woon ci xare bi."
+
+“Loolu dëgg la.” Mu xalaat bu baax. "Waaw leegi, dundu naa lu metti lool, Nick, te lépp damay réy."
+
+Dafa melni amoon na lu ko waral. Ma xaar waaye waxatu ma lenn, bima fa nekkee ab diir ma dellu ci waxtaanu doomam ak xol bu neexul.
+
+"Dama yaakaar ni dafay wax, ak—lekk, ak lépp."
+
+“Oh, waaw.” Mu xool ma rek. "Déglul Nick, may ma wax la lima waxoon bimu juddoo. Bëgg nga dégg?"
+
+“Bari lool.”
+
+"Dina la wan ni may yëg-yëg ci mbir yi. Waaye, amul benn waxtu ci at yi, Tom xamna fumu nekkoon. Ma yewwoo ci ether bi ak yëg-yëg bu amul benn werante, ma laaj infirmiye bi ci saasi ndax xale bu góor la wala bu jigéen. Muni ma xale bu jigéen la woon, ma wëlbatiku, ' muni, 'kontaan naa bimu nekkee xale bu jigéen, te yaakaar naa ni dina nekk dof—loolu mooy li gëna baax ci àdduna bi, dof bu ndaw bu rafet.'
+
+Mu dellu ni, "Yaakaar naa ni lépp lu bon la." "Ku nekk dafa jàpp loolu—nit ñi gëna xarañ. Te xamnaa loolu . Dem naa fépp, gis naa lépp, def naa lépp." Mu am bëtëm yu ko wër di melax, melni yu Tom, mu reetaan ba noppi ànd ak xol bu neexul. “Sophistike—Yalla, maa ngi sofistike!”
+
+Ci saasi baat bi dagg, bàyyi sama xel, sama ngëm, ma yëg ni limu wax amul benn dëgg. Daf ma jaaxal, melni guddi gi yépp dañu ma def ay pexe ngir xëcc ma yëg-yëg bu ànd ak moom. Ma xaar, gis naa ni ci diir bu gàtt mu xool ma ak muuñam gu mat sëkk ci kanamam gu rafet gi, melni dafa wax ni bokk na ci kuréel gu mag gu am sekkere, muy kuréel gi moom ak Tom bokk.
+
+Ci biir néeg bu xonk bi fees dell ak leeraay. Tom ak Miss Baker dañu toogoon ci ñaari catu kanape bu gudd bi, mu jàngal ko Saturday Evening Post ak kàddu yu kawe — kàddu yi, di yuuxu te kenn du leen wax, ñuy ànd daw ci way wuy féexal xol. Leer làmp bi, leer ci kaw dàll yi, ak kawar gu mboq gi melni xobi lolli gi, di melax ci kaw këyit wi muy wëlbati xët wi ak ay sidit yu sew ci loxoom.
+
+Bi nu duggee mu daal di nu noppi ab diir, siggil loxoom.
+
+Mu daal di sànni magazine bi ci taabal ji ni, "Dina nu wéyal ko ci sunu numéro bi ci topp."
+
+Yaramam daal di yëngu ak wóom buy yëngu, mu jog taxaw.
+
+Muni, "Fukki waxtu la," muy nuru lu fekk waxtu wi ci plafoŋ bi. "Waxtu la xale bu jigéen bu baax bii di tëdd."
+
+Daisy tontu ko, "Jordan mingi dem jouer ci tournoi bi suba, ci Westchester."
+
+“Oh—yaw nga Jor dan Baker.”
+
+Leegi xamnaa li waral kanam gaa ngi melni luñu ma miin—kanamam gu neex gi, xool ma ci nataali rotogravure yu bari yuy wane dundu tàggat yaram ci Asheville ak Hot Springs ak Palm Beach. Déggoon naa ay jaar-jaar ci moom itam, jaar-jaar bu ñaaw, bu neexul, waaye limu doon, yàgg naa ko fàtte.
+
+Muni ma ci kàddu yu woyof, "Nga guddi jàmm." "Yekkal ma ci juróom ñatti waxtu, wala book."
+
+“Soo jog.”
+
+"Dinaa ko def. Guddi gu neex, M. Carraway. Nu gise ci saa si."
+
+Daisy tontu ko, "waawaw dinga ko xam." "Dama jàpp ni dinaa amaale sëy. Deel faral di ñëw, Nick, dinaa la boole... oh... sànni la. Xam nga—maa ngi la tëj ci ay armuwar yu lien, daal di la yóbbu ci géej ci gaal, ak yeneen mbir yu mel noonu..."
+
+Seytukat Baker joge ci eskaal bi wooma, "Nga guddi jàmm." “Dégluma benn baat.”
+
+Tom daal di ni, "Xale bu jigéen bu baax la." "Waru ñu ko bàyyi mu daw wër réew mi ci yoon wii."
+
+"Kan moo ko warul def?" Daisy laaj ak xol bu sedd.
+
+"Njabootam."
+
+"Familam benn tànta la bu am lu tollu ci junniy at. Rax ci dolli Nick moo koy toppatoo, wala book? Ci ete bii dina toog ci biti ci njeexte ayu-bis yu bari. Yaakaar naa ni limu am ci kër gi dina ko amal njariñ."
+
+Daisy ak Tom xoolante ab diir noppi.
+
+"Ndax mingi cosaanoo New York?" Ma laaj ci saasi.
+
+"Dema joge Louisville. Sunu xale yu jigéen yu weex yi ñu ngi ko àndaloon foofu. Sunu jigéen yu weex yu rafet yi..."
+
+"Ndax waxtaan nga ak Nick tuuti ci xol ci veranda bi?" Tom laaj ci saasi.
+
+"Def naa ko?" Mu xool ma. "Daa melni mënu ma fàttaliku, waaye jàpp naa ni waxoon nanu ci kursu Nordic. Waaw, gëm naani waxoon nanu ko. Dafa nuru luy duggu ci sunu kaw te li nga njëkka xam mooy..."
+
+Muni ma, "Nick, bul gëm lépp loo dégg."
+
+Ma tontu ko ni dégguma dara, bima fa nekkee ay simili yu néew ma jog ñibbi. Ñu ànd ak man ñëw ci buntu bi, ñu taxaw ñoom ñaar ci barab bu leer nàññ. Bima taal sama motër, Daisy wooma ni: “Xaaral!
+
+"Dama fàtte laaj dara, te lu am solo la. Dégg nañu ni danga sëy ak ab xale bu jigéen ci sowwu Afrique."
+
+Tom tontu ko ak xol bu neex, "Waawaw la." "Dégg nanu ni danga fiancé."
+
+"Libel la. Dama ñàkk lool."
+
+Daisy ni, "Waaye dégg nanu ko," ba noppi yéem ma ci ubbiwaat ci anam wu melni flër. "Ñetti nit ñoo ko dégg, kon dafa wara nekk dëgg."
+
+Dëgg la dina xam li ñu doon wax, waaye xamuma woon lu bari ci man. Li tax ma ñëw Penku mooy liñu siiwal kilima yi siiwal bann yi. Mën wéy di dem ak sa xarit bu yàgg ndax ay wax-wax, te ci beneen wàll bi, bëgguma woon ñu wax ma ni damay sëy.
+
+Seen bëgg-bëgg daf ma laal lool, tax ñu baña am xaalis bu bari—teerewul, maa ngi jaaxle, maa ngi mer tuuti bi may dawal dem sama oto. Daa melni li Daisy wara def mooy daw génn kër gi, yor xale ci loxoom—waaye daa melni amul woon benn yéene bu mel noonu ci boppam. Tom moom, limu «amoon benn jigéen ci New York» taxul mu yéemu ci limu jàng benn téere. Amna lu ko doon xëcc ci buntu xalaat yu yàgg yi melni limu bëggoon ci yaramam dootul dundal xol bu dëgër bimu àndaloon.
+
+Bi mu demee ba ci ete bi, ci kaw këru tali yi ak ci kanamu garaas yi ci wetu tali, fu ay pompu essence yu bees yu xonk toogoon ci ay piscine yu leer, bima yeggee ci sama estate ci West Egg ma dawal oto bi ci suufu ëtt bi, ma toog ab diir ci kaw benn roller bu ñu bayyi ci ëtt bi. Ngelaw li dafa dem, bàyyi fa guddi gu am doole, leer, laaf yi di tëf ci garab yi ak yuuxu organ yuy wéy di yuuxu ndax souffleur bu fees dell ci suuf si di naaw mbott yi fees dell ak dundu. Silwetu muus miy yëngu dafa doon yëngu ci leeralu weer wi, ma wëlbati sama bopp ngir seetaan ko, ma gis ni nekku ma man kese, juróom ñatti fukki pied ci ginaaw, amna nit ku génn ci lëndëmu këru sama dëkkandoo, taxaw ak loxoom ci poos yi di xool poobar bu xaalis bi ci biddiiw bi. Amna lu nekk ci doxin yu woyof yi ak tànkam yi taxaw bu baax ci kaw gazon bi, loolu dafay tekki ni M. Gatsby ci boppam la woon, génn ngir xool ban wàll la ci sunu asamaan yi ci dëkk bi.
+
+Ci laa mujjee woo ko. Seytukat Baker waxoon na ci moom bi ñuy reer, te loolu mën nañu ko xamal. Waaye woowuma ko, ndax ci saasi mu may wax ni bëgg naa nekk moom kese—mu tàllal loxoom ci ndox mu lëndëm mi ak anam wu yéeme, te ginaaw bima ko soriwoon, mënoon naa wax ni dafay lox. Ci sama xel ma xool géej gi—te gisuma lenn ludul benn làmp bu wert, simili ak fu sori, mën nekk muy njeextalu dock. Bima seetaat Gatsby mu réer, ma nekk man kese ci lëndëm gu amul dal gi.
+
+II
+
+Lu tollu ci genn-wàll diggante West Egg ak New York, yoonu oto bi dafa gaaw dem ci yoonu train bi, daal di daw ci wetam lu tollu ci 1/4 mile, ngir mëna dem fu sori ci benn barab bu amul nit. Lii valé bu bari dóóm la—tool bu rafet, fu dóóm yi di màgg ni blé, nekk ay ridge ak ay tundu ak ay jardin yu doywaar; fu dóóm yi jël jëmmu kër yi ak saxaar yi ak saxaar siy yéeg, ak mujjee, ak coono bu ëpp, nit ñu dóomu taal yu dóomu taal, ñuy daw ndànk ba noppi di daanu ci ngelaw li. Yenn saa yi, ay oto yu dóomu taal dañuy jaar ci piste buñu dul gis, ñuy génne bruit bu metti, ba noppi ñu noppalu, ci saasi góor ñu dóomu taal ñu dajaloo ak spade yu am plomb, ñuy yëngal niir bu kenn mënul dugg, buy nëbb seen liggéey yu lëndëm yi ci sa gis-gis.
+
+Waaye ci kaw suuf su dóomu taal si ak pënd bu lëndëm biy wal bu baax ci kawam, nga gis, ci diir bu gàtt, bëti Doktër T. J. Eckleburg. Bëti Doktër T. J. Eckleburg dañu baxa ba noppi rëy—seen retine matna benn meetar ci kawewaay. Dañu xool ci kanam gu amul benn kanam, waaye, ci lu moy loolu, ci ñaari lunette yu nete yu rëy yuy romb bakkan bu amul. Daa melni ab wag bu ñaaw bu benn oculist moo leen taxawal foofu ngir gëna am doole ci liggéeyam ci borough of Queens, ba noppi mu suul boppam ci aay ba fàww, wala mu fàtte leen, dem feneen. Waaye bëtëm yi dañu lëndëm tuuti ndax bis yu bari yu amul peinture, ci suufu jant ak taw, ñuy xool ci kaw barab bu sell bi ñuy sànnee mbalit mi.
+
+Dex gu ndaw gu tass moo ko wër ci genn wet gi, su pont bi yeggee ngir gaal yi jàll, kiliyaan yi ci biir saxaar yi ñuy xaar mën nañu xool barab bu tiis bi lu tollu ci genn-wàll. Dafay faral di taxaw fa benn simili, moo tax ma njëkka daje ak soxna Tom Buchanan.
+
+Li tax mu am benn, fépp fuñu ko xamee, dañu ko doon fësal. Xamitam yi meroon nañu lool ci limu ànd ak moom dem ci café yu siiw yi, bàyyi ko ci taabal, di wëréelu, di waxtaan ak képp ku mu xamante ak moom. Doonte bëggoon naa gis ko, bëgguma woon daje ak moom—waaye daje naa ko. Benn ngoon ma ànd ak Tom yéeg ci saxaar gi dem New York, bi nu taxawee ci wetu dóóm yi mu tëb taxaw, jàpp sama conc, daal di may forse génn ci oto bi.
+
+Mu dellu ni, "Noo ngi wàcci." "Bëgg naa nga daje ak sama xale bu jigéen."
+
+Dama yaakaar ni amna xaalis bu bari ci añ bi, te fasoon yéene ànd ak sama waa kër nekk ci fitna. Lima xalaat ni ci Dibéer ci ngoon amul lenn luma gëna mëna def.
+
+Ma topp ko jàll ci ñag bu woyof buñ weexal, nu dox dellu ginaaw téemeeri meetar ci tali bi, Doktër Eckleburg di nu xool bu baax. Benn tabax biñu doon gis mooy benn bloku brik bu nete bu toog ci wetu suuf si, muy nuru Mbedd bu mag bu ko jaxasoo, te nekkul ci wetu dara. Benn ci ñetti bitik yi mu amoon ñu ngi ko doon luwaase, beneen bi resto bu ñuy liggéey guddi gi yépp, ñu jege ko ci yoon wu bari dóóm; Ñatteel ba mooy garage— Defar. George B. Wilson. Oto yuñ jënd ak jaay. —ma topp Tom dugg ci biir.
+
+Ndax biir ga amul woon lenn ludul dara; Benn oto biñu doon gis mooy benn Ford bu daanu ci benn koñ bu lëndëm. Dama niwoon ci sama xel ni lëndëm garage bi dafa wara nekk lëndëm gu silmaxa, te apartmaa yu rafet te romantik dañu nëbbu ci kaw, bi boroom garage bi ci boppam feeñee ci buntu benn biro, di fomp ay loxoom ci benn piyeesu mbalit. Nit ku weex la woon, amul ngëm, daa ñàkk deret, ba noppi taaru tuuti. Bimu nu gisee, bëtëm yu baxa yu leer yi daal di tàmbali ànd ak yaakaar.
+
+Tom niko, "Nanga def, Wilson, góor gi," daal di koy fëgg ci mbagg ak mbégte. "Nu mbir yi di def?"
+
+Wilson tontu ko ni, "mënu ma ñaxtu." "Kañ ngama nara jaay oto boobu?"
+
+"Ayu-bis bii di ñëw; amnaa sama waajur mu liggéey ci."
+
+"Dafay liggéey ndànk, wala book?"
+
+Tom niko, "déedet, xamul ko." "Te sudee noonu nga ko jàppee, amaana li gënoon mooy ma jaay ko feneen."
+
+Wilson daal di wax ci saasi, "Bëgguma wax loolu." "Lima bëggoon mooy..."
+
+Baatoom daal di jeex, Tom xool garage bi yépp ak xol bu neexul. Ci noonu ma dégg ay tànk ci kaw eskaal bi, ci saasi ma gis jëmmu jigéen ju dëll, daal di tëj leeralu buntu biro bi. Mingi amoon fan weeri at ci diggu at, nekkoon lu am doole, waaye mingi yor yaram wi ci anam wu neex, ni ko yenn jigéen di defee. Kanamam, ci kaw robb bu am ay rëdd yu ñu defaree crêpe-de-chine bu baxa bu lëndëm, amul benn facet wala taar buy melax, waaye amna luy dundal ci saasi lu melni neer yu yaram wi dañuy wéy di tàkk. Mu daal di muuñ ndànk, daal di jaar ci biir jëkëram melni ku takkandeer, daal di laxasu loxo Tom, xool ko bët yu xonk. Ba noppi mu tooyal ay bëtëm, ba noppi wax ak jëkëram ci baat bu woyof, te wëlbatikuwul.
+
+"Wël ay toogukaay, lu tax doo jël, suko defee ku nekk mëna toog."
+
+Wilson nangu ci saasi ni, "Oh, dëgg la," ba noppi mu dem ci biro bu ndaw bi, daal di jaxasoo ci saasi ak melo simin bi ci kuur yi. Pëndu dóóm bu weex dafa muur kostumam bu ñuul bi ak kawaram gu lewet gi, muur lépp lu nekkoon ci wetam—bamu dess jabaram ji jegewoon Tom.
+
+Tom niko, "Bëgg naa la gise." "Yeeg ci saxaar gi ci topp."
+
+"Baax na."
+
+"Dinaa la dajeel ci kiosku surnaal bi ci suuf."
+
+Ndaw si yëngal boppam niko, daal di genn ci wetam, bi George Wilson génnee ci buntu biroom ak ñaari toogukaay.
+
+Nu xaar ko ci tali bi, kenn gisu ko. Bis yu néew la woon balaa ñeenteelu weeru sulet, mu am xale bu Italie bu dóomu taal bu sew, di teg ay torpedo ci raay bi.
+
+Tom daal di weccoo kanam ak Doktër Eckleburg niko, "Barab bu bon la, wala book."
+
+"Doy waar."
+
+"Dafa baax ci moom mu daw."
+
+“Ndax jëkëram nanguwul?”
+
+"Wilson? Dafa yaakaar ni dafa dem gise ak maggam bu jigéen ci New York. Dafa dof ba xamul ni mingi dundu."
+
+Ci noonu man ak Tom Buchanan ak doomam ñu ànd dem New York—wala nu bokkul woon, ndax Mme Wilson dafa toogoon ci beneen oto ci anam wu nëbbu. Tom dafa yeexal loolu ci yëg-yëgu East Eggers yi mën nekk ci biir saxaar gi.
+
+Mu soppi robb bi mu sol muslin bu maron, mu tàllal ko ci pooj yu yaatu yi, bi Tom jàppale ko mu yegg ci podium bi ci New York. Mu dem ci kiosku surnaal bi mu jënd benn Town Tattle ak benn magazine buy nettali nataal yuy yëngu, ci farmasi bi ci gaaraas bi mu jënd benn krem ​​bu sedd ak benn flakon bu ndaw bu def parfum. Ci kaw, ci dawal gu neex gi, mu bàyyi ñeenti taxi ñu dem balaa muy tànn beneen bu bees, melo lavande ak tapiserie bu dóomu taal, ci noonu lanu génnee ci massu garaas bi dem ci jant bu tàng bi. Waaye ci saasi mu wëlbatiku ci palanteer bi, daal di jéng kanam, fëgg weer wi ci kanam.
+
+Mu wax ak xol bu féex, "dama bëgga jënd benn ci xaj yooyu." "Dama bëgga jënd benn ngir apartmaa bi. Dañu baax ñu am xaj."
+
+Nu jàppale ci benn góor gu dóomu taal bu niru ak John D. Rockefeller ci anam wu amul benn njariñ. Ci biir benn ndab buñu jëlee ci baat bi, mu am fukk ak ñaari kuti yu ndaw yu ñu xamul raas bi.
+
+"Ban xeet lañu?" Madam Wilson laaj ko ak cawarte, bimu yeggee ci palanteeru taxi bi.
+
+"Xeet yépp. Ban xeetu nga bëgg, soxna si?"
+
+"Bëgg naa jënd benn ci xaju poliis yooyu, jàpp naa ni amoo xeetu xaju yooyu?"
+
+Ku góor ki xool ci biir pañe bi ak sikki-sakka, daal di dugg ci loxoom daal di génne benn, di yëngu, jàpp ko ci ginaaw baat bi.
+
+Tom niko, "Lii du xaju poliis."
+
+Ku góor ki niko, "déedet, xaju poliis la woon." "Dafa gëna melni Airedale." Mu daal di jàll loxoom ci kaw mbubb mu maroŋ wiñ raxas ci ginaawam. "Xool màntoo bii. Amna màntoo. Xaj la bu lay tere sedd."
+
+Mme Wilson niko ak mbégte, "dama yaakaar ni lu rafet la." "Ba ñaata la?"
+
+"Xaj boobu?" Mu xool ko ak yéemu. "Xaj boobu dina la ko fay fukki dolaar."
+
+Airedale bi - amul benn sikki-sakka amoon na Airedale bu ko jaaxal, doonte tànk yi dañu weex ba yéeme - mu soppi loxo daal di toog ci sëtu Mme Wilson, mu daal di laxasu màntoo bi mënul yàqu ak bànneex.
+
+"Xale bu góor la wala bu jigéen?" mu laaj ak xol bu woyof.
+
+"Xaj boobu? Xaj boobu xale bu góor la."
+
+Tom ni ko, "dafa soxor." "Lii sa xaalis la, demal nga jënd yeneen fukki xaj."
+
+Nu dawal ba ci Fifth Avenue, tàngoor te nooy, daanaka pastoral, ci Dibéer ci ngoon. Duma jaaxal su ma gisee mbooloo mu bari ci baayima yu weex yi wëlbatiku ci koñ bi.
+
+Mani ko, "Xaaral, fàww ma bàyyi la fii."
+
+Tom niko, "déedet, xamoo ko." "Myrtle dina gaañu soo ñëwul ci apartment bi. Ndax doo ko gaañ, Myrtle?"
+
+Muni ma, "Nanga ñëw." "Dinaa woo sama mag ju jigéen Catherine ci telefon. Nit ñi war nañu ko xam dañu wax ni rafet na lool."
+
+“Bëgg naa ko, waaye...”
+
+Nu dem, daggwaat ci kaw Park bi jubal ci West Hundreds. Ci mbedd bu 158 taksi bi taxaw ci benn daggitu gato bu weex bu guddu ak këru apartmaa yi. Madam Wilson daal di xool dëkkandoo yi, daal di dajale xajam ak yeneen mbir yu mu jëndoon, daal di dugg ak réy-réy.
+
+Bi nuy yéeg ci ascenseur bi, mu wax ni, "Dinaa wax waa McKees ñu yéeg." "Te, waaw waaw, dama wara woo sama mag ju jigéen itam."
+
+Apartmaa bi mingi woon ci kaw etaas bi—mu am saal bu ndaw, saal bu ndaw bu ñuy lekke, néeg bu ndaw, ak saal bu ndaw. Saal bi dafa feesoon dell ak ay fotëy yuñ defaree tapiseer yu yaatu lool, sooy dem foofu dangay mbëggéel di xool jigéen ñuy balanse ci jardin yu Versailles. Benn nataal bi am mooy benn nataal buñ yaatal bu baax, melni ginaar gu toog ci kaw xeer wu fësul. Waaye soo ko xoolee fu sori, ginaar gi dafa melni mbaxana, kanamu jigéen ju mag ju dëgër di melax ci biir néeg bi. Barina magazine yu yàgg yu Town Tattle tëdd ci kaw taabal ji, boole ci Simon Called Peter , ak yenn ci magazine yu ndaw yiy wax ci Broadway. Li njëkka jaaxal Mme Wilson mooy xaj bi. Benn xale bu góor bu bëggul woon dem ci ascenseur bi dafa dem wut benn kees bu fees dell ak ñax ak meew, mu def ci boppam benn potu gato xaj bu yaatu te dëgër—benn ci ñoom daa yàqu ci biir sauceru meew mi ci boori tisbaar bi yépp. Ci jamano jooju, Tom génne benn butéelu whisky ci buntu biro biñ tëjoon.
+
+Ñaari yoon kese laa màndi ci sama dundu, ñaareelu yoon bi mooy ci ngoon; Kon lépp lu xew dafa am lëndëm, lëndëm ci kaw, doonte ba ginaaw juróom ñatti waxtu apartment bi fees dell ak jant bu neex. Madam Wilson toog ci sëtu Tom woo nit ñu bari ci telefon; ba noppi sigaret amul woon, ma dem jënd ci farmasi bi ci koñ bi. Bima delloo, ñoom ñaar ñépp réeroon nañu, ma daal di toog ci saal bi, ma jàng benn chapitre ci Simon Called Peter —mën nekk mbir yu tiis la wala whisky bi dafa yàq mbir yi, ndax amul benn njariñ ci man.
+
+Bi Tom ak Myrtle (bi ñu njëkkee naan, man ak Mme Wilson nu woote sunuy tur) feeñaat, mbooloo tàmbali ñëw ci buntu apartment bi.
+
+Mag ju jigéen ji, Catherine, xale bu jigéen bu sew la woon, am fan weeri at, am kawar gu xonk gu dëgër, te yaram wi weex melni meew. Dañu dagg ay bëtëm, daal di koy laxas ci angle bu gëna rakish, waaye coono bi nature bi def ngir defaraat bëtëm yu yàgg yi, taxna kanam gaa ngi melni lu fësul. Suy yëngu, amna luy klike budul jeex, ay bracelet yu ñu defaree potëri di yëngu ci kaw ak ci suuf ci loxoom. Mu duggsi ak gaawaay bu rëy, xool liko wër ak mbégte ci fotëy yi, ba may xalaat ndax fii la dëkk. Waaye bima ko laajee mu reetaan lu bari, baamtu sama laaj ak kàddu yu kawe, ba noppi nima dafa dëkk ak benn xaritam bu jigéen ci benn otel.
+
+Mr. McKee góor gu lewet la woon, bawoo ci flat bi ci suuf. Dafa mujjee wax, ndax amoon na lu weex lu melni lu am lu melni lu am lu melni lu am lu melni lu am lu melni lu am ci yaxu lex gi, mu daal di nuyu ñépp ñi nekkoon ci néeg bi ci anam wu ànd ak sargal. Muni ma dafa nekkoon ci "jeux artistique", ci ganaw ga ma gis ni fotograf la woon, te defar na nataalu yaayu Mme Wilson bu tuuti bi doon wëréelu ni ectoplasm ci kaw miir bi. Jabaram daa yuuxu, tàng xol, rafet te soxor. Mu waxma ak mbégte ni jëkëram foto nako téemeeri yoon ak ñaar fukki ak juróom ñaari yoon biñu sëyee ba leegi.
+
+Madam Wilson dafa soppi kostumam yàggul dara, leegi mingi sol robb bu rafet bu ñu defaree chiffon bu kreem, mu wéy di yuuxu lu muy bale ci biir néeg bi. Ak njeexitalu robb bi, jikkoom itam soppiku na. Vitalite bu am solo bi amoon ci garage bi dafa soppiku nekk hauteur bu yéeme. Reetam, yëngu-yëngu yi, kàddoom yi dañu gëna am doole saa yu nekk, muy gëna yaatal néeg bi di gëna ndaw ci li ko wër, ba ci yàgg mu melni kuy wëréelu ci kaw pivot bu bari xumbaay ci biir air bu saxaar bi.
+
+Mu wax mag ju jigéen ji ak baat bu kawe, "Sama xarit, nit ñi dañu lay nax saa yu nekk. Li ñuy xalaat du lenn ludul xaalis. Ayu-bis bi weesu amoon naa benn jigéen buma doon xool samay tànk, bimu ma joxee faktiir bi dinga jàpp ni dafa génne sama appendicite."
+
+"Nu ku jigéen ki tuddu?" Mme McKee laaj.
+
+"Soxna Eberhardt. Dafay wër di xool tànki nit ñi ci seen kër."
+
+Mme McKee niko, "dama bëgg sa robb, jàpp naa ni rafet na."
+
+Mme Wilson dafa bañ liñu ko sargal ndax dafa yëkkati bëtëm ngir wane ni dafa bëggul.
+
+Muni, "Lii mbir mu yàgg la." "Yenn saa ma koy sol rek, fekk faale wuma numu mel."
+
+Madam McKee daal di topp, "Waaye, soo xamee lima bëgga wax, daf lay nuru lu rafet." "Sudee Chester mënoon nala dugal ci pose boobu, jàpp naa ni mën na ci def dara."
+
+Nun ñépp nu noppi xool Mme Wilson, mu dindi benn kawaram ci ay bëtëm ba noppi xoolaat nu ak muuñam gu neex. Mr. McKee xool ko bu baax ak boppam ci genn wet gi, ba noppi mu yëngal loxoom ndànk ci kanamam.
+
+Muni, "dama wara soppi leer gi." "Dama bëgga wane modelu màndarga yi. Ba noppi ma jéema jël kawar yi ci ginaaw yépp."
+
+Mme McKee ni, "Duma xalaat soppi leer gi." “Dama yaakaar ni—”
+
+Jëkëram niko, “ Sh! ” Nu xoolaat mbir mi, Tom Buchanan daal di yuuxu bu baax ba noppi jog taxaw.
+
+Muni ma, "Yeen McKees am ngeen lu ngeen di naan." "Myrtle, wutal glaas ak ndox mineral balaa ñépp di nelaw."
+
+"Newoon naa xale bu góor bi lu jëm ci glaas bi." Myrtle siggil ay bëtëm ndax jaaxle ndax ni kilifa yi gëna ndaw duñu yëngu. "Nit ñooñu! Danga leen wara topp saa yu nekk."
+
+Mu xool ma reetaan lu amul benn njariñ. Ba noppi mu daw dem ci xaj bi, fóon ko ak bànneex, daal di dugg ci waañ wi, loolu dafay tekki ni fukk ak ñaari toggukat ñoo ko doon xaar.
+
+M. McKee dafa wax ni, "Def naa mbir yu rafet ci Long Island."
+
+Tom xool ko ndànk.
+
+"Ñaar ci ñoom nu kaadre leen ci suuf."
+
+"Ñaar lan?" Tom laaj.
+
+"Ñaari njàngale. Benn ci ñoom maa ngi ko tuddee Montauk Point—Géej yi , beneen bi ma tuddee ko Montauk Point—Géej gi ."
+
+Catherine sama mag ju jigéen toog ci sama wet ci kanape bi.
+
+"Yaw itam dëkk nga ci Long Island?" mu laaj.
+
+"Maa ngi dëkk ci West Egg."
+
+"Caaxaanoo? Dama demoon foofu ci benn feet lu tollu ci benn weer ci ginaaw. Ci kër ku tuddu Gatsby. Ndax xam nga ko?"
+
+"Maa ngi dëkk ci wetam."
+
+"Waaw, dañu wax ni doomu bajjanu la wala doomu bajjanu Kaiser Wilhelm. Foofu la xaalisam yépp di joge."
+
+"Dëgg la?"
+
+Ndaw si yëngal boppam.
+
+"Dama ko ragal. Duma bëgga def dara ci man."
+
+Xibaar bu am solo boobu jëm ci sama dëkkandoo dafa dakkal bi Mme McKee joxoñ Catherine ci saasi:
+
+Mu ni ko, "Chester, jàpp naa ni mën nga ko defal dara," waaye Mr. McKee yëngal boppam ni dafa sonn, ba noppi wëlbatiku ci Tom.
+
+"Dama bëgga gëna liggéey ci Long Island, su ma mënee dugg. Lima leen di sàkku mooy ñu may ma tàmbali."
+
+Tom niko, "Laajteel Myrtle," muy yuuxu reetaan lu gàtt bi Mme Wilson duggee ak ndab. "Dina la jox bataaxal ngir wane sa bopp, wala book, Myrtle?"
+
+"Lu def?" Ndaw si laaj, jaaxle.
+
+"Dinga jox McKee ab bataaxal ngir xam sa jëkkër, suko defee mu jàngat ko." Bëtëm yi yëngu ab diir ba noppi wax, "'George B. Wilson ci pompu essence bi,' wala lu mel noonu."
+
+Catherine daal di jegesi ma wax ci sama nopp:
+
+"Kenn ci ñoom mënul muñ ki mu sëy."
+
+“Mënu ñu ko?”
+
+“Mënu ma leen muñ .” Mu xool Myrtle ba noppi xool Tom. "Lima lay wax mooy, lu tax ngay wéy di dëkk ak ñoom sudee mënu ñu leen muñ? Suma nekkee ci seen palaas damay fase jabar ji, nu sëy ci saasi."
+
+"Ndax moom itam bëggul Wilson?"
+
+Tontu li ci laaj bi, kenn xamul woon. Myrtle moo ko bind, moom mi déggoon laaj bi, mu ànd ak fitna ak ñaawtéef.
+
+Catherine yuuxuna ak mbégte, "gis nga ko." Mu wàññiwaat baat bi. "Jabaram moo leen tàqale, katolik la, te gëmu ñu fase."
+
+Daisy bokkul woon ci Katolik yi, te daa yéemu tuuti ci ni ñu defaree fen bi.
+
+Catherine dafa wéy di wax, "suñu sëyee, dina ñu dem West dëkk fa ab diir ba keroog muy jeex."
+
+"Dina gëna am xel mu dem Europe."
+
+"Oh, bëgg nga Europe?" Ndaw si wax ak jaaxle. "Dama joge Monte Carlo yegsi."
+
+"Dëgg la."
+
+"Daaw rek laa dem foofu ak beneen xale bu jigéen."
+
+"Di nga toog lu yàgg?"
+
+"Déedet, nu dem Monte Carlo ak dellu. Nu jaar Marseilles. Amoon nanu lu ëpp fukk ak ñaari téemeeri dolaar bi nu tàmbalee, waaye nu génne ko lépp ci ñaari fan ci néeg yu kenn xamul. Nu amoon jamono yu tiis ci dellu, mën naa la wax. Yalla, ni ma bañee dëkk boobu!"
+
+Asamaan bi tàng ci boori tisbaar dafa leer ci palanteer bi ab diir ni lem bu baxa bu Mediteraane—ci noonu baat bu neex bu Mme McKee wooma ma dellu ci néeg bi.
+
+Mu wax ak cawarte ni: “Maa ngi daanaka def naa njuumte, man itam.” "Dama daanaka sëy a kike bu ndaw buma topp ay at ci ginaaw. Xamoon naa ni mooma gëna suufeel. Ñépp a ngi may wax: 'Lucille, waa ji mingi ci suufu yaw!' Waaye sudee dajewul ak Chester, kon xam nama.”
+
+Myrtle Wilson niko, "waaw, waaye déglul," muy yëngal boppam ci kaw ak ci suuf, "ba tay sëyuwoo ko."
+
+“Xamnaa ni xamuma ko.”
+
+Myrtle niko, "waaw, maa ngi ko sëy." "Te loolu mooy wuutale sa dosiye ak sama dosiye."
+
+"Lu tax nga def loolu, Myrtle?" Catherine laaj. "Kenn forsewul nga def loolu."
+
+Myrtle xalaat.
+
+Mu mujjee wax, "Dama ko sëy ndax jàppoon naa ni góor gu baax la." "Dama jàppoon ni amna lu mu xam ci yar, waaye mënul mar sama dàll."
+
+Catherine niko, "Danga ko bëggoon ab diir."
+
+"Dama dof ci moom!" Myrtle yuuxu ndax gëmul. "Kan moo wax ni dama dof ci moom? Musu ma dof ci moom nimu ma dofee waa ji fa nekkoon."
+
+Jekk saa rek daal di may joxoñ loxo, ñépp xool ma di tuumal. Ma jéema wane ci sama kanam ni xamuma woon ñu bëgg ma.
+
+"Lima dof rek mooy bima ko sëyee. Xamnaa ci saasi ni def naa njuumte. Dafa leble mbubb mu gëna baax ngir sëy, te musu ma ko wax sax, waa ji daal di koy topp benn bis bimu génnee ci biti: 'Oh, ndax loolu mooy sa mbubb?' Mani ko, 'Lii mooy yoon wi may njëkka dégg loolu.' Waaye ma jox ko, teg ci ma tëdd di jooy ngir dóor orkestar bi ci ngoon gi yépp.”
+
+Catherine tontu ma ne: “Dafa wara génn ci moom.” "Fukk ak benn at a ngi nii ñu dëkk ci garage bi. Te Tom mooy soxnaam bu njëkk bimu musa am."
+
+Butéelu whisky bi—ñaareelu butéelu bi—ñu ngi ko bëggoon bu baax, lu ci des Catherine, bi “amul woon lenn lu baax.” Tom woo janitor bi mu yónnee ko ay sandwich yu siiw, muy reer bu mat sëkk ci boppam. Dama bëggoon génn dox jubal penku, jubal ci park bi, jaar ci lëndëm gu woyof gi, waaye saa yu ma jéeme dem damay jànkoonte ak ay xëccoo yu metti, yu ma yóbbu ci sama toogukaay, melni dañu ma jàpp buum. Waaye sunuy palanteer yu mboq yi dañu kawe ci kaw dëkk bi, mën nañu ni dañu def seen wàll ci sekkere nit ñi, di seetaan mbedd mi lëndëm, man itam ma gis ko, xool fépp di jaaxle. Maa ngi nekkoon ci biir ak ci biti, boole ci bariwaayu dundu yu bari te wuute yi yéem nama, ba noppi dàq ma.
+
+Myrtle daal di xëcc toogukaay bi mu jege sama toogukaay, ci saasi ngelaw lu tàng li tuuru ci man jaar-jaaru ndajeem bu njëkk ak Tom.
+
+"Ci ñaari toogukaay yu ndaw yi jàkkarloo, ñoom ñooy mujjee des ci biir saxaar gi. Maa ngi doon dem New York ngir gise ak sama mag ju jigéen, ñu fanaan ci guddi gi. Mingi sol tënu bu rafet ak ay dàll der, te munuma woon baña xool samay bët ci moom, waaye saa yu ma xoolee dama daan xool sama bopp. mu nekkoon ci sama wet, te chemise bu weex bi dafa laxasu ci sama loxo, ci noonu ma niko dama wara woo benn poliis, waaye mu xamni dema fen, kontaanoon naa lool bima yeggee ci taksi ak moom, xamuma woon ni duma duggu ci saxaaru metro bi, te mënu ma ko jeexal. mënul dundu ba fàww.' ”
+
+Mu wëlbatiku ci Mme McKee, néeg bi daal di fees dell ak ree guñ defar.
+
+Mu ni, "Sama xarit, dinaa la jox robb bii suma ko noppee. Dama wara jënd beneen suba. Maa ngi defar limu mbir yépp yima wara jënd. Masaas ak tàllal loxo, ak koliye ngir xaj bi, ak benn ci robb yu taaru yooyu nga laal xaj bu ndaw Dama wara bind limu mbir yépp ngir baña fàtte mbir yi ma wara def.”
+
+Jiroom ñeenti waxtu la woon—ci saasi ma xool sama montor gis ni fukki waxtu la. Mr. McKee dafa doon nelaw ci kaw benn toogukaay, tëye ay loxoom ci kawam, melni nataalu góor guy yëngu. Ma génne sama moustique ma fomp ci lex gi barabu mous bu waw bi ma doon jaaxal ci ngoon gi yépp.
+
+Xaj bu ndaw baa ngi toogoon ci kaw taabal ji di xool saxaar si ak ay bëtëm yu nëbbu, yenn saa muy onku bu baax. Nit ñi dañu réer, feeñaat, defar ay pexe ngir dem feneen, ba noppi ku nekk réer, ku nekk di wër moroomam, ku nekk di gise ay meetar yu néew. Bi xaaju guddi jotee, Tom Buchanan ak Mme Wilson taxaw jëhran ak jëhran di waxtaan, ak baat yu neex, ndax Mme Wilson amna sañ-sañu wax tuuru Daisy.
+
+"Marguerite! Marguerite! Marguerite!" Mme Wilson yuuxuna. "Dinaa ko wax saa yu ma ko bëggee! Daisy! Dai..."
+
+Tom Buchanan def benn yëngu-yëngu bu gàtt, daal di damm bakkanam ak loxoom bu ubbeeku bi.
+
+Ci noonu mu am ay sarbet yu takk deret ci dëru duus bi, ak baat yu jigéen yuy yuuxu, ak yuuxu metit bu yàgg bu ànd ak jaxasoo. Mr. McKee yeewu ci nelawam daal di tàmbali jubal buntu bi ak xol bu neexul. Bimu demee ba xaaju yoon wi, mu wëlbatiku xool fi mbir yi xewewoon - jabaram ak Catherine di yuuxu ak di féexal seen xol, ñuy mbëggéel ci biir fotëy yu fees yi ak ay jumtukaayi ndimbal, ak nit ku ñàkk yaakaar ci kanape bi, di nàcci bu baax, di jéema tasaare benn kopi bu Town Versa sceil of the tapestry. Jekk saa M. McKee wëlbatiku dem génn buntu bi. Ma jël sama mbaxna ci chandelier bi daal di topp ci.
+
+Bi nuy onku ci ascenseur bi, muni ma, "ñu ñëw añ bis."
+
+"Fan?"
+
+“Fépp.”
+
+Xale bi yor ascenseur bi niko, "Dëddul sa loxo ci levier bi."
+
+Mr. McKee ni ko ak ngor, "Maa ngi lay jéggalu, xamuma woon ni dama koy laal."
+
+Ma nangu, "waaw kay, dinaa ko kontaan lool."
+
+... Maa ngi doon taxaw ci wetu lalam, mu toog ci diggante darab yi, sol yéere yu ndaw, yor portfëy bu rëy ci loxoom.
+
+"Taar bi ak Rab wi... Wenn... Fas bu yàgg... Pont Brook'n..."
+
+Ci noonu ma tëdd ba xaaju nelaw ci sedd bu sedd bi ci Gaaru Pennsylvania, di xool Tribune bu suba si, di xaar saxaar giy ñëw ci ñeenti waxtu.
+

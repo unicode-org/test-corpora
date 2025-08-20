@@ -1,0 +1,634 @@
+Libri elektronik i Projektit Gutenberg i Gatsby-t të Madh
+
+Libri elektronik i Projektit Gutenberg i Gatsby-t të Madh
+
+Ky libër elektronik është për t'u përdorur nga kushdo kudo në Shtetet e Bashkuara dhe në shumicën e pjesëve të tjera të botës pa kosto dhe pothuajse pa asnjë lloj kufizimi. Mund ta kopjoni, ta jepni ose ta ripërdorni sipas kushteve të Licencës së Projektit Gutenberg të përfshirë me këtë ebook ose në internet në www.gutenberg.org . Nëse nuk ndodheni në Shtetet e Bashkuara, do t'ju duhet të kontrolloni ligjet e vendit ku ndodheni përpara se të përdorni këtë ebook.
+
+Titulli : Gatsbi i Madh
+
+Autori : F. Scott Fitzgerald
+
+Data e publikimit : 17 janar 2021 [eBook #64317] Përditësimi më i fundit: 26 janar 2025
+
+Gjuha : Anglisht
+
+Kredite : Prodhuar nga Alex Cabal për projektin Standard Ebooks, bazuar në një transkriptim të prodhuar për Projektin Gutenberg Australia.
+
+*** FILLIMI I PROJEKTIT GUTENBERG EBOOK THE GREAT GATSBY ***
+
+Gatsbi i Madh nga F. Scott Fitzgerald
+
+Tabela e Përmbajtjes
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+Edhe një herë te Zelda
+
+Pastaj vishni kapelën e artë, nëse kjo do ta lëvizë atë;
+
+Nëse mund të kërcesh lart, kërce edhe për të,
+
+Derisa ajo qau "Dashnore, dashnor me kapele floriri, dashnore me kërcim të lartë,
+
+Duhet të të kem ty!”
+
+Thomas Parke d'Invilliers
+
+I
+
+Në vitet e mia më të reja dhe më të pambrojtura, babai im më dha disa këshilla që unë i kam kthyer në mendje që atëherë.
+
+"Sa herë që të vjen të kritikosh dikë," më tha ai, "vetëm kujto se të gjithë njerëzit në këtë botë nuk kanë pasur avantazhet që ke pasur ti."
+
+Ai nuk tha asgjë më shumë, por ne kemi qenë gjithmonë jashtëzakonisht të komunikueshëm në mënyrë të rezervuar dhe e kuptova se ai do të thoshte shumë më tepër se kaq. Si rrjedhim, jam i prirur t'i rezervoj të gjitha gjykimet, një zakon që më ka hapur shumë natyra kurioze dhe gjithashtu më ka bërë viktimë e jo pak mërzitjeve veterane. Mendja jonormale e zbulon shpejt dhe i bashkangjitet kësaj cilësie kur shfaqet tek një person normal, dhe kështu ndodhi që në fakultet më akuzuan padrejtësisht si politikan, sepse isha i vetëdijshëm për pikëllimet e fshehta të njerëzve të egër e të panjohur. Shumica e konfidencave ishin të pa kërkuara—shpesh kam shtirë gjumin, preokupimin ose një mendjelehtësi armiqësore kur kuptova me ndonjë shenjë të pagabueshme se një zbulesë intime po dridhej në horizont; sepse zbulimet intime të të rinjve, ose të paktën termat me të cilët ata i shprehin ato, janë zakonisht plagjiaturë dhe të dëmtuara nga shtypje të dukshme. Rezervimi i gjykimeve është një çështje shprese e pafund. Kam ende pak frikë se mos humbas diçka nëse harroj se, siç sugjeroi babai im me snobizëm, dhe e përsëris me snobizëm, një ndjenjë e mirësjelljes themelore shpërndahet në mënyrë të pabarabartë në lindje.
+
+Dhe, pasi mburrem me këtë mënyrë të tolerancës sime, arrij të pranoj se ajo ka një kufi. Sjellja mund të bazohet në shkëmbinj të fortë ose në kënetat e lagështa, por pas një pike të caktuar nuk më intereson se mbi çfarë bazohet. Kur u ktheva nga Lindja vjeshtën e kaluar, ndjeva se doja që bota të ishte në uniformë dhe në një lloj vëmendjeje morale përgjithmonë; Nuk doja më ekskursione të trazuara me shikime të privilegjuara në zemrën e njeriut. Vetëm Gatsbi, njeriu që i jep emrin këtij libri, ishte i përjashtuar nga reagimi im - Gatsbi, i cili përfaqësonte gjithçka për të cilën unë kam një përbuzje të paprekur. Nëse personaliteti është një seri e pandërprerë gjestesh të suksesshme, atëherë kishte diçka të mrekullueshme tek ai, një ndjeshmëri e shtuar ndaj premtimeve të jetës, sikur të ishte i lidhur me një nga ato makinat e ndërlikuara që regjistrojnë tërmetet dhjetë mijë milje larg. Kjo përgjegjshmëri nuk kishte të bënte me atë impresionueshmëri të dobët, e cila është dinjitoze nën emrin e "temperamentit krijues" - ishte një dhuratë e jashtëzakonshme për shpresë, një gatishmëri romantike siç nuk e kam gjetur kurrë te asnjë person tjetër dhe që nuk ka gjasa që ta gjej më. Jo—Gatsby doli mirë në fund; është ajo që e preu Gatsbin, çfarë pluhuri i ndyrë lundronte në vazhdën e ëndrrave të tij që mbylli përkohësisht interesin tim për pikëllimet e dështuara dhe ngazëllimet e shkurtra të njerëzve.
+
+Familja ime ka qenë njerëz të shquar dhe të pasur në këtë qytet të Perëndimit të Mesëm për tre breza. Carraways janë diçka si një klan, dhe ne kemi një traditë që ne rrjedhim nga Dukes of Buccleuch, por themeluesi aktual i linjës sime ishte vëllai i gjyshit tim, i cili erdhi këtu në pesëdhjetë e një, dërgoi një zëvendësues në Luftën Civile dhe filloi biznesin me shumicë të harduerit që babai im vazhdon sot.
+
+Unë kurrë nuk e kam parë këtë xhaxhain e madh, por supozohet se do t'i ngjaj atij - me referencë të veçantë për pikturën mjaft të zier që varet në zyrën e babait. Unë u diplomova në New Haven në vitin 1915, vetëm një çerek shekulli pas babait tim, dhe pak më vonë mora pjesë në atë migrim të vonuar teutonik të njohur si Lufta e Madhe. Më pëlqeu aq shumë kundërsulmi saqë u ktheva i shqetësuar. Në vend që të ishte qendra e ngrohtë e botës, Perëndimi i Mesëm tani dukej si skaji i thyer i universit – kështu që vendosa të shkoja në Lindje dhe të mësoja biznesin e bonove. Të gjithë ata që njihja ishin në biznesin e bonove, kështu që supozova se mund të mbështeste një burrë tjetër beqar. Të gjitha tezet dhe xhaxhallarët e mi e biseduan atë sikur po zgjidhnin një shkollë përgatitore për mua dhe më në fund thanë: "Pse-po", me fytyra shumë të rënda dhe hezituese. Babai pranoi të më financonte për një vit dhe pas vonesave të ndryshme erdha në Lindje, përgjithmonë, mendova, në pranverën e njëzet e dy.
+
+Gjëja praktike ishte të gjeja dhoma në qytet, por ishte një stinë e ngrohtë dhe unë sapo kisha lënë një vend me lëndina të gjera dhe pemë miqësore, kështu që kur një i ri në zyrë sugjeroi që të merrnim një shtëpi së bashku në një qytet të udhëtimit, dukej si një ide e mrekullueshme. Ai e gjeti shtëpinë, një shtëpi njëkatëshe prej kartoni të rrahur nga moti në tetëdhjetë në muaj, por në minutën e fundit firma e urdhëroi për në Uashington dhe unë dola vetëm në fshat. Kisha një qen - të paktën e kisha për disa ditë derisa ai iku - dhe një Dodge plakë dhe një grua finlandeze, të cilat më rregulluan shtratin dhe gatuanin mëngjesin dhe mërmëritën me vete mençurinë finlandeze mbi sobën elektrike.
+
+Ishte e vetmuar për një ditë apo më shumë derisa një mëngjes më ndaloi në rrugë një burrë, më i sapo ardhur se unë.
+
+"Si mund të shkoni në fshatin West Egg?" pyeti i pafuqishëm.
+
+i thashë. Dhe ndërsa ecja, nuk isha më i vetmuar. Unë isha një udhërrëfyes, një udhërrëfyes, një kolonë origjinale. Ai më kishte dhënë rastësisht lirinë e lagjes.
+
+Dhe kështu me rrezet e diellit dhe shpërthimet e mëdha të gjetheve që rriteshin mbi pemë, ashtu siç rriten gjërat në filmat e shpejtë, unë kisha atë bindjen e njohur se jeta po fillonte përsëri me verën.
+
+Kishte kaq shumë për të lexuar, për një gjë, dhe aq shumë shëndet të mirë për t'u hequr nga ajri i ri që jep frymë. Bleva një duzinë vëllimesh në letra me vlerë bankare, krediti dhe investimesh, dhe ato qëndruan në raftin tim me ngjyrë të kuqe dhe ari, si para të reja nga nenexhiku, duke premtuar se do të shpalosnin sekretet e shkëlqyera që dinin vetëm Midas, Morgan dhe Maecenas. Dhe unë kisha synimin e lartë të lexoja shumë libra të tjerë përveç kësaj. Unë isha mjaft letrar në kolegj – një vit shkrova një seri editoriale shumë solemne dhe të dukshme për Yale News – dhe tani do t’i risjella të gjitha këto gjëra në jetën time dhe do të bëhesha përsëri specialisti më i kufizuar nga të gjithë, “njeriu i plotë”. Ky nuk është vetëm një epigram – në fund të fundit, jeta shikohet me shumë sukses nga një dritare e vetme.
+
+Ishte rastësi që duhej të kisha marrë me qira një shtëpi në një nga komunitetet më të çuditshme në Amerikën e Veriut. Ishte në atë ishull të hollë të trazuar që shtrihet në lindje të Nju Jorkut - dhe ku ka, midis kurioziteteve të tjera natyrore, dy formacione të pazakonta toke. Njëzet milje larg qytetit, një palë vezësh të mëdha, të njëjta në kontur dhe të ndara vetëm nga një gji mirësjelljeje, dalin në trupin më të zbutur të ujit të kripur në hemisferën perëndimore, kopshtin e madh të lagësht të Long Island Sound. Ata nuk janë ovalë të përsosur – si veza në tregimin e Kolombit, të dy janë të grimcuar rrafsh në fundin e kontaktit – por ngjashmëria e tyre fizike duhet të jetë një burim habie të përhershme me pulëbardhat që fluturojnë sipër. Për ata pa krahë, një fenomen më interesant është pangjashmëria e tyre në çdo veçori, përveç formës dhe madhësisë.
+
+Unë jetoja në West Egg, - mirë, më pak në modë nga të dyja, megjithëse kjo është një etiketë shumë sipërfaqësore për të shprehur kontrastin e çuditshëm dhe jo pak të keq mes tyre. Shtëpia ime ishte pikërisht në majë të vezës, vetëm pesëdhjetë metra larg Sound, dhe e shtrydhur midis dy vendeve të mëdha që jepeshin me qira për dymbëdhjetë ose pesëmbëdhjetë mijë në sezon. Ai në të djathtën time ishte një çështje kolosale me çdo standard - ishte një imitim faktik i një hoteli de Ville në Normandi, me një kullë në njërën anë, të rrahur nën një mjekër të hollë prej dredhkë të papërpunuar, dhe një pishinë mermeri dhe më shumë se dyzet hektarë lëndinë dhe kopsht. Ishte rezidenca e Gatsbit. Ose, më mirë, meqë nuk e njihja zotin Gatsby, ishte një pallat i banuar nga një zotëri me atë emër. Shtëpia ime ishte një dhimbje në sy, por ishte një dhimbje e vogël në sy, dhe ishte anashkaluar, kështu që unë kisha një pamje të ujit, një pamje të pjesshme të lëndinës së fqinjit tim dhe afërsinë ngushëlluese të milionerëve - të gjitha për tetëdhjetë dollarë në muaj.
+
+Përtej gjirit të mirësjelljes, pallatet e bardha të East Egg shkëlqenin përgjatë ujit dhe historia e verës fillon me të vërtetë në mbrëmjen që unë shkova atje për të ngrënë darkë me Tom Buchanans. Dejzi ishte kushërira ime e dytë dikur e hequr, dhe unë e njihja Tomin në kolegj. Dhe vetëm pas luftës kalova dy ditë me ta në Çikago.
+
+Bashkëshorti i saj, mes arritjeve të ndryshme fizike, kishte qenë një nga përfundimet më të fuqishme që ka luajtur ndonjëherë futboll në New Haven - një figurë kombëtare në një farë mënyre, një nga ata burra që arrijnë një përsosmëri kaq të kufizuar në njëzet e një vjeç, sa që gjithçka më pas shijon antiklimaksi. Familja e tij ishte jashtëzakonisht e pasur – edhe në kolegj, liria e tij me para ishte një çështje për qortim – por tani ai kishte lënë Çikago dhe kishte ardhur në Lindje në një mënyrë që më tepër të merrte frymën: për shembull, ai kishte rrëzuar një varg polo poni nga Liqeni Forest. Ishte e vështirë të kuptoja se një burrë në brezin tim ishte mjaft i pasur për ta bërë këtë.
+
+Pse erdhën në Lindje nuk e di. Ata kishin kaluar një vit në Francë pa ndonjë arsye të veçantë, dhe më pas lëviznin aty-këtu të shqetësuar kudo ku njerëzit luanin polo dhe ishin të pasur së bashku. Kjo ishte një lëvizje e përhershme, tha Dejzi në telefon, por unë nuk e besova - nuk e kisha parë zemrën e Dejsit, por ndjeva se Tom do të zhytej përgjithmonë duke kërkuar, pak me dëshpërim, turbulencat dramatike të një loje futbolli të pakthyeshme.
+
+Dhe kështu ndodhi që në një mbrëmje të ngrohtë me erë shkova me makinë drejt East Egg për të parë dy miq të vjetër, të cilët mezi i njihja fare. Shtëpia e tyre ishte edhe më e përpunuar nga sa prisja, një rezidencë e gëzuar kuq e bardhë e Gjeorgjisë koloniale, me pamje nga gjiri. Lëndinë filloi në plazh dhe vrapoi drejt derës së përparme për një çerek milje, duke kërcyer mbi orë diellore, shëtitje me tulla dhe kopshte të djegura - më në fund kur arriti në shtëpi duke lëvizur anash në hardhi të ndritshme, sikur nga vrulli i vrapimit të saj. Pjesa e përparme ishte thyer nga një varg dritaresh franceze, të ndezura tani me ar të reflektuar dhe të hapur deri në pasditen e ngrohtë me erë, dhe Tom Buchanan me rroba kalërimi po qëndronte me këmbët e hapura në verandën e përparme.
+
+Ai kishte ndryshuar që nga vitet e tij në New Haven. Tani ai ishte një burrë i fortë me flokë kashte tridhjetë vjeç, me një gojë mjaft të fortë dhe një mënyrë të çuditshme. Dy sy të shndritshëm arrogantë kishin vendosur dominimin mbi fytyrën e tij dhe i dhanë pamjen e përkulur gjithmonë në mënyrë agresive përpara. As rrobat e tij të kalërimit nuk mund ta fshihnin fuqinë e madhe të atij trupi - ai dukej se i mbushi ato çizme vezulluese derisa tendosi lidhësen e sipërme dhe mund të shihje një grumbull të madh muskujsh që lëviznin kur shpatulla i lëvizte nën pallton e tij të hollë. Ishte një trup i aftë për ndikim të madh - një trup mizor.
+
+Zëri i tij i të folurit, një tenor i ashpër i ngjirur, shtoi përshtypjen e fraksionit që ai përcolli. Kishte një përbuzje atërore në të, madje edhe ndaj njerëzve që i pëlqenin – dhe kishte burra në New Haven që ia kishin urryer guximin.
+
+"Tani, mos mendoni se mendimi im për këto çështje është përfundimtar," dukej se tha ai, "vetëm sepse unë jam më i fortë dhe më burrë se ju." Ne ishim në të njëjtën shoqëri të moshuar dhe, ndërsa nuk ishim kurrë intimë, gjithmonë kisha përshtypjen se ai më miratonte dhe donte që unë ta pëlqeja me një psikikë të ashpër e sfiduese të tijën.
+
+Biseduam për disa minuta në verandën me diell.
+
+"Kam një vend të bukur këtu," tha ai, duke i ndezur sytë pa pushim.
+
+Duke më kthyer nga një krah, ai lëvizi një dorë të gjerë të sheshtë përgjatë pamjes së përparme, duke përfshirë në fshirjen e saj një kopsht italian të mbytur, një gjysmë hektarë trëndafila të thellë e të athët dhe një motobarkë me hundë të mprehtë që përplasi valën në det.
+
+"I përkiste Demaine, naftëtarit." Më ktheu përsëri, me mirësjellje dhe befas. "Do të hyjmë brenda."
+
+Ne ecëm nëpër një korridor të lartë në një hapësirë të ndritshme me ngjyrë rozë, të lidhur brishtë në shtëpi nga dritaret franceze në të dy skajet. Dritaret ishin të hapura dhe shkëlqenin të bardha kundër barit të freskët jashtë që dukej se rritej paksa në shtëpi. Një fllad frynte nëpër dhomë, frynte perdet në njërin skaj dhe jashtë tjetrin si flamuj të zbehtë, duke i përdredhur drejt tortës së dasmës së mbuluar me brymë të tavanit, dhe më pas valëvitej mbi tapetin ngjyrë vere, duke bërë një hije mbi të, ashtu siç bën era në det.
+
+I vetmi objekt krejtësisht i palëvizshëm në dhomë ishte një divan i madh në të cilin dy vajza të reja ishin ngritur si mbi një tullumbace të ankoruar. Ata ishin të dy në të bardha, dhe fustanet e tyre valëzonin dhe valëviteshin sikur sapo ishin futur në erë pas një fluturimi të shkurtër nëpër shtëpi. Duhet të kem qëndruar për disa çaste duke dëgjuar kamxhikun dhe kërcitjen e perdeve dhe rënkimin e një fotografie në mur. Pastaj pati një bum ndërsa Tom Buchanan mbylli dritaret e pasme dhe era e kapur u shua rreth dhomës, dhe perdet, qilimat dhe dy vajzat e reja u ulën ngadalë në dysheme.
+
+Më i vogli nga të dy ishte i huaj për mua. Ajo ishte e shtrirë në fund të divanit, krejtësisht e palëvizshme dhe me mjekrën pak të ngritur, sikur të balanconte diçka mbi të, e cila kishte shumë mundësi të binte. Nëse ajo më shihte me cepin e syve të saj, nuk jepte asnjë aluzion për këtë - në të vërtetë, unë pothuajse u befasova duke mërmëritur një falje që e shqetësova duke hyrë brenda.
+
+Vajza tjetër, Daisy, u përpoq të ngrihej - ajo u përkul pak përpara me një shprehje të ndërgjegjshme - pastaj qeshi, një e qeshur e vogël absurde, simpatike, dhe unë qesha gjithashtu dhe dola përpara në dhomë.
+
+"Jam i paralizuar nga lumturia."
+
+Ajo qeshi përsëri, sikur të thoshte diçka shumë mendjemprehtë, dhe më mbajti dorën për një moment, duke më parë në fytyrë, duke më premtuar se nuk kishte njeri në botë që aq shumë donte ta shihte. Kjo ishte një mënyrë që ajo kishte. Ajo la të kuptohet me një zhurmë se mbiemri i vajzës balancuese ishte Baker. (Kam dëgjuar të thuhet se murmuritja e Daisy-t ishte vetëm për t'i bërë njerëzit të anojnë drejt saj; një kritikë e parëndësishme që e bëri atë jo më pak simpatik.)
+
+Sido që të jetë, buzët e zonjushës Baker u tundën, ajo më tundi me kokë thuajse në mënyrë të padukshme dhe më pas ktheu shpejt kokën përsëri - objekti që ajo po balanconte dukshëm ishte lëkundur pak dhe i kishte dhënë diçka të frikshme. Përsëri një lloj faljeje u ngrit në buzët e mia. Pothuajse çdo ekspozitë e vetë-mjaftueshmërisë së plotë tërheq një haraç të habitur nga unë.
+
+Shikova përsëri kushërirën time, e cila filloi të më bënte pyetje me zërin e saj të ulët e drithërues. Ishte lloji i zërit që veshi e ndjek lart e poshtë, sikur çdo fjalim të ishte një rregullim notash që nuk do të luhen më kurrë. Fytyra e saj ishte e trishtuar dhe e bukur me gjëra të shndritshme, sy të shndritshëm dhe një gojë plot pasion, por në zërin e saj kishte një entuziazëm që burrat që ishin kujdesur për të e kishin të vështirë ta harronin: një detyrim për të kënduar, një pëshpëritje "Dëgjo", një premtim se ajo kishte bërë gjëra homoseksuale, emocionuese vetëm pak kohë që dhe se kishte gjëra gay, emocionuese në orën tjetër.
+
+I tregova se si isha ndalur në Çikago për një ditë në rrugën time drejt Lindjes dhe se si një duzinë njerëz e kishin dërguar dashurinë e tyre përmes meje.
+
+"A atyre u mungon mua?" ajo qau në ekstazë.
+
+"I gjithë qyteti është i shkretë. Të gjitha makinat kanë rrotën e pasme të majtë të lyer me të zezë si një kurorë zie, dhe ka një vajtim të vazhdueshëm gjatë gjithë natës përgjatë bregut verior."
+
+"Sa e mrekullueshme! Le të kthehemi, Tom. Nesër!" Më pas ajo shtoi pa lidhje: "Duhet ta shihni fëmijën".
+
+"Unë do të doja të."
+
+"Ajo është në gjumë. Ajo është tre vjeç. Nuk e keni parë ndonjëherë?"
+
+"Asnjëherë."
+
+"Epo, ju duhet ta shihni atë. Ajo është..."
+
+Tom Buchanan, i cili kishte qenë i shqetësuar rreth dhomës, u ndal dhe mbështeti dorën e tij mbi supin tim.
+
+"Çfarë po bën, Nick?"
+
+"Unë jam një njeri i lidhur."
+
+"Me kë?"
+
+i thashë.
+
+"Nuk kam dëgjuar kurrë për ta," vërejti ai me vendosmëri.
+
+Kjo më mërziti.
+
+"Ti do," iu përgjigja shkurt. "Do ta bëni nëse qëndroni në Lindje."
+
+"Oh, unë do të qëndroj në Lindje, mos u shqetëso", tha ai, duke hedhur një vështrim nga Daisy dhe pastaj përsëri nga unë, sikur të ishte vigjilent për diçka më shumë. "Unë do të isha një budalla i mallkuar për të jetuar diku tjetër."
+
+Në këtë moment zonjusha Baker tha: "Absolutisht!" me aq befasi sa fillova - ishte fjala e parë që ajo kishte shqiptuar që kur hyra në dhomë. Me sa duket, ajo e befasoi atë po aq sa mua, sepse ajo zuri gojën dhe me një sërë lëvizjesh të shpejta dhe të shkathëta u ngrit në dhomë.
+
+"Unë jam e ngurtë," u ankua ajo, "Unë kam qenë e shtrirë në atë divan për aq kohë sa mbaj mend."
+
+"Mos më shiko," ia ktheu Dejzi, "Unë jam përpjekur të të çoj në Nju Jork gjatë gjithë pasdites."
+
+"Jo, faleminderit," u tha zonjusha Baker katër koktejeve që sapo hynë nga qilarja. "Unë jam absolutisht në stërvitje."
+
+Mikpritësi i saj e shikoi me mosbesim.
+
+"Ti je!" Ai hoqi pijen e tij sikur të ishte një pikë në fund të një gote. "Mënyra është përtej sesi mund të bësh diçka."
+
+E shikova zonjushën Baker, duke pyetur veten se çfarë ishte ajo që "përfundoi". Me pelqente ta shikoja. Ajo ishte një vajzë e hollë, me gjoks të vogël, me një karrocë të ngritur, të cilën e theksonte duke e hedhur trupin prapa te shpatullat si një kadet e re. Sytë e saj gri të ndrydhur nga dielli më shikuan me një kureshtje të sjellshme reciproke nga një fytyrë e dobët, simpatike dhe e pakënaqur. Më ndodhi tani që e kisha parë atë, ose një foto të saj, diku më parë.
+
+"Ju jetoni në West Egg," tha ajo me përbuzje. "Unë njoh dikë atje."
+
+"Unë nuk di asnjë të vetme -"
+
+"Ju duhet ta njihni Gatsby."
+
+"Gatsby?" Kërkoi Dejzi. "Çfarë Gatsby?"
+
+Përpara se të përgjigjesha se ai ishte fqinji im, u shpall darka; duke futur në mënyrë imperative krahun e tij të tensionuar nën timin, Tom Buchanan më detyroi të largohesha nga dhoma sikur po lëvizte një damë në një shesh tjetër.
+
+Të holla, të ligështuara, duart e tyre të vendosura lehtë mbi ijet e tyre, dy të rejat na paraprinë në një verandë me ngjyrë rozë, e hapur drejt perëndimit të diellit, ku katër qirinj vezulluan mbi tavolinë nga era e pakësuar.
+
+"Pse qirinj ?" kundërshtoi Dejzi duke u vrenjtur. Ajo i këputi me gishta. “Për dy javë do të jetë dita më e gjatë në vit.” Ajo na shikoi të gjithëve me shkëlqim. "A e shikon gjithmonë ditën më të gjatë të vitit dhe më pas e humb atë? Unë gjithmonë shikoj ditën më të gjatë të vitit dhe më pas më mungon."
+
+"Duhet të planifikojmë diçka", tha znj. Baker, duke u ulur në tavolinë sikur të ishte në shtrat.
+
+"Në rregull," tha Daisy. "Çfarë do të planifikojmë?" Ajo u kthye nga unë e pafuqishme: "Çfarë planifikojnë njerëzit?"
+
+Përpara se të mund të përgjigjesha, sytë e saj mbërthyen me një shprehje të frikshme në gishtin e saj të vogël.
+
+"Shiko!" ajo u ankua; "Unë e lëndova atë."
+
+Të gjithë shikuam - kyçi i dorës ishte i zi dhe blu.
+
+"Ti e bëre atë, Tom," tha ajo duke akuzuar. "E di që nuk doje, por e bëre . Kjo është ajo që unë marr për t'u martuar me një burrë brutal, një ekzemplar fizik të madh, të madh dhe gjigant të një..."
+
+"Unë e urrej atë fjalë 'hulking'," kundërshtoi Tom kryq, "madje edhe duke bërë shaka."
+
+"Hulking," këmbënguli Daisy.
+
+Nganjëherë ajo dhe zonjusha Baker flisnin menjëherë, pa vëmendje dhe me një mospërputhje tallëse që nuk ishte asnjëherë llafazane, që ishte po aq e lezetshme sa fustanet e tyre të bardha dhe sytë e tyre jopersonalë në mungesë të çdo dëshire. Ata ishin këtu dhe pranuan mua dhe Tomin, duke bërë vetëm një përpjekje të këndshme të sjellshme për të argëtuar ose për t'u argëtuar. Ata e dinin se për momentin darka do të përfundonte dhe pak më vonë edhe mbrëmja do të përfundonte dhe do të hiqej rastësisht. Ishte krejtësisht ndryshe nga perëndimi, ku një mbrëmje nxitohej nga faza në fazë drejt mbylljes së saj, në një pritje të zhgënjyer vazhdimisht ose përndryshe në një frikë të madhe nervore për vetë momentin.
+
+"Ti më bën të ndihem i paqytetëruar, Dejzi," rrëfeva në gotën time të dytë me tapë, por mjaft mbresëlënëse. "Nuk mund të flisni për të korrat apo diçka tjetër?"
+
+Nuk nënkuptova asgjë të veçantë me këtë vërejtje, por ajo u mor në një mënyrë të papritur.
+
+"Qytetërimi do të copëtohet," shpërtheu me dhunë Tom. "Unë jam bërë një pesimist i tmerrshëm për gjërat. A e keni lexuar Ngritjen e Perandorive të Ngjyrosura nga ky njeri Goddard?"
+
+"Pse, jo," u përgjigja, mjaft i habitur nga toni i tij.
+
+"Epo, është një libër i mrekullueshëm dhe të gjithë duhet ta lexojnë. Ideja është nëse nuk kujdesemi se raca e bardhë do të jetë - do të zhytet plotësisht. Janë të gjitha gjëra shkencore; është vërtetuar."
+
+"Tom po bëhet shumë i thellë," tha Daisy, me një shprehje trishtimi të pamenduar. "Ai lexon libra të thellë me fjalë të gjata në to. Çfarë ishte ajo fjalë ne..."
+
+"Epo, këta libra janë të gjithë shkencorë," këmbënguli Tom, duke e vështruar me padurim. "Ky shoku e ka zgjidhur të gjithë. Varet nga ne, që jemi raca dominuese, të kujdesemi ose këto raca të tjera do të kenë kontrollin e gjërave."
+
+"Duhet t'i mposhtim ata," pëshpëriti Daisy, duke shkelur syrin me egër drejt diellit të zjarrtë.
+
+"Duhet të jetoni në Kaliforni -" filloi zonjusha Baker, por Tom e ndërpreu atë duke u zhvendosur rëndë në karrigen e tij.
+
+"Kjo ide është se ne jemi nordikë. Unë jam, ti je, dhe ti je, dhe..." Pas një hezitimi pafundësisht, ai e përfshiu Dejzin me një tundje të lehtë koke dhe ajo më bëri përsëri syrin. "—Dhe ne kemi prodhuar të gjitha gjërat që shkojnë për të bërë qytetërim - oh, shkencë dhe art, dhe të gjitha këto. A e shihni?"
+
+Kishte diçka patetike në përqendrimin e tij, sikur vetëkënaqësia e tij, më e mprehtë se e vjetër, të mos i mjaftonte më. Kur, pothuajse menjëherë, telefoni ra brenda dhe kupëmbajtësi u largua nga portiku, Dejzi e kapi pas ndërprerjes së çastit dhe u përkul drejt meje.
+
+"Unë do t'ju tregoj një sekret familjar," pëshpëriti ajo me entuziazëm. "Bëhet fjalë për hundën e shërbyesit. Dëshiron të dëgjosh për hundën e kupëmbajtësit?"
+
+"Kjo është arsyeja pse erdha sonte."
+
+"Epo, ai nuk ishte gjithmonë një shërbëtor; ai dikur ishte lustruesi i argjendit për disa njerëz në Nju Jork që kishte një shërbim argjendi për dyqind njerëz. Ai duhej ta lustronte atë nga mëngjesi deri në mbrëmje, derisa më në fund filloi t'i prekte hundën."
+
+"Gjërat shkuan nga keq e më keq," sugjeroi Miss Baker.
+
+"Po. Gjërat shkuan nga keq e më keq, derisa më në fund ai duhej të hiqte dorë nga pozicioni i tij."
+
+Për një moment dielli i fundit ra me dashuri romantike mbi fytyrën e saj të ndezur; zëri i saj më detyroi përpara pa frymë ndërsa dëgjoja - më pas shkëlqimi u shua, çdo dritë e braktiste me keqardhje të vazhdueshme, si fëmijët që largoheshin nga një rrugë e këndshme në muzg.
+
+Kupëmbajtësi u kthye dhe murmuriti diçka afër veshit të Tomit, më pas Tom u vrenjos, e shtyu karrigen e tij dhe pa asnjë fjalë hyri brenda. Sikur mungesa e tij të shpejtonte diçka brenda saj, Dejzi u përkul përsëri përpara, me zërin e saj të ndezur dhe duke kënduar.
+
+"Më pëlqen të të shoh në tryezën time, Nick. Ti më kujton një trëndafil, një trëndafil absolut. A nuk është ai?" Ajo iu drejtua Miss Baker për konfirmim: "Një trëndafil absolut?"
+
+Kjo ishte e pavërtetë. Nuk jam as pak si trëndafili. Ajo vetëm po shfrente, por një ngrohtësi rrëqethëse rridhte prej saj, sikur zemra e saj po përpiqej të dilte te ju e fshehur në një nga ato fjalët rrëqethëse, pa frymë. Pastaj papritmas ajo hodhi pecetën e saj në tavolinë dhe u justifikua dhe hyri në shtëpi.
+
+Zonja Baker dhe unë shkëmbyem një vështrim të shkurtër me vetëdije pa kuptim. Isha gati të flisja kur ajo u ul në këmbë dhe tha “ Sh! ” me një zë paralajmërues. Në dhomën përtej u dëgjua një zhurmë e qetë dhe e pasionuar dhe zonjusha Baker u përkul përpara pa turp, duke u përpjekur të dëgjonte. Zhurmërimi u drodh në kufijtë e koherencës, u fundos, u ngrit i emocionuar dhe më pas pushoi fare.
+
+"Ky zoti Gatsby për të cilin folët është fqinji im" - fillova.
+
+"Mos fol. Unë dua të dëgjoj se çfarë ndodh."
+
+"A po ndodh diçka?" E pyeta i pafajshëm.
+
+"Doni të thoni se nuk e dini?" tha zonjusha Baker, sinqerisht e habitur. "Mendova se të gjithë e dinin."
+
+"Unë jo."
+
+"Pse..." tha ajo me hezitim. "Tom ka një grua në Nju Jork."
+
+"Ke ndonjë grua?" Unë përsërita bosh.
+
+Zonja Baker pohoi me kokë.
+
+"Ajo mund të ketë mirësjelljen të mos e telefonojë në kohën e darkës. A nuk mendon?"
+
+Pothuajse para se të kisha kuptuar domethënien e saj, u dëgjua valëvitja e një fustani dhe kërcitja e çizmeve prej lëkure, dhe Tom dhe Daisy u kthyen në tryezë.
+
+"Nuk mund të ndihmohej!" Bërtiti Daisy me gëzim të tensionuar.
+
+Ajo u ul, hodhi një vështrim kërkues nga Miss Baker dhe më pas tek unë, dhe vazhdoi: "Kam shikuar jashtë për një minutë, dhe jashtë është shumë romantike. Është një zog në lëndinë që mendoj se duhet të jetë një bilbil në linjën Cunard ose White Star. Ai po këndon larg-" Zëri i saj këndoi romantik, "A është Tomn"?
+
+"Shumë romantike," tha ai dhe më pas me mjerim: "Nëse është mjaft e lehtë pas darkës, unë dua të të çoj poshtë në stalla."
+
+Telefoni ra brenda, befasues, dhe ndërsa Daisy tundi kokën me vendosmëri ndaj Tomit, subjekti i stallat, në fakt të gjitha subjektet, u zhdukën në ajër. Mes fragmenteve të thyera të pesë minutave të fundit në tavolinë, mbaj mend qirinjtë që u ndezën përsëri, pa kuptim, dhe isha i vetëdijshëm se doja t'i shikoja drejtpërdrejt të gjithë, e megjithatë t'i shmangja të gjithë syve. Nuk mund ta merrja me mend se çfarë po mendonin Daisy dhe Tom, por dyshoj nëse edhe zonjusha Baker, e cila dukej se kishte zotëruar njëfarë skepticizmi të guximshëm, ishte në gjendje të hiqte nga mendja urgjencën e mprehtë metalike të këtij të ftuari të pestë. Për një farë temperamenti situata mund të ishte dukur intriguese – instinkti im ishte të telefonoja menjëherë policinë.
+
+Kuajt, është e panevojshme të thuhet, nuk u përmendën më. Tom dhe Miss Baker, me disa metra muzg mes tyre, u kthyen në bibliotekë, si në një vigjilje pranë një trupi krejtësisht të prekshëm, ndërsa, duke u përpjekur të dukesha këndshëm i interesuar dhe pak i shurdhër, ndoqa Dejzin rreth një zinxhiri verandash që lidhnin me verandën përpara. Në errësirën e tij të thellë u ulëm krah për krah në një aneks prej thurjeje.
+
+Daisy mori fytyrën e saj në duar sikur të ndjente formën e saj të bukur dhe sytë e saj u zhvendosën gradualisht në muzg prej kadifeje. E pashë që emocionet e turbullta e kishin pushtuar, kështu që pyeta se çfarë mendoja se do të ishin disa pyetje qetësuese për vajzën e saj të vogël.
+
+"Ne nuk e njohim njëri-tjetrin shumë mirë, Nick," tha ajo papritmas. "Edhe nëse jemi kushërinj, ju nuk keni ardhur në dasmën time."
+
+"Unë nuk u ktheva nga lufta."
+
+"Kjo është e vërtetë." Ajo hezitoi. "Epo, unë kam kaluar një kohë shumë të keqe, Nick, dhe jam shumë cinik për gjithçka."
+
+Me sa duket ajo kishte arsye për të qenë. Prita, por ajo nuk foli më dhe pas një momenti u ktheva në mënyrë të dobët në temën e vajzës së saj.
+
+"Unë mendoj se ajo flet, dhe - ha dhe gjithçka."
+
+"Oh, po." Ajo më shikoi në mungesë. "Dëgjo, Nick; më lejoni t'ju them se çfarë thashë kur ajo lindi. Dëshiron të dëgjosh?"
+
+"Shumë."
+
+"Do t'ju tregojë se si kam filluar të ndihem rreth gjërave. Epo, ajo ishte më pak se një orë e vjetër dhe Tom ishte Zoti e di se ku. U zgjova nga eteri me një ndjenjë krejtësisht të braktisur dhe e pyeta infermieren menjëherë nëse ishte një djalë apo një vajzë. Ajo më tha se ishte një vajzë, dhe kështu ktheva kokën dhe qava menjëherë, thashë një vajzë. Shpresoj se ajo do të jetë një budalla - kjo është gjëja më e mirë që një vajzë mund të jetë në këtë botë, një budallaqe e vogël e bukur.'
+
+"E shihni, unë mendoj se gjithçka është e tmerrshme gjithsesi," vazhdoi ajo në një mënyrë të bindur. "Të gjithë mendojnë kështu - njerëzit më të përparuar. Dhe e di . Unë kam qenë kudo, kam parë gjithçka dhe kam bërë gjithçka." Sytë e saj ndezën rreth saj në një mënyrë sfiduese, më tepër si ato të Tomit, dhe ajo qeshi me përbuzje drithëruese. "I sofistikuar - Zot, unë jam i sofistikuar!"
+
+Në çastin kur zëri i saj u ndërpre, duke mos më tërhequr vëmendjen time, besimin tim, ndjeva mungesën e sinqeritetit bazë të asaj që kishte thënë. Më bëri të shqetësohesha, sikur e gjithë mbrëmja të kishte qenë një lloj mashtrimi për të marrë një emocion kontribues nga unë. Prita, dhe me siguri mjaftueshëm, në një moment ajo më shikoi me një buzëqeshje absolute në fytyrën e saj të bukur, sikur të kishte pohuar anëtarësimin e saj në një shoqëri sekrete mjaft të shquar, së cilës i përkisnin ajo dhe Tom.
+
+Brenda, dhoma e kuqe e ndezur lulëzoi nga drita. Tom dhe zonjusha Baker u ulën në të dy skajet e divanit të gjatë dhe ajo i lexoi me zë të lartë nga " Saturday Evening Post" - fjalët, të zhurmshme dhe të papërkulura, duke vrapuar së bashku në një melodi qetësuese. Drita e llambës, e ndezur në çizmet e tij dhe e shurdhër në të verdhën e gjetheve të vjeshtës të flokëve të saj, shkëlqente përgjatë letrës ndërsa ajo kthente një faqe me një valëvitje muskujsh të hollë në krahë.
+
+Kur hymë brenda ajo na mbajti në heshtje për një moment me një dorë të ngritur.
+
+"Për të vazhduar," tha ajo, duke hedhur revistën në tryezë, "në numrin tonë të ardhshëm."
+
+Trupi i saj pohoi veten me një lëvizje të shqetësuar të gjurit dhe ajo u ngrit në këmbë.
+
+"Ora dhjetë," tha ajo, me sa duket duke gjetur kohën në tavan. "Është koha që kjo vajzë e mirë të shkojë në shtrat."
+
+"Jordani do të luajë në turne nesër," shpjegoi Daisy, "në Westchester."
+
+"Oh - ti je Jor dan Baker."
+
+Tani e dija pse fytyra e saj ishte e njohur – shprehja e saj e këndshme përçmuese më kishte parë nga shumë foto rotogravure të jetës sportive në Asheville dhe Hot Springs dhe Palm Beach. Kisha dëgjuar edhe një histori të saj, një histori kritike, të pakëndshme, por atë që ishte e kisha harruar shumë kohë më parë.
+
+"Natën e mirë," tha ajo butë. "Më zgjo në tetë, apo jo."
+
+"Nëse do të ngrihesh."
+
+"Unë do. Natën e mirë, zoti Carraway. Shihemi menjëherë."
+
+"Sigurisht që do," konfirmoi Daisy. "Në fakt, unë mendoj se do të organizoj një martesë. Eja shpesh, Nick, dhe unë do t'ju bëj - oh - do t'ju bëj së bashku. E dini - ju mbyll aksidentalisht në dollapët prej liri dhe ju shtyj në det me një varkë, dhe gjithçka tjetër -"
+
+"Natën e mirë," thirri zonjusha Baker nga shkallët. "Nuk kam dëgjuar asnjë fjalë."
+
+"Ajo është një vajzë e bukur," tha Tom pas një momenti. "Ata nuk duhet ta lënë atë të vrapojë nëpër vend në këtë mënyrë."
+
+"Kush nuk duhet të bëjë?" pyeti Daisy ftohtë.
+
+"Familja e saj."
+
+"Familja e saj është një teze rreth një mijë vjeçe. Përveç kësaj, Nick do të kujdeset për të, apo jo, Nick? Ajo do të kalojë shumë fundjavë këtu jashtë këtë verë. Mendoj se ndikimi i shtëpisë do të jetë shumë i mirë për të."
+
+Daisy dhe Tom panë njëri-tjetrin për një moment në heshtje.
+
+"A është ajo nga Nju Jorku?" pyeta shpejt.
+
+"Nga Louisville. Vajza jonë e bardhë kaloi së bashku atje. E bardha jonë e bukur..."
+
+"A i ke dhënë Nick-ut një bisedë zemër për zemër në verandë?" Kërkoi Tom papritmas.
+
+"A e bëra?" Ajo më shikoi. "Më duket se nuk më kujtohet, por mendoj se kemi biseduar për garën nordike. Po, jam i sigurt që e kemi bërë. Na ka prekur disi dhe gjëja e parë që dini..."
+
+"Mos beso gjithçka që dëgjon, Nick," më këshilloi ai.
+
+Thashë lehtë se nuk kisha dëgjuar asgjë dhe pak minuta më vonë u ngrita për të shkuar në shtëpi. Ata erdhën te dera me mua dhe qëndruan krah për krah në një shesh të gëzuar drite. Ndërsa nisa motorin tim, Daisy thirri me forcë: “Prit!
+
+"Kam harruar të të pyes diçka, dhe është e rëndësishme. Kemi dëgjuar se jeni fejuar me një vajzë jashtë West."
+
+"Kjo është e drejtë," konfirmoi Tom me mirësi. “Dëgjuam që jeni fejuar”.
+
+"Është një shpifje. Unë jam shumë i varfër."
+
+"Por ne e dëgjuam", këmbënguli Dejzi, duke më befasuar duke u hapur përsëri në një mënyrë si lule. "Ne e dëgjuam atë nga tre persona, kështu që duhet të jetë e vërtetë."
+
+Sigurisht që e dija se për çfarë po i referoheshin, por nuk isha as i fejuar në mënyrë të paqartë. Fakti që thashethemet kishin botuar ndalesat ishte një nga arsyet pse kisha ardhur në Lindje. Nuk mund të ndalosh së shkuari me një mik të vjetër për shkak të thashethemeve, dhe nga ana tjetër nuk kisha ndërmend të flisja për martesë.
+
+Interesi i tyre më preku më tepër dhe i bëri ata më pak të pasur nga distanca - megjithatë, isha konfuz dhe pak i neveritur ndërsa u largova. Më dukej se gjëja që duhej të bënte Dejzi ishte të dilte me nxitim nga shtëpia, fëmijë në krahë - por me sa duket nuk kishte qëllime të tilla në kokën e saj. Sa për Tomin, fakti që ai "kishte një grua në Nju Jork" ishte me të vërtetë më pak befasues sesa që ai kishte rënë në depresion nga një libër. Diçka po e bënte të pinte buzë ideve bajate, sikur egoizmi i tij i fortë fizik të mos e ushqente më zemrën e tij të patundur.
+
+Tashmë ishte verë e thellë në çatitë e shtëpive dhe përballë garazheve buzë rrugës, ku pompat e reja të kuqe të benzinës uleshin në pellgje drite, dhe kur arrita në pronën time në West Egg, kalova makinën nën kasollen e saj dhe u ula për pak kohë në një rul të braktisur bari në oborr. Era kishte fryrë, duke lënë një natë të zhurmshme, të ndritshme, me krahë që rrihnin nëpër pemë dhe një tingull i vazhdueshëm organesh ndërsa shakulli i plotë i tokës frynte bretkosat plot jetë. Silueta e një maceje që lëvizte tundej nëpër dritën e hënës dhe, duke kthyer kokën për ta parë, pashë se nuk isha vetëm - pesëdhjetë metra larg kishte dalë një figurë nga hija e rezidencës së fqinjit tim dhe po qëndronte me duart në xhepa për specin e argjendtë të yjeve. Diçka në lëvizjet e tij të qeta dhe pozicioni i sigurt i këmbëve të tij në lëndinë sugjeroi se ishte vetë zoti Gatsby, të dilte për të përcaktuar se çfarë pjesë ishte e tij nga qiejt tanë lokalë.
+
+Vendosa t'i telefonoja atij. Zonja Baker e kishte përmendur atë në darkë, dhe kjo do të bënte një hyrje. Por unë nuk e thirra, sepse ai dha një sinjalizim të papritur se ishte i kënaqur që ishte vetëm - ai shtriu krahët drejt ujit të errët në një mënyrë kureshtare dhe, sado që isha larg tij, mund të isha betuar se po dridhej. Padashur hodha një vështrim nga deti - dhe nuk dallova asgjë përveç një drite të vetme jeshile, minutë dhe shumë larg, që mund të kishte qenë fundi i një banke. Kur kërkova edhe një herë për Gatsby, ai ishte zhdukur dhe unë isha përsëri vetëm në errësirën e qetë.
+
+II
+
+Rreth gjysmës së rrugës midis West Egg dhe Nju Jorkut, rruga automobilistike bashkohet me nxitim me hekurudhën dhe shkon pranë saj për një çerek milje, në mënyrë që të tkurret nga një zonë e caktuar e shkretë toke. Kjo është një luginë e hirit - një fermë fantastike ku hiri rritet si gruri në kreshta, kodra dhe kopshte groteske; ku hiri merr trajtat e shtëpive dhe oxhaqeve dhe tymit që ngrihet dhe, së fundi, me një përpjekje të tejskajshme, të njerëzve gri të hirit, të cilët lëvizin të zbehtë dhe tashmë duke u shkërmoqur nëpër ajrin pluhur. Herë pas here, një varg makinash gri zvarritet përgjatë një rruge të padukshme, lëshon një kërcitje të tmerrshme dhe pushon, dhe menjëherë burrat gri të hirit grumbullohen me lopata plumbi dhe nxisin një re të padepërtueshme, e cila fshin veprimet e tyre të errëta nga sytë tuaj.
+
+Por mbi tokën gri dhe spazmat e pluhurit të zymtë që rrjedhin pafund mbi të, ti percepton, pas një çasti, sytë e doktor TJ Eckleburg. Sytë e doktor TJ Eckleburg janë blu dhe gjigantë - retinat e tyre janë një jard të lartë. Ata duken pa fytyrë, por, përkundrazi, nga një palë syze gjigante të verdha që kalojnë mbi një hundë që nuk ekziston. Me sa duket, një lëvizje e egër e një okulisti i vendosi atje për të mandur praktikën e tij në lagjen e Queens, dhe më pas u fundos në verbëri të përjetshme, ose i harroi dhe u largua. Por sytë e tij, të errësuar pak nga shumë ditë pa bojë, nën diell dhe shi, u rritën mbi tokën solemne të hedhjes.
+
+Lugina e hirit kufizohet nga njëra anë nga një lumë i vogël i ndyrë dhe, kur ura lëvizëse është lart për të lejuar maune të kalojnë, pasagjerët në trenat që presin mund të shikojnë skenën e mjerë për deri në gjysmë ore. Atje ka gjithmonë një ndalesë prej të paktën një minutë, dhe ishte për shkak të kësaj që takova për herë të parë zonjën e Tom Buchanan.
+
+Fakti që ai kishte një të tillë, kudo që ai njihej, insistohej. Të njohurit e tij u inatosën për faktin që ai dilte në kafenetë e njohura me të dhe, duke e lënë në një tavolinë, u hodh rreth e qark, duke biseduar me këdo që njihte. Megjithëse isha kurioz ta shihja, nuk kisha dëshirë ta takoja - por e bëra. U ngjita në Nju Jork me Tomin në tren një pasdite, dhe kur u ndalëm pranë grumbujve të hirit, ai u hodh në këmbë dhe, duke më kapur bërrylin, fjalë për fjalë më dëboi me forcë nga makina.
+
+"Ne po zbresim," këmbënguli ai. "Unë dua që ju të takoni vajzën time."
+
+Unë mendoj se ai kishte marrë një marrëveshje të mirë në drekë dhe vendosmëria e tij që shoqëria ime të kufizohej me dhunë. Supozimi i çuditshëm ishte se të dielën pasdite nuk kisha asgjë më të mirë për të bërë.
+
+E ndoqa mbi një gardh të ulët hekurudhor të zbardhur dhe u kthyem njëqind metra mbrapa përgjatë rrugës nën vështrimin këmbëngulës të doktor Ekleburgut. Ndërtesa e vetme në horizont ishte një bllok i vogël me tulla të verdha të ulur në buzë të tokës së shkretë, një lloj Rruga kryesore kompakte që i shërbente asaj dhe e ngjitur me absolutisht asgjë. Një nga tre dyqanet që përmbante ishte me qira dhe një tjetër ishte një restorant gjithë natën, i afruar nga një shteg hiri; e treta ishte një garazh - Riparime. George B. Wilson. Makina të blera dhe të shitura. - dhe unë ndoqa Tomin brenda.
+
+Brendësia nuk ishte e begatë dhe e zhveshur; e vetmja makinë e dukshme ishte rrënoja e një Ford e mbuluar me pluhur, e cila u përkul në një cep të errët. Më kishte shkuar ndërmend se kjo hije e një garazhi duhet të ishte një qorre dhe se apartamentet luksoze dhe romantike ishin fshehur lart, kur vetë pronari u shfaq në derën e një zyre, duke fshirë duart mbi një copë mbeturinë. Ai ishte një burrë biond, pa shpirt, anemik dhe pak i pashëm. Kur na pa në sytë e tij blu të çelur, një shkëlqim i lagësht shprese doli.
+
+"Përshëndetje, Wilson, plak," tha Tom, duke e goditur me gëzim në shpatull. "Si është puna?"
+
+"Nuk mund të ankohem," u përgjigj Wilson në mënyrë jo bindëse. "Kur do të ma shisni atë makinë?"
+
+"Javën e ardhshme; Unë e kam njeriun tim të punojë me të tani."
+
+"Punon shumë ngadalë, apo jo?"
+
+"Jo, ai nuk ka," tha Tom ftohtë. "Dhe nëse ju mendoni kështu për këtë, ndoshta më mirë do ta shes diku tjetër në fund të fundit."
+
+"Nuk dua të them këtë," shpjegoi shpejt Wilson. "Unë thjesht doja..."
+
+Zëri i tij u shua dhe Tom hodhi një vështrim me padurim rreth garazhit. Pastaj dëgjova hapa në një shkallë, dhe në një moment figura e trashë e një gruaje e mbylli dritën nga dera e zyrës. Ajo ishte në mesin e të tridhjetave, dhe pak e fortë, por e mbante mishin e saj në mënyrë sensuale siç munden disa gra. Fytyra e saj, sipër një fustani të njollosur prej krep-de-chine blu të errët, nuk përmbante asnjë aspekt apo shkëlqim bukurie, por kishte një vitalitet të dukshëm tek ajo, sikur nervat e trupit të saj po digjeshin vazhdimisht. Ajo buzëqeshi ngadalë dhe, duke ecur nëpër të shoqin sikur të ishte një fantazmë, shtrëngoi duart me Tomin, duke e parë atë të skuqur në sy. Pastaj lau buzët dhe pa u kthyer i foli të shoqit me një zë të butë e të trashë:
+
+"Merr disa karrige, pse jo, që dikush të ulet."
+
+"Oh, sigurisht," u pajtua me nxitim Wilson dhe shkoi drejt zyrës së vogël, duke u përzier menjëherë me ngjyrën e çimentos të mureve. Një pluhur hiri i bardhë mbuloi kostumin e tij të errët dhe flokët e tij të zbehtë ndërsa mbulonte gjithçka në afërsi - përveç gruas së tij, e cila iu afrua Tomit.
+
+"Dua të të shoh," tha Tom me ngulm. "Hipni në trenin tjetër."
+
+"Në rregull."
+
+"Do t'ju takoj pranë stendës së gazetave në nivelin më të ulët."
+
+Ajo tundi kokën dhe u largua prej tij pikërisht kur George Wilson doli me dy karrige nga dera e zyrës së tij.
+
+Ne e pritëm atë në rrugë dhe jashtë syve. Ishte pak ditë para datës së katër korrikut dhe një fëmijë italian i thinjur e i dobët po vendoste silurët me radhë përgjatë hekurudhës.
+
+"Vend i tmerrshëm, apo jo," tha Tom, duke shkëmbyer një vetullat me doktor Eckleburg.
+
+"E tmerrshme."
+
+"I bën mirë të ikë."
+
+"A nuk e kundërshton burri i saj?"
+
+"Wilson? Ai mendon se ajo shkon për të parë motrën e saj në Nju Jork. Ai është aq memec sa nuk e di se është gjallë."
+
+Kështu, Tom Buchanan dhe vajza e tij dhe unë shkuam së bashku në Nju Jork - ose jo fare bashkë, sepse zonja Wilson u ul në mënyrë diskrete në një makinë tjetër. Tom ia shtyu kaq shumë ndjeshmërisë së atyre East Eggers që mund të ishin në tren.
+
+Ajo e kishte ndryshuar fustanin e saj në një muslin ngjyrë kafe, e cila shtrihej ngushtë mbi ijet e saj mjaft të gjera, ndërsa Tom e ndihmoi të ngjitej në platformë në Nju Jork. Në stendën e gazetave ajo bleu një kopje të Town Tattle dhe një revistë me fotografi lëvizëse, dhe në farmacinë e stacionit pak krem të ftohtë dhe një balonë të vogël parfumi. Në katin e sipërm, në makinën solemne me jehonë ajo la katër taksi të largoheshin përpara se të zgjidhte një të re, ngjyrë livande me tapiceri gri, dhe në këtë ne rrëshqitëm nga masa e stacionit në rrezet e diellit shkëlqyese. Por menjëherë ajo u kthye ashpër nga dritarja dhe, duke u përkulur përpara, trokiti në xhamin e përparmë.
+
+"Unë dua të marr një nga ata qen," tha ajo me zell. "Dua të marr një për apartamentin. Ata janë mirë të kesh - një qen."
+
+Ne u mbështetëm me një plak gri që kishte një ngjashmëri absurde me John D. Rockefeller. Në një shportë të lëkundur nga qafa e tij u strukën një duzinë këlyshësh shumë të fundit të një race të papërcaktuar.
+
+"Çfarë lloji janë ata?" pyeti zonja Wilson me padurim, ndërsa erdhi te dritarja e taksive.
+
+"Të gjitha llojet. Çfarë lloji dëshironi, zonjë?"
+
+"Unë do të doja të merrja një nga ata qentë e policisë; nuk mendoj se e keni atë lloj?"
+
+Burri vështroi me dyshim në shportë, u zhyt në dorë dhe tërhoqi njërën lart, duke u tundur, në pjesën e pasme të qafës.
+
+"Ky nuk është qen policie," tha Tom.
+
+"Jo, nuk është tamam një qen policie," tha burri me zhgënjim në zërin e tij. "Është më shumë një Airedale." Ai e kaloi dorën mbi lavamanin kafe të një shpine. "Shikoni atë pallto. Pak pallto. Ky është një qen që nuk do t'ju shqetësojë kurrë për të ftohur."
+
+"Mendoj se është e lezetshme," tha zonja Wilson me entuziazëm. "Sa është ajo?"
+
+"Ai qen?" Ai e shikoi me admirim. "Ai qen do t'ju kushtojë dhjetë dollarë."
+
+Airedale - padyshim që kishte një Airedale të shqetësuar diku në të, megjithëse këmbët e saj ishin befasuese të bardha - ndërroi duart dhe u ul në prehrin e zonjës Wilson, ku ajo përkëdhelte pallton e papërshkueshme nga moti me ngazëllim.
+
+"A është një djalë apo një vajzë?" pyeti ajo me delikatesë.
+
+"Ai qen? Ai qen është një djalë."
+
+"Është një kurvë," tha Tom me vendosmëri. "Këtu janë paratë tuaja. Shkoni dhe blini dhjetë qen të tjerë me to."
+
+U nisëm me makinë drejt Fifth Avenue, të ngrohtë dhe të butë, pothuajse baritor, pasditen e së dielës së verës. Nuk do të isha çuditur të shihja një tufë të madhe delesh të bardha që ktheheshin nga këndi.
+
+"Prisni," thashë, "duhet të të lë këtu."
+
+"Jo ju nuk bëni," ndërhyri Tom shpejt. "Myrtle do të lëndohet nëse nuk ngjitesh në apartament. A nuk do, Myrtle?"
+
+"Hajde," nxiti ajo. "Do t'i telefonoj motrës time Katerinës. Ajo është thënë se është shumë e bukur nga njerëzit që duhet ta dinë."
+
+"Epo, unë do të doja, por ..."
+
+Ne vazhduam, duke u ulur përsëri mbi Park në drejtim të West Hundreds. Në Rrugën 158, taksi u ndal në një pjesë të një torte të gjatë të bardhë shtëpish apartamentesh. Duke hedhur një vështrim mbretëror për t'u kthyer në shtëpi nëpër lagje, zonja Wilson mblodhi qenin e saj dhe blerjet e tjera të saj dhe hyri me mendjemadhësi.
+
+"Unë do të bëj që McKees të vijnë lart," tha ajo ndërsa u ngritëm në ashensor. "Dhe, sigurisht, unë duhet të telefonoj edhe motrën time."
+
+Apartamenti ishte në katin e fundit - një dhomë e vogël ndenjeje, një dhomë e vogël ngrënieje, një dhomë gjumi e vogël dhe një banjë. Salla e ndenjes ishte e mbushur deri te dyert me një sërë mobiljesh të veshura me sixhade krejtësisht shumë të mëdha për të, kështu që lëvizja do të thoshte të pengoheshe vazhdimisht mbi skenat e zonjave që lëkunden në kopshtet e Versajës. Fotoja e vetme ishte një fotografi tepër e zmadhuar, me sa duket një pulë e ulur në një shkëmb të turbullt. Megjithatë, e pa nga larg, pula u vendos në një mbulesë dhe fytyra e një zonje të vjetër plakë u ndriçua në dhomë. Disa kopje të vjetra të Town Tattle shtriheshin në tavolinë së bashku me një kopje të Simon Called Peter , dhe disa nga revistat e vogla të skandalit të Broadway. Zonja Wilson fillimisht u interesua për qenin. Një djalë ashensor ngurrues shkoi për të marrë një kuti plot me kashtë dhe pak qumësht, së cilës i shtoi me iniciativën e tij një tenxhere me biskota të mëdha e të forta qensh - njëra prej të cilave u dekompozua në mënyrë apatike në tenxhere me qumësht gjatë gjithë pasdites. Ndërkohë Tom nxori një shishe uiski nga një derë e mbyllur zyre.
+
+Unë kam qenë i dehur vetëm dy herë në jetën time, dhe hera e dytë ishte atë pasdite; kështu që gjithçka që ndodhi ka mbi të një derdhje të zbehtë, të mjegulluar, megjithëse deri pas orës tetë apartamenti ishte plot me diell të gëzuar. E ulur në prehrin e Tomit, zonja Wilson thirri disa njerëz në telefon; atëherë nuk kishte cigare dhe unë dola të bleja në farmacinë në qoshe. Kur u ktheva, ata të dy ishin zhdukur, kështu që u ula me maturi në dhomën e ndenjjes dhe lexova një kapitull të Simonit të quajtur Piter – ose ishte gjëra të tmerrshme ose uiski shtrembëronte gjërat, sepse nuk kishte kuptim për mua.
+
+Ashtu si Tom dhe Myrtle (pas pijes së parë zonja Wilson dhe unë e thirrëm njëri-tjetrin me emrat tanë) u rishfaqën, shoqëria filloi të mbërrinte te dera e apartamentit.
+
+Motra, Katerina, ishte një vajzë e hollë, e përbotshme rreth të tridhjetave, me flokë të ngurtë, ngjitës me flokë të kuq dhe një çehre të bardhë qumështi pluhur. Vetullat e saj ishin shkulur dhe më pas ishin tërhequr përsëri në një kënd më të rreptë, por përpjekjet e natyrës për të rivendosur shtrirjen e vjetër i dhanë një ajër të turbullt në fytyrën e saj. Kur ajo lëvizte, kishte një klikim të pandërprerë, ndërsa byzylykët e panumërt prej qeramike i kërcenin lart e poshtë në krahët e saj. Ajo hyri me një nxitim të tillë të pronarit dhe shikoi përreth me aq posesivitet mobiljet saqë pyesja veten nëse ajo jetonte këtu. Por kur e pyeta, ajo qeshi pa masë, përsëriti pyetjen time me zë të lartë dhe më tha se jetonte me një mikeshë në një hotel.
+
+Z. McKee ishte një burrë i zbehtë, femëror nga banesa poshtë. Ai sapo ishte rruar, sepse kishte një njollë të bardhë shkume në mollëzën e tij dhe ai ishte shumë i respektueshëm në përshëndetjen e tij për të gjithë në dhomë. Më njoftoi se ishte në “lojën artistike” dhe më vonë kuptova se ishte fotograf dhe kishte bërë zmadhimin e zbehtë të nënës së zonjës Wilson që rrinte pezull si një ektoplazmë në mur. Gruaja e tij ishte e mprehtë, e ngathët, e pashme dhe e tmerrshme. Ajo më tha me krenari se i shoqi e kishte fotografuar njëqind e njëzet e shtatë herë që kur ishin martuar.
+
+Zonja Wilson e kishte ndërruar kostumin e saj disa kohë më parë dhe tani ishte e veshur me një fustan të përpunuar pasdite me byrynxhyk ngjyrë kremi, i cili lëshonte një shushurimë të vazhdueshme ndërsa ajo fshihej nëpër dhomë. Me ndikimin e veshjes kishte pësuar një ndryshim edhe personaliteti i saj. Vitaliteti intensiv që kishte qenë kaq i jashtëzakonshëm në garazh u shndërrua në një hauteur mbresëlënës. E qeshura e saj, gjestet e saj, pohimet e saj ndikuan më shumë nga momenti në moment dhe ndërsa ajo zgjerohej dhoma zvogëlohej rreth saj, derisa ajo dukej se po rrotullohej në një strumbullar të zhurmshëm dhe kërcitës nëpër ajrin e tymosur.
+
+"E dashura ime," i tha ajo motrës së saj me një britmë të fortë dhe grirë, "shumica e këtyre djemve do të të mashtrojnë çdo herë. Gjithçka që ata mendojnë janë paratë. Kisha një grua këtu javën e kaluar që të më shikonte këmbët dhe kur ajo më dha faturën, menduat se e kishte hequr apendicitin".
+
+"Si ishte emri i gruas?" pyeti zonja McKee.
+
+"Zonja Eberhardt. Ajo shkon vërdallë duke parë këmbët e njerëzve në shtëpitë e tyre."
+
+"Më pëlqen veshja juaj," vuri në dukje zonja McKee, "Unë mendoj se është i adhurueshëm."
+
+Zonja Wilson e hodhi poshtë komplimentin duke ngritur vetullën me përbuzje.
+
+"Është thjesht një gjë e vjetër e çmendur," tha ajo. "Thjesht e rrëshqis atë ndonjëherë kur nuk më intereson se si dukem."
+
+"Por ju duket e mrekullueshme, nëse e dini se çfarë dua të them," ndoqi zonja McKee. "Nëse Chester do të mund të të merrte vetëm në atë pozë, unë mendoj se ai mund të bënte diçka nga kjo."
+
+Të gjithë pamë në heshtje zonjën Wilson, e cila hoqi një fije floku nga sytë e saj dhe na shikoi përsëri me një buzëqeshje brilante. Z. McKee e shikoi me vëmendje me kokën në njërën anë dhe më pas lëvizi dorën përpara dhe mbrapa ngadalë para fytyrës së tij.
+
+"Duhet të ndryshoj dritën," tha ai pas një çasti. "Unë do të doja të nxjerr në pah modelimin e tipareve. Dhe do të përpiqesha të kapja të gjitha flokët e pasme."
+
+"Nuk do të mendoja të ndryshoja dritën," bërtiti zonja McKee. "Unë mendoj se është..."
+
+Burri i saj tha “ Sh! ” dhe të gjithë e shikuam temën përsëri, ku Tom Buchanan zuri gojën dhe u ngrit në këmbë.
+
+"Ju McKees keni diçka për të pirë," tha ai. "Merr edhe pak akull dhe ujë mineral, Myrtle, para se të gjithë të flenë."
+
+"I thashë atij djalit për akullin." Myrtle ngriti vetullat e dëshpëruar nga pandryshueshmëria e urdhrave më të ulët. "Këta njerëz! Duhet t'i mbash pas tyre gjatë gjithë kohës."
+
+Ajo më shikoi dhe qeshi pa kuptim. Pastaj ajo iu afrua qenit, e puthi atë me ekstazë dhe hyri në kuzhinë, duke lënë të kuptohet se një duzinë kuzhinierësh prisnin porositë e saj atje.
+
+"Kam bërë disa gjëra të mira në Long Island," pohoi z. McKee.
+
+Tom e shikoi atë me boshllëk.
+
+"Dy prej tyre i kemi vendosur poshtë."
+
+"Dy çfarë?" kërkoi Tom.
+
+"Dy studime. Njërin prej tyre e quaj Montauk Point-Pulëbardha , dhe tjetrin e quaj Montauk Point-Detin ."
+
+Motra Katerina u ul pranë meje në divan.
+
+"A jetoni edhe ju në Long Island?" pyeti ajo.
+
+"Unë jetoj në West Egg."
+
+"Vërtet? Unë isha atje në një festë rreth një muaj më parë. Në një burrë të quajtur Gatsby. A e njeh atë?"
+
+"Unë jetoj në vendin fqinj me të."
+
+"Epo, ata thonë se ai është nip ose kushëri i Kaiser Wilhelm. Nga i vijnë të gjitha paratë e tij."
+
+"Vërtet?"
+
+Ajo pohoi me kokë.
+
+"Kam frikë prej tij. Unë do të urreja që ai të merrte ndonjë gjë kundër meje."
+
+Ky informacion përthithës për fqinjin tim u ndërpre nga zonja McKee duke treguar papritur Katerinën:
+
+"Chester, mendoj se mund të bësh diçka me të ," shpërtheu ajo, por zoti McKee vetëm tundi kokën në mënyrë të mërzitur dhe e ktheu vëmendjen te Tom.
+
+"Do të doja të bëja më shumë punë në Long Island, nëse mund të merrja hyrjen. Gjithçka që kërkoj është që ata të më japin një fillim."
+
+"Pyet Myrtle," tha Tom, duke thyer në një britmë të shkurtër të qeshura ndërsa zonja Wilson hyri me një tabaka. "Ajo do t'ju japë një letër prezantimi, apo jo, Myrtle?"
+
+"Çfarë të bëj?" pyeti ajo e befasuar.
+
+"Ju do t'i jepni McKee një letër prezantimi për burrin tuaj, në mënyrë që ai të mund të bëjë disa studime për të." Buzët e tij lëvizën në heshtje për një moment ndërsa ai shpiku, ""George B. Wilson në pompën e benzinës", ose diçka e tillë."
+
+Katerina u përkul pranë meje dhe më pëshpëriti në vesh:
+
+"Asnjëri prej tyre nuk mund ta durojë personin me të cilin janë martuar."
+
+"A nuk munden ata?"
+
+"Nuk i duroj dot." Ajo shikoi Myrtle dhe më pas Tom. "Ajo që them është, pse të vazhdoj të jetoj me ta nëse nuk i durojnë dot? Po të isha unë do të divorcohesha dhe do të martohesha me njëri-tjetrin menjëherë."
+
+"A nuk i pëlqen as Wilson?"
+
+Përgjigja për këtë ishte e papritur. Ajo erdhi nga Myrtle, e cila e kishte dëgjuar pyetjen, dhe ishte e dhunshme dhe e turpshme.
+
+"E shihni," thirri Katerina triumfalisht. Ajo uli sërish zërin. "Është me të vërtetë gruaja e tij që po i mban ata të ndarë. Ajo është një katolike dhe ata nuk besojnë në divorc."
+
+Daisy nuk ishte katolike dhe unë u trondita pak nga hollësia e gënjeshtrës.
+
+"Kur të martohen," vazhdoi Katerina, "ata do të shkojnë në Perëndim për të jetuar për një kohë derisa të mbarojë".
+
+“Do të ishte më diskrete të shkoje në Evropë.”
+
+"Oh, a ju pëlqen Evropa?" Bërtiti ajo çuditërisht. “Sapo u ktheva nga Monte Carlo.”
+
+"Vërtet."
+
+"Vetëm vitin e kaluar. Unë shkova atje me një vajzë tjetër."
+
+"Të qëndrosh gjatë?"
+
+"Jo, sapo shkuam në Monte Carlo dhe u kthyem. Shkuam nga Marseja. Kishim mbi njëmbëdhjetëqind dollarë kur filluam, por na u hoqën të gjitha në dy ditë në dhomat private. Kaluam një kohë të tmerrshme duke u kthyer, mund t'ju them. Zot, sa e urreja atë qytet!"
+
+Qielli i vonë i pasdites lulëzoi në dritare për një çast si mjalti blu i Mesdheut - më pas zëri i mprehtë i zonjës McKee më thirri përsëri në dhomë.
+
+"Pothuajse bëra një gabim gjithashtu," deklaroi ajo fuqishëm. "Pothuajse u martova me një kike të vogël që më kishte ndjekur prej vitesh. E dija që ishte poshtë meje. Të gjithë vazhdonin të më thoshin: "Lucille, ai njeri është shumë poshtë teje!" Por nëse nuk do ta kisha takuar Chester-in, ai do të më siguronte.”
+
+"Po, por dëgjo," tha Myrtle Wilson, duke tundur kokën lart e poshtë, "të paktën nuk u martova me të."
+
+"E di që nuk e kam bërë."
+
+"Epo, unë u martova me të," tha Myrtle, në mënyrë të paqartë. "Dhe ky është ndryshimi midis rastit tuaj dhe timin."
+
+"Pse je, Myrtle?" Kërkoi Katerina. "Askush nuk ju detyroi."
+
+Myrtle e konsideroi.
+
+"Unë u martova me të sepse mendova se ai ishte një zotëri," tha ajo më në fund. "Mendova se ai dinte diçka për mbarështimin, por ai nuk ishte i aftë për të lëpirë këpucën time."
+
+"Ti ishe i çmendur pas tij për një kohë," tha Katerina.
+
+"I çmendur pas tij!" Bërtiti Myrtle pa besim. "Kush tha që isha i çmendur pas tij? Unë kurrë nuk kam qenë më i çmendur për të sesa për atë njeri atje."
+
+Ajo më drejtoi papritmas dhe të gjithë më shikuan me akuza. U përpoqa të tregoja me shprehjen time se nuk prisja asnjë dashuri.
+
+"I vetmi i çmendur që isha ishte kur u martova me të. E kuptova menjëherë se bëra një gabim. Ai huazoi kostumin më të mirë të dikujt për t'u martuar dhe asnjëherë nuk më tha për këtë, dhe burri erdhi pas tij një ditë kur doli jashtë: "Oh, ky është kostumi yt?" Unë thashë 'Kjo është hera e parë që kam dëgjuar për të.' Por unë ia dhashë atij dhe më pas u shtriva dhe qava për të rrahur grupin gjithë pasditen.”
+
+"Ajo me të vërtetë duhet të largohet prej tij," rifilloi Katerina për mua. "Ata kanë jetuar mbi atë garazh për njëmbëdhjetë vjet. Dhe Tom është e dashura e parë që ajo ka pasur ndonjëherë."
+
+Shishja e uiskit - një e dytë - ishte tani në kërkesë të vazhdueshme nga të gjithë të pranishmit, me përjashtim të Katerinës, e cila "ndihej po aq mirë për asgjë". Tom i telefonoi portierit dhe e dërgoi për disa sanduiçe të famshëm, të cilët ishin një darkë e plotë në vetvete. Doja të dilja dhe të ecja drejt lindjes në drejtim të parkut përmes muzgut të butë, por sa herë që përpiqesha të shkoja, ngatërrohesha në një grindje të egër e të ashpër që më tërhoqi, si me litarë, në karrigen time. Megjithatë lart mbi qytet, linja jonë e dritareve të verdha duhet t'i ketë kontribuar pjesën e tyre të fshehtësisë njerëzore vëzhguesit të rastësishëm në rrugët që errësoheshin, dhe unë e pashë atë gjithashtu, duke ngritur sytë dhe duke u habitur. Isha brenda dhe jashtë, njëkohësisht i magjepsur dhe i sprapsur nga shumëllojshmëria e pashtershme e jetës.
+
+Myrtle e tërhoqi karrigen e saj afër times dhe papritmas fryma e saj e ngrohtë derdhi mbi mua historinë e takimit të saj të parë me Tomin.
+
+"Ishin dy sediljet e vogla përballë njëra-tjetrës që janë gjithmonë të fundit të mbetura në tren. Unë po ngjitesha në Nju Jork për të parë motrën time dhe për të kaluar natën. Ai kishte veshur një kostum fustani dhe këpucë lëkure të lyera, dhe unë nuk mund t'i mbaja sytë nga ai, por sa herë që ai më shikonte, më duhej të bëja sikur po shikoja këmishën e tij, kur erdhëm në stacionin e tij të bardhë. kundër krahut tim, dhe kështu i thashë se do të më duhej të thërrisja një polic, por ai e dinte që unë gënjeva, saqë kur hipa në një taksi me të, nuk e dija se nuk po hyja në një tren metroje, e vetmja gjë për të cilën vazhdova të mendoja "Ti nuk mund të jetosh përgjithmonë". ”
+
+Ajo u kthye nga zonja McKee dhe dhoma kumbonte plot nga e qeshura e saj artificiale.
+
+"E dashura ime," thirri ajo, "do ta jap këtë fustan sapo ta mbaroj. Duhet të marr një tjetër nesër. Do të bëj një listë të të gjitha gjërave që duhet të marr. Një masazh dhe një valë, dhe një jakë për qenin dhe një nga ato tavëllet e vogla të lezetshme ku prek një supë të zezë me një supë të fundit. Gjatë gjithë verës duhet të shkruaj një listë, në mënyrë që të mos harroj të gjitha gjërat që duhet të bëj.
+
+Ishte ora nëntë - pothuajse menjëherë pas kësaj pashë orën time dhe gjeta se ishte dhjetë. Z. McKee ishte në gjumë në një karrige me grushta të shtrënguar në prehër, si një fotografi e një njeriu të veprimit. Duke nxjerrë shaminë, fshiva nga faqja e tij njollën e shkumës së tharë që më kishte shqetësuar gjatë gjithë pasdites.
+
+Qeni i vogël ishte ulur në tavolinë duke parë me sy të verbër nga tymi dhe herë pas here rënkonte lehtë. Njerëzit u zhdukën, u shfaqën përsëri, bënin plane për të shkuar diku, dhe më pas humbën njëri-tjetrin, kërkuan njëri-tjetrin, e gjetën njëri-tjetrin disa metra larg. Pak kohë pas mesnate Tom Buchanan dhe zonja Wilson qëndruan ballë për ballë duke diskutuar, me zëra të pasionuar, nëse zonja Wilson kishte ndonjë të drejtë të përmendte emrin e Dejsit.
+
+"Daisy! Daisy! Daisy!" bërtiti zonja Wilson. "Do ta them kur të dua! Daisy! Dai..."
+
+Duke bërë një lëvizje të shkurtër të shkathët, Tom Buchanan theu hundën e saj me dorën e tij të hapur.
+
+Pastaj kishte peshqirë të përgjakur në dyshemenë e banjës, zëra grash qortues dhe mbi konfuzion një vajtim i gjatë i thyer dhimbjeje. Z. McKee u zgjua nga gjumi i tij dhe u nis i trullosur drejt derës. Kur kishte shkuar në gjysmë të rrugës, u kthye dhe ia nguli sytë skenës - gruaja e tij dhe Katerina qortonin dhe ngushëllonin ndërsa pengoheshin aty-këtu mes mobiljeve të mbushura me njerëz me sende ndihme dhe figurës së dëshpëruar në divan, gjakderdhje rrjedhshëm dhe duke u përpjekur të përhapte një kopje të Town Tattle mbi skenat e sixhadeve të Versail. Pastaj z. McKee u kthye dhe vazhdoi jashtë derës. Duke marrë kapelën nga llambadari, e ndoqa.
+
+"Ejani një ditë për të ngrënë drekë," sugjeroi ai, ndërsa rënkonim në ashensor.
+
+"Ku?"
+
+"Kudo."
+
+"Mbajini duart nga leva," këputi djali i ashensorit.
+
+"Të kërkoj falje," tha z. McKee me dinjitet, "Unë nuk e dija se po e prekja atë."
+
+"Në rregull," pranova, "do të jem i lumtur."
+
+… Unë po qëndroja pranë shtratit të tij dhe ai ishte ulur mes çarçafëve, i veshur me të brendshme, me një portofol të madh në duar.
+
+“E bukura dhe bisha… Vetmia… Kali i vjetër ushqimor… Ura e Brook’n…”
+
+Pastaj isha i shtrirë gjysmë i fjetur në nivelin e ftohtë të ulët të Stacionit të Pensilvanisë, duke parë Tribunën e mëngjesit dhe duke pritur trenin e orës katër.
+
