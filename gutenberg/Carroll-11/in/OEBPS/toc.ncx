@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/11"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.13.7 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Alice's Adventures in Wonderland</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>Alice’s Adventures in Wonderland</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>THE MILLENNIUM FULCRUM EDITION 3.0</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-0.htm.html#pgepubid00001"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-0.htm.html#pgepubid00002"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>CHAPTER I. Down the Rabbit-Hole</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-1.htm.html#pgepubid00003"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>CHAPTER II. The Pool of Tears</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-2.htm.html#pgepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>CHAPTER III. A Caucus-Race and a Long Tale</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-3.htm.html#pgepubid00005"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>CHAPTER IV. The Rabbit Sends in a Little Bill</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-4.htm.html#pgepubid00006"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>CHAPTER V. Advice from a Caterpillar</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-5.htm.html#pgepubid00007"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>CHAPTER VI. Pig and Pepper</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-6.htm.html#pgepubid00008"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>CHAPTER VII. A Mad Tea-Party</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-7.htm.html#pgepubid00009"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>CHAPTER VIII. The Queen’s Croquet-Ground</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-8.htm.html#pgepubid00010"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>CHAPTER IX. The Mock Turtle’s Story</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-9.htm.html#pgepubid00011"/>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>CHAPTER X. The Lobster Quadrille</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-10.htm.html#pgepubid00012"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>CHAPTER XI. Who Stole the Tarts?</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-11.htm.html#pgepubid00013"/>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>CHAPTER XII. Alice’s Evidence</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-12.htm.html#pgepubid00014"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>THE FULL PROJECT GUTENBERG LICENSE</text>
+      </navLabel>
+      <content src="8860606395858576540_11-h-13.htm.html#pg-footer-heading"/>
+    </navPoint>
+  </navMap>
+</ncx>
